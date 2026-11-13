@@ -1,0 +1,114 @@
+Installer Kits/Bollard Washers/Bollard Washer.dxf
+Installer Kits/Bollard Washers/Bollard Washer.step
+V3.1-release/camera/3d-printed-parts/Cam Housing V2 - Camera Housing.step
+V3.1-release/camera/3d-printed-parts/Cam Housing V2 - Front Lens Clamp Bracket.step
+V3.1-release/camera/3d-printed-parts/Cam Housing V2 - Rear End Cap.step
+V3.1-release/camera/3d-printed-parts/IR LED Window Ring - Lens Grommet.step
+V3.1-release/camera/Cam Housing Glow Up Assembly.step
+V3.1-release/compute-stack/3d-printed-parts/Compute Stack Case - Antenna Box.step
+V3.1-release/compute-stack/3d-printed-parts/Compute Stack Case - Compute Stack Case Base.step
+V3.1-release/compute-stack/3d-printed-parts/Compute Stack Case - Compute Stack Case Top.step
+V3.1-release/compute-stack/3d-printed-parts/Compute Stack Case - Flex PCB Antenna Mount.step
+V3.1-release/compute-stack/Compute Stack Assembly.step
+V3.1-release/sensor-bars/3d-printed-parts/Embedded Cable Clip.step
+V3.1-release/sensor-bars/3d-printed-parts/Jigs/Center Alignment Pitch Mount Jig.step
+V3.1-release/sensor-bars/3d-printed-parts/Jigs/Sensor Bar Pitch and Roll Mount - Set Screw Heat Set Insert Jig (1).step
+V3.1-release/sensor-bars/3d-printed-parts/Jigs/Sensor Cable Length Cut Jig.step
+V3.1-release/sensor-bars/3d-printed-parts/Retro Relflective Rain Cover (Square).step
+V3.1-release/sensor-bars/3d-printed-parts/Sensor Bar Pitch and Roll Mount.step
+V3.1-release/sensor-bars/3d-printed-parts/Sensor Mount - Single (Bidirectional).step
+V3.1-release/sensor-bars/Sensor Bar Assembly V3.1.step
+V3.1-release/sensor-bars/sheet-metal-parts/enclosure-extended/Enclosure Base Mount.step
+V3.1-release/sensor-bars/sheet-metal-parts/enclosure-extended/Enclosure Hood (Extended).step
+V3.1-release/sensor-bars/sheet-metal-parts/enclosure-stock/Enclosure Base Mount.step
+V3.1-release/sensor-bars/sheet-metal-parts/enclosure-stock/Enclosure Hood (Stock).step
+V4-release/X1-release/Bollard IPEX Tube Adapter/Internal Clamp Mount - Coupler Body.step
+V4-release/X1-release/Bollard IPEX Tube Adapter/Internal Clamp Mount - Coupler Clamp A.step
+V4-release/X1-release/Bollard IPEX Tube Adapter/Internal Clamp Mount - Coupler Clamp B.step
+V4-release/X1-release/Bollard IPEX Tube Adapter/Internal Clamp Mount - Coupler Clamp C.step
+V4-release/X1-release/LiDAR Housing/Heatsink Clamp.step
+V4-release/X1-release/LiDAR Housing/Lens Gasket.step
+V4-release/X1-release/LiDAR Housing/Main Housing Mount.step
+V4-release/X1-release/LiDAR Housing/Top Hood.step
+V4-release/X1-release/LiDAR Housing/Tube Clamp Bracket.step
+V4-release/X2-release/Bollard Coupler/Bollard Tab Mount.step
+V4-release/X2-release/Bollard Coupler/Bollard to IPEX Tube Strip.step
+V4-release/X2-release/Bollard Coupler/IPEX Tube Drill Jig.step
+V4-release/X2-release/LiDAR Housing/Heatsink Clamp.step
+V4-release/X2-release/LiDAR Housing/Lens Gasket.step
+V4-release/X2-release/LiDAR Housing/Main Housing Mount.step
+V4-release/X2-release/LiDAR Housing/Top Hood.step
+V4-release/X2-release/LiDAR Housing/Tube Clamp Bracket.step
+V4-release/X3B-release/CAD Files/Bollard Base Coupler.step
+V4-release/X3B-release/CAD Files/Bollard Extension Pipe.step
+V4-release/X3B-release/CAD Files/Coupler PCB Mount and Cable Shield.step
+V4-release/X3B-release/CAD Files/Hummingbird Enclosure X3B - D1R Mount w- Heatsink Clamp.step
+V4-release/X3B-release/CAD Files/Hummingbird Enclosure X3B - Lens Gasket.step
+V4-release/X3B-release/CAD Files/Hummingbird Enclosure X3B - Main Housing Mount.step
+V4-release/X3B-release/CAD Files/Hummingbird Enclosure X3B - Top Hood.3mf
+V4-release/X3B-release/CAD Files/LiDAR Housing Mounting Tube.step
+V4-release/X3B-release/CAD Files/Main X3B ASM.step
+V4-release/X3B-release/eCAD Files/bollard-interposer-pcb.step
+V4-release/X5 Release/3D Printing Plates/X5A LiDAR Gasket - 15 Count.3mf
+V4-release/X5 Release/CAD Files/Internal Coupler ASM.step
+V4-release/X5 Release/CAD Files/LiDAR Enclosure X5 - Main Housing.step
+V4-release/X5 Release/CAD Files/LiDAR Enclosure X5 - Top Hood.step
+V4-release/X5 Release/CAD Files/Vamp Clamp ASM.step
+vπ-release/cameras/bollard-mount-camera/Bambu Print Plates/Camera IR Window Gasket - 36 Count.3mf
+vπ-release/cameras/bollard-mount-camera/Bambu Print Plates/Round Bollard Dual Cam Plate (ASA - 0.4mm).3mf
+vπ-release/cameras/bollard-mount-camera/Bambu Print Plates/Round Bollard Single Cam Plate (ASA - 0.4mm).3mf
+vπ-release/cameras/bollard-mount-camera/CAD Files/Base Pivot Mount.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Dual Camera/Dual Camera Mount Body.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Dual Camera/Dual Lens Mount.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Dual Camera/Dual Lens Panel.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Dual Camera/Lens Window.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/IR LED Window Ring Grommet.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Round Bollard Base.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Single Camera/Lens Window.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Single Camera/Single Camera Mount Body.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Single Camera/Single Lens Mount.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Single Camera/Single Lens Panel.step
+vπ-release/cameras/bollard-mount-camera/CAD Files/Slip ring.step
+vπ-release/cameras/bollard-mount-camera/Documentation/Bollard_Mount_Dual_Camera_Manufacturing_Package.pdf
+vπ-release/cameras/wall-mount-camera/Bambu Print Plates/vπ Wall Mount Dual Camera Set (1x).3mf
+vπ-release/cameras/wall-mount-camera/CAD Files/Dual Camera Mount Body.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Dual Lens Mount.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Single Camera Mount Body.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Single Lens Mount.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Camera Wall Bracket (4).step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Camera Yaw Pitch Mount (2).step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Camera Yaw Pitch Mount (3).step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Top-Bottom Cover.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Wall Cam Base A.step
+vπ-release/cameras/wall-mount-camera/CAD Files/Wall Mount Dual Camera - Wall Cam Base B.step
+vπ-release/compute-stack/Bambu Print Plates/vπ Compute Stack - Antenna Wing Plate (12x).3mf
+vπ-release/compute-stack/Bambu Print Plates/vπ Compute Stack Plate (ASA - 0.4mm Nozzle) (1 Set).3mf
+vπ-release/compute-stack/Bambu Print Plates/vπ Compute Stack Plate (ASA - 0.4mm Nozzle) (4x Sets).3mf
+vπ-release/compute-stack/CAD Files/Antenna Wing Base.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Left Arm V3.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Left Arm V4 .step
+vπ-release/compute-stack/CAD Files/Antenna Wing Left Arm.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Mount V3.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Mount V4.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Right Arm V3.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Right Arm V4.step
+vπ-release/compute-stack/CAD Files/Antenna Wing Right Arm.step
+vπ-release/compute-stack/CAD Files/Display Bracket.step
+vπ-release/compute-stack/CAD Files/Front Cover Plate.step
+vπ-release/compute-stack/CAD Files/Main Case Body.step
+vπ-release/compute-stack/Documentation/vπ Compute Stack 2a2dcb3d06b28056be62fa9b1aa03f2d.pdf
+vπ-release/sensor-bars/Bambu Print Plates/Dual Retro Reflective Rain Cover Combo - Mounting Holes.3mf
+vπ-release/sensor-bars/Bambu Print Plates/vπ Sensor Bar Plate (ASA - 0.4mm Nozzle) (1 Set).3mf
+vπ-release/sensor-bars/Bambu Print Plates/vπ Sensor Bar Plate (ASA - 0.4mm Nozzle) (4 Sets).3mf
+vπ-release/sensor-bars/Bambu Print Plates/vπ Sensor Bar Plate - No Reflectors (ASA - 0.4mm Nozzle) (4 Sets).3mf
+vπ-release/sensor-bars/CAD Files/Base Mount.step
+vπ-release/sensor-bars/CAD Files/Dual Retro Reflective Rain Cover (Mounting Holes).step
+vπ-release/sensor-bars/CAD Files/Dual Retro Reflective Rain Cover (Round & Flat).step
+vπ-release/sensor-bars/CAD Files/Sensor Bar Pitch and Roll Mount.step
+vπ-release/sensor-bars/CAD Files/Sensor Mount A.step
+vπ-release/sensor-bars/CAD Files/Sensor Mount B.step
+vπ-release/sensor-bars/CAD Files/Tuning Fork Mount.step
+vπ-release/sensor-bars/Documentation/vπ Sensor Bar Documentation.pdf
+vπ-release/sensor-enclosure/CAD Files/Enclosure Base V5.step
+vπ-release/sensor-enclosure/CAD Files/Front Enclosure Hood V5.step
+vπ-release/sensor-enclosure/CAD Files/Rear Enclosure Hood V5.step
