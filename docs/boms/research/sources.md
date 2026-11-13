@@ -132,3 +132,7 @@
 - Ramp `ramp_search_bills` (6 payees), `ramp_get_bill_details` and `ramp_get_bill_invoices` for 14 bills — read 2026-11-13
 - Ramp `ramp_search_purchase_orders`, `ramp_search_unified_requests`, `ramp_list_unmatched_receipts` — read 2026-11-13
 - Ramp `ramp_get_full_transaction_metadata` 3ce938db and `ramp_search_receipts` "Digi-Key" (shape checks only) — read 2026-11-13
+- Ramp `ramp_get_receipt_details` for 18 reimbursement receipts dated 2026-05-13 onward — read 2026-11-13
+- Ramp `ramp_search_receipts` "Osh Stencils" (OCR of receipt b17a0113) — read 2026-11-13
+- Bill invoice PDFs for INV2621, INV2209, INV1104, INV1103 (Eagle Wireless), 10628199 (PTC), D265070387 (Quectel), INV/2026/00065 and S00701 and PO-FIXTURFAB-001 (FixturFab), via pdftotext — read 2026-11-13
+- Home Depot receipt image, reimbursement 9626d9ce (receipt 52e8cf45) — read 2026-11-13

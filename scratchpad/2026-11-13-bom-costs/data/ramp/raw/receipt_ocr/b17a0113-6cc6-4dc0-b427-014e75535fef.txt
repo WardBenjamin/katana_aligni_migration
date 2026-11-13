@@ -1,0 +1,19 @@
+# ocr_excerpt from ramp_search_receipts (keywords Osh Stencils; received 2026-05-20..2026-06-10), pulled 2026-11-13T05:0xZ
+# receipt b17a0113-6cc6-4dc0-b427-014e75535fef, transaction 283a5ee0-ae42-4961-b1de-5d17b65154ef
+Order ID: OSA9671EF-31259
+Order Date: 05-27-2026
+Price: $278.65
+Item SKU: STENCIL-FR14S4MIL
+Project Name: modem_bridge_x3_stencil_b_mask
+Layer: Bottom Stencil
+Item Description: SS Framed 14x14 Slim 4mil (0.004")
+Item SKU: RUSH
+Item Description: Rush Processing (Same Day Shipping)
+Item SKU: DONATION
+Item Description: Donation
+Item SKU: SPREADER
+Item Description: 30mil Plastic Solder Paste Spreader
+Item SKU: STICKER
+Item Description: 3x1" Rounded Corner OSH Stencils Sticker
+Shipping Method: FedEx Priority Overnight
+(Shipping address: ByTechs, Williston SC. Email gives only the order total; per-item prices are in the PDF invoice on oshstencils.com.)
