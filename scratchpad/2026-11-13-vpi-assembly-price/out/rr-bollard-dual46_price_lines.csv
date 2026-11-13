@@ -1,0 +1,143 @@
+Config Line,Kind,Part Number,Part Name,Extended Quantity,Each Cost,Extended Cost,Status,Price Date UTC,Vendor,Purchased Quantity,Units Per Pack,Purchase Lines,Flag,Source
+AG-CS3-Kit,labour,AG-CS3-001-000,Labour: vπ Compute Stack,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-001_CaseBody,vπ Case Body,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-002_Faceplate,vπ Case Faceplate,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-003_WingBase,vπ Antenna Wing - Base,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-004_WingLeft,vπ Antenna Wing - Left,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-005_WingRight,vπ Antenna Wing - Right,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-006_PDisp,vπ Display Bracket,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-007_PowerCab,2x JST-XA to Ferrule cable,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-008_GPIOSpacer,GPIO Spacer (3D printed),1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-001-009_SWDWire,Party HAT to Watchdog HAT Wire,1,,,none,,,,,0,,
+AG-CS3-Kit,labour,AG-CS3-002-000_PartyHAT,Labour: Party HAT PCBA,1,17.1900,17.19,stale purchase,2025-06-04,Bytechs,50.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e233e3d5-b994-43ac-8cb7-f3a53a615ea7
+AG-CS3-Kit,part,AG-CS3-002-001_PCB,Party HAT bare PCB,1,,,none,,,,,0,,
+AG-CS3-Kit,labour,AG-CS3-003-000_USBBridge,Labour: USB-A (HAT) Bridge PCBA,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-003-001_PCB,USB-A Bridge bare PCB,1,,,none,,,,,0,,
+AG-CS3-Kit,labour,AG-CS3-004-000_ModemBridge,Labour: Modem Bridge PCBA,1,,,none,,,,,0,,
+AG-CS3-Kit,part,AG-CS3-004-001_PCB,Modem Bridge bare PCB (flex),1,,,none,,,,,0,,
+AG-CS3-Kit,labour,AG-CS3-Kit,Labour: vπ Compute Stack Kit,1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-1168-TG-A1250-15-15-1.0-ND,Thermal Pad — for the vπ USB port header (prevents SWDv9 button short),1,0.5322,0.53,purchase,2026-10-12,Digi-Key,260.0,1.0,2,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-1217AS-H-150M-P3,15u Inductor (L_8.0x8.0_H4.5),1,0.4893,0.49,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-14657,0.91” OLED Display,1,6.8495,6.85,purchase,2026-09-30,Paypal,100.0,1.0,5,,https://app.ramp.com/business-overview/transactions/155f974c-f409-4b70-b083-8783c2da3a5a
+AG-CS3-Kit,part,EXT-2073-05-12-A-0030-A-4-06-4-T-ND,12pos 0.5mm 1.18” FFC,1,0.9790,0.98,purchase,2026-05-15,Digi-Key,150.0,1.0,1,,https://app.ramp.com/business-overview/transactions/304742e7-3516-4371-bd37-55b2fa983c1f
+AG-CS3-Kit,part,EXT-5623,JST-PH 4-Pin Cable (for OLED to PartyHAT connection),1,1.9395,1.94,purchase,2026-10-12,Pololu Corporation,100.0,1.0,4,,https://app.ramp.com/business-overview/transactions/dd1f0fe1-969f-42db-84d7-fcef0df3cee4
+AG-CS3-Kit,part,EXT-732-10422-ND,M2.5 16mm M-F Standoff,2,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-732-12917-ND,M2.5 10mm M-F Standoff,2,0.6388,1.28,stale purchase,2025-04-25,Digi-Key,200.0,1.0,1,,https://app.ramp.com/business-overview/transactions/9f3a847f-a06e-4ad2-b58f-e572289398f9
+AG-CS3-Kit,part,EXT-87180-066LF,"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25 (RJ12_Amphenol_54601-x06_Horizontal)",1,1.5353,1.54,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-90593A024,"Black-Oxide Medium-Strength Steel Hex Nut, ISO Class 8, M2 x 0.4 mm Thread Size",1,0.1766,0.18,purchase,2026-06-03,McMaster-Carr,3.0,50.0,1,,https://app.ramp.com/business-overview/transactions/7a22093b-f839-4a77-be22-c55dd50ac58a
+AG-CS3-Kit,part,EXT-91290A049,"Black-Oxide Alloy Steel Socket Head Screw, M2 x 0.4 mm Thread Size, 20 mm Long",1,0.1992,0.20,purchase,2026-06-03,McMaster-Carr,2.0,100.0,1,,https://app.ramp.com/business-overview/transactions/7a22093b-f839-4a77-be22-c55dd50ac58a
+AG-CS3-Kit,part,EXT-91292A009,M2.5 5mm Socket Head Screw,6,0.0814,0.49,purchase,2026-10-24,McMaster-Carr,15.0,100.0,2,,https://app.ramp.com/business-overview/transactions/223cf3ed-2b23-46cf-9aae-351abf688e34
+AG-CS3-Kit,part,EXT-91292A837,M2.5 40mm Socket Head Screw,2,0.2420,0.48,purchase,2026-10-24,McMaster-Carr,10.0,50.0,3,,https://app.ramp.com/business-overview/transactions/223cf3ed-2b23-46cf-9aae-351abf688e34
+AG-CS3-Kit,part,EXT-952-3964-ND,M2.5 14mm F-F Standoff,4,0.4282,1.71,purchase,2026-06-02,Digi-Key,500.0,1.0,1,,https://app.ramp.com/business-overview/transactions/828f96e7-29cc-4e5f-b794-d837a59fcb1f
+AG-CS3-Kit,part,EXT-95893A189,M3x8mm Thread Forming Screw,2,0.1305,0.26,stale purchase,2026-04-10,McMaster-Carr,3.0,100.0,2,,https://app.ramp.com/business-overview/transactions/e04d3aa4-e950-46c0-80f9-4dc93281c118
+AG-CS3-Kit,part,EXT-ACS37041KLHBLT-010B3,"ACS37041 ±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, CB-5 PFF (Allegro_LH_SOT-23W-5)",4,1.0692,4.28,purchase,2026-10-12,Mouser Electronics,214.0,1.0,1,,https://app.ramp.com/business-overview/transactions/2ec6ce98-4f5d-4bb3-9438-0e6d0d89f315
+AG-CS3-Kit,part,EXT-ADS1015IDGSR,"ADS1015IDGS Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10 (TSSOP-10_3x3mm_P0.5mm)",2,2.3428,4.69,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-B4B-PH-K,"OLED Generic connector, single row, 01x04, script generated (JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical)",1,0.1419,0.14,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-BSS138PS-115,"BSS138PS,115 Dual NMOS transistor, 6 pin package (SOT-363_SC-70-6_Handsoldering)",2,0.0897,0.18,purchase,2026-10-12,Mouser Electronics,3000.0,1.0,1,,https://app.ramp.com/business-overview/transactions/2ec6ce98-4f5d-4bb3-9438-0e6d0d89f315
+AG-CS3-Kit,part,EXT-C2012X5R1V226M125AC,22u Unpolarized capacitor (C_0805_2012Metric),2,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-CC0603KRX7R8BB334,330n Unpolarized capacitor (C_0603_1608Metric),1,0.1312,0.13,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-CL10B103KB8NNNC,"10n Unpolarized capacitor, small symbol (C_0603_1608Metric)",7,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-CL10B104KB8NFNC,"100n Unpolarized capacitor, small symbol (C_0603_1608Metric)",9,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-CL10C680JB8NNNC,"68p Unpolarized capacitor, small symbol (C_0603_1608Metric)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-CL21A226MAYNNNE,22u Unpolarized capacitor (C_0805_2012Metric),3,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-FFC2B28-12-G,"USB_Pi Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/) (GCT_FFC2B28-12-G)",1,0.2945,0.29,purchase,2026-10-12,Digi-Key,260.0,1.0,2,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-G3-F,Hologram SIM Card,1,2.1100,2.11,stale purchase record,2026-04-25,,,,0,100 SIM cards for $211.00 per the record memo; receipt not itemized,https://app.ramp.com/business-overview/transactions/e0673127-67b6-4f61-b05d-838bc16c0b42
+AG-CS3-Kit,part,EXT-I425-GL,LTE Modem (I425-GL) — Eagle Wireless (2026),1,35.0000,35.00,purchase,2026-11-06,"Eagle Wireless Holdings, Inc.",100.0,1.0,4,,https://app.ramp.com/s/bill-pay/bills/01218014-6950-4aec-93eb-cc6ba5243e3d
+AG-CS3-Kit,part,EXT-INR-18650-P30B,Molicel P30B 18650 Battery,2,4.6345,9.27,stale purchase,2025-09-17,18650 Battery Store,20.0,1.0,1,,https://app.ramp.com/business-overview/transactions/1cd1f7c5-6e13-4c79-893c-c2f6a604916f
+AG-CS3-Kit,part,EXT-L6R36-120,12V/36W Power Supply,1,15.0914,15.09,purchase,2026-10-28,Digi-Key,25.0,1.0,4,,https://app.ramp.com/business-overview/transactions/c31ce24b-a2f2-4dcc-be5d-fd22e92d63a4
+AG-CS3-Kit,part,EXT-L78L33ABUTR,"L78L33ABUTR Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89 (SOT-89-3)",1,0.1820,0.18,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-LTST-C190AKT,OG Light emitting diode (D_0603_1608Metric),2,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-LTST-C190GKT,GN Light emitting diode (D_0603_1608Metric),2,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-MB-MJ256KA/AM,Samsung PRO Endurance microSDXC 256GB w/ Adapter,1,114.3600,114.36,small-lot purchase,2026-06-21,Amazon,2.0,1.0,16,,https://app.ramp.com/business-overview/transactions/096ea8fe-3ada-4296-a50a-050d9681ed52
+AG-CS3-Kit,part,EXT-P0101E,3ft Barrel Jack Extension Cable,1,0.7998,0.80,purchase,2026-10-28,Digi-Key,25.0,1.0,4,,https://app.ramp.com/business-overview/transactions/c31ce24b-a2f2-4dcc-be5d-fd22e92d63a4
+AG-CS3-Kit,part,EXT-PJ-063AH,PJ-063AH DC Barrel Jack with a mounting pin (BarrelJack_CUI_PJ-063AH_Horizontal),1,1.0999,1.10,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-RMCF0603FT100K,"100k Resistor, small US symbol (R_0603_1608Metric)",9,0.0071,0.06,stale purchase,2025-12-10,Digi-Key,100.0,1.0,4,matched by description,https://app.ramp.com/business-overview/transactions/a4969771-e3f4-4566-b1b3-87d93d2c9960
+AG-CS3-Kit,part,EXT-RMCF0603FT12K4,"12.4k Resistor, small US symbol (R_0603_1608Metric)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT1K00,"1k Resistor, US symbol (R_0603_1608Metric)",5,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT1M00,"1M Resistor, small US symbol (R_0603_1608Metric)",6,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT4K70,"4.7k Resistor, small US symbol (R_0603_1608Metric)",4,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT510K,"510k Resistor, small US symbol (R_0603_1608Metric)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT5K10,"5.1k Resistor, US symbol (R_0603_1608Metric)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-RMCF0603FT680R,"680 Resistor, US symbol (R_0603_1608Metric)",2,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-S02B-XASS-1,"PWR_OUT Generic connector, single row, 01x02, script generated (JST_XA_S02B-XASK-1_1x02_P2.50mm_Horizontal)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-SC1113,Raspberry Pi 5 16GB,1,120.5523,120.55,stale purchase,2025-04-22,MakerBright,40.0,1.0,3,,https://app.ramp.com/business-overview/transactions/9be87e89-4262-46e4-b0cd-84e9fc79600d
+AG-CS3-Kit,part,EXT-SC1148,Raspberry Pi 5 Active Cooler,1,5.6219,5.62,stale purchase,2025-04-23,Digi-Key,80.0,1.0,2,,https://app.ramp.com/business-overview/transactions/2952d729-5570-463b-af69-250c7f3e34a6
+AG-CS3-Kit,part,EXT-SM-I-003,Super Watchdog HAT v9 with Battery Backup for Raspberry Pi,1,45.2026,45.20,purchase,2026-06-22,Sequent Microsystems,50.0,1.0,3,,https://app.ramp.com/business-overview/transactions/25d1ce03-1179-4eb2-a775-9fbc3853eb5f
+AG-CS3-Kit,part,EXT-SMF24A,SMF24A Zener diode (D_SOD-123F),5,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-SRFL029,Antenova LTE + Cellular Antenna,1,3.7620,3.76,stale purchase,2026-01-02,Mouser Electronics,125.0,1.0,1,,https://app.ramp.com/business-overview/transactions/a73562d7-513a-4e5f-bb53-8125a8d7de3c
+AG-CS3-Kit,part,EXT-SSM-120-L-DV-BE-LC,"Pi GPIO Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/) (Samtec_HLE-120-02-xxx-DV-BE-LC_2x20_P2.54mm_Horizontal)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-SixFabLTEHAT,Sixfab 3G–4G/LTE Base HAT for Raspberry Pi,1,45.2024,45.20,purchase,2026-06-11,Sixfab,84.0,1.0,3,,https://app.ramp.com/business-overview/transactions/05bd7303-8e54-4072-a7cf-b10d18639092
+AG-CS3-Kit,part,EXT-TBD-hat-usb-bridge-J2,"Conn_01x12_MountingPin Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/) (GCT_FFC2B28-12-G)",1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-TBD-modem-bridge-P5,USB_B_Micro USB Micro Type B connector (USB_Micro-B_GCT_USB3150-30-130-A_GCC),1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-TBD-modem-bridge-P6,USB_C_Plug_USB2.0 USB 2.0-only Type-C Plug connector (USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical),1,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-TCMT4106,"TCMT4100 Quad Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS), SOP-16 (SOP-16_4.4x10.4mm_P1.27mm)",1,1.0652,1.07,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-TPS54202HDDCR,"TPS54202HDDCR 2A, 4.5 to 28V Input, integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6 (SOT-23-6)",1,0.8774,0.88,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-USB-3.0AM-01-D,USB3_A USB 3.0 A connector (USB3_A_Plug_XiamenJinbelli_USB-3.0AM-01-D_Vertical),3,,,none,,,,,0,,
+AG-CS3-Kit,part,EXT-USB1035-GF-P-0-B-B,"USB_CAMs USB Type A connector, stacked (USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked)",1,0.4349,0.43,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-USB4110-GF-A,USB_SixFab USB 2.0-only 16P Type-C Receptacle connector (USB_C_Receptacle_GCT_USB4110),1,0.8574,0.86,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-UWT1V101MCL1GS,"100u Polarized capacitor, US symbol (CP_Elec_6.3x5.7)",1,0.2159,0.22,purchase,2026-10-12,Digi-Key,520.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-CS3-Kit,part,EXT-W3906XXXX,Pulse Electronics LTE + GPS Antenna,1,5.5411,5.54,stale purchase,2026-01-02,Mouser Electronics,125.0,1.0,1,,https://app.ramp.com/business-overview/transactions/a73562d7-513a-4e5f-bb53-8125a8d7de3c
+AG-Dual46-RoundBollard-Kit,labour,AG-Dual46-RoundBollard-Kit,Labour: vπ Round Bollard Dual Cam Kit — 4mm + 6mm,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,labour,AG-PIC-001-000_Dual46,Labour: vπ Dual Camera Module — 4mm + 6mm,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-001_DMainBody,Dual Camera Mount Body,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-002_InnerWindow,Inner Lens Window,2,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-003_DualWindow,Dual Lens Window,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-004_LensGrom,Lens Grommet,2,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-005_DualWinMount,Dual Lens Window Mount,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-006_ELPCamUSB,ELP Camera USB Cable (5m),2,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-007_ELPCam4,ELP Camera — 4mm focal length,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-008_ELPCam6,ELP Camera — 6mm focal length,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,labour,AG-PIC-003-000,Labour: vπ Round Bollard Mount,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-003-001_RoundBase,Round Bollard Base Mount,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-003-002_PivotMount,Base Pivot Mount,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-003-003_SlipRing,Slip Ring,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,EXT-95893A189,M3x8mm Thread Forming Screw,6,0.1305,0.78,stale purchase,2026-04-10,McMaster-Carr,3.0,100.0,2,,https://app.ramp.com/business-overview/transactions/e04d3aa4-e950-46c0-80f9-4dc93281c118
+AG-Dual46-RoundBollard-Kit,part,EXT-95893A197,M3x30mm Thread Forming Screw,12,0.3798,4.56,stale purchase,2026-04-10,McMaster-Carr,20.0,25.0,2,BOM lists 95893A197; the M3 x 30 mm screw bought is 95893A198,https://app.ramp.com/business-overview/transactions/e04d3aa4-e950-46c0-80f9-4dc93281c118
+AG-IP-RRBM-DC-Kit,labour,AG-IP-001-000,Labour: Install Pack Base Set,1,,,none,,,,,0,,
+AG-IP-RRBM-DC-Kit,part,AG-IP-001-001_Washer,Bollard Washer (custom),12,1.7271,20.73,purchase,2026-07-16,SendCutSend,500.0,1.0,3,,https://app.ramp.com/business-overview/transactions/d69ed70d-ae1a-4ad6-9cbf-0c19ee6bfa40
+AG-IP-RRBM-DC-Kit,labour,AG-IP-002-000,Labour: Install Pack Add-on: RR Bollard Mount,1,,,none,,,,,0,,
+AG-IP-RRBM-DC-Kit,labour,AG-IP-RRBM-DC-Kit,Labour: Install Pack: Retro Reflective - Bollard Mount - Dual Camera,1,,,none,,,,,0,,
+AG-IP-RRBM-DC-Kit,part,EXT-277009,IPEX Junction Box 12x12x6in,1,68.0400,68.04,stale purchase,2026-04-08,Gordon Electric Supply,150.0,1.0,2,,https://app.ramp.com/business-overview/transactions/ecaf02ea-184b-4fbe-bed6-cf321b86ca6e
+AG-IP-RRBM-DC-Kit,part,EXT-4680DBLKHC,Enclosure Padlock (Master Lock TSA combo),3,,,none,,,,,0,,
+AG-IP-RRBM-DC-Kit,part,EXT-6132-BA-10,Super 33+ Electrical Tape,1,4.5410,4.54,purchase,2026-10-13,Amazon,2.0,10.0,6,assumes one roll per install pack,https://app.ramp.com/business-overview/transactions/1ea1fb1f-1ea8-457c-a7c2-24ff5f4c1c3c
+AG-IP-RRBM-DC-Kit,part,EXT-652SRT,Topaz 3/4in Raintight Compression Connector,6,1.8144,10.89,stale purchase,2026-04-09,Gordon Electric Supply,900.0,1.0,1,,https://app.ramp.com/business-overview/transactions/969d8eff-0a85-4eec-a01e-4a70ab1d6205
+AG-IP-RRBM-DC-Kit,part,EXT-B000W38PHU,3/4in One-Hole Conduit Strap,10,0.2138,2.14,purchase,2026-06-23,Amazon,5.0,100.0,2,"ASIN not on the receipt; record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/a532c0f6-11f4-4377-b2a1-212f8f06fa59
+AG-IP-RRBM-DC-Kit,part,EXT-B00IQCHZS4,"Lexel Adhesive, clear",1,7.4575,7.46,purchase,2026-07-16,Amazon,3.0,12.0,4,ASIN not on the receipt; assumes one 5 oz tube per pack,https://app.ramp.com/business-overview/transactions/937afe23-475f-4f3d-ba6f-692c9a598989
+AG-IP-RRBM-DC-Kit,part,EXT-B07NWC11T6,13 gal Trash Bag,1,,,none,,,,,0,,
+AG-IP-RRBM-DC-Kit,part,EXT-B0FSRN2719,Microfiber Cloth,1,0.1865,0.19,purchase,2026-10-10,Amazon,1.0,150.0,1,"ASIN not on the receipt; record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/1b50dece-6e12-45b1-a18f-da99e7c3d5cd
+AG-IP-RRBM-DC-Kit,part,EXT-GOJ902712,"Alcohol Wipes (Purell, 120 ct)",2,0.1788,0.36,purchase,2026-11-12,Amazon,1.0,120.0,1,"assumes 2 single wipes per install pack, not 2 boxes of 120; confirm with ByTechs",https://app.ramp.com/business-overview/transactions/c830370a-3013-40bf-9264-e1142388ac8a
+AG-IP-RRBM-DC-Kit,part,EXT-TBD-TAPCON-025X125-SS,"Tapcon 1/4 x 1-1/4in, 410 stainless, hex",20,0.7949,15.90,purchase,2026-07-16,Fasteners Plus,10.0,100.0,4,,https://app.ramp.com/business-overview/transactions/ddcdbe61-521f-42b3-be4b-f64caf81b533
+AG-IP-RRBM-DC-Kit,part,EXT-TBD-TAPCON-LDT-0625X3,"Tapcon LDT 5/8 x 3in, zinc",12,2.3047,27.66,purchase,2026-07-16,Fasteners Plus,20.0,25.0,4,BOM says Tapcon LDT 5/8 x 3in; the anchors bought are Strong-Tie Titen HD 1/2 x 3in,https://app.ramp.com/business-overview/transactions/ddcdbe61-521f-42b3-be4b-f64caf81b533
+AG-SEN2-003-001_EnclosureBase,part,AG-SEN2-003-001_EnclosureBase,SENSOR ENCLOSURE BASE V5,1,,,none,,,,,0,,
+AG-SEN2-003-002_EnclosureTop,part,AG-SEN2-003-002_EnclosureTop,SENSOR ENCLOSURE ASSY V5 CARDINAL ORANGE T009-OG26,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,labour,AG-SEN2-001-000,Labour: vπ Sensor Bar,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-001-003_SenMntR,Sensor Mount Right Plastic,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-001-004_SenMntL,Sensor Mount Left Plastic,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-001-005_BaseMnt,Base Mount Plastic,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-001-006_PitchRoll,Pitch Roll Mount Plastic,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-001-007_RollMnt,Roll Mount Plastic,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,labour,AG-SEN2-002-000,Labour: vπ Sensor Retroreflector,2,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,AG-SEN2-002-001_DualRRCov,Dual Retro Reflective Rain Cover (Round & Flat),2,,,none,,,,,0,,
+AG-SEN2-RR-Kit,labour,AG-SEN2-004-000_Breakout,Labour: Sensor Bar I/O Breakout PCBA,1,7.7600,7.76,stale purchase,2025-06-04,Bytechs,80.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e233e3d5-b994-43ac-8cb7-f3a53a615ea7
+AG-SEN2-RR-Kit,part,AG-SEN2-004-001_PCB,Sensor Bar I/O Breakout bare PCB,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,labour,AG-SEN2-RR-Kit,Labour: vπ RR Sensor Bar Kit,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,EXT-1190298,"SENS_A Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/) (PhoenixContact_SPT_2.5_3-H-5.0_1x03_P5.0mm_Horizontal)",2,1.5054,3.01,purchase,2026-05-15,Digi-Key,200.0,1.0,1,,https://app.ramp.com/business-overview/transactions/62808df0-aa9e-4d5c-9503-42550e06eabe
+AG-SEN2-RR-Kit,part,EXT-22AWGFERRULE,22AWG Ferrules,6,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,EXT-27PIF0089,Enclosure Peg (nylon pin),4,0.1261,0.50,purchase,2026-05-29,Mouser Electronics,500.0,1.0,1,,https://app.ramp.com/business-overview/transactions/6c0d64c8-3041-446d-8a4f-c77455fffaa1
+AG-SEN2-RR-Kit,part,EXT-92095A181,M3x8mm Button Head Screw,4,0.1211,0.48,purchase,2026-05-16,McMaster-Carr,5.0,100.0,2,,https://app.ramp.com/business-overview/transactions/285533a8-062c-4e05-82e2-ff008cef1e9c
+AG-SEN2-RR-Kit,part,EXT-92095A210,M5x12mm Button Head Screw,1,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,EXT-B07H18YDYB,M5x8mm Button Head Screw,12,0.0878,1.05,purchase,2026-10-17,Amazon,3.0,100.0,3,ASIN not on the receipt,https://app.ramp.com/business-overview/transactions/bcbd77da-8e19-457f-93c0-407b3adf37d9
+AG-SEN2-RR-Kit,part,EXT-B0BZKG6DBZ,M5 T-nut w/ Ball Spring,4,0.0696,0.28,stale purchase,2026-04-11,Amazon,12.0,100.0,2,ASIN not on the receipt; BOM name says with ball spring,https://app.ramp.com/business-overview/transactions/2d59ed8e-6906-48a4-a7f1-50b40ee6807c
+AG-SEN2-RR-Kit,part,EXT-B0C52TVDGW,"M6 x 1.0 Nylock, stainless",2,0.0788,0.16,purchase,2026-07-17,Amazon,2.0,100.0,3,"ASIN not on the receipt; record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/678d3b6e-4a8d-4ca4-bc8d-90e93c16c9d6
+AG-SEN2-RR-Kit,part,EXT-B0CTCQN775,M5x4mm Heat set insert,5,0.1402,0.70,stale purchase,2026-05-02,Amazon,20.0,50.0,1,ASIN not on the receipt,https://app.ramp.com/business-overview/transactions/b74dc29d-5433-4366-a7fa-23c98a8ff2b4
+AG-SEN2-RR-Kit,part,EXT-E39-R1S,Omron E39-R1S Retroreflector,4,20.9704,83.88,stale purchase,2026-01-16,Powermatic,200.0,1.0,2,,https://app.ramp.com/s/bill-pay/bills/0e46bef4-515c-4a14-897d-eaa7e3231e99
+AG-SEN2-RR-Kit,part,EXT-E3Z-R61,E3Z-R61,2,128.3863,256.77,stale purchase,2026-01-16,Powermatic,200.0,1.0,2,,https://app.ramp.com/s/bill-pay/bills/0e46bef4-515c-4a14-897d-eaa7e3231e99
+AG-SEN2-RR-Kit,part,EXT-HFSB5-2020-270-TPW,2020 Sensor Mount Bar,1,11.3386,11.34,stale purchase,2026-04-10,MISUMI USA,150.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e8898c74-bfc9-4931-964b-9d8051f48638
+AG-SEN2-RR-Kit,part,EXT-HFSB5-2020-455-TPW,"2020 Sensor Mount Bar Configuration as follows: Anodized black, M5 tapped ends, cut to length spec’d (455mm here)",1,13.9569,13.96,stale purchase,2026-04-10,MISUMI USA,150.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e8898c74-bfc9-4931-964b-9d8051f48638
+AG-SEN2-RR-Kit,part,EXT-OLKOS75-100,"3/4in Snap-in Knockout Seal, zinc-plated steel (enclosure cap)",2,0.3999,0.80,purchase,2026-07-17,Amazon,2.0,100.0,2,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/678d3b6e-4a8d-4ca4-bc8d-90e93c16c9d6
+AG-SEN2-RR-Kit,part,EXT-PJ-063AH,PJ-063AH DC Barrel Jack with a mounting pin (BarrelJack_CUI_PJ-063AH_Horizontal),1,1.0999,1.10,purchase,2026-10-12,Digi-Key,260.0,1.0,1,"record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/5985e020-c9f6-4616-82c1-154baaf1edee
+AG-SEN2-RR-Kit,part,EXT-PMEG3010ER-115,PMEG3010ER Schottky diode (D_SOD-123F),2,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,EXT-SMF24A,SMF24A Zener diode (D_SOD-123F),3,,,none,,,,,0,,
+AG-SEN2-RR-Kit,part,EXT-TBD-RJ12-15FT,RJ-12 Cable (15ft),1,5.0511,5.05,small-lot purchase,2026-10-23,Amazon,1.0,2.0,1,,https://app.ramp.com/business-overview/transactions/969d6e80-0821-4435-bd9e-135afac80bb6
+AG-SEN2-RR-Kit,part,EXT-TBD-sensor-bar-io-breakout-J1,"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25 (RJ12_Amphenol_54601-x06_Horizontal)",1,,,none,,,,,0,,
+EXT-H-2118F,part,EXT-H-2118F,"Uline Standard Safety Bollard, 4.5 x 36in, fixed",1,100.0000,100.00,list price,2026-11-13,,,,0,"Quantity 1; $95 at 4 or more. Excludes freight and tax. Ships UPS, 22 lb",https://www.uline.com/Product/Detail/H-2118F/Safety-Guards-Barriers/Standard-Safety-Bollard-45-x-36-Fixed

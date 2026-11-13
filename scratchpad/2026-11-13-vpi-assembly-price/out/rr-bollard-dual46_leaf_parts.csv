@@ -79,7 +79,7 @@ EXT-E3Z-R61,E3Z-R61,Module,Omron,E3Z-R61,"Powermatic Associates, Inc.",,2,AG-SEN
 EXT-FFC2B28-12-G,"USB_Pi Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/) (GCT_FFC2B28-12-G)",Electronic,GCT,FFC2B28-12-G,DigiKey,2073-FFC2B28-12-GTR-ND,1,AG-CS3-002-000_PartyHAT,Y,,2,2026-10-12,Digi-Key,0.35946,True
 EXT-G3-F,Hologram SIM Card,Other,Hologram,G3-F,Hologram,G3-F,1,AG-CS3-001-000,Y,,0,,,,
 EXT-GOJ902712,"Alcohol Wipes (Purell, 120 ct)",Mechanical,Purell,GOJ902712,Home Depot,301078769,2,AG-IP-001-000,Y,,0,,,,
-EXT-H-2118F,,,,,,,1,(config),N,,0,,,,
+EXT-H-2118F,"Uline Standard Safety Bollard, 4.5 x 36in, fixed",Mechanical,Uline,H-2118F,Uline,H-2118F,1,(config),Y,,0,,,,
 EXT-HFSB5-2020-270-TPW,2020 Sensor Mount Bar,Mechanical,Misumi,HFSB5-2020-270-TPW,Misumi,,1,AG-SEN2-001-000,Y,10,1,2026-04-10,MISUMI USA,11.338602,False
 EXT-HFSB5-2020-455-TPW,"2020 Sensor Mount Bar Configuration as follows: Anodized black, M5 tapped ends, cut to length spec’d (455mm here)",Mechanical,Misumi,HFSB5-2020-455-TPW,,,1,AG-SEN2-001-000,Y,,1,2026-04-10,MISUMI USA,13.956931,False
 EXT-I425-GL,LTE Modem (I425-GL) — Eagle Wireless (2026),Module,Eagle Wireless,I425-GL,Eagle Wireless,I425-GL,1,AG-CS3-001-000,Y,,0,,,,

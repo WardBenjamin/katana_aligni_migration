@@ -8,3 +8,5 @@
 - `repos/tripwire-mcad` at `033bdfb`: list of `.3mf` files; `Metadata/slice_info.config` in `vπ-release/cameras/bollard-mount-camera/Bambu Print Plates/Round Bollard Dual Cam Plate (ASA - 0.4mm).3mf` — read 2026-11-13
 - Web search "Uline H-2118F safety bollard 4 1/2 x 36"; result title and summary for https://uline.com/Product/Detail/H-2118F/Safety-Guards-Barriers/Standard-Safety-Bollard-45-x-36-Fixed (page itself not opened) — 2026-11-13
 - Shopify Admin GraphQL (read-only) for six product variants' price and unit cost: HTTP 500 twice, no data — 2026-11-13
+- Uline product page for H-2118F, fetched with the web-fetch agent (HTTP 200): price, weight, shipping method https://www.uline.com/Product/Detail/H-2118F/Safety-Guards-Barriers/Standard-Safety-Bollard-45-x-36-Fixed — read 2026-11-13
+- `scratchpad/2026-11-13-bom-reconciliation/build_boms.py` (item definitions and how `boms/items.csv` is written) — read 2026-11-13

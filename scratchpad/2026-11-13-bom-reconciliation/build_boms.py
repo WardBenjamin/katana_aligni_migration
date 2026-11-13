@@ -117,6 +117,8 @@ item("AG-CS3-001-008_GPIOSpacer", "GPIO Spacer (3D printed)", "Mechanical", "ByT
      "Slack 2026-04-02", "One per unit.")
 item("AG-CS3-001-009_SWDWire", "Party HAT to Watchdog HAT Wire", "Cable", "", "", "ByTechs LLC", "", "", "Slack 2026-04-02",
      "Construction not documented; confirm with ByTechs.")
+item("EXT-H-2118F", "Uline Standard Safety Bollard, 4.5 x 36in, fixed", "Mechanical", "Uline", "H-2118F", "Uline", "H-2118F", "",
+     "Notion PIC-003 BoM (listed at quantity 0); Ben 2026-11-13", "In no BOM. One per round-bollard-mount unit.")
 
 
 def patch(pn, rev, change, drop=(), swap=None, add=()):

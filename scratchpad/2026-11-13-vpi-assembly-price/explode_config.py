@@ -26,14 +26,12 @@ def read(path):
 
 
 def explode(part, qty, boms, path=()):
-    """Yield (leaf part number, extended quantity, parent assembly)."""
+    """Yield (part number, extended quantity, parent assembly, is_assembly) for the part and all below it."""
     if part in path:
         raise ValueError(f"BOM cycle: {' > '.join(path + (part,))}")
     lines = boms.get(part)
-    if lines is None:
-        yield part, qty, path[-1] if path else ""
-        return
-    for line in lines:
+    yield part, qty, path[-1] if path else "", lines is not None
+    for line in lines or ():
         if line["No Load"].strip().upper() == "Y":
             continue
         yield from explode(line["Part Number"], qty * float(line["Quantity Per Unit"]), boms, path + (part,))
@@ -55,10 +53,11 @@ def selftest():
         "ASM": [{"Part Number": "X", "Quantity Per Unit": "3", "No Load": ""},
                 {"Part Number": "ALT", "Quantity Per Unit": "1", "No Load": "Y"}],
     }
-    total = defaultdict(float)
-    for part, qty, _ in explode("KIT", 1, boms):
-        total[part] += qty
-    assert dict(total) == {"X": 7.0}, total
+    leaves, assemblies = defaultdict(float), defaultdict(float)
+    for part, qty, _, is_assembly in explode("KIT", 1, boms):
+        (assemblies if is_assembly else leaves)[part] += qty
+    assert dict(leaves) == {"X": 7.0}, leaves
+    assert dict(assemblies) == {"KIT": 1.0, "ASM": 2.0}, assemblies
 
 
 def main(config_path):
@@ -72,7 +71,9 @@ def main(config_path):
 
     qty, parents = defaultdict(float), defaultdict(set)
     for line in read(config_path):
-        for part, q, parent in explode(line["Part Number"], float(line["Quantity"]), boms):
+        for part, q, parent, is_assembly in explode(line["Part Number"], float(line["Quantity"]), boms):
+            if is_assembly:
+                continue
             qty[part] += q
             parents[part].add(parent or "(config)")
 

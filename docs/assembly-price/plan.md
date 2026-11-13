@@ -1,6 +1,6 @@
 # vπ full assembly price: plan
 
-As of 2026-11-13 (UTC). Status: proposed, not started. The facts behind this plan are in [research/first-pass.md](research/first-pass.md).
+As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists; $1,101.22 is priced so far with large gaps ([research/partial-rollup.md](research/partial-rollup.md)). The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
 
 ## Goal
 
@@ -14,10 +14,18 @@ First configuration (`scratchpad/2026-11-13-vpi-assembly-price/configs/rr-bollar
 | Retroreflective sensor bar kit | `AG-SEN2-RR-Kit` | 1 |
 | Sensor enclosure base and top (V5) | `AG-SEN2-003-001_EnclosureBase`, `AG-SEN2-003-002_EnclosureTop` | 1 each |
 | 36 in Uline bollard | Uline H-2118F, not in `boms/items.csv` yet | 1 |
-| Dual camera kit | `AG-Dual46-RoundBollard-Kit` (assumed, decision 3) | 1 |
+| Dual camera kit | `AG-Dual46-RoundBollard-Kit` | 1 |
 | Install pack | `AG-IP-RRBM-DC-Kit` | 1 |
 
-"Price" is taken to mean our landed cost to buy, build and kit one unit (decision 1).
+"Price" means our landed cost of parts, ByTechs labour and packaging for one unit.
+
+## Decisions (Ben, 2026-11-13)
+
+1. **Scope.** Parts, ByTechs labour and packaging. Not included: freight to the site, install labour, cellular data, tooling and one-off engineering.
+2. **Bollard.** Uline H-2118F (4.5 x 36 in, fixed, round).
+3. **Camera.** 4 mm + 6 mm lenses on the round bollard mount.
+4. **Cost basis.** Latest production-quantity purchase, landed, replaced by a dated quote when it is older than six months. This also settles decision 3 in [../bom-costs/plan.md](../bom-costs/plan.md).
+5. **Browser access.** Agreed in principle; on hold until Ben says go. No Chrome use before then.
 
 ## What the first pass shows
 
@@ -62,38 +70,40 @@ Each leaf part is priced by one of five routes, then rolled up.
 
 Rule for "most current": take the latest purchase at production quantity, landed (tax, freight and tariffs spread pro rata, as the cost record already does). If it is older than six months, or we only bought ones and twos, replace it with a dated quote. Every line records its basis (purchase, invoice, quote or estimate), date and source.
 
+How the script reads that rule (my choices, change them if they are wrong):
+
+- Production quantity is a purchase that covers at least 10 units.
+- Six months is 183 days before the as-of date.
+- A small purchase inside six months counts as the dated quote when the last production purchase is stale.
+- A line on a record flagged for review uses the receipt's unit price, without tax or freight.
+
 ## Steps
 
-1. **Lock the configuration.** Apply decisions 2 and 3 and add the bollard to `boms/items.csv`. Done when the config file has no assumed lines.
-2. **Fill the seven open BOM lines** this configuration uses, with ByTechs. Done when no `EXT-TBD` part is left in the leaf list.
-3. **Build the match table.** `matches.csv`: part, cost line, units per pack, note. A script proposes candidates by part number, then by vendor and name; I review each one; you spot-check the 15 highest-value lines. Done when every bought part has a match or is listed as "no purchase found".
-4. **Close the gaps outside the Ramp pull** (needs decisions 5 and 6):
+1. **Lock the configuration.** Done 2026-11-13: the bollard is `EXT-H-2118F` in `boms/items.csv` and the config file has no assumed lines.
+2. **Fill the seven open BOM lines** this configuration uses, with ByTechs. Done when no `EXT-TBD` part is left in the leaf list. Also ask ByTechs the three BOM questions in [research/partial-rollup.md](research/partial-rollup.md): the M3 x 30 mm screw number, the anchor type, and wipes per pack.
+3. **Build the match table.** First pass done 2026-11-13 as `price_rules.csv`: part, vendor pattern, item pattern, units per pack, flag. Part-number matches are automatic; 31 name-based rules were each checked against their lines. Left to do: your spot-check of the highest-value lines, and the 20 Digi-Key parts with no visible purchase.
+4. **Close the gaps outside the Ramp pull** (needs open decision 1 and the go-ahead for browser access):
    - ByTechs invoices since 2025-08.
    - Haig Precision invoices or a quote for the enclosure base and top.
    - ELP camera and cable purchases.
    - Receipts for the Samsung direct orders.
-   - Uline's current H-2118F price and freight to a typical site.
-   - Fresh quotes for stale lines: Raspberry Pi 5 16GB, batteries.
+   - Freight and tax on the bollard. The list price is in: $100 on 2026-11-13.
+   - Fresh quotes for stale lines: E3Z-R61 sensors and E39-R1S reflectors (last bought 2026-01-16), Raspberry Pi 5 16GB, junction box, batteries.
+   - The Samtec header invoice (18438338) and the bare PCB orders.
 5. **Price the printed parts.** Get grams and print hours per part by slicing the plates in `tripwire-mcad`, or take ByTechs' figures; price filament from the Polymaker purchases.
 6. **Price the four PCBAs** (Party HAT, USB bridge, modem bridge, sensor breakout): parts from the match table, the bare PCB from its JLCPCB order, and the assembly fee.
-7. **Roll up by script.** Leaf to sub-assembly to configuration line to total. Output per line: cost, basis, date, source. Report the total, the share that rests on quotes or estimates, and a low-to-high range where a line is an estimate.
+7. **Roll up by script.** Leaf to sub-assembly to configuration line to total. Output per line: cost, basis, date, source. Report the total, the share that rests on quotes or estimates, and a low-to-high range where a line is an estimate. `price_config.py` does this now for what can be priced; the range and the sub-assembly subtotals are not built.
 8. **Verify.**
    - Check each purchase-based line in the top 80% of cost against its receipt or invoice.
    - Have a separate agent re-derive the roll-up from the raw files.
    - Compare with any per-unit figure you or finance already use.
 9. **Write up and reuse.** Final doc `price.md`; write `Cost Per Unit` into `boms/items.csv` for the Katana import; add config files for through-beam, wall mount, single camera and 6 mm + 8 mm.
 
-Steps 1 to 3 and a partial roll-up with gaps marked can start on the data already here. Steps 4 to 6 wait on decisions 5 and 6.
+Steps 1 to 3 and a partial roll-up with gaps marked can start on the data already here. Steps 4 to 6 wait on open decision 1 and the browser go-ahead.
 
 ## Open decisions
 
-1. **What "price" covers.** I assumed parts, ByTechs labour and packaging. Left out unless you say otherwise: freight to the site, install labour, cellular data, tooling and one-off engineering. Is that the number you want, or a sell or transfer price?
-2. **Bollard.** Notion lists Uline H-2118F (4.5 x 36 in, fixed, round) and that matches "36 in", but Ramp shows only 42 in and 60 in bollards bought. Is H-2118F right, and does AirGarage buy it or does the site?
-3. **Camera.** I assumed 4 mm + 6 mm lenses on the round bollard mount. Correct?
-4. **Cost basis.** Latest production-quantity purchase, landed, with a quote when older than six months. This also answers decision 3 in [../bom-costs/plan.md](../bom-costs/plan.md).
-5. **ByTechs and Haig invoices.** They are not in Ben's, Monti's or Chris's Ramp spend after 2025-08. Where are they paid from, and may I read them?
-6. **Browser access.** May I use Chrome with your signed-in sessions to read Ramp receipt images and vendor order histories, limited to this configuration's parts? Same question as decision 1 in the bom-costs plan.
-
+1. **ByTechs and Haig invoices.** They are not in Ben's, Monti's or Chris's Ramp spend after 2025-08. Where are they paid from, and may I read them?
 ## Relation to the bom-costs plan
 
 This is step 9 of [../bom-costs/plan.md](../bom-costs/plan.md) narrowed to one configuration. Its steps 1 to 8 get done only where they touch these 124 parts.
