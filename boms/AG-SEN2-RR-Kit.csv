@@ -3,6 +3,6 @@ Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part
 2,E3Z-R61,EXT-E3Z-R61,E3Z-R61,Omron,"Powermatic Associates, Inc.",,2,each,,,128.2,,,,,Module,A
 3,RJ-12 Cable (15ft),EXT-TBD-RJ12-15FT,,,,,1,each,,,,,,,,Cable,
 4,vπ Sensor Retroreflector,AG-SEN2-002-000,SEN2-002-000,ByTechs LLC,ByTechs LLC,,2,each,,,,,,,,Module,C
-5,"M6 x 1.0 Nylock, stainless",EXT-B0C52TVDGW,B0C52TVDGW,,Amazon,B0C52TVDGW,4,each,,,,,,,,Mechanical,
+5,"M6 x 1.0 Nylock, stainless",EXT-B0C52TVDGW,B0C52TVDGW,,Amazon,B0C52TVDGW,2,each,,,,,,,,Mechanical,
 6,Enclosure Peg (nylon pin),EXT-27PIF0089,27PIF0089,Essentra,Mouser,,4,each,,,,,,,,Mechanical,
-7,Enclosure 3/4in Cap (knock-out seal),EXT-B0GNN6HDVH,B0GNN6HDVH,,Amazon,B0GNN6HDVH,2,each,,,,,,,,Mechanical,
+7,"3/4in Snap-in Knockout Seal, zinc-plated steel (enclosure cap)",EXT-OLKOS75-100,OLKOS75-100,OHLECTRIC,Amazon,B0GNN6HDVH,2,each,,,,,,,,Mechanical,

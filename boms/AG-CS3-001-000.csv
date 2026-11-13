@@ -31,6 +31,6 @@ Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part
 30,USB-A (HAT) Bridge PCBA,AG-CS3-003-000_USBBridge,,AirGarage,,,1,each,,,,,,,,Assembly,X3
 31,Modem Bridge PCBA,AG-CS3-004-000_ModemBridge,,AirGarage,,,1,each,,,,,,,,Assembly,X3
 32,Raspberry Pi 5 Active Cooler,EXT-SC1148,SC1148,Raspberry Pi,MakerBright,,1,each,,,,,,,,Mechanical,
-33,Molicel P30B 18650 Battery,EXT-INR-18650-P30B,INR-18650-P30B,Molicel,18650BatteryStore,,2,each,,,4.49,,Qty from the V3.1 BoM; confirm.,,,Power,
+33,Molicel P30B 18650 Battery,EXT-INR-18650-P30B,INR-18650-P30B,Molicel,18650BatteryStore,,2,each,,,4.49,,,,,Power,
 34,GPIO Spacer (3D printed),AG-CS3-001-008_GPIOSpacer,CS3-001-008_GPIOSpacer,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,
 35,Party HAT to Watchdog HAT Wire,AG-CS3-001-009_SWDWire,,,ByTechs LLC,,1,each,,,,,,,,Cable,

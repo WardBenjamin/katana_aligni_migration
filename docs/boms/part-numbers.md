@@ -1,6 +1,6 @@
 # Part numbers
 
-As of 2026-11-13 (UTC). Status: **proposed**, for Ben to confirm. Every number below is already used in the corrected BOM set (`boms/`), so changing one means editing `RENAME`, `IP_ITEMS`, `V4` or the `bom(...)` calls in `scratchpad/2026-11-13-bom-reconciliation/build_boms.py` and rebuilding.
+As of 2026-11-13 (UTC). Status: **confirmed** by Ben, 2026-11-13. Every number below is already used in the corrected BOM set (`boms/`), so changing one means editing `RENAME`, `IP_ITEMS`, `V4` or the `bom(...)` calls in `scratchpad/2026-11-13-bom-reconciliation/build_boms.py` and rebuilding.
 
 ## Rules (unchanged from Aligni)
 
@@ -25,7 +25,7 @@ Components on these boards are `EXT-<MPN>` from the KiCad symbol fields (Notion 
 
 ### Compute stack items added to AG-CS3-001-000
 
-`AG-CS3-001-008_GPIOSpacer` (3D printed), `AG-CS3-001-009_SWDWire` (Party HAT to watchdog HAT wire), `EXT-SC1148` (Pi 5 active cooler), `EXT-INR-18650-P30B` (Molicel 18650, qty 2 from the V3.1 BoM).
+`AG-CS3-001-008_GPIOSpacer` (3D printed), `AG-CS3-001-009_SWDWire` (Party HAT to watchdog HAT wire), `EXT-SC1148` (Pi 5 active cooler), `EXT-INR-18650-P30B` (Molicel 18650, 2 per stack).
 
 ### V4 sensor: family SEN4
 
@@ -63,7 +63,7 @@ A full pack is the base set plus its add-on (Ben 2026-11-13), so each pack kit h
 | AG-IP-V4BM-DC-Kit | v4-BM-IP-DC pack = 1x AG-IP-RRBM-DC-Kit | | no SKU |
 | AG-IP-V4WM-DCR-Kit | v4-WM-IP-DCR pack = 1x AG-IP-RRWM-DCR-Kit | | no SKU |
 
-The V4 packs use your first option (one vπ pack as a part). The bollard-mount mapping brings the RR pack's reflector-bollard tapcons and washers along; if a V4 lane has no reflector bollard, the V4 pack should point at a different add-on. ByTechs' short codes could stay as the SKUs instead; the `AG-…-Kit` form keeps every shippable item in one pattern.
+The V4 packs use the first option Ben gave (one vπ pack as a part). The mapping is provisional; see [review-later.md](review-later.md). ByTechs' short codes could stay as the SKUs instead; the `AG-…-Kit` form keeps every shippable item in one pattern.
 
 ### Legacy and draft (not migrated)
 
@@ -80,6 +80,10 @@ The V4 packs use your first option (one vπ pack as a part). The bollard-mount m
 | AG-SEN2-001-001_Breakout | AG-SEN2-004-000_Breakout | Now an assembly with a BOM and a bare board |
 
 Stock held under the old numbers moves to the new ones at the Katana import. None of them is a Shopify SKU. `boms/items.csv` has a `Renamed From` column.
+
+## Changed after confirmation
+
+- The enclosure cap is `EXT-OLKOS75-100` (OHLECTRIC 3/4in snap-in knockout seal, zinc-plated steel, 100-pack; Amazon B0GNN6HDVH), not `EXT-B0GNN6HDVH`: the maker number takes priority over the ASIN under the rules above.
 
 ## Placeholders to fill (`EXT-TBD-*`)
 

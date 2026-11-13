@@ -2,7 +2,7 @@
 
 Goal: compare every BOM source with the Aligni export in `boms/` and list what is missing or out of date before the Katana migration. Findings: `docs/boms/reconciliation.md`. Sources: `docs/boms/data-sources.md`.
 
-Status: done 2026-11-13. Corrected BOM set built; part numbers proposed in `docs/boms/part-numbers.md`, awaiting confirmation.
+Status: done 2026-11-13. Corrected BOM set built; part numbers confirmed in `docs/boms/part-numbers.md`; deferred items in `docs/boms/review-later.md`.
 
 ## Contents
 

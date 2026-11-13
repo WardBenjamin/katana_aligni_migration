@@ -107,10 +107,12 @@ item("EXT-TBD-RJ12-15FT", "RJ-12 Cable (15ft)", "Cable", "", "", "", "", "", "Sl
      "Replaces EXT-CS-44050-08 (8ft). Part number to confirm.")
 item("EXT-B0C52TVDGW", "M6 x 1.0 Nylock, stainless", "Mechanical", "", "B0C52TVDGW", "Amazon", "B0C52TVDGW", "", "Install-pack sheet")
 item("EXT-27PIF0089", "Enclosure Peg (nylon pin)", "Mechanical", "Essentra", "27PIF0089", "Mouser", "", "", "Notion SEN2-002-000 BoM (1); Slack 2026-05-28")
-item("EXT-B0GNN6HDVH", "Enclosure 3/4in Cap (knock-out seal)", "Mechanical", "", "B0GNN6HDVH", "Amazon", "B0GNN6HDVH", "", "ByTechs install-pack sheet")
+item("EXT-OLKOS75-100", "3/4in Snap-in Knockout Seal, zinc-plated steel (enclosure cap)", "Mechanical", "OHLECTRIC", "OLKOS75-100",
+     "Amazon", "B0GNN6HDVH", "", "ByTechs install-pack sheet; Notion SEN2-002-000 BoM (1) links the same item",
+     "Sold in packs of 100 (Amazon title: 3/4-Inch Snap-in Knockout Seals (100 Pack) Zinc-Plated Steel).")
 item("EXT-SC1148", "Raspberry Pi 5 Active Cooler", "Mechanical", "Raspberry Pi", "SC1148", "MakerBright", "", "", "Notion V3.1 Compute Stack BoM; Slack 2026-04-02")
 item("EXT-INR-18650-P30B", "Molicel P30B 18650 Battery", "Power", "Molicel", "INR-18650-P30B", "18650BatteryStore", "", 4.49,
-     "Notion V3.1 Compute Stack BoM", "Qty 2 carried from the V3.1 BoM; confirm for vπ.")
+     "Notion V3.1 Compute Stack BoM", "2 per compute stack (Ben 2026-11-13).")
 item("AG-CS3-001-008_GPIOSpacer", "GPIO Spacer (3D printed)", "Mechanical", "ByTechs LLC", "CS3-001-008_GPIOSpacer", "ByTechs LLC", "", "",
      "Slack 2026-04-02", "One per unit.")
 item("AG-CS3-001-009_SWDWire", "Party HAT to Watchdog HAT Wire", "Cable", "", "", "ByTechs LLC", "", "", "Slack 2026-04-02",
@@ -175,15 +177,16 @@ patch("AG-CS3-001-000", "C", "Adds the PCBAs, cooler, batteries, GPIO spacer and
       "Keeps the I425-GL modem and the cell+GPS combo and diversity antennas (Ben 2026-11-13). Watchdog HAT ships as V11, same SKU.",
       add=[line("AG-CS3-002-000_PartyHAT", 1, rev="X5C"), line("AG-CS3-003-000_USBBridge", 1, rev="X3"),
            line("AG-CS3-004-000_ModemBridge", 1, rev="X3"), line("EXT-SC1148", 1),
-           line("EXT-INR-18650-P30B", 2, "Qty from the V3.1 BoM; confirm."), line("AG-CS3-001-008_GPIOSpacer", 1),
+           line("EXT-INR-18650-P30B", 2), line("AG-CS3-001-008_GPIOSpacer", 1),
            line("AG-CS3-001-009_SWDWire", 1)])
 patch("AG-SEN2-002-000", "D", "2x E39-R1S per retroreflector, so 4 per RR kit (Ben 2026-11-13). Was 4x E39-R1.",
       swap={"EXT-E39-R1": ("EXT-E39-R1S", 2)})
 for kit, n, rev in (("AG-SEN2-RR-Kit", 1, "D"), ("AG-SEN2-TB-Kit", 2, "B")):
     patch(kit, rev, "RJ-12 8ft to 15ft (Slack 2026-11-12). Adds the nylocks, enclosure pegs and 3/4in caps ByTechs now packs "
-          "with sensor bar kits (ByTechs install-pack sheet); quantities per enclosure, to confirm.",
+          "with sensor bar kits (ByTechs install-pack sheet), one set per enclosure: 2 nylocks, 4 pegs (Ben 2026-11-13), "
+          "2 caps (Monti, Slack 2026-05-28).",
           swap={"EXT-CS-44050-08": ("EXT-TBD-RJ12-15FT", 1)},
-          add=[line("EXT-B0C52TVDGW", 4 * n), line("EXT-27PIF0089", 4 * n), line("EXT-B0GNN6HDVH", 2 * n)])
+          add=[line("EXT-B0C52TVDGW", 2 * n), line("EXT-27PIF0089", 4 * n), line("EXT-OLKOS75-100", 2 * n)])
 
 # ---------------------------------------------------------------- install packs: base set + add-on kits
 IP_ITEMS = {  # sheet part name -> part number (vendor IDs from data/sheets/install-pack-links.csv)

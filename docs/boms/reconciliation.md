@@ -68,9 +68,7 @@ All six are applied in the corrected BOM set, `boms/` (built by `scratchpad/2026
 
 ## Still open
 
-- Confirm the proposed part numbers and the renumbering in [part-numbers.md](part-numbers.md).
+- Part numbers: confirmed by Ben 2026-11-13 ([part-numbers.md](part-numbers.md)).
 - 39 open lines: `EXT-TBD-*` part numbers and blank quantities, listed in part-numbers.md. The largest groups are the V4 install kit (7, no part numbers in Notion) and the Obelisk skeleton (12).
-- Quantities derived rather than stated: 2 batteries per compute stack (from V3.1), and nylocks, pegs and caps per sensor bar kit (4/4/2 per enclosure).
-- V4 sensor: no X5 BoM exists; `AG-SEN4-001-000` joins the Notion V4A and X3B BoMs. MCAD X5 also has an internal coupler and Vamp Clamp in no BoM. Needs Monti.
-- V4 install packs: the bollard-mount V4 pack inherits the RR pack's reflector-bollard hardware; confirm or pick another add-on.
-- Modem Bridge X3 (flex) design files are not in tripwire-ecad; its BOM comes from X2.
+- Settled 2026-11-13: 2 batteries per compute stack; per enclosure, 4 pegs, 2 nylocks and 2 caps (`EXT-OLKOS75-100`) in the sensor bar kits.
+- Deferred for later review: [review-later.md](review-later.md) (V4 install-pack mapping, V4 X5 BOM and unreleased CAD, interposer and modem-bridge design files, nylock count).

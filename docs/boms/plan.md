@@ -1,6 +1,6 @@
 # BOMs: export and reconciliation plan
 
-As of 2026-11-13 (UTC). Status: steps 1 to 5 done; next is confirming part numbers and filling placeholders (step 6).
+As of 2026-11-13 (UTC). Status: steps 1 to 5 done and part numbers confirmed; next is filling placeholders (step 6).
 
 ## Goal
 
@@ -30,5 +30,5 @@ Get one trustworthy BOM per assembly before migrating from Aligni to Katana. Ali
 ## Next
 
 5. Done 2026-11-13. Decisions settled by Ben and applied in a corrected BOM set (`boms/`, `build_boms.py`), with BOMs added for the PCBAs, install packs, V4 sensor and V4 packs, V3.1 (legacy) and Obelisk (draft). Part numbers proposed in `part-numbers.md`.
-6. Confirm the part numbers and fill the `EXT-TBD-*` lines (ByTechs for cables and fasteners, Monti for V4 X5).
+6. Part numbers confirmed (Ben, 2026-11-13). Fill the `EXT-TBD-*` lines (ByTechs for cables and fasteners, Monti for V4 X5) and work through `review-later.md`.
 7. Convert `boms/` and `boms/items.csv` to Katana's item and BOM import templates.
