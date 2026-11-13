@@ -1,6 +1,6 @@
 # vπ full assembly price: plan
 
-As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $1,793.95 priced, with the enclosure, ByTechs-made parts, most labour and packaging still missing. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
+As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $1,918.73 priced, with ByTechs-made parts, most labour and packaging still missing. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
 
 ## Goal
 
@@ -86,7 +86,7 @@ How the script reads that rule (my choices, change them if they are wrong):
 3. **Build the match table.** First pass done 2026-11-13 as `price_rules.csv`: part, vendor pattern, item pattern, units per pack, flag. Part-number matches are automatic; 31 name-based rules were each checked against their lines. Left to do: your spot-check of the highest-value lines, and the 20 Digi-Key parts with no visible purchase.
 4. **Close the gaps outside the Ramp pull** (needs open decision 1 and the go-ahead for browser access):
    - ByTechs' own itemized invoices (open decision 1).
-   - Haig Precision invoices or a quote for the enclosure base and top.
+   - The enclosure base and top are priced from Haig invoice 98534 (2026-04-23).
    - ELP cameras are priced from a proforma invoice dated 2026-01-27, which is stale under the rule.
    - Receipts for the Samsung direct orders.
    - Freight and tax on the bollard. The list price is in: $100 on 2026-11-13.

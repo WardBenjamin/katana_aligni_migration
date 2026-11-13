@@ -38,3 +38,4 @@
 ## camera-tariffs-review (read 2026-11-13)
 - `data/tariffs/hts_8525.89.json`, `hts_9903.88.03.json`, `hts_9903.03.json`, `ch99.txt`, `s122_proclamation.txt` under `scratchpad/2026-11-13-vpi-assembly-price/` (the agent's saved copies)
 - Slack thread C09FF4GLH9R, parent ts 1775836387.012279, via `slack_read_thread`
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/haig/Inv.98534.pdf`: Haig Precision invoice 98534 — read 2026-11-13

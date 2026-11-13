@@ -110,8 +110,8 @@ AG-IP-RRBM-DC-Kit,part,EXT-B0FSRN2719,Microfiber Cloth,1,0.1865,0.19,purchase,20
 AG-IP-RRBM-DC-Kit,part,EXT-GOJ902712,"Alcohol Wipes (Purell, 120 ct)",2,0.1788,0.36,purchase,2026-11-12,Amazon,1.0,120.0,1,,https://app.ramp.com/business-overview/transactions/c830370a-3013-40bf-9264-e1142388ac8a
 AG-IP-RRBM-DC-Kit,part,EXT-TBD-TAPCON-025X125-SS,"Tapcon 1/4 x 1-1/4in, 410 stainless, hex",20,0.7949,15.90,purchase,2026-07-16,Fasteners Plus,10.0,100.0,4,,https://app.ramp.com/business-overview/transactions/ddcdbe61-521f-42b3-be4b-f64caf81b533
 AG-IP-RRBM-DC-Kit,part,EXT-THD50300H,"Strong-Tie Titen HD Screw Anchor 1/2 x 3in, zinc",12,2.3047,27.66,purchase,2026-07-16,Fasteners Plus,20.0,25.0,4,,https://app.ramp.com/business-overview/transactions/ddcdbe61-521f-42b3-be4b-f64caf81b533
-AG-SEN2-003-001_EnclosureBase,part,AG-SEN2-003-001_EnclosureBase,SENSOR ENCLOSURE BASE V5,1,,,none,,,,,0,,
-AG-SEN2-003-002_EnclosureTop,part,AG-SEN2-003-002_EnclosureTop,SENSOR ENCLOSURE ASSY V5 CARDINAL ORANGE T009-OG26,1,,,none,,,,,0,,
+AG-SEN2-003-001_EnclosureBase,part,AG-SEN2-003-001_EnclosureBase,SENSOR ENCLOSURE BASE V5,1,37.0810,37.08,stale purchase,2026-04-23,Haig Precision Mfg. Corp.,150.0,1.0,1,,data/invoices/haig/Inv.98534.pdf (98534)
+AG-SEN2-003-002_EnclosureTop,part,AG-SEN2-003-002_EnclosureTop,SENSOR ENCLOSURE ASSY V5 CARDINAL ORANGE T009-OG26,1,87.7030,87.70,stale purchase,2026-04-23,Haig Precision Mfg. Corp.,150.0,1.0,1,,data/invoices/haig/Inv.98534.pdf (98534)
 AG-SEN2-RR-Kit,labour,AG-SEN2-001-000,Labour: vπ Sensor Bar,1,27.0000,27.00,stale purchase,2025-12-14,Bytechs,10.0,1.0,1,Deel task line with no itemized invoice,data/invoices/bytechs/pdf/Chris Williamson_INV-2025-5_Dec1-Dec31_t4jMqrnF7aDJUQfeag3kK.pdf (INV-2025-5)
 AG-SEN2-RR-Kit,part,AG-SEN2-001-003_SenMntR,Sensor Mount Right Plastic,1,,,none,,,,,0,,
 AG-SEN2-RR-Kit,part,AG-SEN2-001-004_SenMntL,Sensor Mount Left Plastic,1,,,none,,,,,0,,

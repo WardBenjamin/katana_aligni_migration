@@ -8,21 +8,21 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 
 ## Where it stands
 
-**$1,793.95 is priced. This is not yet the assembly price**: the enclosure, every ByTechs-made part, most labour and all packaging are missing.
+**$1,918.73 is priced. This is not yet the assembly price**: every ByTechs-made part, most labour and all packaging are missing.
 
 | Basis | Rows | $ |
 |---|---|---|
 | Purchase at production quantity, inside six months | 48 | 662.24 |
 | Small-lot purchase inside six months | 3 | 140.77 |
 | List prices dated 2026-11-13 (reflectors, bollard) | 2 | 204.44 |
-| Stale purchases and proforma invoices (older than six months) | 20 | 647.17 |
+| Stale purchases and proforma invoices (older than six months) | 22 | 771.95 |
 | Stale ByTechs labour | 3 | 51.95 |
 | Estimated import duty on the two cameras (entered about 2026-04-17) | 2 | 87.38 |
-| **Priced** | **78** | **1,793.95** |
-| Unpriced part rows | 54 | |
+| **Priced** | **80** | **1,918.73** |
+| Unpriced part rows | 52 | |
 | Unpriced labour rows | 12 | |
 
-$1,007.45 rests on prices inside six months and $786.50 on older ones. 71 of 124 leaf parts are priced.
+$1,007.45 rests on prices inside six months and $911.28 on older ones. 73 of 124 leaf parts are priced.
 
 By configuration line:
 
@@ -32,7 +32,7 @@ By configuration line:
 | `AG-SEN2-RR-Kit` | 116.59 | 321.14 | 13 |
 | `AG-Dual46-RoundBollard-Kit` | 0.00 | 346.96 | 11 |
 | `AG-IP-RRBM-DC-Kit` | 78.98 | 78.93 | 5 |
-| Enclosure base and top | 0.00 | 0.00 | 2 |
+| Enclosure base and top | 0.00 | 124.78 | 0 |
 | `EXT-H-2118F` bollard | 100.00 | 0.00 | 0 |
 
 Largest rows:
@@ -47,9 +47,11 @@ Largest rows:
 | Samsung PRO Endurance 256GB | 1 | 114.36 | small-lot purchase, 2 units | 2026-06-21 |
 | Omron E39-R1S | 4 | 104.44 | Digi-Key list price, chosen by Ben | 2026-11-13 |
 | Uline H-2118F bollard | 1 | 100.00 | list price, no freight or tax | 2026-11-13 |
+| Sensor enclosure top (V5, orange) | 1 | 87.70 | stale purchase, 150 units | 2026-04-23 |
 | IPEX junction box | 1 | 68.04 | stale purchase, 150 units | 2026-04-08 |
 | Sequent Watchdog HAT | 1 | 45.20 | purchase, 50 units | 2026-06-22 |
 | Sixfab base HAT | 1 | 45.20 | purchase, 84 units | 2026-06-11 |
+| Sensor enclosure base (V5) | 1 | 37.08 | stale purchase, 150 units | 2026-04-23 |
 | I425-GL modem | 1 | 35.00 | purchase, 100 units | 2026-11-06 |
 | Titen HD anchor | 12 | 27.66 | purchase, 20 packs of 25 | 2026-07-16 |
 | Sensor bar assembly (labour) | 1 | 27.00 | stale Deel task line, 10 units | 2025-12-14 |
@@ -62,7 +64,6 @@ Every row, with its source: `scratchpad/2026-11-13-vpi-assembly-price/out/rr-bol
 
 ## Still unpriced
 
-- **Enclosure base and top** (Haig Precision).
 - **ByTechs-made parts**, 24: printed and cut parts for the compute stack (7), camera module (5), bollard mount (3), sensor bar (5) and reflector cover (1); two cable assemblies; ferrules.
 - **Labour** for 12 assemblies: compute stack, camera module, bollard mount, reflector, USB and modem bridge PCBAs, the three kits, the install pack and its two sets.
 - **Packaging.** In no BOM. Uline boxes were $3.06 to $5.71 landed each on 2026-06-22.
@@ -76,6 +77,7 @@ The ByTechs archive does not fill the ByTechs gaps: its last five invoices say o
 
 - E3Z-R61 sensors, $256.77: invoice paid 2026-01-16. The order acknowledgement Ben supplied shows the same $128.20 unit price from 2025-10-14 ([research/powermatic-ordack.md](research/powermatic-ordack.md)).
 - ELP cameras, $254.25, and their estimated duty, $87.38: proforma invoice dated 2026-01-27, entered the US about 2026-04-17.
+- Sensor enclosure top and base, $124.78: Haig invoice 98534 dated 2026-04-23, three weeks past the six-month line.
 - Junction box, $68.04; the two Misumi bars, $25.30; compression connectors, $10.89; P30B batteries, $9.27; and smaller lines.
 - All ByTechs labour figures: the newest is from 2025-12.
 
@@ -102,5 +104,6 @@ The roll-up uses the likely case plus a $0.43 processing fee, $43.69 per camera.
 - ByTechs and JLCPCB invoices: [research/invoices.md](research/invoices.md).
 - Powermatic order acknowledgement: [research/powermatic-ordack.md](research/powermatic-ordack.md).
 - ELP, Haig and MakerBright documents: [research/elp-haig-makerbright.md](research/elp-haig-makerbright.md).
+- Sensor enclosure: [research/haig-enclosure.md](research/haig-enclosure.md).
 - Camera import duty: [research/camera-tariffs.md](research/camera-tariffs.md), [research/camera-tariffs-review.md](research/camera-tariffs-review.md).
 - E39-R1S at $26.11 (https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204) was given by Ben on 2026-11-13 as the most recent source; the page was not opened.
