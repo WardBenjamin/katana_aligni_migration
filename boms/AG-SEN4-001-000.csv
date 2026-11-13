@@ -1,0 +1,18 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Seyond Hummingbird D1R LiDAR,EXT-D1R,D1R,Seyond,Seyond,,1,each,,,800,,,,,Module,
+2,Sensor Interposer PCBA,AG-SEN4-002-000_Interposer,,AirGarage,,,1,each,,,,,,,,Assembly,X4A
+3,LiDAR Housing (plastic),AG-SEN4-001-001_Housing,,,,,1,each,,,,,,,,Mechanical,
+4,LiDAR Top Cover (plastic),AG-SEN4-001-002_TopCover,,,,,1,each,,,,,,,,Mechanical,
+5,Coupler PCB Mount (plastic),AG-SEN4-001-003_PCBMount,,,,,1,each,,,,,,,,Mechanical,
+6,LiDAR Heatsink X2,AG-SEN4-001-004_Heatsink,,SendCutSend,SendCutSend,,1,each,,,14.5,,,,,Mechanical,
+7,"Bollard Coupler (machined, powder coated)",AG-SEN4-001-005_Coupler,,Triple B,Triple B,,1,each,,,,,,,,Mechanical,
+8,LiDAR Coupler / Housing Adapter (machined),AG-SEN4-001-006_LiDARCoupler,,Triple B,Triple B,,1,each,,,,,,,,Mechanical,
+9,"Extension Tube (machined, powder coated)",AG-SEN4-001-007_ExtTube,,Triple B,Triple B,,1,each,,,,,,,,Mechanical,
+10,M12 17-pin M-F Cable (1m),EXT-MSAS17ML-SASFL-SB001,MSAS17ML-SASFL-SB001,Amphenol,Mouser,,1,each,,,61.17,,,,,Cable,
+11,M3x8mm Socket Head Screw,EXT-91292A112,91292A112,McMaster-Carr,McMaster-Carr,91292A112,7,each,,,,,,,,Mechanical,
+12,T10 M3x10mm Thread-Forming Screw for Plastic,EXT-96817A322,96817A322,McMaster-Carr,McMaster-Carr,96817A322,8,each,,,,,,,,Mechanical,
+13,T27 Security Torx Self-Tapping Screw,EXT-94625A131,94625A131,McMaster-Carr,McMaster-Carr,94625A131,6,each,,,,,,,,Mechanical,
+14,T27 Security Torx 1/4-20 Screw,EXT-TBD-T27-14-20,,,,,3,each,,,,,,,,Mechanical,
+15,Thermal Pad (LiDAR),EXT-TBD-V4-THERMALPAD,,,,,1,each,,,,,,,,Mechanical,
+16,MaxiBond MB-835 Epoxy,EXT-MB-835,MB-835,MaxiBond,,,1,each,,,,,,,,Other,
+17,Plastic Thread-Forming Screw 30mm,EXT-95893A198,95893A198,McMaster-Carr,McMaster-Carr,95893A198,TBD,each,,,,,Quantity blank in Notion.,,,Mechanical,

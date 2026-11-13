@@ -1,0 +1,9 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,T27 Security Torx Self-Drilling Screw,EXT-TBD-T27-SELFDRILL,,,,,6,each,,,,,,,,Mechanical,
+2,T27 Security Torx Impact Bit,EXT-TBD-T27-BIT,,,,,2,each,,,,,,,,Mechanical,
+3,"Alcohol Wipes (Purell, 120 ct)",EXT-GOJ902712,GOJ902712,Purell,Home Depot,301078769,1,each,,,,,,,,Mechanical,
+4,7/32in Drill Bit,EXT-TBD-DRILL-7-32,,,,,1,each,,,,,,,,Mechanical,
+5,RJ-45 Cable (15ft),EXT-TBD-RJ45-15FT,,,,,1,each,,,,,,,,Mechanical,
+6,RJ-12 Cable (15ft),EXT-TBD-RJ12-15FT,,,,,1,each,,,,,,,,Cable,
+7,1/2in Tapcon,EXT-TBD-TAPCON-050,,,,,4,each,,,,,,,,Mechanical,
+8,1/2in Washer,EXT-TBD-WASHER-050,,,,,4,each,,,,,,,,Mechanical,

@@ -1,0 +1,17 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Acrylic Lens Window (Outer + Inner),EXT-OP3-Clear-ACR,OP3-Clear-ACR,,TAP Plastics,,1,each,,,,,18” x 18” x 1/8” plate. One plate makes 48 inner and outer lens windows. Cost does not include laser cut cost. Currently a friend is doing this for free!,,,Mechanical,
+2,Camera Lens Gasket,EXT-ORSIL031,ORSIL031,,Sur-Seal,,2,each,,,,,Orange vinyl methyl silicone. Min Qty 45.,,,Mechanical,
+3,Cable Grommet,EXT-9600K45,9600K45,,McMaster,,1,each,,,,,(100-pack),,,Mechanical,
+4,M2.5 Heat-Set Insert,EXT-94180A321,94180A321,,McMaster,,12,each,,,,,M2.5x3.4mm Brass (100-pack),,,Mechanical,
+5,M2.5x5mm Flat Head Screw,EXT-91263A421,91263A421,,McMaster,,4,each,,,,,M2.5x5mm (50-pack),,,Mechanical,
+6,M2.5x8mm Flat Head Screw,EXT-91263A423,91263A423,,McMaster,,8,each,,,,,M2.5x8mm (50-pack),,,Mechanical,
+7,M8 Hex Head Bolt,EXT-90447A130,90447A130,,McMaster,,1,each,,,,,M8x22mm,,,Mechanical,
+8,M2x4mm Socket Head Screw,EXT-91292A004,91292A004,,McMaster,,2,each,,,,,M2x5mm,,,Mechanical,
+9,Camera Housing,AG-CAM4-001-001_Housing,,,Protolabs Hubs,,1,each,,,,,SLS 3D Printed,,,Mechanical,
+10,Camera Front Lens Clamp,AG-CAM4-001-003_LensClamp,,,Protolabs Hubs,,1,each,,,,,SLS 3D Printed,,,Mechanical,
+11,Camera Rear Cap,AG-CAM4-001-002_RearCap,,,Protolabs Hubs,,1,each,,,,,SLS 3D Printed,,,Mechanical,
+12,ELP Camera Module 4/6/8mm,EXT-ELP-USBGS5MP01,"ELP-USBGS5MP01-KV100IR
+ELP-USBGS5MP01-KV60IR
+ELP-USBGS5MP01-KV80IR",,ELP - Cecilia (),,1,each,,,,,Camera,,,Mechanical,
+13,Lens Window Gasket (Center),AG-CAM4-001-005_LensGasket,,,Bryan Monti,,1,each,,,,,3D Printed TPE,,,Mechanical,
+14,Rear Housing Gasket,AG-CAM4-001-004_RearGasket,,,Bryan Monti,,1,each,,,,,3D Printed TPE,,,Mechanical,

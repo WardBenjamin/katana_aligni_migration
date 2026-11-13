@@ -1,0 +1,4 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Modem Bridge bare PCB (flex),AG-CS3-004-001_PCB,CS3-004-001_PCB,AirGarage,JLCPCB,,1,each,,,,,,,,Mechanical,
+2,USB_B_Micro USB Micro Type B connector (USB_Micro-B_GCT_USB3150-30-130-A_GCC),EXT-TBD-modem-bridge-P5,,,,,1,each,,,,,,P5,,Electronic,
+3,USB_C_Plug_USB2.0 USB 2.0-only Type-C Plug connector (USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical),EXT-TBD-modem-bridge-P6,,,,,1,each,,,,,,P6,,Electronic,

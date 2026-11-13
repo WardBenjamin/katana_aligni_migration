@@ -11,5 +11,5 @@ Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part
 10,Base Mount Plastic,AG-SEN2-001-005_BaseMnt,SEN2-001-005_BaseMnt,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
 11,Sensor Mount Left Plastic,AG-SEN2-001-004_SenMntL,SEN2-001-004_SenMntL,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
 12,Sensor Mount Right Plastic,AG-SEN2-001-003_SenMntR,SEN2-001-003_SenMntR,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
-13,Sensor I/O Breakout,AG-SEN2-001-001_Breakout,SEN2-001-001_Breakout,ByTechs LLC,ByTechs LLC,,1,each,,,8,,,,,Module,A
+13,Sensor I/O Breakout,AG-SEN2-004-000_Breakout,SEN2-001-001_Breakout,ByTechs LLC,ByTechs LLC,,1,each,,,8,,,,,Module,A
 14,22AWG Ferrules,EXT-22AWGFERRULE,22AWGFERRULE,ByTechs LLC,ByTechs LLC,,6,each,,,,,,,,Mechanical,A

@@ -1,0 +1,4 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,vπ Compute Stack,AG-CS3-001-000,CS3-001-000,ByTechs LLC,ByTechs LLC,CS3-001-000,1,each,,,,,,,,Assembly,B
+2,12V/36W Power Supply,EXT-L6R36-120,L6R36-120,"Tri-Mag, LLC",DigiKey,364-1282-ND,1,each,,,,,,,,Power,A
+3,3ft Barrel Jack Extension Cable,EXT-P0101E,P0101E,Ease Electronics,DigiKey,4627-P0101E-ND,1,each,,,,,,,,Cable,A

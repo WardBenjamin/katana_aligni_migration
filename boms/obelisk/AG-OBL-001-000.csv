@@ -1,0 +1,17 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Seyond Hummingbird D1R LiDAR,EXT-D1R,D1R,Seyond,Seyond,,1,each,,,800,,,,,Module,
+2,Compute Stack Bollard Interface PCBA,AG-OBL-002-000_CSInterface,,AirGarage,,,1,each,,,,,,,,Assembly,X1
+3,vπ Compute Stack,AG-CS3-001-000,CS3-001-000,ByTechs LLC,ByTechs LLC,CS3-001-000,1,each,,,,,Assumed; Obelisk compute is not defined.,,,Assembly,
+4,Schedule 40 Pipe Segment,AG-OBL-001-001_Tube,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+5,Vamp Clamp (module interlock),AG-OBL-001-002_VampClamp,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16; MCAD X5 Release Vamp Clamp ASM,,,Mechanical,
+6,"Snap Ring, 7075 laser cut",AG-OBL-001-003_SnapRing,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+7,M10 Countersunk Fastener,EXT-TBD-M10-CS,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+8,Magnet (module presence),EXT-TBD-OBL-MAGNET,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+9,TMR/Hall Sensor,EXT-TBD-OBL-TMR,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+10,3M DP460NS Epoxy,EXT-DP460NS,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-16,,,Mechanical,
+11,"O-ring AS568-045, EPDM",EXT-TBD-AS568-045-EPDM,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-29,,,Mechanical,
+12,Module MCU (STM32C5 shortlisted),EXT-TBD-OBL-MCU,,,,,TBD,each,,,,,Slack #pt-obelisk 2026-10-31,,,Mechanical,
+13,"#8-32 Shoulder Screw, 17-4PH (proposed)",EXT-90292A076,,,,,TBD,each,,,,,Slack 2026-11-04,,,Mechanical,
+14,RJ-45 Cable (15ft),EXT-TBD-RJ45-15FT,,,,,1,each,,,,,Slack #pt-obelisk 2026-11-05,,,Mechanical,
+15,Camera USB Cable,EXT-TBD-OBL-CAMUSB,,,,,2,each,,,,,Slack #pt-obelisk 2026-11-05,,,Mechanical,
+16,Obelisk Camera Module (pivoting cameras),AG-OBL-003-000_CameraModule,,,,,1,each,,,,,Slack #pt-obelisk 2026-11-12,,,Mechanical,

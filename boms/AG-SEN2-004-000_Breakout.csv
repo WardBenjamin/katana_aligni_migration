@@ -1,0 +1,7 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Sensor Bar I/O Breakout bare PCB,AG-SEN2-004-001_PCB,SEN2-004-001_PCB,AirGarage,,,1,each,,,,,"Not fitted (DNP): D4,D7,D8,R1,R2",,,Mechanical,
+2,SMF24A Zener diode (D_SOD-123F),EXT-SMF24A,SMF24A,Littelfuse,DigiKey,F5823TR-ND,3,each,,,,,,"D1,D2,D3",,Electronic,
+3,PMEG3010ER Schottky diode (D_SOD-123F),EXT-PMEG3010ER-115,"PMEG3010ER,115",Nexperia,DigiKey,1727-5201-2-ND,2,each,,,,,,"D5,D6",,Electronic,
+4,"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25 (RJ12_Amphenol_54601-x06_Horizontal)",EXT-TBD-sensor-bar-io-breakout-J1,,,,,1,each,,,,,,J1,,Electronic,
+5,"SENS_A Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/) (PhoenixContact_SPT_2.5_3-H-5.0_1x03_P5.0mm_Horizontal)",EXT-1190298,1190298,Phoenix Contact LPT,DigiKey,277-1190298-ND,2,each,,,,,,"J2,J3",,Electronic,
+6,PJ-063AH DC Barrel Jack with a mounting pin (BarrelJack_CUI_PJ-063AH_Horizontal),EXT-PJ-063AH,PJ-063AH,Same Sky/CUI,DigiKey,CP-063AH-ND,1,each,,,,,,J4,,Electronic,

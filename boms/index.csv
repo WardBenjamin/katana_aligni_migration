@@ -1,36 +1,57 @@
-Assembly,Name,Revision,Status,Active,Lines,Released At,Revision Reason,File,Aligni Revision ID
-AG-CS3-001-000,vπ Compute Stack,A,Released,,26,2026-04-30T08:44:31-04:00,,revisions/AG-CS3-001-000_RevA.csv,itr_01KQF6JVCFWXFPGRS5M8Y7MCHA
-AG-CS3-001-000,vπ Compute Stack,B,Released,Y,28,2026-05-27T14:48:52-04:00,Added EXT-90593A024 and EXT-91290A049 (McMaster-Carr hardware),AG-CS3-001-000.csv,itr_01KSNC8RMF5MCW270KARMG1WV6
-AG-CS3-001-000,vπ Compute Stack,C,Draft,,28,,Adding electronics,revisions/AG-CS3-001-000_RevC.csv,itr_01KSR3TFQGGXDYSJ7VE0TMM8AQ
-AG-CS3-Kit,vπ Compute Stack Kit,A,Released,Y,3,2026-04-30T08:58:24-04:00,,AG-CS3-Kit.csv,itr_01KQF79QSFX5HDE5V1VEZMM82V
-AG-Dual46-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-RoundBollard-Kit.csv,itr_01KQF937YQZZPZCQZXH2P8ADFW
-AG-Dual46-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-SquareBollard-Kit.csv,itr_01KQF93846WCYAK4ZNYE2647EJ
-AG-Dual46-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-WallMount-Kit.csv,itr_01KQF937SQABZBE95HAG1HBVS8
-AG-Dual68-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-RoundBollard-Kit.csv,itr_01KQF937ZXWM0T0X03QQGCQSC1
-AG-Dual68-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-SquareBollard-Kit.csv,itr_01KQF93855B779BM4N2FG9WP3G
-AG-Dual68-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-WallMount-Kit.csv,itr_01KQF937TXGFF3GCG89KEYZY64
-AG-PIC-001-000_Dual46,vπ Dual Camera Module — 4mm + 6mm,A,Released,Y,10,2026-04-30T09:25:21-04:00,,AG-PIC-001-000_Dual46.csv,itr_01KQF8TV5BPAPAX3BK1Q0ETV8X
-AG-PIC-001-000_Dual68,vπ Dual Camera Module — 6mm + 8mm,A,Released,Y,10,2026-04-30T09:25:21-04:00,,AG-PIC-001-000_Dual68.csv,itr_01KQF8TV6NKVE0Y096BFG5Y0A7
-AG-PIC-002-000_Single4,vπ Single Camera Module — 4mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single4.csv,itr_01KQF8TV7KH823VSY1ZK1R785Y
-AG-PIC-002-000_Single6,vπ Single Camera Module — 6mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single6.csv,itr_01KQF8TV8V6J7Q5SJGFMMDEATM
-AG-PIC-002-000_Single8,vπ Single Camera Module — 8mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single8.csv,itr_01KQF8TV9VZ3571GNYMKBNXYAB
-AG-PIC-003-000,vπ Round Bollard Mount,A,Released,Y,4,2026-04-30T09:25:21-04:00,,AG-PIC-003-000.csv,itr_01KQF8TVAR38CJHBVWXZ94F4Q1
-AG-PIC-004-000,vπ Square Bollard Mount,A,Released,Y,4,2026-04-30T09:25:21-04:00,,AG-PIC-004-000.csv,itr_01KQF8TVBNV61KS0QFJ6Y0YD02
-AG-PIC-005-000,vπ Wall Mount,A,Released,Y,7,2026-04-30T09:25:21-04:00,,AG-PIC-005-000.csv,itr_01KQF8TV4285TF4NVYA41HS2SW
-AG-SEN2-001-000,vπ Sensor Bar,A,Released,Y,14,2026-04-22T20:38:40-04:00,,AG-SEN2-001-000.csv,itr_01KPVVZQKJXXDJGRVY10KFATCW
-AG-SEN2-002-000,vπ Sensor Retroreflector,B,Released,,2,2026-04-22T20:44:11-04:00,Add sub-parts to BOM,revisions/AG-SEN2-002-000_RevB.csv,itr_01KPVWMRV5NNQ56YMZ5D37QKD0
-AG-SEN2-002-000,vπ Sensor Retroreflector,C,Released,Y,2,2026-06-29T09:14:35-04:00,Replace E39-R2 dual-reflector (was 1x but should have been 2x qty) with 4x E39-R1 single-reflector,AG-SEN2-002-000.csv,itr_01KW9R44VC8PT26N553JEV9GSM
-AG-SEN2-003-000,vπ Sensor Enclosure X5,A,Released,Y,2,2026-06-29T09:31:08-04:00,,AG-SEN2-003-000.csv,itr_01KW9S66FDKCDYFSTV3V2ZAAJ1
-AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,A,Released,,5,2026-04-22T20:38:59-04:00,,revisions/AG-SEN2-RR-Kit_RevA.csv,itr_01KPVWAR7MS60JAXKF8TTTPXY7
-AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,B,Released,,5,2026-04-27T13:30:56-04:00,Updating retroreflector quantity,revisions/AG-SEN2-RR-Kit_RevB.csv,itr_01KQ7ZWCVJM5Y97K502HQ3EB56
-AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,C,Released,Y,4,2026-05-13T11:18:32-04:00,Removing power supply from retroreflective sensor bar kit,AG-SEN2-RR-Kit.csv,itr_01KRGYJPW1PHWPHJYE8596P7MG
-AG-SEN2-TB-Kit,vπ TB Sensor Bar Kit,A,Released,Y,4,2026-04-22T20:42:12-04:00,,AG-SEN2-TB-Kit.csv,itr_01KPVWGTFMDZ7YH1CM70RVV70S
-AG-Single4-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-RoundBollard-Kit.csv,itr_01KQF9380XQ4P5AXX8BS2JS76M
-AG-Single4-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-SquareBollard-Kit.csv,itr_01KQF938678BM47V1HVPMF91G1
-AG-Single4-WallMount-Kit,vπ Wall Mount Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-WallMount-Kit.csv,itr_01KQF937VX4ZV2P9BMSJMMTNCM
-AG-Single6-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-RoundBollard-Kit.csv,itr_01KQF9381WMQDC72JK14NJYHVC
-AG-Single6-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-SquareBollard-Kit.csv,itr_01KQF9387VJDH4EB3CXQD9CQ9E
-AG-Single6-WallMount-Kit,vπ Wall Mount Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-WallMount-Kit.csv,itr_01KQF937WVKDQF37YBSRDKC6R6
-AG-Single8-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-RoundBollard-Kit.csv,itr_01KQF9382TBNCE04SJ04862NKQ
-AG-Single8-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-SquareBollard-Kit.csv,itr_01KQF9388XD56GW4BT8A75HK8S
-AG-Single8-WallMount-Kit,vπ Wall Mount Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-WallMount-Kit.csv,itr_01KQF937XTN4WH03SZCGFRZP2N
+Assembly,Name,Revision,Scope,Lines,Open,File,Source,Change
+AG-CAM4-001-000,Tripwire V3.1 Camera Assembly,A,Legacy (not migrated),14,0,legacy-v3.1/AG-CAM4-001-000.csv,Notion Tripwire V3.1 Camera Assembly BoM,"Not migrated. ELP camera is one of KV100IR (4mm), KV60IR (6mm), KV80IR (8mm)."
+AG-COM4-001-000,Tripwire V3.1 Compute Stack,A,Legacy (not migrated),18,1,legacy-v3.1/AG-COM4-001-000.csv,Notion Tripwire V3.1 Compute Stack BoM,Not migrated. V3.1 sensor bar = AG-SEN2-001-000 (same parts and numbers).
+AG-CS3-001-000,vπ Compute Stack,C,Katana,35,0,AG-CS3-001-000.csv,Aligni,"Adds the PCBAs, cooler, batteries, GPIO spacer and watchdog wire the build uses (Slack 2026-04-02, 2026-05-26). Keeps the I425-GL modem and the cell+GPS combo and diversity antennas (Ben 2026-11-13). Watchdog HAT ships as V11, same SKU."
+AG-CS3-002-000_PartyHAT,Party HAT PCBA,X5C,Katana,34,0,AG-CS3-002-000_PartyHAT.csv,KiCad party-hat @ tripwire-ecad 81160fe,"C10 (68p) carries DigiKey 1276-1135-2-ND, the same as C11, C12, C16 (22u); one is wrong. ByTechs' pick-and-place list is the working copy."
+AG-CS3-003-000_USBBridge,USB-A (HAT) Bridge PCBA,X3,Katana,3,1,AG-CS3-003-000_USBBridge.csv,KiCad hat-usb-bridge,Schematic title block says X2; X3 was a PCB-only change.
+AG-CS3-004-000_ModemBridge,Modem Bridge PCBA,X3,Katana,3,2,AG-CS3-004-000_ModemBridge.csv,"KiCad modem-bridge (shared schematic, X1/X2)",X3 (flex) is in production but its design files are not in tripwire-ecad; BOM is from the X2 board.
+AG-CS3-Kit,vπ Compute Stack Kit,A,Katana,3,0,AG-CS3-Kit.csv,Aligni,
+AG-Dual46-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 4mm + 6mm,A,Katana,2,0,AG-Dual46-RoundBollard-Kit.csv,Aligni,
+AG-Dual46-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 4mm + 6mm,A,Katana,2,0,AG-Dual46-SquareBollard-Kit.csv,Aligni,
+AG-Dual46-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 4mm + 6mm,A,Katana,2,0,AG-Dual46-WallMount-Kit.csv,Aligni,
+AG-Dual68-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-RoundBollard-Kit.csv,Aligni,
+AG-Dual68-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-SquareBollard-Kit.csv,Aligni,
+AG-Dual68-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-WallMount-Kit.csv,Aligni,
+AG-IP-001-000,Install Pack Base Set,A,Katana,12,2,AG-IP-001-000.csv,"ByTechs install-pack sheet, column 'BASE SET TO PACK SKU RRWMIPDC RRWM Quantity'",
+AG-IP-002-000,Install Pack Add-on: RR Bollard Mount,A,Katana,2,1,AG-IP-002-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDC RRBM Quantity'",
+AG-IP-003-000,Install Pack Add-on: Through Beam,A,Katana,5,1,AG-IP-003-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU TBIPDC TB Quantity'",
+AG-IP-004-000,"Install Pack Add-on: RR Bollard Mount, Reverse Camera",A,Katana,5,2,AG-IP-004-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDCR RRBM Quantity'",
+AG-IP-005-000,"Install Pack Add-on: RR Wall Mount, Reverse Camera",A,Katana,5,2,AG-IP-005-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRWMIPDCR RRWM Quantity'",
+AG-IP-006-000,"Install Pack Add-on: Through Beam, Reverse Camera",A,Katana,7,2,AG-IP-006-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU TBIPDCR TB Quantity'",
+AG-IP-RRBM-DC-Kit,Install Pack: Retro Reflective - Bollard Mount - Dual Camera,A,Katana,2,0,AG-IP-RRBM-DC-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-RRBM-DCR-Kit,Install Pack: Retro Reflective - Bollard Mount - Dual Camera - Reverse Camera,A,Katana,2,0,AG-IP-RRBM-DCR-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-RRWM-DC-Kit,Install Pack: Retro Reflective - Wall Mount - Dual Camera,A,Katana,1,0,AG-IP-RRWM-DC-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-RRWM-DCR-Kit,Install Pack: Retro Reflective - Wall Mount - Dual Camera - Reverse Camera,A,Katana,2,0,AG-IP-RRWM-DCR-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-TB-DC-Kit,Install Pack: Through Beam - Dual Camera,A,Katana,2,0,AG-IP-TB-DC-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-TB-DCR-Kit,Install Pack: Through Beam - Dual Camera - Reverse Camera,A,Katana,2,0,AG-IP-TB-DCR-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
+AG-IP-V4BM-DC-Kit,Install Pack: v4 - Bollard Mount - Dual Camera,A,Katana,1,0,AG-IP-V4BM-DC-Kit.csv,Ben 2026-11-13,One vπ pack as a part (AG-IP-RRBM-DC-Kit); V4 sensor hardware ships in the V4 box. Confirm the mapping.
+AG-IP-V4WM-DCR-Kit,Install Pack: v4 - Wall Mount - Dual Camera - Reverse Camera,A,Katana,1,0,AG-IP-V4WM-DCR-Kit.csv,Ben 2026-11-13,One vπ pack as a part (AG-IP-RRWM-DCR-Kit); V4 sensor hardware ships in the V4 box. Confirm the mapping.
+AG-OBL-001-000,Obelisk (draft),draft,Draft (not migrated),16,12,obelisk/AG-OBL-001-000.csv,"Slack #pt-obelisk, #airgarage-bytechs-tripleb-v4-hardware; tripwire-ecad PR #28",Design in flux (Ben 2026-11-13). Skeleton of known modules and parts with sources; not a buildable BOM.
+AG-OBL-002-000_CSInterface,Compute Stack Bollard Interface PCBA,X1,Draft (not migrated),9,0,obelisk/AG-OBL-002-000_CSInterface.csv,tripwire-ecad PR #28 (HW-975) @ 88d20a6,Open PR; product assignment assumed (Obelisk). Confirm.
+AG-PIC-001-000_Dual46,vπ Dual Camera Module — 4mm + 6mm,A,Katana,10,0,AG-PIC-001-000_Dual46.csv,Aligni,
+AG-PIC-001-000_Dual68,vπ Dual Camera Module — 6mm + 8mm,A,Katana,10,0,AG-PIC-001-000_Dual68.csv,Aligni,
+AG-PIC-002-000_Single4,vπ Single Camera Module — 4mm,A,Katana,9,0,AG-PIC-002-000_Single4.csv,Aligni,
+AG-PIC-002-000_Single6,vπ Single Camera Module — 6mm,A,Katana,9,0,AG-PIC-002-000_Single6.csv,Aligni,
+AG-PIC-002-000_Single8,vπ Single Camera Module — 8mm,A,Katana,9,0,AG-PIC-002-000_Single8.csv,Aligni,
+AG-PIC-003-000,vπ Round Bollard Mount,A,Katana,4,0,AG-PIC-003-000.csv,Aligni,
+AG-PIC-004-000,vπ Square Bollard Mount,A,Katana,4,0,AG-PIC-004-000.csv,Aligni,
+AG-PIC-005-000,vπ Wall Mount,A,Katana,7,0,AG-PIC-005-000.csv,Aligni,
+AG-SEN2-001-000,vπ Sensor Bar,A,Katana,14,0,AG-SEN2-001-000.csv,Aligni,
+AG-SEN2-002-000,vπ Sensor Retroreflector,D,Katana,2,0,AG-SEN2-002-000.csv,Aligni,"2x E39-R1S per retroreflector, so 4 per RR kit (Ben 2026-11-13). Was 4x E39-R1."
+AG-SEN2-003-000,vπ Sensor Enclosure X5,A,Katana,2,0,AG-SEN2-003-000.csv,Aligni,
+AG-SEN2-004-000_Breakout,Sensor Bar I/O Breakout PCBA,X2,Katana,6,1,AG-SEN2-004-000_Breakout.csv,KiCad sensor-bar-io-breakout,Was AG-SEN2-001-001_Breakout in Aligni (a Module with no BOM).
+AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,D,Katana,7,1,AG-SEN2-RR-Kit.csv,Aligni,"RJ-12 8ft to 15ft (Slack 2026-11-12). Adds the nylocks, enclosure pegs and 3/4in caps ByTechs now packs with sensor bar kits (ByTechs install-pack sheet); quantities per enclosure, to confirm."
+AG-SEN2-TB-Kit,vπ TB Sensor Bar Kit,B,Katana,7,1,AG-SEN2-TB-Kit.csv,Aligni,"RJ-12 8ft to 15ft (Slack 2026-11-12). Adds the nylocks, enclosure pegs and 3/4in caps ByTechs now packs with sensor bar kits (ByTechs install-pack sheet); quantities per enclosure, to confirm."
+AG-SEN4-001-000,V4 LiDAR Sensor,X5,Katana,17,3,AG-SEN4-001-000.csv,Notion V4A LiDAR Assembly + V4A Machining + V4 X3B Assembly,"X5 is the production build (Slack 2026-10-06); no X5 BoM exists, so this joins the newest Notion BoMs. MCAD X5 Release also has Internal Coupler ASM and Vamp Clamp ASM, in no BoM. Confirm with Monti."
+AG-SEN4-002-000_Interposer,Sensor Interposer PCBA,X4A,Katana,17,0,AG-SEN4-002-000_Interposer.csv,Notion X4A Sensor Interposer PCB,"Notion values (R1 6.8k, R3 1M, D2 SMAJ28A, C1 10nF 1kV, R6) are in no tripwire-ecad branch; KiCad main and PR #27 still have the older values."
+AG-SEN4-003-000,V4 Sensor Install Kit,A,Katana,8,7,AG-SEN4-003-000.csv,Notion V4 Sensor Kit BoM (2026-11-04),Every line lacks a part number in Notion.
+AG-SEN4-Kit,V4 Sensor Kit,A,Katana,2,0,AG-SEN4-Kit.csv,Shopify 'v4 Sensor Bar Assembly'; Slack 2026-11-04,Install hardware ships in the V4 box (Slack 2026-11-04).
+AG-Single4-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 4mm,A,Katana,2,0,AG-Single4-RoundBollard-Kit.csv,Aligni,
+AG-Single4-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 4mm,A,Katana,2,0,AG-Single4-SquareBollard-Kit.csv,Aligni,
+AG-Single4-WallMount-Kit,vπ Wall Mount Single Cam Kit — 4mm,A,Katana,2,0,AG-Single4-WallMount-Kit.csv,Aligni,
+AG-Single6-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 6mm,A,Katana,2,0,AG-Single6-RoundBollard-Kit.csv,Aligni,
+AG-Single6-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 6mm,A,Katana,2,0,AG-Single6-SquareBollard-Kit.csv,Aligni,
+AG-Single6-WallMount-Kit,vπ Wall Mount Single Cam Kit — 6mm,A,Katana,2,0,AG-Single6-WallMount-Kit.csv,Aligni,
+AG-Single8-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 8mm,A,Katana,2,0,AG-Single8-RoundBollard-Kit.csv,Aligni,
+AG-Single8-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 8mm,A,Katana,2,0,AG-Single8-SquareBollard-Kit.csv,Aligni,
+AG-Single8-WallMount-Kit,vπ Wall Mount Single Cam Kit — 8mm,A,Katana,2,0,AG-Single8-WallMount-Kit.csv,Aligni,

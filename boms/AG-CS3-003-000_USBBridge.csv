@@ -1,0 +1,4 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,USB-A Bridge bare PCB,AG-CS3-003-001_PCB,CS3-003-001_PCB,AirGarage,JLCPCB,,1,each,,,,,"Not fitted (DNP): C1,C2,C3,C4,R1,R2,R3,R4",,,Mechanical,
+2,"Conn_01x12_MountingPin Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/) (GCT_FFC2B28-12-G)",EXT-TBD-hat-usb-bridge-J2,,,,,1,each,,,,,,J2,,Electronic,
+3,USB3_A USB 3.0 A connector (USB3_A_Plug_XiamenJinbelli_USB-3.0AM-01-D_Vertical),EXT-USB-3.0AM-01-D,USB-3.0AM-01-D,Xiamen Jinbelli (JBL-EC),DigiKey,N/A,3,each,,,,,,"P1,P2,P3",,Electronic,

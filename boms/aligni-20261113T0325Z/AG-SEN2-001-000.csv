@@ -1,0 +1,15 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,"2020 Sensor Mount Bar Configuration as follows: Anodized black, M5 tapped ends, cut to length spec’d (455mm here)",EXT-HFSB5-2020-455-TPW,HFSB5-2020-455-TPW,Misumi,,,1,each,,,,,,,,Mechanical,A
+2,2020 Sensor Mount Bar,EXT-HFSB5-2020-270-TPW,HFSB5-2020-270-TPW,Misumi,Misumi,,1,each,,,10,,,,,Mechanical,A
+3,M5x8mm Button Head Screw,EXT-B07H18YDYB,B07H18YDYB,Amazon,Amazon,,12,each,,,1.01,,,,,Mechanical,A
+4,M5x12mm Button Head Screw,EXT-92095A210,92095A210,McMaster-Carr,McMaster-Carr,,1,each,,,0.22,,,,,Mechanical,A
+5,M3x8mm Button Head Screw,EXT-92095A181,92095A181,McMaster-Carr,McMaster-Carr,,4,each,,,0.32,,,,,Mechanical,A
+6,M5x4mm Heat set insert,EXT-B0CTCQN775,B0CTCQN775,Amazon,Amazon,,5,each,,,0.7,,,,,Mechanical,A
+7,M5 T-nut w/ Ball Spring,EXT-B0BZKG6DBZ,B0BZKG6DBZ,Amazon,Amazon,,4,each,,,0.35,,,,,Mechanical,A
+8,Roll Mount Plastic,AG-SEN2-001-007_RollMnt,SEN2-001-007_RollMnt,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
+9,Pitch Roll Mount Plastic,AG-SEN2-001-006_PitchRoll,SEN2-001-006_PitchRoll,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
+10,Base Mount Plastic,AG-SEN2-001-005_BaseMnt,SEN2-001-005_BaseMnt,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
+11,Sensor Mount Left Plastic,AG-SEN2-001-004_SenMntL,SEN2-001-004_SenMntL,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
+12,Sensor Mount Right Plastic,AG-SEN2-001-003_SenMntR,SEN2-001-003_SenMntR,ByTechs LLC,ByTechs LLC,,1,each,,,,,,,,Mechanical,A
+13,Sensor I/O Breakout,AG-SEN2-001-001_Breakout,SEN2-001-001_Breakout,ByTechs LLC,ByTechs LLC,,1,each,,,8,,,,,Module,A
+14,22AWG Ferrules,EXT-22AWGFERRULE,22AWGFERRULE,ByTechs LLC,ByTechs LLC,,6,each,,,,,,,,Mechanical,A

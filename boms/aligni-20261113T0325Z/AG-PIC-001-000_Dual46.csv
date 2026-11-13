@@ -1,0 +1,11 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,M3x8mm Thread Forming Screw,EXT-95893A189,95893A189,McMaster-Carr,McMaster-Carr,95893A189,6,each,,,,,,,,Mechanical,A
+2,M3x30mm Thread Forming Screw,EXT-95893A197,95893A197,McMaster-Carr,McMaster-Carr,95893A197,4,each,,,,,,,,Mechanical,A
+3,Lens Grommet,AG-PIC-001-004_LensGrom,PIC-001-004_LensGrom,ByTechs LLC,ByTechs LLC,PIC-001-004_LensGrom,2,each,,,,,,,,Mechanical,A
+4,Inner Lens Window,AG-PIC-001-002_InnerWindow,PIC-001-002_InnerWindow,ByTechs LLC,ByTechs LLC,PIC-001-002_InnerWindow,2,each,,,,,,,,Mechanical,A
+5,Dual Lens Window,AG-PIC-001-003_DualWindow,PIC-001-003_DualWindow,ByTechs LLC,ByTechs LLC,PIC-001-003_DualWindow,1,each,,,,,,,,Mechanical,A
+6,Dual Camera Mount Body,AG-PIC-001-001_DMainBody,PIC-001-001_DMainBody,ByTechs LLC,ByTechs LLC,PIC-001-001_DMainBody,1,each,,,,,,,,Mechanical,A
+7,Dual Lens Window Mount,AG-PIC-001-005_DualWinMount,PIC-001-005_DualWinMount,ByTechs LLC,ByTechs LLC,PIC-001-005_DualWinMount,1,each,,,,,,,,Mechanical,A
+8,ELP Camera — 4mm focal length,AG-PIC-001-005_ELPCam4,PIC-001-005_ELPCam4,ELP,ELP,PIC-001-005_ELPCam4,1,each,,,,,,,,Module,A
+9,ELP Camera — 6mm focal length,AG-PIC-001-005_ELPCam6,PIC-001-005_ELPCam6,ELP,ELP,PIC-001-005_ELPCam6,1,each,,,,,,,,Module,A
+10,ELP Camera USB Cable (5m),AG-PIC-001-006_ELPCamUSB,PIC-001-006_ELPCamUSB,ELP,ELP,PIC-001-006_ELPCamUSB,2,each,,,,,,,,Cable,A

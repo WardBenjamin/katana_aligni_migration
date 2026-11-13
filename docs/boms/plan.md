@@ -1,6 +1,6 @@
 # BOMs: export and reconciliation plan
 
-As of 2026-11-13 (UTC). Status: steps 1 to 4 done; open decisions are listed in [reconciliation.md](reconciliation.md#decisions-needed).
+As of 2026-11-13 (UTC). Status: steps 1 to 5 done; next is confirming part numbers and filling placeholders (step 6).
 
 ## Goal
 
@@ -8,7 +8,7 @@ Get one trustworthy BOM per assembly before migrating from Aligni to Katana. Ali
 
 ## Steps
 
-1. Done. Export Aligni to `boms/` (one CSV per assembly, active revision; other revisions in `boms/revisions/`). Scripts: `scratchpad/2026-11-13-aligni-bom-export/`.
+1. Done. Export Aligni (one CSV per assembly, active revision; other revisions in `revisions/`), now in `boms/aligni-20261113T0325Z/`. Scripts: `scratchpad/2026-11-13-aligni-bom-export/`.
 2. Done. Pull the other sources into `scratchpad/2026-11-13-bom-reconciliation/data/<source>/`, read-only:
    - Notion BoM databases and BoM tables under Engineering Home / Tripwire Home (vπ, V4, V3.1, kits).
    - ECAD: KiCad schematics in `repos/tripwire-ecad` (BOMs from symbol fields; two committed BOM CSVs for the sensor board).
@@ -29,5 +29,6 @@ Get one trustworthy BOM per assembly before migrating from Aligni to Katana. Ali
 
 ## Next
 
-5. Settle the decisions in `reconciliation.md`, apply the fixes to the CSVs (not to Aligni), and add BOMs for the items missing from Aligni.
-6. Convert `boms/` to Katana's BOM import template.
+5. Done 2026-11-13. Decisions settled by Ben and applied in a corrected BOM set (`boms/`, `build_boms.py`), with BOMs added for the PCBAs, install packs, V4 sensor and V4 packs, V3.1 (legacy) and Obelisk (draft). Part numbers proposed in `part-numbers.md`.
+6. Confirm the part numbers and fill the `EXT-TBD-*` lines (ByTechs for cables and fasteners, Monti for V4 X5).
+7. Convert `boms/` and `boms/items.csv` to Katana's item and BOM import templates.

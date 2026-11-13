@@ -53,13 +53,24 @@ Status: **OK** = matches the build as far as the sources show; **Fix** = Aligni 
 
 ## Part numbers and revisions
 
-Aligni part numbers are the standard: `AG-<family>-<assembly>-<item>_<suffix>` for our parts, `EXT-<vendor PN>` for bought parts, `-Kit` for shippable kits that are also Shopify SKUs. CAD release files should carry the same part number with an `_X<n>` revision tag (Ben, #airgarage-bytechs-hardware-chat, 2026-09-21). V4, install packs and PCBAs have no part numbers yet.
+Aligni part numbers are the standard: `AG-<family>-<assembly>-<item>_<suffix>` for our parts, `EXT-<vendor PN>` for bought parts, `-Kit` for shippable kits that are also Shopify SKUs. CAD release files should carry the same part number with an `_X<n>` revision tag (Ben, #airgarage-bytechs-hardware-chat, 2026-09-21). Proposed numbers for V4, install packs and PCBAs: [part-numbers.md](part-numbers.md).
 
-## Decisions needed
+## Decisions (Ben, 2026-11-13)
 
-1. Reflector: E39-R1 or E39-R1S, and how many per RR kit.
-2. Compute stack: confirm antennas (drop GPS?), and that the PCBAs go in as sub-assemblies with their own BOMs.
-3. Install packs: is a full RR-BM, TB or reverse pack the base set plus its add-on, and should Katana model them that way (base kit as an ingredient) or flat?
-4. V4 install packs: real SKUs or not.
-5. Part numbers for PCBAs, install packs and V4 parts before they enter Katana.
-6. Whether V3.1 and Obelisk go into Katana at all.
+1. Reflector: 4x E39-R1S per RR kit, as two retroreflector assemblies with two reflectors each.
+2. Compute stack: PCBAs go in as sub-assemblies with their own BOMs. Production keeps the cell+GPS combo antenna, the diversity antenna and the I425-GL modem.
+3. Install packs: a full pack is the base set plus its add-on kit, and Katana models it that way.
+4. V4 install packs are real SKUs, either containing one vπ install pack or a copy of its base set plus add-on.
+5. Part numbers: proposed in [part-numbers.md](part-numbers.md), awaiting confirmation.
+6. Scope: V3.1 is not migrated but its BOMs are cleaned up; V4 sensors are migrated; Obelisk is in flux and not migrated, with its BOM brought into shape as far as the sources allow.
+
+All six are applied in the corrected BOM set, `boms/` (built by `scratchpad/2026-11-13-bom-reconciliation/build_boms.py`; the untouched Aligni export is in `boms/aligni-20261113T0325Z/`). `boms/index.csv` lists each BOM with its scope, source, change and count of open lines.
+
+## Still open
+
+- Confirm the proposed part numbers and the renumbering in [part-numbers.md](part-numbers.md).
+- 39 open lines: `EXT-TBD-*` part numbers and blank quantities, listed in part-numbers.md. The largest groups are the V4 install kit (7, no part numbers in Notion) and the Obelisk skeleton (12).
+- Quantities derived rather than stated: 2 batteries per compute stack (from V3.1), and nylocks, pegs and caps per sensor bar kit (4/4/2 per enclosure).
+- V4 sensor: no X5 BoM exists; `AG-SEN4-001-000` joins the Notion V4A and X3B BoMs. MCAD X5 also has an internal coupler and Vamp Clamp in no BoM. Needs Monti.
+- V4 install packs: the bollard-mount V4 pack inherits the RR pack's reflector-bollard hardware; confirm or pick another add-on.
+- Modem Bridge X3 (flex) design files are not in tripwire-ecad; its BOM comes from X2.

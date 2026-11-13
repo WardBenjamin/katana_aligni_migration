@@ -1,18 +1,18 @@
 # /// script
 # requires-python = ">=3.15"
 # ///
-"""Write one CSV per Aligni assembly to <workspace>/boms/ from a pull.py snapshot. No network.
+"""Write one CSV per Aligni assembly to <workspace>/boms/aligni-<snapshot>/ from a pull.py snapshot. No network.
 
     uv run export.py data/20261113T0325Z
 
 Columns follow the Notion BoM databases (Part Name ... Notes), then the Aligni fields
-Katana needs. Active revision -> boms/<PN>.csv; other revisions -> boms/revisions/<PN>_Rev<X>.csv.
+Katana needs. Active revision -> <PN>.csv; other revisions -> revisions/<PN>_Rev<X>.csv.
 """
 import csv, json, sys
 from pathlib import Path
 
 SNAP = Path(sys.argv[1])
-OUT = Path(__file__).resolve().parents[2] / "boms"
+OUT = Path(__file__).resolve().parents[2] / "boms" / f"aligni-{SNAP.name}"
 EXCLUDE = {"TEST-Kit"}  # Aligni test object, not a product
 COLS = ["Line", "Part Name", "Part Number", "Part Number - Mfg", "Manufacturer", "Supplier",
         "Supplier Part Number", "Quantity Per Unit", "Unit", "Min Quantity Per Purchase", "Cost",

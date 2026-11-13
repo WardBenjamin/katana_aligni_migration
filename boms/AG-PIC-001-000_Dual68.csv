@@ -6,6 +6,6 @@ Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part
 5,Dual Lens Window,AG-PIC-001-003_DualWindow,PIC-001-003_DualWindow,ByTechs LLC,ByTechs LLC,PIC-001-003_DualWindow,1,each,,,,,,,,Mechanical,A
 6,Dual Camera Mount Body,AG-PIC-001-001_DMainBody,PIC-001-001_DMainBody,ByTechs LLC,ByTechs LLC,PIC-001-001_DMainBody,1,each,,,,,,,,Mechanical,A
 7,Dual Lens Window Mount,AG-PIC-001-005_DualWinMount,PIC-001-005_DualWinMount,ByTechs LLC,ByTechs LLC,PIC-001-005_DualWinMount,1,each,,,,,,,,Mechanical,A
-8,ELP Camera — 6mm focal length,AG-PIC-001-005_ELPCam6,PIC-001-005_ELPCam6,ELP,ELP,PIC-001-005_ELPCam6,1,each,,,,,,,,Module,A
-9,ELP Camera — 8mm focal length,AG-PIC-001-005_ELPCam8,PIC-001-005_ELPCam8,ELP,ELP,PIC-001-005_ELPCam8,1,each,,,,,,,,Module,A
+8,ELP Camera — 6mm focal length,AG-PIC-001-008_ELPCam6,PIC-001-005_ELPCam6,ELP,ELP,PIC-001-005_ELPCam6,1,each,,,,,,,,Module,A
+9,ELP Camera — 8mm focal length,AG-PIC-001-009_ELPCam8,PIC-001-005_ELPCam8,ELP,ELP,PIC-001-005_ELPCam8,1,each,,,,,,,,Module,A
 10,ELP Camera USB Cable (5m),AG-PIC-001-006_ELPCamUSB,PIC-001-006_ELPCamUSB,ELP,ELP,PIC-001-006_ELPCamUSB,2,each,,,,,,,,Cable,A

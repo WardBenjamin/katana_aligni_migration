@@ -1,5 +1,8 @@
 Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
 1,vπ Sensor Bar,AG-SEN2-001-000,SEN2-001-000,ByTechs LLC,,,1,each,,,,,,,,Assembly,A
 2,E3Z-R61,EXT-E3Z-R61,E3Z-R61,Omron,"Powermatic Associates, Inc.",,2,each,,,128.2,,,,,Module,A
-3,RJ-12 Cable (8ft),EXT-CS-44050-08,CS-44050-08,Infinite Cables,Infinite Cables,,1,each,,,6.38,,,,,Cable,A
+3,RJ-12 Cable (15ft),EXT-TBD-RJ12-15FT,,,,,1,each,,,,,,,,Cable,
 4,vπ Sensor Retroreflector,AG-SEN2-002-000,SEN2-002-000,ByTechs LLC,ByTechs LLC,,2,each,,,,,,,,Module,C
+5,"M6 x 1.0 Nylock, stainless",EXT-B0C52TVDGW,B0C52TVDGW,,Amazon,B0C52TVDGW,4,each,,,,,,,,Mechanical,
+6,Enclosure Peg (nylon pin),EXT-27PIF0089,27PIF0089,Essentra,Mouser,,4,each,,,,,,,,Mechanical,
+7,Enclosure 3/4in Cap (knock-out seal),EXT-B0GNN6HDVH,B0GNN6HDVH,,Amazon,B0GNN6HDVH,2,each,,,,,,,,Mechanical,

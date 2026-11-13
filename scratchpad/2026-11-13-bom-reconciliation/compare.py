@@ -14,7 +14,7 @@ import csv, difflib, re
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-BOMS = HERE.parents[1] / "boms"
+BOMS = HERE.parents[1] / "boms/aligni-20261113T0325Z"
 NOTION = HERE / "data/notion"
 PN_COLS = ["Part Number", "Internal Part Number", "Part Number - Internal", "Manufacturer Part Number",
            "Part Number - Mfg", "Supplier Part Number"]

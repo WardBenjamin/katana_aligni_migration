@@ -1,0 +1,10 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,Compute Stack Bollard Interface bare PCB,AG-OBL-002-001_PCB,OBL-002-001_PCB,AirGarage,,,1,each,,,,,,,,Mechanical,
+2,"100n Unpolarized capacitor, small symbol (C_0603_1608Metric)",EXT-CL10B104KB8NFNC,CL10B104KB8NFNC,Samsung,DigiKey,1276-1934-1-ND,1,each,,,,,,C1,,Electronic,
+3,GN Light emitting diode (D_0603_1608Metric),EXT-LTST-C190GKT,LTST-C190GKT,Lite-on,DigiKey,160-1183-1-ND,1,each,,,,,,D1,,Electronic,
+4,ETH_IN (RJ45_Amphenol_RJHSE5380),EXT-RJHSE5380,RJHSE5380,Amphenol,,,1,each,,,,,,J1,,Electronic,
+5,ETH_OUT (JST_PUD_S08B-PUDSS-1_2x04_P2.00mm_Horizontal),EXT-S08B-PUDSS-1,S08B-PUDSS-1,JST,,,1,each,,,,,,J2,,Electronic,
+6,"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25 (RJ12_Amphenol_54601-x06_Horizontal)",EXT-87180-066LF,87180-066LF,Amphenol FCI,DigiKey,609-1057-ND,1,each,,,,,,J3,,Electronic,
+7,PWR_OUT (JST_XA_S04B-XASK-1_1x04_P2.50mm_Horizontal),EXT-S04B-XASK-1,S04B-XASK-1,JST,,,1,each,,,,,,J4,,Electronic,
+8,4.7k (R_1206_3216Metric),EXT-RC1206FR-074K7L,RC1206FR-074K7L,Yageo,,,1,each,,,,,,R1,,Electronic,
+9,"1M Resistor, small US symbol (R_0603_1608Metric)",EXT-RMCF0603FT1M00,RMCF0603FT1M00,Stackpole,DigiKey,RMCF0603FT1M00TR-ND,1,each,,,,,,R2,,Electronic,
