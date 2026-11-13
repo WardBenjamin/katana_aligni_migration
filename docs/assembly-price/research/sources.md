@@ -39,3 +39,6 @@
 - `data/tariffs/hts_8525.89.json`, `hts_9903.88.03.json`, `hts_9903.03.json`, `ch99.txt`, `s122_proclamation.txt` under `scratchpad/2026-11-13-vpi-assembly-price/` (the agent's saved copies)
 - Slack thread C09FF4GLH9R, parent ts 1775836387.012279, via `slack_read_thread`
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/haig/Inv.98534.pdf`: Haig Precision invoice 98534 — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/bytechs/ByTechs-AG-2026/`: 27 ByTechs invoices, 1165 to 1217; all parsed, 1171, 1213 and 1217 read in full — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/samtec/34804506_Acknowledgment_20250801123454.pdf`: Samtec order acknowledgement, 3 pages — read 2026-11-13
+- Samtec rows of `scratchpad/2026-11-13-bom-costs/out/cost_records_20250101.csv` — read 2026-11-13

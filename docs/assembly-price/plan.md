@@ -1,6 +1,6 @@
 # vπ full assembly price: plan
 
-As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $1,918.73 priced, with ByTechs-made parts, most labour and packaging still missing. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
+As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $2,118.56 priced, including ByTechs labour from its itemized invoices. Left: filament, 33 low-value parts, most packaging materials and some freight, plus the assumptions listed there. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
 
 ## Goal
 
@@ -27,7 +27,7 @@ First configuration (`scratchpad/2026-11-13-vpi-assembly-price/configs/rr-bollar
 4. **Cost basis.** Latest production-quantity purchase, landed, replaced by a dated quote when it is older than six months. This also settles decision 3 in [../bom-costs/plan.md](../bom-costs/plan.md).
 5. **Browser access.** Agreed in principle; on hold until Ben says go. No Chrome use before then.
 6. **BOM corrections.** The M3 x 30 mm screw is McMaster 95893A198. The 3 in anchor is the Strong-Tie Titen HD 1/2 x 3 in (`EXT-THD50300H`). The wipes quantity is single wipes. All three are in `boms/`.
-7. **Prices given.** Raspberry Pi 5 16GB is $385.00 (MakerBright invoice 1381). Omron E39-R1S is $26.11 each at Digi-Key; use it over Powermatic's $20.94 because it is the most recent source.
+7. **Prices given.** McMaster 92095A210 is $10.91 per pack of 50. Raspberry Pi 5 16GB is $385.00 (MakerBright invoice 1381). Omron E39-R1S is $26.11 each at Digi-Key; use it over Powermatic's $20.94 because it is the most recent source.
 
 ## What the first pass shows
 
@@ -85,13 +85,13 @@ How the script reads that rule (my choices, change them if they are wrong):
 2. **Fill the seven open BOM lines** this configuration uses, with ByTechs. Done when no `EXT-TBD` part is left in the leaf list. The three BOM questions in [research/partial-rollup.md](research/partial-rollup.md) were answered by Ben on 2026-11-13 and one of the seven lines (the 3 in anchor) is now a real part, leaving six.
 3. **Build the match table.** First pass done 2026-11-13 as `price_rules.csv`: part, vendor pattern, item pattern, units per pack, flag. Part-number matches are automatic; 31 name-based rules were each checked against their lines. Left to do: your spot-check of the highest-value lines, and the 20 Digi-Key parts with no visible purchase.
 4. **Close the gaps outside the Ramp pull** (needs open decision 1 and the go-ahead for browser access):
-   - ByTechs' own itemized invoices (open decision 1).
+   - ByTechs' itemized invoices are in. Still needed from them: the two cable assemblies, ferrules, filament use and box sizes per kit.
    - The enclosure base and top are priced from Haig invoice 98534 (2026-04-23).
    - ELP cameras are priced from a proforma invoice dated 2026-01-27, which is stale under the rule.
    - Receipts for the Samsung direct orders.
    - Freight and tax on the bollard. The list price is in: $100 on 2026-11-13.
    - Fresh quotes for stale lines: E3Z-R61 sensors (last bought 2026-01-16), junction box, batteries. Ben gave current prices for the Raspberry Pi and the E39-R1S.
-   - The Samtec header invoice (18438338). The four bare PCBs are priced from JLCPCB invoices Ben supplied.
+   - The Samtec header is priced from the 2025-08 acknowledgement; invoice 18438338 (2026-10) would make it current. The four bare PCBs are priced from JLCPCB invoices Ben supplied.
 5. **Price the printed parts.** Get grams and print hours per part by slicing the plates in `tripwire-mcad`, or take ByTechs' figures; price filament from the Polymaker purchases.
 6. **Price the four PCBAs** (Party HAT, USB bridge, modem bridge, sensor breakout): parts from the match table, the bare PCB from its JLCPCB order, and the assembly fee.
 7. **Roll up by script.** Leaf to sub-assembly to configuration line to total. Output per line: cost, basis, date, source. Report the total, the share that rests on quotes or estimates, and a low-to-high range where a line is an estimate. `price_config.py` does this now for what can be priced; the range and the sub-assembly subtotals are not built.
@@ -105,7 +105,7 @@ Steps 1 to 3 and a partial roll-up with gaps marked can start on the data alread
 
 ## Open decisions
 
-1. **Itemized ByTechs invoices.** ByTechs is paid through Deel. The archive Ben supplied holds the Deel invoices, and the last five say only "See invoice" with a total ([research/invoices.md](research/invoices.md)). The labour, printed-part, cable and packaging prices are on ByTechs' own invoices, which Deel attaches. Those are needed, at least for 2026-06 to 2026-10.
+1. **ByTechs readings to confirm.** The itemized invoices arrived on 2026-11-13 and are in the roll-up ([research/bytechs-itemized-samtec.md](research/bytechs-itemized-samtec.md)). Open: which camera print charge applies ($25.00 a set or $6.00 a mount), and whether the build rates cover printing of compute stack and sensor bar parts.
 2. **Stale lines.** The E3Z-R61 sensors were last bought 2026-01-16. Get a quote, or accept that price?
 
 Ben supplied camera, wall-bracket and Raspberry Pi documents on 2026-11-13 ([research/elp-haig-makerbright.md](research/elp-haig-makerbright.md)) and is getting pricing for more of the missing items.

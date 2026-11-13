@@ -1,6 +1,6 @@
 # vπ full assembly price
 
-As of 2026-11-13 (UTC). Status: partial. Plan and method: [plan.md](plan.md).
+As of 2026-11-13 (UTC). Status: nearly complete, with assumptions to confirm. Plan and method: [plan.md](plan.md).
 
 Configuration: compute stack kit, RR sensor bar kit, enclosure base and top, dual camera kit (4 mm + 6 mm, round bollard mount), install pack RR bollard mount dual camera, Uline H-2118F bollard. One of each.
 
@@ -8,32 +8,34 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 
 ## Where it stands
 
-**$1,918.73 is priced. This is not yet the assembly price**: every ByTechs-made part, most labour and all packaging are missing.
+**$2,118.56 is priced.** What is still missing is small: filament and print material, 33 low-value parts, most packaging materials, and freight on the bollard and enclosure.
+
+| Configuration line | Priced |
+|---|---|
+| Compute stack kit `AG-CS3-Kit` | 850.53 |
+| RR sensor bar kit `AG-SEN2-RR-Kit` | 453.38 |
+| Dual camera kit `AG-Dual46-RoundBollard-Kit` | 406.96 |
+| Install pack `AG-IP-RRBM-DC-Kit` | 172.91 |
+| Enclosure base and top | 134.78 |
+| Bollard `EXT-H-2118F` | 100.00 |
+| **Total** | **2,118.56** |
+
+| Kind of cost | $ |
+|---|---|
+| Parts | 1,784.74 |
+| ByTechs labour (build, PCB assembly, packing) | 208.25 |
+| Camera import duty, estimated | 87.38 |
+| ByTechs printing, packing and box charges added per kit | 38.19 |
 
 | Basis | Rows | $ |
 |---|---|---|
-| Purchase at production quantity, inside six months | 48 | 662.24 |
-| Small-lot purchase inside six months | 3 | 140.77 |
-| List prices dated 2026-11-13 (reflectors, bollard) | 2 | 204.44 |
-| Stale purchases and proforma invoices (older than six months) | 22 | 771.95 |
-| Stale ByTechs labour | 3 | 51.95 |
-| Estimated import duty on the two cameras (entered about 2026-04-17) | 2 | 87.38 |
-| **Priced** | **80** | **1,918.73** |
-| Unpriced part rows | 52 | |
-| Unpriced labour rows | 12 | |
+| Purchases and ByTechs invoices inside six months | 61 | 1,041.26 |
+| List prices and a quote dated 2026-11-13 | 3 | 204.66 |
+| Purchases, invoices and the duty estimate older than six months | 26 | 872.64 |
+| Carried at $0 because another line covers them | 23 | 0.00 |
+| Unpriced part rows | 34 | |
 
-$1,007.45 rests on prices inside six months and $911.28 on older ones. 73 of 124 leaf parts are priced.
-
-By configuration line:
-
-| Line | Current | Stale | Unpriced rows |
-|---|---|---|---|
-| `AG-CS3-Kit` | 711.88 | 39.47 | 35 |
-| `AG-SEN2-RR-Kit` | 116.59 | 321.14 | 13 |
-| `AG-Dual46-RoundBollard-Kit` | 0.00 | 346.96 | 11 |
-| `AG-IP-RRBM-DC-Kit` | 78.98 | 78.93 | 5 |
-| Enclosure base and top | 0.00 | 124.78 | 0 |
-| `EXT-H-2118F` bollard | 100.00 | 0.00 | 0 |
+$1,245.92 rests on prices inside six months and $872.64 on older ones. Of 124 leaf parts, 74 have a price, 17 are carried at $0 and 33 are unpriced. All 15 labour rows are priced.
 
 Largest rows:
 
@@ -43,43 +45,66 @@ Largest rows:
 | Omron E3Z-R61 | 2 | 256.77 | stale purchase, 200 units | 2026-01-16 |
 | ELP camera, 4 mm (KV100IR) | 1 | 127.12 | stale proforma invoice, 50 units | 2026-01-27 |
 | ELP camera, 6 mm (KL60IR) | 1 | 127.12 | stale proforma invoice, 400 units | 2026-01-27 |
-| Import duty on the two cameras | 2 | 87.38 | stale estimate, 35% plus processing fee | 2026-04-17 |
 | Samsung PRO Endurance 256GB | 1 | 114.36 | small-lot purchase, 2 units | 2026-06-21 |
 | Omron E39-R1S | 4 | 104.44 | Digi-Key list price, chosen by Ben | 2026-11-13 |
 | Uline H-2118F bollard | 1 | 100.00 | list price, no freight or tax | 2026-11-13 |
 | Sensor enclosure top (V5, orange) | 1 | 87.70 | stale purchase, 150 units | 2026-04-23 |
+| Import duty on the two cameras | 2 | 87.38 | stale estimate, 35% plus processing fee | 2026-04-17 |
+| Compute stack build (ByTechs) | 1 | 75.00 | ByTechs invoice 1217, 41 units | 2026-09-30 |
 | IPEX junction box | 1 | 68.04 | stale purchase, 150 units | 2026-04-08 |
 | Sequent Watchdog HAT | 1 | 45.20 | purchase, 50 units | 2026-06-22 |
 | Sixfab base HAT | 1 | 45.20 | purchase, 84 units | 2026-06-11 |
 | Sensor enclosure base (V5) | 1 | 37.08 | stale purchase, 150 units | 2026-04-23 |
+| Dual camera kit build (ByTechs) | 1 | 35.00 | ByTechs invoice 1217, 20 units | 2026-09-30 |
 | I425-GL modem | 1 | 35.00 | purchase, 100 units | 2026-11-06 |
-| Titen HD anchor | 12 | 27.66 | purchase, 20 packs of 25 | 2026-07-16 |
-| Sensor bar assembly (labour) | 1 | 27.00 | stale Deel task line, 10 units | 2025-12-14 |
-| Modem bridge bare PCB | 1 | 21.36 | small-lot purchase, 5 units | 2026-10-08 |
-| Bollard washer | 12 | 20.73 | purchase, 500 units | 2026-07-16 |
-
-The camera price includes its 5 m USB cable, so the two cable rows are priced at $0.00. With the estimated duty, one camera lands at about $170.81. The Raspberry Pi cooler is $6.50 on the same MakerBright invoice.
 
 Every row, with its source: `scratchpad/2026-11-13-vpi-assembly-price/out/rr-bollard-dual46_price_lines.csv`. Rebuild: `uv run --python 3.15 price_config.py configs/rr-bollard-dual46.csv --as-of 2026-11-13`.
 
+## ByTechs charges in the price
+
+From ByTechs' itemized invoices ([research/bytechs-itemized-samtec.md](research/bytechs-itemized-samtec.md)):
+
+| Charge | Per unit | Invoice, date | Attached to |
+|---|---|---|---|
+| Compute stack build | $75.00 | 1217, 2026-09-30 | `AG-CS3-001-000` |
+| Party HAT X5C PCB assembly | $22.50 (27 h for 120 units) | 1199, 2026-06-02 | `AG-CS3-002-000_PartyHAT` |
+| Modem bridge PCB assembly | $9.38 (2 h at $150 for 32 units) | 1217, 2026-09-30 | `AG-CS3-004-000_ModemBridge` |
+| USB bridge PCB assembly | $4.37 (11 h for 252 units) | 1197, 2026-05-26 | `AG-CS3-003-000_USBBridge` |
+| Sensor breakout PCB assembly | $5.00 (10 h for 200 units), stale | 1194, 2026-05-11 | `AG-SEN2-004-000_Breakout` |
+| Retroreflective sensor bar build | $30.00 | 1217, 2026-09-30 | `AG-SEN2-RR-Kit` |
+| Print rain cover and install reflectors | $6.00, two per kit | 1217, 2026-09-30 | `AG-SEN2-002-000` |
+| Dual camera kit build, 6/4 mm | $35.00 | 1217, 2026-09-30 | `AG-Dual46-RoundBollard-Kit` |
+| 3D printing, camera housings and parts | $25.00 | 1205, 2026-06-26 | `AG-Dual46-RoundBollard-Kit` |
+| Installer kit packing | $15.00 | 1217, 2026-09-30 | `AG-IP-RRBM-DC-Kit` |
+| Enclosure packing | $10.00 | 1217, 2026-09-30 | enclosure base |
+| Sensor bar box, 3.5 x 3.5 x 20 in | $3.19, stale | 1174, 2026-02-18 | `AG-SEN2-RR-Kit` |
+
+## Assumptions to confirm
+
+1. **Camera print charge.** The roll-up uses $25.00 per camera kit ("3D Printing Camera Housings and Parts", June). The September invoice instead bills "3D Print Dual Camera Mounts" at $6.00. Which applies to one dual bollard kit?
+2. **Printing inside build rates.** The seven printed compute stack parts and eight printed or cut camera kit parts are carried at $0 on the reading that ByTechs' rates cover the print labour. Filament and window material are not priced.
+3. **Sub-assembly labour.** ByTechs bills one line per kit, so the sensor bar assembly, camera module, bollard mount, compute stack kit and the two install pack sets are carried at $0 under the kit's rate.
+4. **4 mm camera.** The KV100IR ("V100 lens") is taken as the 4 mm camera.
+5. **Samtec header freight.** The $8.95 between the acknowledgement ($298.20) and the Ramp charge of 2025-08-06 ($307.15) is taken as freight.
+
 ## Still unpriced
 
-- **ByTechs-made parts**, 24: printed and cut parts for the compute stack (7), camera module (5), bollard mount (3), sensor bar (5) and reflector cover (1); two cable assemblies; ferrules.
-- **Labour** for 12 assemblies: compute stack, camera module, bollard mount, reflector, USB and modem bridge PCBAs, the three kits, the install pack and its two sets.
-- **Packaging.** In no BOM. Uline boxes were $3.06 to $5.71 landed each on 2026-06-22.
-- **20 Digi-Key parts with no visible purchase**: mostly resistors, capacitors, LEDs and diodes on the PCBAs, plus the Samtec header, the USB 3.0 plugs and one standoff.
-- **Others**: four `EXT-TBD` PCB connectors, the padlocks (3), the trash bag and McMaster 92095A210.
-- **Bollard freight and tax.** The $100.00 is list price only.
+- **Sensor bar printed parts**, 5: no ByTechs print line has covered them since January 2026 ($30.60 per set then, including reflector housings).
+- **Two cable assemblies and the ferrules** made by ByTechs.
+- **19 Digi-Key parts with no visible purchase**: resistors, capacitors, LEDs and diodes on the PCBAs, the JST XA header, the USB 3.0 plugs and one standoff. ByTechs billed $7,935.64 on 2026-01-21 as "Cost for Parts for 250x Compute Stack Vπ units" ($31.74 a stack) with no breakdown; some of these parts may be in it.
+- **Four `EXT-TBD` PCB connectors**, the padlocks (3) and the trash bag.
+- **Filament and print material** for every printed part.
+- **Packaging materials** other than the sensor bar box: boxes for the compute stack, camera kit, enclosure and install pack. Uline boxes were $3.06 to $5.71 landed each on 2026-06-22.
+- **Freight and tax on the bollard; freight on the enclosures.**
 
-The ByTechs archive does not fill the ByTechs gaps: its last five invoices say only "See invoice" ([research/invoices.md](research/invoices.md)).
+Not allocated to a unit: ByTechs' monthly rent ($250), ordering and inventory hours, troubleshooting of returned units, and Deel's $49 monthly fee.
 
 ## Stale lines that need a quote or a confirmation under the six-month rule
 
 - E3Z-R61 sensors, $256.77: invoice paid 2026-01-16. The order acknowledgement Ben supplied shows the same $128.20 unit price from 2025-10-14 ([research/powermatic-ordack.md](research/powermatic-ordack.md)).
 - ELP cameras, $254.25, and their estimated duty, $87.38: proforma invoice dated 2026-01-27, entered the US about 2026-04-17.
 - Sensor enclosure top and base, $124.78: Haig invoice 98534 dated 2026-04-23, three weeks past the six-month line.
-- Junction box, $68.04; the two Misumi bars, $25.30; compression connectors, $10.89; P30B batteries, $9.27; and smaller lines.
-- All ByTechs labour figures: the newest is from 2025-12.
+- Junction box, $68.04; the two Misumi bars, $25.30; compression connectors, $10.89; P30B batteries, $9.27; the Samtec header, $5.12 (2025-08); and smaller lines.
 
 ## Camera import duty
 
@@ -101,9 +126,10 @@ The roll-up uses the likely case plus a $0.43 processing fee, $43.69 per camera.
 
 - First pass and coverage: [research/first-pass.md](research/first-pass.md).
 - First roll-up, how a price is picked, BOM questions: [research/partial-rollup.md](research/partial-rollup.md).
-- ByTechs and JLCPCB invoices: [research/invoices.md](research/invoices.md).
+- ByTechs (Deel) and JLCPCB invoices: [research/invoices.md](research/invoices.md).
+- ByTechs itemized invoices and the Samtec acknowledgement: [research/bytechs-itemized-samtec.md](research/bytechs-itemized-samtec.md).
 - Powermatic order acknowledgement: [research/powermatic-ordack.md](research/powermatic-ordack.md).
 - ELP, Haig and MakerBright documents: [research/elp-haig-makerbright.md](research/elp-haig-makerbright.md).
 - Sensor enclosure: [research/haig-enclosure.md](research/haig-enclosure.md).
 - Camera import duty: [research/camera-tariffs.md](research/camera-tariffs.md), [research/camera-tariffs-review.md](research/camera-tariffs-review.md).
-- E39-R1S at $26.11 (https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204) was given by Ben on 2026-11-13 as the most recent source; the page was not opened.
+- E39-R1S at $26.11 (https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204) and McMaster 92095A210 at $10.91 per pack of 50 were given by Ben on 2026-11-13; neither page was opened.

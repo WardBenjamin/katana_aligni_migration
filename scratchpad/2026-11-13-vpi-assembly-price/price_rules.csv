@@ -33,10 +33,19 @@ AG-CS3-002-001_PCB,^JLCPCB$,party-hat-x5c_gerbers,1,,
 AG-CS3-003-001_PCB,^JLCPCB$,usb-bridge-x3_gerbers,1,,
 AG-CS3-004-001_PCB,^JLCPCB$,modem-bridge_x3out,1,,
 AG-SEN2-004-001_PCB,^JLCPCB$,printed circuit board sensor-bar-io-breakout-x2_gerbers,1,,The stencil on the same invoice is tooling
-AG-SEN2-001-000,^Bytechs$,sensor bar assemblies for inventory,1,Deel task line with no itemized invoice,Labour
+AG-SEN2-RR-Kit,^Bytechs$,sensor bar assemblies for inventory,1,Deel task line with no itemized invoice,Labour
 AG-PIC-001-007_ELPCam4,^Shenzhen Ailipu,elp-usbgs5mp01-kv100ir,1,V100 lens taken as the 4 mm camera,
 AG-PIC-001-008_ELPCam6,^Shenzhen Ailipu,elp-usbgs5mp01-kl60ir,1,,
 AG-PIC-001-009_ELPCam8,^Shenzhen Ailipu,elp-usbgs5mp01-kl80ir,1,,
 AG-PIC-005-001_WallBracket,^Haig Precision,wall mount dual camera,1,,
 AG-SEN2-003-002_EnclosureTop,^Haig Precision,sensor enclosure assy v5,1,,
 AG-SEN2-003-001_EnclosureBase,^Haig Precision,sensor enclosure base v5,1,,
+AG-CS3-001-000,^Bytechs$,\bmanufacturing: (vπ )?compute stack,1,,Labour: every compute stack build line
+AG-Dual46-RoundBollard-Kit,^Bytechs$,\bmanufacturing: dual camera kit - 6/4mm,1,,Labour
+AG-SEN2-RR-Kit,^Bytechs$,\bmanufacturing: (retroreflective sensor bar building|sensor bar kit r61|r61 sensor bar assembly),1,,Labour
+AG-SEN2-002-000,^Bytechs$,3d print retroreflective rain covers and install reflectors,1,,Labour and printing of the cover
+AG-IP-RRBM-DC-Kit,^Bytechs$,\bmanufacturing: (installer kit pack|packing installer kits|pack installer kits),1,,Labour
+AG-CS3-002-000_PartyHAT,^Bytechs$,partyhat x5c assembly \(120 units\),4.444444,hourly line: 27 h for 120 units,Labour
+AG-CS3-003-000_USBBridge,^Bytechs$,usb bridge assembly \(252 units\),22.909091,hourly line: 11 h for 252 units,Labour
+AG-CS3-004-000_ModemBridge,^Bytechs$,modem bridge assembly \(32 units\),16,hourly line: 2 h for 32 units,Labour
+AG-SEN2-004-000_Breakout,^Bytechs$,sensor bar pcb assembly \(200x units\),20,hourly line: 10 h for 200 units,Labour

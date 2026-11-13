@@ -38,8 +38,8 @@ FIELDS = ["Config Line", "Kind", "Part Number", "Part Name", "Extended Quantity"
 
 
 def invoice_lines():
-    """Lines typed from invoices outside the Ramp pull, landed pro rata by line total like the cost record."""
-    typed = read(HERE / "invoice_lines.csv")
+    """Invoice lines outside the Ramp pull (typed by hand, or parsed from ByTechs' PDFs), landed pro rata by line total."""
+    typed = read(HERE / "invoice_lines.csv") + read(HERE / "invoice_lines_bytechs.csv")
     goods = defaultdict(float)
     for r in typed:
         goods[r["source_file"], r["invoice_goods_total"]] += float(r["line_total"])
@@ -47,7 +47,8 @@ def invoice_lines():
         assert abs(summed - float(total)) < 0.005, f"lines do not add up to the goods total: {source}"
     return [{"date_utc": r["date_utc"], "vendor": r["vendor"], "vendor_pn": "", "mpn": "", "item_code": "",
              "item_name": r["item_name"], "item_name_full": "", "quantity": r["quantity"], "unit_price": r["unit_price"],
-             "landed_unit_cost": float(r["line_total"]) * float(r["invoice_total"]) / float(r["invoice_goods_total"]) / float(r["quantity"]),
+             # a line with quantity 0 is a placeholder on the invoice and carries no price
+             "landed_unit_cost": float(r["quantity"]) and float(r["line_total"]) * float(r["invoice_total"]) / float(r["invoice_goods_total"]) / float(r["quantity"]),
              "needs_review": "False", "link": f"{r['source_file']} ({r['invoice_no']})", "flag": r["flag"]} for r in typed]
 
 
@@ -152,7 +153,7 @@ def main():
         each = pick.get("each")
         rows.append({
             "Config Line": root, "Kind": "labour" if is_assembly else "part", "Part Number": part,
-            "Part Name": ("Labour: " + names[part]) if is_assembly else items.get(part, {}).get("Part Name", ""),
+            "Part Name": ("ByTechs labour: " + names[part]) if is_assembly else items.get(part, {}).get("Part Name", ""),
             "Extended Quantity": f"{q:g}",
             "Each Cost": "" if each is None else f"{each:.4f}",
             "Extended Cost": "" if each is None else f"{each * q:.2f}",
@@ -160,7 +161,7 @@ def main():
             "Purchased Quantity": pick.get("qty", ""), "Units Per Pack": pick.get("pack", ""),
             "Purchase Lines": lines, "Flag": pick.get("flag", ""), "Source": pick.get("source", ""),
         })
-        for a in () if is_assembly else adders.get(part, ()):
+        for a in adders.get(part, ()):
             rows.append({
                 "Config Line": root, "Kind": "adder", "Part Number": part, "Part Name": a["Description"],
                 "Extended Quantity": f"{q:g}", "Each Cost": f"{float(a['Each Cost']):.4f}",
