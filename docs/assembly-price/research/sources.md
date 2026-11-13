@@ -12,3 +12,5 @@
 - `scratchpad/2026-11-13-bom-reconciliation/build_boms.py` (item definitions and how `boms/items.csv` is written) — read 2026-11-13
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/bytechs/pdf/`: 25 Bytechs LLC invoices issued through Deel (text of all 25 for task lines and totals; the last five and INV-2025-1, -3, -4, -5, -6, -7 and INV-nd68x8z-2026-1 in full) and one of 9 Deel fee invoices — read 2026-11-13
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/pcb/invoice-5.pdf`, `invoice-6.pdf`, `invoice-7.pdf`: JLCPCB invoices, read by eye (no text layer) — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/powermatic/OrdAck1426189.pdf`: Powermatic order acknowledgement 1426189, 1 page — read 2026-11-13
+- `scratchpad/2026-11-13-bom-costs/data/ramp/manual_lines.csv` (Powermatic rows) and the Powermatic rows of `cost_records_20250101.csv` and `cost_lines_20250101.csv` — read 2026-11-13

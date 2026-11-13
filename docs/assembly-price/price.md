@@ -69,11 +69,12 @@ The ByTechs archive does not fill the ByTechs gaps: its last five invoices say o
 
 ## Stale lines that need a quote under the six-month rule
 
-E3Z-R61 sensors ($256.77, bought 2026-01-16), junction box ($68.04), the two Misumi bars ($25.30), compression connectors ($10.89), P30B batteries ($9.27), and smaller lines. All ByTechs labour figures are stale: the newest is from 2025-12.
+E3Z-R61 sensors ($256.77, invoice paid 2026-01-16; the order acknowledgement Ben supplied shows the same $128.20 unit price from 2025-10-14, [research/powermatic-ordack.md](research/powermatic-ordack.md)), junction box ($68.04), the two Misumi bars ($25.30), compression connectors ($10.89), P30B batteries ($9.27), and smaller lines. All ByTechs labour figures are stale: the newest is from 2025-12.
 
 ## Sources
 
 - First pass and coverage: [research/first-pass.md](research/first-pass.md).
 - First roll-up, how a price is picked, BOM questions: [research/partial-rollup.md](research/partial-rollup.md).
 - ByTechs and JLCPCB invoices: [research/invoices.md](research/invoices.md).
+- Powermatic order acknowledgement: [research/powermatic-ordack.md](research/powermatic-ordack.md).
 - Raspberry Pi 5 16GB at $385.00 and E39-R1S at $26.11 (https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204) were given by Ben on 2026-11-13; neither page was opened.
