@@ -1,0 +1,27 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,M3x8mm Thread Forming Screw,EXT-95893A189,95893A189,McMaster-Carr,McMaster-Carr,95893A189,2,each,,,,,,,,Mechanical,A
+2,M2.5 40mm Socket Head Screw,EXT-91292A837,91292A837,McMaster-Carr,McMaster-Carr,91292A837,2,each,,,,,,,,Mechanical,A
+3,M2.5 5mm Socket Head Screw,EXT-91292A009,91292A009,McMaster-Carr,McMaster-Carr,91292A009,6,each,,,,,,,,Mechanical,A
+4,M2.5 16mm M-F Standoff,EXT-732-10422-ND,732-10422-ND,Würth Elektronik,DigiKey,732-10422-ND,2,each,,,,,,,,Mechanical,A
+5,M2.5 10mm M-F Standoff,EXT-732-12917-ND,732-12917-ND,Würth Elektronik,DigiKey,732-12917-ND,2,each,,,,,,,,Mechanical,A
+6,M2.5 14mm F-F Standoff,EXT-952-3964-ND,952-3964-ND,Harwin,DigiKey,952-3964-ND,4,each,,,,,,,,Mechanical,A
+7,Thermal Pad — for the vπ USB port header (prevents SWDv9 button short),EXT-1168-TG-A1250-15-15-1.0-ND,1168-TG-A1250-15-15-1.0-ND,T-Global Technology,DigiKey,1168-TG-A1250-15-15-1.0-ND,1,each,,,,,For the vπ USB port header — prevents SWDv9 button short,,,Mechanical,A
+8,vπ Display Bracket,AG-CS3-001-006_PDisp,CS3-001-006_PDisp,ByTechs LLC,ByTechs LLC,CS3-001-006_PDisp,1,each,,,,,,,,Mechanical,A
+9,vπ Antenna Wing - Left,AG-CS3-001-004_WingLeft,CS3-001-004_WingLeft,ByTechs LLC,ByTechs LLC,CS3-001-004_WingLeft,1,each,,,,,,,,Mechanical,A
+10,vπ Antenna Wing - Right,AG-CS3-001-005_WingRight,CS3-001-005_WingRight,ByTechs LLC,ByTechs LLC,CS3-001-005_WingRight,1,each,,,,,,,,Mechanical,A
+11,vπ Antenna Wing - Base,AG-CS3-001-003_WingBase,CS3-001-003_WingBase,ByTechs LLC,ByTechs LLC,CS3-001-003_WingBase,1,each,,,,,,,,Mechanical,A
+12,vπ Case Body,AG-CS3-001-001_CaseBody,CS3-001-001_CaseBody,ByTechs LLC,ByTechs LLC,CS3-001-001_CaseBody,1,each,,,,,,,,Mechanical,A
+13,vπ Case Faceplate,AG-CS3-001-002_Faceplate,CS3-001-002_Faceplate,ByTechs LLC,ByTechs LLC,CS3-001-002_Faceplate,1,each,,,,,,,,Mechanical,A
+14,Hologram SIM Card,EXT-G3-F,G3-F,Hologram,Hologram,G3-F,1,each,,,,,,,,Other,A
+15,Super Watchdog HAT v9 with Battery Backup for Raspberry Pi,EXT-SM-I-003,SM-I-003,Sequent Microsystems,Sequent Microsystems,SM-I-003,1,each,,,,,,,,Module,A
+16,LTE Modem (I425-GL) — Eagle Wireless (2026),EXT-I425-GL,I425-GL,Eagle Wireless,Eagle Wireless,I425-GL,1,each,,,,,"Primary LTE modem (Eagle Wireless, 2026)",,,Module,A
+17,LTE Modem (EG25-G) — Quectel via DigiKey (2025),EXT-EG25-G,EG25-G,Quectel,DigiKey,EG25-G,1,each,,,,,Alternate to I425-GL — Quectel EG25-G via DigiKey (2025),,Y,Module,A
+18,Sixfab 3G–4G/LTE Base HAT for Raspberry Pi,EXT-SixFabLTEHAT,raspberry-pi-base-hat-3g-4g-lte-minipcie-cards,Sixfab,Sixfab,raspberry-pi-base-hat-3g-4g-lte-minipcie-cards,1,each,,,,,,,,Module,A
+19,Raspberry Pi 5 16GB,EXT-SC1113,SC1113,MakerBright,MakerBright,SC1113,1,each,,,,,,,,Module,A
+20,Samsung PRO Endurance microSDXC 256GB w/ Adapter,EXT-MB-MJ256KA/AM,MB-MJ256KA/AM,Samsung,Samsung,MB-MJ256KA/AM,1,each,,,,,,,,Other,A
+21,2x JST-XA to Ferrule cable,AG-CS3-001-007_PowerCab,CS3-001-007_PowerCab,ByTechs LLC,ByTechs LLC,CS3-001-007_PowerCab,1,each,,,,,,,,Cable,A
+22,0.91” OLED Display,EXT-14657,14657,Waveshare,Waveshare,14657,1,each,,,,,,,,Module,A
+23,JST-PH 4-Pin Cable (for OLED to PartyHAT connection),EXT-5623,5623,Pololu,Pololu,5623,1,each,,,,,OLED to PartyHAT connection,,,Cable,A
+24,12pos 0.5mm 1.18” FFC,EXT-2073-05-12-A-0030-A-4-06-4-T-ND,2073-05-12-A-0030-A-4-06-4-T-ND,GCT,DigiKey,2073-05-12-A-0030-A-4-06-4-T-ND,1,each,,,,,,,,Module,A
+25,Pulse Electronics LTE + GPS Antenna,EXT-W3906XXXX,W3906B0100,Pulse Electronics,Mouser,W3906B0100,1,each,,,,,LTE + GPS antenna,,,Module,A
+26,Antenova LTE + Cellular Antenna,EXT-SRFL029,SRFL029-100,Antenova,Mouser,SRFL029-100,1,each,,,,,LTE + Cellular antenna,,,Module,A

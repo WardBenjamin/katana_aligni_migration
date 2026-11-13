@@ -1,0 +1,6 @@
+Line,Part Name,Part Number,Part Number - Mfg,Manufacturer,Supplier,Supplier Part Number,Quantity Per Unit,Unit,Min Quantity Per Purchase,Cost,Cost Per Unit,Links,Notes,Designator,No Load,Part Type,Child Revision
+1,vπ Sensor Bar,AG-SEN2-001-000,SEN2-001-000,ByTechs LLC,,,1,each,,,,,,,,Assembly,A
+2,E3Z-R61,EXT-E3Z-R61,E3Z-R61,Omron,"Powermatic Associates, Inc.",,2,each,,,128.2,,,,,Module,A
+3,RJ-12 Cable (8ft),EXT-CS-44050-08,CS-44050-08,Infinite Cables,Infinite Cables,,1,each,,,6.38,,,,,Cable,A
+4,12V/6W Power Supply,EXT-L6R06H-120,L6R06H-120,"Tri-Mag, LLC",DigiKey,,1,each,,,5.22,,,,,Power,A
+5,vπ Sensor Retroreflector,AG-SEN2-002-000,SEN2-002-000,ByTechs LLC,ByTechs LLC,,2,each,,,,,,,,Module,C

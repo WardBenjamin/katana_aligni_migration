@@ -1,0 +1,4506 @@
+[
+ {
+  "id": "itm_01KPTY8PMB8039R0Y2V893E2ST",
+  "partNumber": "EXT-E3Z-R61",
+  "manufacturerPn": "E3Z-R61",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": 128.2,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Omron",
+   "shortName": "OMR"
+  },
+  "preferredVendor": {
+   "name": "Powermatic Associates, Inc."
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PMG0YXEQDPF39MWRVAY",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PN5WNFQ0YXRZCZGPX4G",
+  "partNumber": "EXT-L6R06H-120",
+  "manufacturerPn": "L6R06H-120",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-07-13T12:34:55-04:00",
+  "standardCost": 5.22,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Power",
+   "partnumberKey": "0003"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Tri-Mag, LLC",
+   "shortName": "TRL"
+  },
+  "preferredVendor": {
+   "name": "DigiKey"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PNAX6AJ6CGAQMTFTNK1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+  "partNumber": "AG-SEN2-002-000",
+  "manufacturerPn": "SEN2-002-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-07-28T13:38:50-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KW9R44VC8PT26N553JEV9GSM",
+   "revisionName": "C"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PPPNGWNGV7HQWBR14B7",
+  "partNumber": "EXT-HFSB5-2020-270-TPW",
+  "manufacturerPn": "HFSB5-2020-270-TPW",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": 10.0,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Misumi",
+   "shortName": "MSM"
+  },
+  "preferredVendor": {
+   "name": "Misumi"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PPWFTKZGGA3EGMDQN7A",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PQG7270081NW8ZN5166",
+  "partNumber": "EXT-B07H18YDYB",
+  "manufacturerPn": "B07H18YDYB",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": 1.01,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Amazon",
+   "shortName": "AMZ"
+  },
+  "preferredVendor": {
+   "name": "Amazon"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PQNNX1J82K904EDDYE4",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PRCNBDM8EH13EK01P2W",
+  "partNumber": "EXT-92095A210",
+  "manufacturerPn": "92095A210",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": 0.22,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": {
+   "name": "McMaster-Carr"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PRHFRWAREX0ZT6GE3JD",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PS6AKFF488WDR4WGZMD",
+  "partNumber": "EXT-92095A181",
+  "manufacturerPn": "92095A181",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": 0.32,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": {
+   "name": "McMaster-Carr"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PSB2NMSMEB9H3JDTEH5",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PTPJECNA07XZAA3YNEP",
+  "partNumber": "EXT-B0CTCQN775",
+  "manufacturerPn": "B0CTCQN775",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": 0.7,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Amazon",
+   "shortName": "AMZ"
+  },
+  "preferredVendor": {
+   "name": "Amazon"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PTVQE3YXS0TA0RD1VYT",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PVKM6B9SQKM7TM0VF0D",
+  "partNumber": "EXT-B0BZKG6DBZ",
+  "manufacturerPn": "B0BZKG6DBZ",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": 0.35,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Amazon",
+   "shortName": "AMZ"
+  },
+  "preferredVendor": {
+   "name": "Amazon"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PVRRBHRRZYZZ1ATV88M",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PWD8K1CW95X5D5BMXAT",
+  "partNumber": "AG-SEN2-001-007_RollMnt",
+  "manufacturerPn": "SEN2-001-007_RollMnt",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PWJYN6D7JG2MG3AT7Q1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PX7T2383DGWY0XYDF7Y",
+  "partNumber": "AG-SEN2-001-006_PitchRoll",
+  "manufacturerPn": "SEN2-001-006_PitchRoll",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PXEPNQ9B5F7NH4CEBXT",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PY44F0W2134FQ1996XY",
+  "partNumber": "AG-SEN2-001-005_BaseMnt",
+  "manufacturerPn": "SEN2-001-005_BaseMnt",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PY9TTX7SE6VGHMPDDNA",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PYYJ34AS14XFQRFHGJN",
+  "partNumber": "AG-SEN2-001-004_SenMntL",
+  "manufacturerPn": "SEN2-001-004_SenMntL",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PZ22P4XD200B5QCYEC6",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8PZNRY76X2SJH2Y9GNC9",
+  "partNumber": "AG-SEN2-001-003_SenMntR",
+  "manufacturerPn": "SEN2-001-003_SenMntR",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8PZT3Q6MB1XDQ503XNNC",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q0E7F974B2GB8YMF40R",
+  "partNumber": "AG-SEN2-001-001_Breakout",
+  "manufacturerPn": "SEN2-001-001_Breakout",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": 8.0,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q0JVNA3GT3W7MHYN2AJ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q1A0W53HPA0CDKVKF9H",
+  "partNumber": "EXT-22AWGFERRULE",
+  "manufacturerPn": "22AWGFERRULE",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q1FPFGQ8N6ABX3P02DF",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q25SAMYKE99G2YMKJVF",
+  "partNumber": "AG-SEN2-002-001_DualRRCov",
+  "manufacturerPn": "SEN2-002-001_DualRRCov",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": {
+   "name": "ByTechs LLC"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q2A46016EH8Q2P7QRHA",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q334EJG6ZK7B9B0Q9CH",
+  "partNumber": "EXT-E39-R2",
+  "manufacturerPn": "E39-R2",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-07-10T16:25:10-04:00",
+  "standardCost": 26.0,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Other",
+   "partnumberKey": "0004"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Omron",
+   "shortName": "OMR"
+  },
+  "preferredVendor": {
+   "name": "Powermatic Associates, Inc."
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q382RXFCTG3GKMBFP97",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q40RSG99K0RE6G2Z4QF",
+  "partNumber": "EXT-E3Z-T61",
+  "manufacturerPn": "E3Z-T61",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-07-13T12:34:55-04:00",
+  "standardCost": 148.7,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Omron",
+   "shortName": "OMR"
+  },
+  "preferredVendor": {
+   "name": "Powermatic Associates, Inc."
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q45KBMHACWMZS672PWG",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+  "partNumber": "EXT-CS-44050-08",
+  "manufacturerPn": "CS-44050-08",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": 6.38,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Cable",
+   "partnumberKey": "0005"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Infinite Cables",
+   "shortName": "INC"
+  },
+  "preferredVendor": {
+   "name": "Infinite Cables"
+  },
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPV1P936YRCRCDY33T2KXH3D",
+  "partNumber": "EXT-HFSB5-2020-455-TPW",
+  "manufacturerPn": "HFSB5-2020-455-TPW",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-22T12:52:05-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Misumi",
+   "shortName": "MSM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPV1P93BZAM2EH97E7E0R1Y9",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+  "partNumber": "AG-SEN2-001-000",
+  "manufacturerPn": "SEN2-001-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T20:31:38-04:00",
+  "updatedAt": "2026-04-22T20:38:40-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KPVWAR7E33QKQJWAYM5APP2Q",
+  "partNumber": "AG-SEN2-RR-Kit",
+  "manufacturerPn": "SEN2-RR-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T20:37:39-04:00",
+  "updatedAt": "2026-11-06T09:41:35-05:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KRGYJPW1PHWPHJYE8596P7MG",
+   "revisionName": "C"
+  }
+ },
+ {
+  "id": "itm_01KPVWGTFBTQ6EV5TA89BR5J23",
+  "partNumber": "AG-SEN2-TB-Kit",
+  "manufacturerPn": "SEN2-TB-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-22T20:40:58-04:00",
+  "updatedAt": "2026-11-12T12:07:33-05:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KPVWGTFMDZ7YH1CM70RVV70S",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+  "partNumber": "EXT-95893A189",
+  "manufacturerPn": "95893A189",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "95893A189",
+     "vendorName": "McMaster-Carr",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650BD04Q603887V9G08R9",
+  "partNumber": "EXT-91292A837",
+  "manufacturerPn": "91292A837",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-27T17:13:32-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "91292A837",
+     "vendorName": "McMaster-Carr",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650BH76MNA6AE0PF1TMA7",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+  "partNumber": "EXT-91292A009",
+  "manufacturerPn": "91292A009",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-29T10:44:51-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "91292A009",
+     "vendorName": "McMaster-Carr",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650D96E6H8568S6FQYM3W",
+  "partNumber": "EXT-732-10422-ND",
+  "manufacturerPn": "732-10422-ND",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-27T17:15:06-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "W\u00fcrth Elektronik",
+   "shortName": "WRE"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "732-10422-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650DDKRY13C1JB6XMA6Q5",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650EBGQ2V2QRWQ0K6VY4F",
+  "partNumber": "EXT-732-12917-ND",
+  "manufacturerPn": "732-12917-ND",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-27T17:15:36-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "W\u00fcrth Elektronik",
+   "shortName": "WRE"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "732-12917-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650EFZA91F4ZFPY77AWJW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650FCQVSC298RZZK8C2KY",
+  "partNumber": "EXT-952-3964-ND",
+  "manufacturerPn": "952-3964-ND",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Harwin",
+   "shortName": "HRW"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "952-3964-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650FGJVNQM67RV60BHAD7",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650G9MPCV1CTN6C6E7GPZ",
+  "partNumber": "EXT-1168-TG-A1250-15-15-1.0-ND",
+  "manufacturerPn": "1168-TG-A1250-15-15-1.0-ND",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "T-Global Technology",
+   "shortName": "TGT"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "1168-TG-A1250-15-15-1.0-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650GEY4N3PJF7N7Q8YXZT",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650H9CZF5ZJVK91XS5EVF",
+  "partNumber": "AG-CS3-001-006_PDisp",
+  "manufacturerPn": "CS3-001-006_PDisp",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-006_PDisp",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650HD2MGFS8X3NQVBXB0C",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650J7WPG3SE85CEM3DWKZ",
+  "partNumber": "AG-CS3-001-004_WingLeft",
+  "manufacturerPn": "CS3-001-004_WingLeft",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-27T17:15:52-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-004_WingLeft",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650JB8ZJQRPV4G45Y28P9",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650K3YERY8G1JS7JQESGF",
+  "partNumber": "AG-CS3-001-005_WingRight",
+  "manufacturerPn": "CS3-001-005_WingRight",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-27T17:16:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-005_WingRight",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650K9T1V9Y32Q5YPHQSXR",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650M3EX0AHX86PGM7TFQD",
+  "partNumber": "AG-CS3-001-003_WingBase",
+  "manufacturerPn": "CS3-001-003_WingBase",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-27T17:16:11-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-003_WingBase",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650M7PRB16QMJRQH8SNPY",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650MZT23TRYD3G4XAQF0A",
+  "partNumber": "AG-CS3-001-001_CaseBody",
+  "manufacturerPn": "CS3-001-001_CaseBody",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-001_CaseBody",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650N3V6KMMTAAWPZMDJQ6",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650NX5P8FFSXZS6KTQYQY",
+  "partNumber": "AG-CS3-001-002_Faceplate",
+  "manufacturerPn": "CS3-001-002_Faceplate",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-002_Faceplate",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650P1SNGJSP5T19WE69P7",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650PTF895GZ6X9GFS86A3",
+  "partNumber": "EXT-G3-F",
+  "manufacturerPn": "G3-F",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Other",
+   "partnumberKey": "0004"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Hologram",
+   "shortName": "HLG"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "G3-F",
+     "vendorName": "Hologram",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650PYMS6QM3WA1K430EB7",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650R09GV67G0ZQEQZR225",
+  "partNumber": "EXT-SM-I-003",
+  "manufacturerPn": "SM-I-003",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Sequent Microsystems",
+   "shortName": "SQM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SM-I-003",
+     "vendorName": "Sequent Microsystems",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650R43R2EY30T09WG173B",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650S3EVCMNE1DXS0QXDQF",
+  "partNumber": "EXT-I425-GL",
+  "manufacturerPn": "I425-GL",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Eagle Wireless",
+   "shortName": "EGW"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "I425-GL",
+     "vendorName": "Eagle Wireless",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650S87RE3M1PZMMHY06T3",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650T831Q15PPC4TJ5GZ0Y",
+  "partNumber": "EXT-EG25-G",
+  "manufacturerPn": "EG25-G",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-05-13T11:09:19-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Quectel",
+   "shortName": "QCT"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "EG25-G",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650TCMBZF57X784P7VRMZ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650VE13VQ2MXG7CFE1MQ9",
+  "partNumber": "EXT-SixFabLTEHAT",
+  "manufacturerPn": "raspberry-pi-base-hat-3g-4g-lte-minipcie-cards",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Sixfab",
+   "shortName": "SXF"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "raspberry-pi-base-hat-3g-4g-lte-minipcie-cards",
+     "vendorName": "Sixfab",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650VJHT2N0EJNXH9ZRDHR",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650WFBADK9RMPV0MW90AD",
+  "partNumber": "EXT-SC1113",
+  "manufacturerPn": "SC1113",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "MakerBright",
+   "shortName": "MKR"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SC1113",
+     "vendorName": "MakerBright",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650WMP3PV4FSHB73DTR7P",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650XDRVZCKMSZ4VRHKF46",
+  "partNumber": "EXT-MB-MJ256KA/AM",
+  "manufacturerPn": "MB-MJ256KA/AM",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Other",
+   "partnumberKey": "0004"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Samsung",
+   "shortName": "SMS"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "MB-MJ256KA/AM",
+     "vendorName": "Samsung",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650XGPWFEVFW2X6ERJ4PP",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650YBVSJRRDX8DCW38JPD",
+  "partNumber": "AG-CS3-001-007_PowerCab",
+  "manufacturerPn": "CS3-001-007_PowerCab",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-27T17:16:21-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Cable",
+   "partnumberKey": "0005"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-007_PowerCab",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650YF3VYA2ASGXRKA0QWZ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF650Z9JQ6DY11X2Z5M0AE5",
+  "partNumber": "EXT-14657",
+  "manufacturerPn": "14657",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Waveshare",
+   "shortName": "WVS"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "14657",
+     "vendorName": "Waveshare",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF650ZC0BAY011RNV98QPFM",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF65107NE1FCMQ5CSXBM4J0",
+  "partNumber": "EXT-5623",
+  "manufacturerPn": "5623",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Cable",
+   "partnumberKey": "0005"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Pololu",
+   "shortName": "PLL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "5623",
+     "vendorName": "Pololu",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF6510B7GKGBG1ACJJB3REC",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF651131Q0D3AYX3BTFDR48",
+  "partNumber": "EXT-2073-05-12-A-0030-A-4-06-4-T-ND",
+  "manufacturerPn": "2073-05-12-A-0030-A-4-06-4-T-ND",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "GCT",
+   "shortName": "GCT"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "2073-05-12-A-0030-A-4-06-4-T-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF65116YKM3EVB9NHE18DJH",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF6511YJ98E9JTA4ZQK8K70",
+  "partNumber": "EXT-W3906XXXX",
+  "manufacturerPn": "W3906B0100",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Pulse Electronics",
+   "shortName": "PLE"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "W3906B0100",
+     "vendorName": "Mouser",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF65122TNWS4BSFCWR7CVVX",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF6512XSVXPR2QTCQR8MFDF",
+  "partNumber": "EXT-SRFL029",
+  "manufacturerPn": "SRFL029-100",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-10-27T17:16:35-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Antenova",
+   "shortName": "ANT"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SRFL029-100",
+     "vendorName": "Mouser",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF65132YTPW1GA1G8B8BRDZ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF6JVCAY0PXM2R5QSDVCW9B",
+  "partNumber": "AG-CS3-001-000",
+  "manufacturerPn": "CS3-001-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:42:24-04:00",
+  "updatedAt": "2026-06-05T14:55:08-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-001-000",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KSNC8RMF5MCW270KARMG1WV6",
+   "revisionName": "B"
+  }
+ },
+ {
+  "id": "itm_01KQF79QRYC831AMRBY1HK7B2A",
+  "partNumber": "AG-CS3-Kit",
+  "manufacturerPn": "CS3-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T08:54:54-04:00",
+  "updatedAt": "2026-11-10T11:15:57-05:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "CS3-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF79QSFX5HDE5V1VEZMM82V",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF7A738WDTAD9V3C74WCECV",
+  "partNumber": "EXT-L6R36-120",
+  "manufacturerPn": "L6R36-120",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:55:10-04:00",
+  "updatedAt": "2026-10-27T17:13:51-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Power",
+   "partnumberKey": "0003"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Tri-Mag, LLC",
+   "shortName": "TRL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "364-1282-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF7A73M9SM1RB6NTC51SVBK",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF7A75EFG6NG3T08A8YR9SX",
+  "partNumber": "EXT-P0101E",
+  "manufacturerPn": "P0101E",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T08:55:10-04:00",
+  "updatedAt": "2026-10-22T14:40:01-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Cable",
+   "partnumberKey": "0005"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Ease Electronics",
+   "shortName": "ESE"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "4627-P0101E-ND",
+     "vendorName": "DigiKey",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF7A75JZKT4158E6EB5TXT1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+  "partNumber": "EXT-95893A197",
+  "manufacturerPn": "95893A197",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:17-04:00",
+  "updatedAt": "2026-10-08T15:01:17-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "95893A197",
+     "vendorName": "McMaster-Carr",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PCZDCG6TA4RW71RSWHCN",
+  "partNumber": "AG-PIC-005-001_WallBracket",
+  "manufacturerPn": "PIC-005-001_WallBracket",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:17-04:00",
+  "updatedAt": "2026-05-06T12:47:40-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Haig Precision Mfg. Corp.",
+   "shortName": "HGP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-005-001_WallBracket",
+     "vendorName": "Haig Precision Mfg. Corp.",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PCZHP9R2RQR93WJBDAMS",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD0JWDJSC1NKYCEMHXVC",
+  "partNumber": "AG-PIC-005-002_BaseA",
+  "manufacturerPn": "PIC-005-002_BaseA",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-005-002_BaseA",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD0P0R3KP37SHE65Y7VC",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD1JV1YHQ8F5SSSK2NVC",
+  "partNumber": "AG-PIC-005-003_BaseB",
+  "manufacturerPn": "PIC-005-003_BaseB",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-005-003_BaseB",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD1P08J19V39H0Q8ZF12",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD2QQXK8KQW5Y36M0J18",
+  "partNumber": "AG-PIC-005-004_Covers",
+  "manufacturerPn": "PIC-005-004_Covers",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-005-004_Covers",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD2VMX46W0DAQQ4KZJVH",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+  "partNumber": "AG-PIC-001-004_LensGrom",
+  "manufacturerPn": "PIC-001-004_LensGrom",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:17-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-004_LensGrom",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+  "partNumber": "AG-PIC-001-002_InnerWindow",
+  "manufacturerPn": "PIC-001-002_InnerWindow",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-002_InnerWindow",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD6151YFHJ5DK6K36VHP",
+  "partNumber": "AG-PIC-001-003_DualWindow",
+  "manufacturerPn": "PIC-001-003_DualWindow",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-003_DualWindow",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD65K25BFA6FZXPXX10M",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD7797AH2V3VK2YFE2P3",
+  "partNumber": "AG-PIC-001-001_DMainBody",
+  "manufacturerPn": "PIC-001-001_DMainBody",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-001_DMainBody",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD7BAS92Z6DTQ4H9VA6Q",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD86EYQ2XVP54WMGZ88M",
+  "partNumber": "AG-PIC-001-005_DualWinMount",
+  "manufacturerPn": "PIC-001-005_DualWinMount",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-005_DualWinMount",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD8AXY14GD2F1MJ83Z3Z",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PD951PVPTWBSZGGP7TW5",
+  "partNumber": "AG-PIC-002-002_SingleWindow",
+  "manufacturerPn": "PIC-002-002_SingleWindow",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-06-23T14:57:30-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-002_SingleWindow",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PD99CE8DAFM43PF5YERJ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDAAKHDHM04AEEEF2ZRP",
+  "partNumber": "AG-PIC-002-001_SMainBody",
+  "manufacturerPn": "PIC-002-001_SMainBody",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-06-23T14:57:30-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-001_SMainBody",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDAGXRDNYHQJSPH1QM80",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDBFXNPC1XMXQ66GMQHG",
+  "partNumber": "AG-PIC-002-003_SingleWinMount",
+  "manufacturerPn": "PIC-002-003_SingleWinMount",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-06-23T14:57:30-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-003_SingleWinMount",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDBKTVZAPRZZKFHF7PHW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDCRBECX8557ARC3EJJ7",
+  "partNumber": "AG-PIC-003-001_RoundBase",
+  "manufacturerPn": "PIC-003-001_RoundBase",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:17-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-003-001_RoundBase",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDCW50TP0RVN58N840SH",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDDTS1C0XQMFN5A3XXMP",
+  "partNumber": "AG-PIC-003-003_SlipRing",
+  "manufacturerPn": "PIC-003-003_SlipRing",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:17-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-003-003_SlipRing",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDDYXQKWF6PW0J784TFS",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDEQDGXY2R7S1VP2JMP9",
+  "partNumber": "AG-PIC-003-002_PivotMount",
+  "manufacturerPn": "PIC-003-002_PivotMount",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-003-002_PivotMount",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDEVCR20Z4VMB7RZGRY9",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDFP21WRVTG2QZK2QG2F",
+  "partNumber": "AG-PIC-004-001_SquareBase",
+  "manufacturerPn": "PIC-004-001_SquareBase",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-05-13T11:08:23-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-004-001_SquareBase",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDFXR9DNR4268S13HA1F",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDGR4HZTR3FD868WZ8WM",
+  "partNumber": "AG-PIC-001-005_ELPCam4",
+  "manufacturerPn": "PIC-001-005_ELPCam4",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-02T16:24:34-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ELP",
+   "shortName": "ELP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-005_ELPCam4",
+     "vendorName": "ELP",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDGW2K3P50PT7P5HVFF3",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDHK2PJ8C0VKV5J4Z2R5",
+  "partNumber": "AG-PIC-001-005_ELPCam6",
+  "manufacturerPn": "PIC-001-005_ELPCam6",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ELP",
+   "shortName": "ELP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-005_ELPCam6",
+     "vendorName": "ELP",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDHQJHEFEAHVCV34BBK6",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDJF56XRZ2XJ2E3G73DJ",
+  "partNumber": "AG-PIC-001-005_ELPCam8",
+  "manufacturerPn": "PIC-001-005_ELPCam8",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Module",
+   "partnumberKey": "0002"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ELP",
+   "shortName": "ELP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-005_ELPCam8",
+     "vendorName": "ELP",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDJJMFHMDH4Z6HV79Y64",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+  "partNumber": "AG-PIC-001-006_ELPCamUSB",
+  "manufacturerPn": "PIC-001-006_ELPCamUSB",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-10-08T15:01:18-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Cable",
+   "partnumberKey": "0005"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ELP",
+   "shortName": "ELP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-006_ELPCamUSB",
+     "vendorName": "ELP",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+  "partNumber": "AG-PIC-005-000",
+  "manufacturerPn": "PIC-005-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-005-000",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV57YWSYQMG5YH1KAP6M",
+  "partNumber": "AG-PIC-001-000_Dual46",
+  "manufacturerPn": "PIC-001-000_Dual46",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-06-01T16:11:07-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-000_Dual46",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV5BPAPAX3BK1Q0ETV8X",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV6HNQN6PNX8SPRPE7E6",
+  "partNumber": "AG-PIC-001-000_Dual68",
+  "manufacturerPn": "PIC-001-000_Dual68",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-06-01T16:12:12-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-001-000_Dual68",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV6NKVE0Y096BFG5Y0A7",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV7FGCWSJMPCTV8EVP6D",
+  "partNumber": "AG-PIC-002-000_Single4",
+  "manufacturerPn": "PIC-002-000_Single4",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-000_Single4",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV7KH823VSY1ZK1R785Y",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV8QFAYB3HKBPB23TC4H",
+  "partNumber": "AG-PIC-002-000_Single6",
+  "manufacturerPn": "PIC-002-000_Single6",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-06-01T16:12:00-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-000_Single6",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV8V6J7Q5SJGFMMDEATM",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TV9P1GEVC543RRW9QR3Q",
+  "partNumber": "AG-PIC-002-000_Single8",
+  "manufacturerPn": "PIC-002-000_Single8",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-002-000_Single8",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TV9VZ3571GNYMKBNXYAB",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+  "partNumber": "AG-PIC-003-000",
+  "manufacturerPn": "PIC-003-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-06-01T16:10:35-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-003-000",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+  "partNumber": "AG-PIC-004-000",
+  "manufacturerPn": "PIC-004-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "PIC-004-000",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937SJJ2M1TE17Y4V595BV",
+  "partNumber": "AG-Dual46-WallMount-Kit",
+  "manufacturerPn": "Dual46-WallMount-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:43-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual46-WallMount-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937SQABZBE95HAG1HBVS8",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937TTYPR9ENJ430EFTVJ6",
+  "partNumber": "AG-Dual68-WallMount-Kit",
+  "manufacturerPn": "Dual68-WallMount-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:43-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual68-WallMount-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937TXGFF3GCG89KEYZY64",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937VS47MASBK821TJD2S6",
+  "partNumber": "AG-Single4-WallMount-Kit",
+  "manufacturerPn": "Single4-WallMount-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single4-WallMount-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937VX4ZV2P9BMSJMMTNCM",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937WRZFHDATPKC563HB4T",
+  "partNumber": "AG-Single6-WallMount-Kit",
+  "manufacturerPn": "Single6-WallMount-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single6-WallMount-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937WVKDQF37YBSRDKC6R6",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937XQ7P3GZKF25V3G2B27",
+  "partNumber": "AG-Single8-WallMount-Kit",
+  "manufacturerPn": "Single8-WallMount-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single8-WallMount-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937XTN4WH03SZCGFRZP2N",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937YJGRKPA02D1N5BDWQ5",
+  "partNumber": "AG-Dual46-RoundBollard-Kit",
+  "manufacturerPn": "Dual46-RoundBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-10-10T10:47:06-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual46-RoundBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937YQZZPZCQZXH2P8ADFW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF937ZS2ACJ5D1ZBRYJ8393",
+  "partNumber": "AG-Dual68-RoundBollard-Kit",
+  "manufacturerPn": "Dual68-RoundBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-11-12T12:07:33-05:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual68-RoundBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF937ZXWM0T0X03QQGCQSC1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF9380RGZ7H0BJ9CQ2F85VQ",
+  "partNumber": "AG-Single4-RoundBollard-Kit",
+  "manufacturerPn": "Single4-RoundBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single4-RoundBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF9380XQ4P5AXX8BS2JS76M",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF9381QNABDNR71FVWBC9HX",
+  "partNumber": "AG-Single6-RoundBollard-Kit",
+  "manufacturerPn": "Single6-RoundBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-11-04T11:41:19-05:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single6-RoundBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF9381WMQDC72JK14NJYHVC",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF9382Q1K2H4V2HNH6XM0FV",
+  "partNumber": "AG-Single8-RoundBollard-Kit",
+  "manufacturerPn": "Single8-RoundBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single8-RoundBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF9382TBNCE04SJ04862NKQ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF938429NH0D33ACX9SFNX2",
+  "partNumber": "AG-Dual46-SquareBollard-Kit",
+  "manufacturerPn": "Dual46-SquareBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:35:43-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual46-SquareBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF93846WCYAK4ZNYE2647EJ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF93851B6HV27B1T2AB97P8",
+  "partNumber": "AG-Dual68-SquareBollard-Kit",
+  "manufacturerPn": "Dual68-SquareBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:35:43-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Dual68-SquareBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF93855B779BM4N2FG9WP3G",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF93864HBPZFD8AG50PT1CA",
+  "partNumber": "AG-Single4-SquareBollard-Kit",
+  "manufacturerPn": "Single4-SquareBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single4-SquareBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF938678BM47V1HVPMF91G1",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF9387Q4TDV4DVMRRWTFHJW",
+  "partNumber": "AG-Single6-SquareBollard-Kit",
+  "manufacturerPn": "Single6-SquareBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single6-SquareBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF9387VJDH4EB3CXQD9CQ9E",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KQF9388RANG05VNK4X706A7G",
+  "partNumber": "AG-Single8-SquareBollard-Kit",
+  "manufacturerPn": "Single8-SquareBollard-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:35:44-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "Single8-SquareBollard-Kit",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KQF9388XD56GW4BT8A75HK8S",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KSNC89817MJT99DQ5W262YPD",
+  "partNumber": "EXT-90593A024",
+  "manufacturerPn": "90593A024",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-05-27T14:48:19-04:00",
+  "updatedAt": "2026-10-22T14:40:02-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "90593A024",
+     "vendorName": "McMaster-Carr",
+     "comment": "https://www.mcmaster.com/90593A024/"
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KSNC8986GTYQXMBM3DZ0MJYZ",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KSNC8994YRXZR5VNKJZM31ZP",
+  "partNumber": "EXT-91290A049",
+  "manufacturerPn": "91290A049",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-05-27T14:48:20-04:00",
+  "updatedAt": "2026-10-22T14:40:03-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "McMaster-Carr",
+   "shortName": "MCM"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "91290A049",
+     "vendorName": "McMaster-Carr",
+     "comment": "https://www.mcmaster.com/91290A049/"
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KSNC8999P1RS8PT25932Q78S",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KTC19XHGAR10BJQ7XNKH7QVX",
+  "partNumber": "TEST-Kit",
+  "manufacturerPn": "AG-TEST-Kit",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": true,
+  "createdAt": "2026-06-05T09:59:31-04:00",
+  "updatedAt": "2026-07-08T16:09:48-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KTC2Z9R3HW4MPFYZ71EBV0ED",
+   "revisionName": "B"
+  }
+ },
+ {
+  "id": "itm_01KW9R6E7KQ04BY8VHWSFQJ3MN",
+  "partNumber": "EXT-E39-R1",
+  "manufacturerPn": "E39-R1",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-06-29T09:13:14-04:00",
+  "updatedAt": "2026-10-28T15:20:51-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Other",
+   "partnumberKey": "0004"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Omron",
+   "shortName": "OMR"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": []
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KW9R6E7MY0ZKEQ9BZACKECFC",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KW9S66D2QNN1D3J1W80YQ0K8",
+  "partNumber": "AG-SEN2-003-001_EnclosureBase",
+  "manufacturerPn": "SEN2-003-001_EnclosureBase",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-07-14T14:18:54-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Haig Precision Mfg. Corp.",
+   "shortName": "HGP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SEN2-003-001_EnclosureBase",
+     "vendorName": "Haig Precision Mfg. Corp.",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KW9S66D2QRJQFC5SD0S5MNNF",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KW9S66EARHKDW1FSNBJ5EN4N",
+  "partNumber": "AG-SEN2-003-002_EnclosureTop",
+  "manufacturerPn": "SEN2-003-002_EnclosureTop",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-07-14T14:18:54-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Mechanical",
+   "partnumberKey": "0001"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "Haig Precision Mfg. Corp.",
+   "shortName": "HGP"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SEN2-003-002_EnclosureTop",
+     "vendorName": "Haig Precision Mfg. Corp.",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KW9S66EBR3W84FA7TDTHT3WW",
+   "revisionName": "A"
+  }
+ },
+ {
+  "id": "itm_01KW9S66FD4SC2Q1P2CYAY4NMY",
+  "partNumber": "AG-SEN2-003-000",
+  "manufacturerPn": "SEN2-003-000",
+  "description": null,
+  "value": null,
+  "hidden": false,
+  "manufacturedHere": false,
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-07-08T16:14:35-04:00",
+  "standardCost": null,
+  "standardCostCurrency": "USD",
+  "standardLeadTime": null,
+  "attrition": null,
+  "reorderQuantity": 0.0,
+  "partType": {
+   "name": "Assembly",
+   "partnumberKey": "0006"
+  },
+  "unit": {
+   "name": "each"
+  },
+  "manufacturer": {
+   "name": "ByTechs LLC",
+   "shortName": "BYL"
+  },
+  "preferredVendor": null,
+  "vendorPartNumbers": {
+   "nodes": [
+    {
+     "partNumber": "SEN2-003-000",
+     "vendorName": "ByTechs LLC",
+     "comment": null
+    }
+   ]
+  },
+  "customParameters": {
+   "nodes": []
+  },
+  "activeRevision": {
+   "id": "itr_01KW9S66FDKCDYFSTV3V2ZAAJ1",
+   "revisionName": "A"
+  }
+ }
+]

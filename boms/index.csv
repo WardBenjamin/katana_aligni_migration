@@ -1,0 +1,36 @@
+Assembly,Name,Revision,Status,Active,Lines,Released At,Revision Reason,File,Aligni Revision ID
+AG-CS3-001-000,vπ Compute Stack,A,Released,,26,2026-04-30T08:44:31-04:00,,revisions/AG-CS3-001-000_RevA.csv,itr_01KQF6JVCFWXFPGRS5M8Y7MCHA
+AG-CS3-001-000,vπ Compute Stack,B,Released,Y,28,2026-05-27T14:48:52-04:00,Added EXT-90593A024 and EXT-91290A049 (McMaster-Carr hardware),AG-CS3-001-000.csv,itr_01KSNC8RMF5MCW270KARMG1WV6
+AG-CS3-001-000,vπ Compute Stack,C,Draft,,28,,Adding electronics,revisions/AG-CS3-001-000_RevC.csv,itr_01KSR3TFQGGXDYSJ7VE0TMM8AQ
+AG-CS3-Kit,vπ Compute Stack Kit,A,Released,Y,3,2026-04-30T08:58:24-04:00,,AG-CS3-Kit.csv,itr_01KQF79QSFX5HDE5V1VEZMM82V
+AG-Dual46-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-RoundBollard-Kit.csv,itr_01KQF937YQZZPZCQZXH2P8ADFW
+AG-Dual46-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-SquareBollard-Kit.csv,itr_01KQF93846WCYAK4ZNYE2647EJ
+AG-Dual46-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 4mm + 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual46-WallMount-Kit.csv,itr_01KQF937SQABZBE95HAG1HBVS8
+AG-Dual68-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-RoundBollard-Kit.csv,itr_01KQF937ZXWM0T0X03QQGCQSC1
+AG-Dual68-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-SquareBollard-Kit.csv,itr_01KQF93855B779BM4N2FG9WP3G
+AG-Dual68-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 6mm + 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Dual68-WallMount-Kit.csv,itr_01KQF937TXGFF3GCG89KEYZY64
+AG-PIC-001-000_Dual46,vπ Dual Camera Module — 4mm + 6mm,A,Released,Y,10,2026-04-30T09:25:21-04:00,,AG-PIC-001-000_Dual46.csv,itr_01KQF8TV5BPAPAX3BK1Q0ETV8X
+AG-PIC-001-000_Dual68,vπ Dual Camera Module — 6mm + 8mm,A,Released,Y,10,2026-04-30T09:25:21-04:00,,AG-PIC-001-000_Dual68.csv,itr_01KQF8TV6NKVE0Y096BFG5Y0A7
+AG-PIC-002-000_Single4,vπ Single Camera Module — 4mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single4.csv,itr_01KQF8TV7KH823VSY1ZK1R785Y
+AG-PIC-002-000_Single6,vπ Single Camera Module — 6mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single6.csv,itr_01KQF8TV8V6J7Q5SJGFMMDEATM
+AG-PIC-002-000_Single8,vπ Single Camera Module — 8mm,A,Released,Y,9,2026-04-30T09:25:21-04:00,,AG-PIC-002-000_Single8.csv,itr_01KQF8TV9VZ3571GNYMKBNXYAB
+AG-PIC-003-000,vπ Round Bollard Mount,A,Released,Y,4,2026-04-30T09:25:21-04:00,,AG-PIC-003-000.csv,itr_01KQF8TVAR38CJHBVWXZ94F4Q1
+AG-PIC-004-000,vπ Square Bollard Mount,A,Released,Y,4,2026-04-30T09:25:21-04:00,,AG-PIC-004-000.csv,itr_01KQF8TVBNV61KS0QFJ6Y0YD02
+AG-PIC-005-000,vπ Wall Mount,A,Released,Y,7,2026-04-30T09:25:21-04:00,,AG-PIC-005-000.csv,itr_01KQF8TV4285TF4NVYA41HS2SW
+AG-SEN2-001-000,vπ Sensor Bar,A,Released,Y,14,2026-04-22T20:38:40-04:00,,AG-SEN2-001-000.csv,itr_01KPVVZQKJXXDJGRVY10KFATCW
+AG-SEN2-002-000,vπ Sensor Retroreflector,B,Released,,2,2026-04-22T20:44:11-04:00,Add sub-parts to BOM,revisions/AG-SEN2-002-000_RevB.csv,itr_01KPVWMRV5NNQ56YMZ5D37QKD0
+AG-SEN2-002-000,vπ Sensor Retroreflector,C,Released,Y,2,2026-06-29T09:14:35-04:00,Replace E39-R2 dual-reflector (was 1x but should have been 2x qty) with 4x E39-R1 single-reflector,AG-SEN2-002-000.csv,itr_01KW9R44VC8PT26N553JEV9GSM
+AG-SEN2-003-000,vπ Sensor Enclosure X5,A,Released,Y,2,2026-06-29T09:31:08-04:00,,AG-SEN2-003-000.csv,itr_01KW9S66FDKCDYFSTV3V2ZAAJ1
+AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,A,Released,,5,2026-04-22T20:38:59-04:00,,revisions/AG-SEN2-RR-Kit_RevA.csv,itr_01KPVWAR7MS60JAXKF8TTTPXY7
+AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,B,Released,,5,2026-04-27T13:30:56-04:00,Updating retroreflector quantity,revisions/AG-SEN2-RR-Kit_RevB.csv,itr_01KQ7ZWCVJM5Y97K502HQ3EB56
+AG-SEN2-RR-Kit,vπ RR Sensor Bar Kit,C,Released,Y,4,2026-05-13T11:18:32-04:00,Removing power supply from retroreflective sensor bar kit,AG-SEN2-RR-Kit.csv,itr_01KRGYJPW1PHWPHJYE8596P7MG
+AG-SEN2-TB-Kit,vπ TB Sensor Bar Kit,A,Released,Y,4,2026-04-22T20:42:12-04:00,,AG-SEN2-TB-Kit.csv,itr_01KPVWGTFMDZ7YH1CM70RVV70S
+AG-Single4-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-RoundBollard-Kit.csv,itr_01KQF9380XQ4P5AXX8BS2JS76M
+AG-Single4-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-SquareBollard-Kit.csv,itr_01KQF938678BM47V1HVPMF91G1
+AG-Single4-WallMount-Kit,vπ Wall Mount Single Cam Kit — 4mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single4-WallMount-Kit.csv,itr_01KQF937VX4ZV2P9BMSJMMTNCM
+AG-Single6-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-RoundBollard-Kit.csv,itr_01KQF9381WMQDC72JK14NJYHVC
+AG-Single6-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-SquareBollard-Kit.csv,itr_01KQF9387VJDH4EB3CXQD9CQ9E
+AG-Single6-WallMount-Kit,vπ Wall Mount Single Cam Kit — 6mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single6-WallMount-Kit.csv,itr_01KQF937WVKDQF37YBSRDKC6R6
+AG-Single8-RoundBollard-Kit,vπ Round Bollard Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-RoundBollard-Kit.csv,itr_01KQF9382TBNCE04SJ04862NKQ
+AG-Single8-SquareBollard-Kit,vπ Square Bollard Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-SquareBollard-Kit.csv,itr_01KQF9388XD56GW4BT8A75HK8S
+AG-Single8-WallMount-Kit,vπ Wall Mount Single Cam Kit — 8mm,A,Released,Y,2,2026-04-30T09:28:43-04:00,,AG-Single8-WallMount-Kit.csv,itr_01KQF937XTN4WH03SZCGFRZP2N

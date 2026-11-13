@@ -1,0 +1,9 @@
+[submodule "repos/tripwire-ecad"]
+	path = repos/tripwire-ecad
+	url = git@github.com:airgarage/tripwire-ecad.git
+[submodule "repos/aligni-shopify-sync"]
+	path = repos/aligni-shopify-sync
+	url = git@github.com:airgarage/aligni-shopify-sync.git
+[submodule "repos/tripwire-mcad"]
+	path = repos/tripwire-mcad
+	url = git@github.com:airgarage/tripwire-mcad.git

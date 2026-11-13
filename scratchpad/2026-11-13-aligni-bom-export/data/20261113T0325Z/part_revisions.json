@@ -1,0 +1,6090 @@
+[
+ {
+  "id": "itr_01KPTY8PMG0YXEQDPF39MWRVAY",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "E3Z-R61",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:13:50-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:13:50-04:00",
+  "part": {
+   "id": "itm_01KPTY8PMB8039R0Y2V893E2ST",
+   "partNumber": "EXT-E3Z-R61"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PNAX6AJ6CGAQMTFTNK1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "12V/6W Power Supply",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PN5WNFQ0YXRZCZGPX4G",
+   "partNumber": "EXT-L6R06H-120"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PP1GR9YN7SP271HEYWY",
+  "revisionName": "A",
+  "active": false,
+  "status": "Released",
+  "description": "v\u03c0 Sensor Retroreflector",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+   "partNumber": "AG-SEN2-002-000"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PPWFTKZGGA3EGMDQN7A",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "2020 Sensor Mount Bar",
+  "comment": "Configuration as follows: Anodized black, M5 tapped ends, cut to length spec\u2019d",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PPPNGWNGV7HQWBR14B7",
+   "partNumber": "EXT-HFSB5-2020-270-TPW"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PQNNX1J82K904EDDYE4",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M5x8mm Button Head Screw",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PQG7270081NW8ZN5166",
+   "partNumber": "EXT-B07H18YDYB"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PRHFRWAREX0ZT6GE3JD",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M5x12mm Button Head Screw",
+  "comment": "Sensor Bar set screw",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PRCNBDM8EH13EK01P2W",
+   "partNumber": "EXT-92095A210"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PSB2NMSMEB9H3JDTEH5",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M3x8mm Button Head Screw",
+  "comment": "Sensors mounting screws",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PS6AKFF488WDR4WGZMD",
+   "partNumber": "EXT-92095A181"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PTVQE3YXS0TA0RD1VYT",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M5x4mm Heat set insert",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PTPJECNA07XZAA3YNEP",
+   "partNumber": "EXT-B0CTCQN775"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PVRRBHRRZYZZ1ATV88M",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M5 T-nut w/ Ball Spring",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PVKM6B9SQKM7TM0VF0D",
+   "partNumber": "EXT-B0BZKG6DBZ"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PWJYN6D7JG2MG3AT7Q1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Roll Mount Plastic",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:14-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PWD8K1CW95X5D5BMXAT",
+   "partNumber": "AG-SEN2-001-007_RollMnt"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PXEPNQ9B5F7NH4CEBXT",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Pitch Roll Mount Plastic",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PX7T2383DGWY0XYDF7Y",
+   "partNumber": "AG-SEN2-001-006_PitchRoll"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PY9TTX7SE6VGHMPDDNA",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Base Mount Plastic",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PY44F0W2134FQ1996XY",
+   "partNumber": "AG-SEN2-001-005_BaseMnt"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PZ22P4XD200B5QCYEC6",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Sensor Mount Left Plastic",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PYYJ34AS14XFQRFHGJN",
+   "partNumber": "AG-SEN2-001-004_SenMntL"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8PZT3Q6MB1XDQ503XNNC",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Sensor Mount Right Plastic",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8PZNRY76X2SJH2Y9GNC9",
+   "partNumber": "AG-SEN2-001-003_SenMntR"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q0JVNA3GT3W7MHYN2AJ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Sensor I/O Breakout",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T13:01:15-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T13:01:15-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q0E7F974B2GB8YMF40R",
+   "partNumber": "AG-SEN2-001-001_Breakout"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q1FPFGQ8N6ABX3P02DF",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "22AWG Ferrules",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q1A0W53HPA0CDKVKF9H",
+   "partNumber": "EXT-22AWGFERRULE"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q2A46016EH8Q2P7QRHA",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Dual Retro Reflective Rain Cover (Round & Flat)",
+  "comment": "3D Printed in-house",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q25SAMYKE99G2YMKJVF",
+   "partNumber": "AG-SEN2-002-001_DualRRCov"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q382RXFCTG3GKMBFP97",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Omron E39-R2 Retroreflector",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:25-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:25-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q334EJG6ZK7B9B0Q9CH",
+   "partNumber": "EXT-E39-R2"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q45KBMHACWMZS672PWG",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "E3Z-T61-D/L",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:26-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:26-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q40RSG99K0RE6G2Z4QF",
+   "partNumber": "EXT-E3Z-T61"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "RJ-12 Cable (8ft)",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:26-04:00",
+  "createdAt": "2026-04-22T11:52:15-04:00",
+  "updatedAt": "2026-04-22T20:14:26-04:00",
+  "part": {
+   "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+   "partNumber": "EXT-CS-44050-08"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPV1P93BZAM2EH97E7E0R1Y9",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "2020 Sensor Mount Bar Configuration as follows: Anodized black, M5 tapped ends, cut to length spec\u2019d (455mm here)",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:14:26-04:00",
+  "createdAt": "2026-04-22T12:52:05-04:00",
+  "updatedAt": "2026-04-22T20:14:26-04:00",
+  "part": {
+   "id": "itm_01KPV1P936YRCRCDY33T2KXH3D",
+   "partNumber": "EXT-HFSB5-2020-455-TPW"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Sensor Bar",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:38:40-04:00",
+  "createdAt": "2026-04-22T20:31:38-04:00",
+  "updatedAt": "2026-04-22T20:38:40-04:00",
+  "part": {
+   "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+   "partNumber": "AG-SEN2-001-000"
+  },
+  "bomItems": {
+   "totalCount": 14,
+   "nodes": [
+    {
+     "id": "iti_01KPVW176KVM262MVR64GMKF69",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPV1P936YRCRCDY33T2KXH3D",
+      "partNumber": "EXT-HFSB5-2020-455-TPW",
+      "manufacturerPn": "HFSB5-2020-455-TPW"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPV1P93BZAM2EH97E7E0R1Y9",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW1HC8VY1E7EW2EBYMW4R8",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PPPNGWNGV7HQWBR14B7",
+      "partNumber": "EXT-HFSB5-2020-270-TPW",
+      "manufacturerPn": "HFSB5-2020-270-TPW"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PPWFTKZGGA3EGMDQN7A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW27S7SZP6A39F541YDWCF",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 12.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PQG7270081NW8ZN5166",
+      "partNumber": "EXT-B07H18YDYB",
+      "manufacturerPn": "B07H18YDYB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PQNNX1J82K904EDDYE4",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW2VPYE5MN4KRGR0GCQT22",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PRCNBDM8EH13EK01P2W",
+      "partNumber": "EXT-92095A210",
+      "manufacturerPn": "92095A210"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PRHFRWAREX0ZT6GE3JD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW39GNGW71T0FNDMT7D96E",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PS6AKFF488WDR4WGZMD",
+      "partNumber": "EXT-92095A181",
+      "manufacturerPn": "92095A181"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PSB2NMSMEB9H3JDTEH5",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW3X66RBXTT072R3B5VK2P",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 5.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PTPJECNA07XZAA3YNEP",
+      "partNumber": "EXT-B0CTCQN775",
+      "manufacturerPn": "B0CTCQN775"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PTVQE3YXS0TA0RD1VYT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW4VHGWR17ZEQPFW0AYB2R",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PVKM6B9SQKM7TM0VF0D",
+      "partNumber": "EXT-B0BZKG6DBZ",
+      "manufacturerPn": "B0BZKG6DBZ"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PVRRBHRRZYZZ1ATV88M",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW561S10TV6WN4AKRCKFAZ",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PWD8K1CW95X5D5BMXAT",
+      "partNumber": "AG-SEN2-001-007_RollMnt",
+      "manufacturerPn": "SEN2-001-007_RollMnt"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PWJYN6D7JG2MG3AT7Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW5CMWZSS94PSJSY0463EJ",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PX7T2383DGWY0XYDF7Y",
+      "partNumber": "AG-SEN2-001-006_PitchRoll",
+      "manufacturerPn": "SEN2-001-006_PitchRoll"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PXEPNQ9B5F7NH4CEBXT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW5PXDB77CKBP58SDBNBC7",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PY44F0W2134FQ1996XY",
+      "partNumber": "AG-SEN2-001-005_BaseMnt",
+      "manufacturerPn": "SEN2-001-005_BaseMnt"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PY9TTX7SE6VGHMPDDNA",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW5YWZGYJWZKDC89WZQG5Z",
+     "position": 11,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PYYJ34AS14XFQRFHGJN",
+      "partNumber": "AG-SEN2-001-004_SenMntL",
+      "manufacturerPn": "SEN2-001-004_SenMntL"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PZ22P4XD200B5QCYEC6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW658WTX5BAKVNAE9VNPAC",
+     "position": 12,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PZNRY76X2SJH2Y9GNC9",
+      "partNumber": "AG-SEN2-001-003_SenMntR",
+      "manufacturerPn": "SEN2-001-003_SenMntR"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PZT3Q6MB1XDQ503XNNC",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW6AXP98C3XRHP9VC8KCGC",
+     "position": 13,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q0E7F974B2GB8YMF40R",
+      "partNumber": "AG-SEN2-001-001_Breakout",
+      "manufacturerPn": "SEN2-001-001_Breakout"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q0JVNA3GT3W7MHYN2AJ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVW6P3B3N82H8ESJCWYZSD3",
+     "position": 14,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q1A0W53HPA0CDKVKF9H",
+      "partNumber": "EXT-22AWGFERRULE",
+      "manufacturerPn": "22AWGFERRULE"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q1FPFGQ8N6ABX3P02DF",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KPVWAR7MS60JAXKF8TTTPXY7",
+  "revisionName": "A",
+  "active": false,
+  "status": "Released",
+  "description": "v\u03c0 RR Sensor Bar Kit",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:38:59-04:00",
+  "createdAt": "2026-04-22T20:37:39-04:00",
+  "updatedAt": "2026-04-22T20:38:59-04:00",
+  "part": {
+   "id": "itm_01KPVWAR7E33QKQJWAYM5APP2Q",
+   "partNumber": "AG-SEN2-RR-Kit"
+  },
+  "bomItems": {
+   "totalCount": 5,
+   "nodes": [
+    {
+     "id": "iti_01KPVWB6GACVSPN2GY8XBDEX44",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+      "partNumber": "AG-SEN2-001-000",
+      "manufacturerPn": "SEN2-001-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWBD6K1PCMH5W67YFQKZHZ",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PMB8039R0Y2V893E2ST",
+      "partNumber": "EXT-E3Z-R61",
+      "manufacturerPn": "E3Z-R61"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PMG0YXEQDPF39MWRVAY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWBK342J0NM7QEWVCP4CKT",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+      "partNumber": "EXT-CS-44050-08",
+      "manufacturerPn": "CS-44050-08"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWBSNVVVW3HFNWEPZ55K8F",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PN5WNFQ0YXRZCZGPX4G",
+      "partNumber": "EXT-L6R06H-120",
+      "manufacturerPn": "L6R06H-120"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PNAX6AJ6CGAQMTFTNK1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWC265W69MM1P2ZXJ9J2EW",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+      "partNumber": "AG-SEN2-002-000",
+      "manufacturerPn": "SEN2-002-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9R44VC8PT26N553JEV9GSM",
+      "revisionName": "C"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KPVWGTFMDZ7YH1CM70RVV70S",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 TB Sensor Bar Kit",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-04-22T20:42:12-04:00",
+  "createdAt": "2026-04-22T20:40:58-04:00",
+  "updatedAt": "2026-04-22T20:42:12-04:00",
+  "part": {
+   "id": "itm_01KPVWGTFBTQ6EV5TA89BR5J23",
+   "partNumber": "AG-SEN2-TB-Kit"
+  },
+  "bomItems": {
+   "totalCount": 4,
+   "nodes": [
+    {
+     "id": "iti_01KPVWH7XKFGHXSS400WX8RV0P",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+      "partNumber": "AG-SEN2-001-000",
+      "manufacturerPn": "SEN2-001-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWHHDFB6K59JRQM1CGVKP3",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q40RSG99K0RE6G2Z4QF",
+      "partNumber": "EXT-E3Z-T61",
+      "manufacturerPn": "E3Z-T61"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q45KBMHACWMZS672PWG",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWHQ4EVHHCPTM9DAS5VS01",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+      "partNumber": "EXT-CS-44050-08",
+      "manufacturerPn": "CS-44050-08"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWHYNKS94RPDZSKV83YDD3",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PN5WNFQ0YXRZCZGPX4G",
+      "partNumber": "EXT-L6R06H-120",
+      "manufacturerPn": "L6R06H-120"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PNAX6AJ6CGAQMTFTNK1",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KPVWMRV5NNQ56YMZ5D37QKD0",
+  "revisionName": "B",
+  "active": false,
+  "status": "Released",
+  "description": "v\u03c0 Sensor Retroreflector",
+  "comment": "",
+  "revisionReason": "Add sub-parts to BOM",
+  "releasedAt": "2026-04-22T20:44:11-04:00",
+  "createdAt": "2026-04-22T20:43:07-04:00",
+  "updatedAt": "2026-04-22T20:44:11-04:00",
+  "part": {
+   "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+   "partNumber": "AG-SEN2-002-000"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KPVWN9ZJNA26ZFSW97DYPH01",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q25SAMYKE99G2YMKJVF",
+      "partNumber": "AG-SEN2-002-001_DualRRCov",
+      "manufacturerPn": "SEN2-002-001_DualRRCov"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q2A46016EH8Q2P7QRHA",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KPVWNSFD03Q3C1X9976SH48M",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q334EJG6ZK7B9B0Q9CH",
+      "partNumber": "EXT-E39-R2",
+      "manufacturerPn": "E39-R2"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q382RXFCTG3GKMBFP97",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQ7ZWCVJM5Y97K502HQ3EB56",
+  "revisionName": "B",
+  "active": false,
+  "status": "Released",
+  "description": "v\u03c0 RR Sensor Bar Kit",
+  "comment": "",
+  "revisionReason": "Updating retroreflector quantity",
+  "releasedAt": "2026-04-27T13:30:56-04:00",
+  "createdAt": "2026-04-27T13:30:36-04:00",
+  "updatedAt": "2026-04-27T13:30:56-04:00",
+  "part": {
+   "id": "itm_01KPVWAR7E33QKQJWAYM5APP2Q",
+   "partNumber": "AG-SEN2-RR-Kit"
+  },
+  "bomItems": {
+   "totalCount": 5,
+   "nodes": [
+    {
+     "id": "iti_01KQ7ZWCVWFBDD4R179ED7RY2K",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+      "partNumber": "AG-SEN2-001-000",
+      "manufacturerPn": "SEN2-001-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQ7ZWCWJPR5PWWX8M4G8B5CX",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PMB8039R0Y2V893E2ST",
+      "partNumber": "EXT-E3Z-R61",
+      "manufacturerPn": "E3Z-R61"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PMG0YXEQDPF39MWRVAY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQ7ZWCX21GRP7P748MDP38WP",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+      "partNumber": "EXT-CS-44050-08",
+      "manufacturerPn": "CS-44050-08"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQ7ZWCXFWYNG7V6PPYK6HYJR",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PN5WNFQ0YXRZCZGPX4G",
+      "partNumber": "EXT-L6R06H-120",
+      "manufacturerPn": "L6R06H-120"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PNAX6AJ6CGAQMTFTNK1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQ7ZWCXX0HEFQ2HG70JNS92V",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+      "partNumber": "AG-SEN2-002-000",
+      "manufacturerPn": "SEN2-002-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9R44VC8PT26N553JEV9GSM",
+      "revisionName": "C"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M3x8mm Thread Forming Screw",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+   "partNumber": "EXT-95893A189"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650BH76MNA6AE0PF1TMA7",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M2.5 40mm Socket Head Screw",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650BD04Q603887V9G08R9",
+   "partNumber": "EXT-91292A837"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M2.5 5mm Socket Head Screw",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+   "partNumber": "EXT-91292A009"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650DDKRY13C1JB6XMA6Q5",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M2.5 16mm M-F Standoff",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650D96E6H8568S6FQYM3W",
+   "partNumber": "EXT-732-10422-ND"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650EFZA91F4ZFPY77AWJW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M2.5 10mm M-F Standoff",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650EBGQ2V2QRWQ0K6VY4F",
+   "partNumber": "EXT-732-12917-ND"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650FGJVNQM67RV60BHAD7",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M2.5 14mm F-F Standoff",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:50-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650FCQVSC298RZZK8C2KY",
+   "partNumber": "EXT-952-3964-ND"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650GEY4N3PJF7N7Q8YXZT",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Thermal Pad \u2014 for the v\u03c0 USB port header (prevents SWDv9 button short)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650G9MPCV1CTN6C6E7GPZ",
+   "partNumber": "EXT-1168-TG-A1250-15-15-1.0-ND"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650HD2MGFS8X3NQVBXB0C",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Display Bracket",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650H9CZF5ZJVK91XS5EVF",
+   "partNumber": "AG-CS3-001-006_PDisp"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650JB8ZJQRPV4G45Y28P9",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Antenna Wing - Left",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650J7WPG3SE85CEM3DWKZ",
+   "partNumber": "AG-CS3-001-004_WingLeft"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650K9T1V9Y32Q5YPHQSXR",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Antenna Wing - Right",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650K3YERY8G1JS7JQESGF",
+   "partNumber": "AG-CS3-001-005_WingRight"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650M7PRB16QMJRQH8SNPY",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Antenna Wing - Base",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650M3EX0AHX86PGM7TFQD",
+   "partNumber": "AG-CS3-001-003_WingBase"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650N3V6KMMTAAWPZMDJQ6",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Case Body",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650MZT23TRYD3G4XAQF0A",
+   "partNumber": "AG-CS3-001-001_CaseBody"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650P1SNGJSP5T19WE69P7",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Case Faceplate",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650NX5P8FFSXZS6KTQYQY",
+   "partNumber": "AG-CS3-001-002_Faceplate"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650PYMS6QM3WA1K430EB7",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Hologram SIM Card",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650PTF895GZ6X9GFS86A3",
+   "partNumber": "EXT-G3-F"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650R43R2EY30T09WG173B",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Super Watchdog HAT v9 with Battery Backup for Raspberry Pi",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650R09GV67G0ZQEQZR225",
+   "partNumber": "EXT-SM-I-003"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650S87RE3M1PZMMHY06T3",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "LTE Modem (I425-GL) \u2014 Eagle Wireless (2026)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650S3EVCMNE1DXS0QXDQF",
+   "partNumber": "EXT-I425-GL"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650TCMBZF57X784P7VRMZ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "LTE Modem (EG25-G) \u2014 Quectel via DigiKey (2025)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650T831Q15PPC4TJ5GZ0Y",
+   "partNumber": "EXT-EG25-G"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650VJHT2N0EJNXH9ZRDHR",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Sixfab 3G\u20134G/LTE Base HAT for Raspberry Pi",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:30-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:30-04:00",
+  "part": {
+   "id": "itm_01KQF650VE13VQ2MXG7CFE1MQ9",
+   "partNumber": "EXT-SixFabLTEHAT"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650WMP3PV4FSHB73DTR7P",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Raspberry Pi 5 16GB",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF650WFBADK9RMPV0MW90AD",
+   "partNumber": "EXT-SC1113"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650XGPWFEVFW2X6ERJ4PP",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Samsung PRO Endurance microSDXC 256GB w/ Adapter",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF650XDRVZCKMSZ4VRHKF46",
+   "partNumber": "EXT-MB-MJ256KA/AM"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650YF3VYA2ASGXRKA0QWZ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "2x JST-XA to Ferrule cable",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF650YBVSJRRDX8DCW38JPD",
+   "partNumber": "AG-CS3-001-007_PowerCab"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF650ZC0BAY011RNV98QPFM",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "0.91\u201d OLED Display",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF650Z9JQ6DY11X2Z5M0AE5",
+   "partNumber": "EXT-14657"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF6510B7GKGBG1ACJJB3REC",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "JST-PH 4-Pin Cable (for OLED to PartyHAT connection)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF65107NE1FCMQ5CSXBM4J0",
+   "partNumber": "EXT-5623"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF65116YKM3EVB9NHE18DJH",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "12pos 0.5mm 1.18\u201d FFC",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF651131Q0D3AYX3BTFDR48",
+   "partNumber": "EXT-2073-05-12-A-0030-A-4-06-4-T-ND"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF65122TNWS4BSFCWR7CVVX",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Pulse Electronics LTE + GPS Antenna",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF6511YJ98E9JTA4ZQK8K70",
+   "partNumber": "EXT-W3906XXXX"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF65132YTPW1GA1G8B8BRDZ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Antenova LTE + Cellular Antenna",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:37:31-04:00",
+  "createdAt": "2026-04-30T08:34:51-04:00",
+  "updatedAt": "2026-04-30T08:37:31-04:00",
+  "part": {
+   "id": "itm_01KQF6512XSVXPR2QTCQR8MFDF",
+   "partNumber": "EXT-SRFL029"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF6JVCFWXFPGRS5M8Y7MCHA",
+  "revisionName": "A",
+  "active": false,
+  "status": "Released",
+  "description": "v\u03c0 Compute Stack",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:44:31-04:00",
+  "createdAt": "2026-04-30T08:42:24-04:00",
+  "updatedAt": "2026-04-30T08:44:31-04:00",
+  "part": {
+   "id": "itm_01KQF6JVCAY0PXM2R5QSDVCW9B",
+   "partNumber": "AG-CS3-001-000"
+  },
+  "bomItems": {
+   "totalCount": 26,
+   "nodes": [
+    {
+     "id": "iti_01KQF6PBK2PK1V1AQX9YQ75KBR",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBKM1R016XMG5AG6CT21",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650BD04Q603887V9G08R9",
+      "partNumber": "EXT-91292A837",
+      "manufacturerPn": "91292A837"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650BH76MNA6AE0PF1TMA7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBM5DB6QN6DMZKDVM7T7",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+      "partNumber": "EXT-91292A009",
+      "manufacturerPn": "91292A009"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBMQ215069E3FG69VWK9",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650D96E6H8568S6FQYM3W",
+      "partNumber": "EXT-732-10422-ND",
+      "manufacturerPn": "732-10422-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650DDKRY13C1JB6XMA6Q5",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBNAVQX6QCFHNPW48M13",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650EBGQ2V2QRWQ0K6VY4F",
+      "partNumber": "EXT-732-12917-ND",
+      "manufacturerPn": "732-12917-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650EFZA91F4ZFPY77AWJW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBNVRKJJ667Q0QCG2GRJ",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650FCQVSC298RZZK8C2KY",
+      "partNumber": "EXT-952-3964-ND",
+      "manufacturerPn": "952-3964-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650FGJVNQM67RV60BHAD7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBPD048GFXBMX1FAFWC8",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "For the v\u03c0 USB port header \u2014 prevents SWDv9 button short",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650G9MPCV1CTN6C6E7GPZ",
+      "partNumber": "EXT-1168-TG-A1250-15-15-1.0-ND",
+      "manufacturerPn": "1168-TG-A1250-15-15-1.0-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650GEY4N3PJF7N7Q8YXZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBPZNXM8XJX9A7KSMGPR",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650H9CZF5ZJVK91XS5EVF",
+      "partNumber": "AG-CS3-001-006_PDisp",
+      "manufacturerPn": "CS3-001-006_PDisp"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650HD2MGFS8X3NQVBXB0C",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBQJJVPR1G98ZDBGGBMD",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650J7WPG3SE85CEM3DWKZ",
+      "partNumber": "AG-CS3-001-004_WingLeft",
+      "manufacturerPn": "CS3-001-004_WingLeft"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650JB8ZJQRPV4G45Y28P9",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBR3GA4EZRQPGD7RRY8N",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650K3YERY8G1JS7JQESGF",
+      "partNumber": "AG-CS3-001-005_WingRight",
+      "manufacturerPn": "CS3-001-005_WingRight"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650K9T1V9Y32Q5YPHQSXR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBRM085QDGVGBC057VPS",
+     "position": 11,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650M3EX0AHX86PGM7TFQD",
+      "partNumber": "AG-CS3-001-003_WingBase",
+      "manufacturerPn": "CS3-001-003_WingBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650M7PRB16QMJRQH8SNPY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBS55KHAGSGJA31CXWQA",
+     "position": 12,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650MZT23TRYD3G4XAQF0A",
+      "partNumber": "AG-CS3-001-001_CaseBody",
+      "manufacturerPn": "CS3-001-001_CaseBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650N3V6KMMTAAWPZMDJQ6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBSQ2C9RWBGQ5CSCAQ52",
+     "position": 13,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650NX5P8FFSXZS6KTQYQY",
+      "partNumber": "AG-CS3-001-002_Faceplate",
+      "manufacturerPn": "CS3-001-002_Faceplate"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650P1SNGJSP5T19WE69P7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBTA1ZTBGCTPGZCKDCYE",
+     "position": 14,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650PTF895GZ6X9GFS86A3",
+      "partNumber": "EXT-G3-F",
+      "manufacturerPn": "G3-F"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650PYMS6QM3WA1K430EB7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBTV9GHFB49AN5XJARBG",
+     "position": 15,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650R09GV67G0ZQEQZR225",
+      "partNumber": "EXT-SM-I-003",
+      "manufacturerPn": "SM-I-003"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650R43R2EY30T09WG173B",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBVDQ7E0SVK99Y3YWER6",
+     "position": 16,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Primary LTE modem (Eagle Wireless, 2026)",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650S3EVCMNE1DXS0QXDQF",
+      "partNumber": "EXT-I425-GL",
+      "manufacturerPn": "I425-GL"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650S87RE3M1PZMMHY06T3",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBW06BM6AP98KB0DBCER",
+     "position": 17,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Alternate to I425-GL \u2014 Quectel EG25-G via DigiKey (2025)",
+     "noLoad": true,
+     "childPart": {
+      "id": "itm_01KQF650T831Q15PPC4TJ5GZ0Y",
+      "partNumber": "EXT-EG25-G",
+      "manufacturerPn": "EG25-G"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650TCMBZF57X784P7VRMZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBWMYEEYWNEN3H7EEHE9",
+     "position": 18,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650VE13VQ2MXG7CFE1MQ9",
+      "partNumber": "EXT-SixFabLTEHAT",
+      "manufacturerPn": "raspberry-pi-base-hat-3g-4g-lte-minipcie-cards"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650VJHT2N0EJNXH9ZRDHR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBX8P6KV7CT9C83SH31R",
+     "position": 19,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650WFBADK9RMPV0MW90AD",
+      "partNumber": "EXT-SC1113",
+      "manufacturerPn": "SC1113"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650WMP3PV4FSHB73DTR7P",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBXWRGN7H5MD333V6EXC",
+     "position": 20,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650XDRVZCKMSZ4VRHKF46",
+      "partNumber": "EXT-MB-MJ256KA/AM",
+      "manufacturerPn": "MB-MJ256KA/AM"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650XGPWFEVFW2X6ERJ4PP",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBYD6A7J6H58R6ZQ128W",
+     "position": 21,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650YBVSJRRDX8DCW38JPD",
+      "partNumber": "AG-CS3-001-007_PowerCab",
+      "manufacturerPn": "CS3-001-007_PowerCab"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650YF3VYA2ASGXRKA0QWZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBZ1MJY7J4H0GJ7AVF3D",
+     "position": 22,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650Z9JQ6DY11X2Z5M0AE5",
+      "partNumber": "EXT-14657",
+      "manufacturerPn": "14657"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ZC0BAY011RNV98QPFM",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PBZNCNTBJ37TW9CYJP4E",
+     "position": 23,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "OLED to PartyHAT connection",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF65107NE1FCMQ5CSXBM4J0",
+      "partNumber": "EXT-5623",
+      "manufacturerPn": "5623"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF6510B7GKGBG1ACJJB3REC",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PC075GB9D1EF2D5VBQN5",
+     "position": 24,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF651131Q0D3AYX3BTFDR48",
+      "partNumber": "EXT-2073-05-12-A-0030-A-4-06-4-T-ND",
+      "manufacturerPn": "2073-05-12-A-0030-A-4-06-4-T-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65116YKM3EVB9NHE18DJH",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PC0RVZCFS650Y6KR6YY7",
+     "position": 25,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + GPS antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6511YJ98E9JTA4ZQK8K70",
+      "partNumber": "EXT-W3906XXXX",
+      "manufacturerPn": "W3906B0100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65122TNWS4BSFCWR7CVVX",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF6PC18YV9946C5SED19581",
+     "position": 26,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + Cellular antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6512XSVXPR2QTCQR8MFDF",
+      "partNumber": "EXT-SRFL029",
+      "manufacturerPn": "SRFL029-100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65132YTPW1GA1G8B8BRDZ",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF79QSFX5HDE5V1VEZMM82V",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Compute Stack Kit",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:58:24-04:00",
+  "createdAt": "2026-04-30T08:54:54-04:00",
+  "updatedAt": "2026-04-30T08:58:24-04:00",
+  "part": {
+   "id": "itm_01KQF79QRYC831AMRBY1HK7B2A",
+   "partNumber": "AG-CS3-Kit"
+  },
+  "bomItems": {
+   "totalCount": 3,
+   "nodes": [
+    {
+     "id": "iti_01KQF7FSYCZ68KA71WGMB7VVGQ",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6JVCAY0PXM2R5QSDVCW9B",
+      "partNumber": "AG-CS3-001-000",
+      "manufacturerPn": "CS3-001-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KSNC8RMF5MCW270KARMG1WV6",
+      "revisionName": "B"
+     }
+    },
+    {
+     "id": "iti_01KQF7FSZ0ZQGV5RHMPPMEBMVW",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF7A738WDTAD9V3C74WCECV",
+      "partNumber": "EXT-L6R36-120",
+      "manufacturerPn": "L6R36-120"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF7A73M9SM1RB6NTC51SVBK",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF7FSZH8KQ143H0T5RS0855",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF7A75EFG6NG3T08A8YR9SX",
+      "partNumber": "EXT-P0101E",
+      "manufacturerPn": "P0101E"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF7A75JZKT4158E6EB5TXT1",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF7A73M9SM1RB6NTC51SVBK",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "12V/36W Power Supply",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:58:24-04:00",
+  "createdAt": "2026-04-30T08:55:10-04:00",
+  "updatedAt": "2026-04-30T08:58:24-04:00",
+  "part": {
+   "id": "itm_01KQF7A738WDTAD9V3C74WCECV",
+   "partNumber": "EXT-L6R36-120"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF7A75JZKT4158E6EB5TXT1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "3ft Barrel Jack Extension Cable",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T08:58:24-04:00",
+  "createdAt": "2026-04-30T08:55:10-04:00",
+  "updatedAt": "2026-04-30T08:58:24-04:00",
+  "part": {
+   "id": "itm_01KQF7A75EFG6NG3T08A8YR9SX",
+   "partNumber": "EXT-P0101E"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "M3x30mm Thread Forming Screw",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:17-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+   "partNumber": "EXT-95893A197"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PCZHP9R2RQR93WJBDAMS",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Wall Bracket (Sheet Metal)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PCZDCG6TA4RW71RSWHCN",
+   "partNumber": "AG-PIC-005-001_WallBracket"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD0P0R3KP37SHE65Y7VC",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Wall Cam Base A",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD0JWDJSC1NKYCEMHXVC",
+   "partNumber": "AG-PIC-005-002_BaseA"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD1P08J19V39H0Q8ZF12",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Wall Cam Base B",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD1JV1YHQ8F5SSSK2NVC",
+   "partNumber": "AG-PIC-005-003_BaseB"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD2VMX46W0DAQQ4KZJVH",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Face Cover Plate",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD2QQXK8KQW5Y36M0J18",
+   "partNumber": "AG-PIC-005-004_Covers"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Lens Grommet",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+   "partNumber": "AG-PIC-001-004_LensGrom"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Inner Lens Window",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+   "partNumber": "AG-PIC-001-002_InnerWindow"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD65K25BFA6FZXPXX10M",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Dual Lens Window",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD6151YFHJ5DK6K36VHP",
+   "partNumber": "AG-PIC-001-003_DualWindow"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD7BAS92Z6DTQ4H9VA6Q",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Dual Camera Mount Body",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD7797AH2V3VK2YFE2P3",
+   "partNumber": "AG-PIC-001-001_DMainBody"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD8AXY14GD2F1MJ83Z3Z",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Dual Lens Window Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD86EYQ2XVP54WMGZ88M",
+   "partNumber": "AG-PIC-001-005_DualWinMount"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PD99CE8DAFM43PF5YERJ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Single Lens Window",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PD951PVPTWBSZGGP7TW5",
+   "partNumber": "AG-PIC-002-002_SingleWindow"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDAGXRDNYHQJSPH1QM80",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Single Camera Mount Body",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PDAAKHDHM04AEEEF2ZRP",
+   "partNumber": "AG-PIC-002-001_SMainBody"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDBKTVZAPRZZKFHF7PHW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Single Lens Window Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PDBFXNPC1XMXQ66GMQHG",
+   "partNumber": "AG-PIC-002-003_SingleWinMount"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDCW50TP0RVN58N840SH",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Round Bollard Base Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:06-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:06-04:00",
+  "part": {
+   "id": "itm_01KQF8PDCRBECX8557ARC3EJJ7",
+   "partNumber": "AG-PIC-003-001_RoundBase"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDDYXQKWF6PW0J784TFS",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Slip Ring",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDDTS1C0XQMFN5A3XXMP",
+   "partNumber": "AG-PIC-003-003_SlipRing"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDEVCR20Z4VMB7RZGRY9",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Base Pivot Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDEQDGXY2R7S1VP2JMP9",
+   "partNumber": "AG-PIC-003-002_PivotMount"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDFXR9DNR4268S13HA1F",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Square Bollard Base Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDFP21WRVTG2QZK2QG2F",
+   "partNumber": "AG-PIC-004-001_SquareBase"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDGW2K3P50PT7P5HVFF3",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "ELP Camera \u2014 4mm focal length",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDGR4HZTR3FD868WZ8WM",
+   "partNumber": "AG-PIC-001-005_ELPCam4"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDHQJHEFEAHVCV34BBK6",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "ELP Camera \u2014 6mm focal length",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDHK2PJ8C0VKV5J4Z2R5",
+   "partNumber": "AG-PIC-001-005_ELPCam6"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDJJMFHMDH4Z6HV79Y64",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "ELP Camera \u2014 8mm focal length",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDJF56XRZ2XJ2E3G73DJ",
+   "partNumber": "AG-PIC-001-005_ELPCam8"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "ELP Camera USB Cable (5m)",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:21:07-04:00",
+  "createdAt": "2026-04-30T09:19:18-04:00",
+  "updatedAt": "2026-04-30T09:21:07-04:00",
+  "part": {
+   "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+   "partNumber": "AG-PIC-001-006_ELPCamUSB"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+   "partNumber": "AG-PIC-005-000"
+  },
+  "bomItems": {
+   "totalCount": 7,
+   "nodes": [
+    {
+     "id": "iti_01KQF90NY8A7E68CCN9YFPH9JE",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 8.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90NYYH0VBN3Q2DS7ENPGG",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90NZVT36WG6YCF3PVY71G",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KPTY8PS6AKFF488WDR4WGZMD",
+      "partNumber": "EXT-92095A181",
+      "manufacturerPn": "92095A181"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PSB2NMSMEB9H3JDTEH5",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P0JYDGEE9CP6PQX3B63",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCZDCG6TA4RW71RSWHCN",
+      "partNumber": "AG-PIC-005-001_WallBracket",
+      "manufacturerPn": "PIC-005-001_WallBracket"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCZHP9R2RQR93WJBDAMS",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P1A7GZEP667K7M3EDQ6",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD0JWDJSC1NKYCEMHXVC",
+      "partNumber": "AG-PIC-005-002_BaseA",
+      "manufacturerPn": "PIC-005-002_BaseA"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD0P0R3KP37SHE65Y7VC",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P204QQR10Q8G11KS07J",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD1JV1YHQ8F5SSSK2NVC",
+      "partNumber": "AG-PIC-005-003_BaseB",
+      "manufacturerPn": "PIC-005-003_BaseB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD1P08J19V39H0Q8ZF12",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P2NTDY7A5EM3SXXE7YS",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD2QQXK8KQW5Y36M0J18",
+      "partNumber": "AG-PIC-005-004_Covers",
+      "manufacturerPn": "PIC-005-004_Covers"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD2VMX46W0DAQQ4KZJVH",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TV5BPAPAX3BK1Q0ETV8X",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Dual Camera Module \u2014 4mm + 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV57YWSYQMG5YH1KAP6M",
+   "partNumber": "AG-PIC-001-000_Dual46"
+  },
+  "bomItems": {
+   "totalCount": 10,
+   "nodes": [
+    {
+     "id": "iti_01KQF90P38J90XAJH7YP5XRNXZ",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P3S41EK4YH3AGCKZEBR",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P494YADSANX1JMGKXCW",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+      "partNumber": "AG-PIC-001-004_LensGrom",
+      "manufacturerPn": "PIC-001-004_LensGrom"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P4TGDRYB5XRMKJ17G6B",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+      "partNumber": "AG-PIC-001-002_InnerWindow",
+      "manufacturerPn": "PIC-001-002_InnerWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P5CV34HVWXWKCWC7K0G",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD6151YFHJ5DK6K36VHP",
+      "partNumber": "AG-PIC-001-003_DualWindow",
+      "manufacturerPn": "PIC-001-003_DualWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD65K25BFA6FZXPXX10M",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P60W9H4QCZ1HH6YTN90",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD7797AH2V3VK2YFE2P3",
+      "partNumber": "AG-PIC-001-001_DMainBody",
+      "manufacturerPn": "PIC-001-001_DMainBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD7BAS92Z6DTQ4H9VA6Q",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P6M4CQ1BYG436TYGC4X",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD86EYQ2XVP54WMGZ88M",
+      "partNumber": "AG-PIC-001-005_DualWinMount",
+      "manufacturerPn": "PIC-001-005_DualWinMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD8AXY14GD2F1MJ83Z3Z",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P76ENPHP0KGM4DNFN9J",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDGR4HZTR3FD868WZ8WM",
+      "partNumber": "AG-PIC-001-005_ELPCam4",
+      "manufacturerPn": "PIC-001-005_ELPCam4"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDGW2K3P50PT7P5HVFF3",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P7RWNG2ED6B5FW2QCHJ",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDHK2PJ8C0VKV5J4Z2R5",
+      "partNumber": "AG-PIC-001-005_ELPCam6",
+      "manufacturerPn": "PIC-001-005_ELPCam6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDHQJHEFEAHVCV34BBK6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P89YP8KWAKRZ51XS1H6",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+      "partNumber": "AG-PIC-001-006_ELPCamUSB",
+      "manufacturerPn": "PIC-001-006_ELPCamUSB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TV6NKVE0Y096BFG5Y0A7",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Dual Camera Module \u2014 6mm + 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV6HNQN6PNX8SPRPE7E6",
+   "partNumber": "AG-PIC-001-000_Dual68"
+  },
+  "bomItems": {
+   "totalCount": 10,
+   "nodes": [
+    {
+     "id": "iti_01KQF90P8VWS0GPGFMM6REV6FV",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P9DGW3QYM22RHSZTRTX",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90P9Y7TDDHM7GNKFH97HE",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+      "partNumber": "AG-PIC-001-004_LensGrom",
+      "manufacturerPn": "PIC-001-004_LensGrom"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PAF876N274ZYMTH7D8E",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+      "partNumber": "AG-PIC-001-002_InnerWindow",
+      "manufacturerPn": "PIC-001-002_InnerWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PB2TXK9CANG36PAB3V1",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD6151YFHJ5DK6K36VHP",
+      "partNumber": "AG-PIC-001-003_DualWindow",
+      "manufacturerPn": "PIC-001-003_DualWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD65K25BFA6FZXPXX10M",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PBJGYJR4FXQE095X9SN",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD7797AH2V3VK2YFE2P3",
+      "partNumber": "AG-PIC-001-001_DMainBody",
+      "manufacturerPn": "PIC-001-001_DMainBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD7BAS92Z6DTQ4H9VA6Q",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PC4RK0RSCMZJ2TEF60X",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD86EYQ2XVP54WMGZ88M",
+      "partNumber": "AG-PIC-001-005_DualWinMount",
+      "manufacturerPn": "PIC-001-005_DualWinMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD8AXY14GD2F1MJ83Z3Z",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PCWF85ET3CH4V2Z5XKN",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDHK2PJ8C0VKV5J4Z2R5",
+      "partNumber": "AG-PIC-001-005_ELPCam6",
+      "manufacturerPn": "PIC-001-005_ELPCam6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDHQJHEFEAHVCV34BBK6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PDMBF7AQZVRQPNHZF44",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDJF56XRZ2XJ2E3G73DJ",
+      "partNumber": "AG-PIC-001-005_ELPCam8",
+      "manufacturerPn": "PIC-001-005_ELPCam8"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDJJMFHMDH4Z6HV79Y64",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PE79S0B41TS7MDW0EJ0",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+      "partNumber": "AG-PIC-001-006_ELPCamUSB",
+      "manufacturerPn": "PIC-001-006_ELPCamUSB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TV7KH823VSY1ZK1R785Y",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Single Camera Module \u2014 4mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV7FGCWSJMPCTV8EVP6D",
+   "partNumber": "AG-PIC-002-000_Single4"
+  },
+  "bomItems": {
+   "totalCount": 9,
+   "nodes": [
+    {
+     "id": "iti_01KQF90PEWYA3HHRPCTNZNJ5YM",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PFJCK7MQXAMD9KSYBA6",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PG6NGND2RNJAC1QCZA1",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+      "partNumber": "AG-PIC-001-004_LensGrom",
+      "manufacturerPn": "PIC-001-004_LensGrom"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PGTKQXYQRY7AZNFBBBZ",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+      "partNumber": "AG-PIC-001-002_InnerWindow",
+      "manufacturerPn": "PIC-001-002_InnerWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PHJJPPYZKSCPRXVVJHB",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD951PVPTWBSZGGP7TW5",
+      "partNumber": "AG-PIC-002-002_SingleWindow",
+      "manufacturerPn": "PIC-002-002_SingleWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD99CE8DAFM43PF5YERJ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PJ6NK6THABEQM267DPY",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDAAKHDHM04AEEEF2ZRP",
+      "partNumber": "AG-PIC-002-001_SMainBody",
+      "manufacturerPn": "PIC-002-001_SMainBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDAGXRDNYHQJSPH1QM80",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PJVEMKG5RJW090CA6YV",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDBFXNPC1XMXQ66GMQHG",
+      "partNumber": "AG-PIC-002-003_SingleWinMount",
+      "manufacturerPn": "PIC-002-003_SingleWinMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDBKTVZAPRZZKFHF7PHW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PKHTP754NBSKFNS4ZCK",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDGR4HZTR3FD868WZ8WM",
+      "partNumber": "AG-PIC-001-005_ELPCam4",
+      "manufacturerPn": "PIC-001-005_ELPCam4"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDGW2K3P50PT7P5HVFF3",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PM7WYBA30N4D4VHFNT0",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+      "partNumber": "AG-PIC-001-006_ELPCamUSB",
+      "manufacturerPn": "PIC-001-006_ELPCamUSB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TV8V6J7Q5SJGFMMDEATM",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Single Camera Module \u2014 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV8QFAYB3HKBPB23TC4H",
+   "partNumber": "AG-PIC-002-000_Single6"
+  },
+  "bomItems": {
+   "totalCount": 9,
+   "nodes": [
+    {
+     "id": "iti_01KQF90PMYQ3J2SE9NNN33S1K1",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PNNDJ5KV5FJWFQ1H5HP",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PPA6HSPFX2V2697SD9T",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+      "partNumber": "AG-PIC-001-004_LensGrom",
+      "manufacturerPn": "PIC-001-004_LensGrom"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PPY204N2WHQS14GR84W",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+      "partNumber": "AG-PIC-001-002_InnerWindow",
+      "manufacturerPn": "PIC-001-002_InnerWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PQJRRN4A2TACHCM3Q0Y",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD951PVPTWBSZGGP7TW5",
+      "partNumber": "AG-PIC-002-002_SingleWindow",
+      "manufacturerPn": "PIC-002-002_SingleWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD99CE8DAFM43PF5YERJ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PR74P4AH74QNTAXXB0G",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDAAKHDHM04AEEEF2ZRP",
+      "partNumber": "AG-PIC-002-001_SMainBody",
+      "manufacturerPn": "PIC-002-001_SMainBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDAGXRDNYHQJSPH1QM80",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PRW2RQ8BVW31ESV7EGH",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDBFXNPC1XMXQ66GMQHG",
+      "partNumber": "AG-PIC-002-003_SingleWinMount",
+      "manufacturerPn": "PIC-002-003_SingleWinMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDBKTVZAPRZZKFHF7PHW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PSG9RKF98MPJGA186ZK",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDHK2PJ8C0VKV5J4Z2R5",
+      "partNumber": "AG-PIC-001-005_ELPCam6",
+      "manufacturerPn": "PIC-001-005_ELPCam6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDHQJHEFEAHVCV34BBK6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PT5NEJTG9CBGBV7XS38",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+      "partNumber": "AG-PIC-001-006_ELPCamUSB",
+      "manufacturerPn": "PIC-001-006_ELPCamUSB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TV9VZ3571GNYMKBNXYAB",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Single Camera Module \u2014 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TV9P1GEVC543RRW9QR3Q",
+   "partNumber": "AG-PIC-002-000_Single8"
+  },
+  "bomItems": {
+   "totalCount": 9,
+   "nodes": [
+    {
+     "id": "iti_01KQF90PTSPRE30X1X2DHYYDF0",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PVBZX68D2BKFFKTX77Z",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PW03XPBM4DXMDD2AYE2",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD3R9FCRAP752SWN96D8",
+      "partNumber": "AG-PIC-001-004_LensGrom",
+      "manufacturerPn": "PIC-001-004_LensGrom"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD3WZ9S3QT8SSN42MRZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PWMF5F4HK4NVVQKFGDV",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD51B4GHXFFP5CWSAET6",
+      "partNumber": "AG-PIC-001-002_InnerWindow",
+      "manufacturerPn": "PIC-001-002_InnerWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD55G67AP9ZR8PWCKA1A",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PX7RKXQYRGSV522SA3J",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PD951PVPTWBSZGGP7TW5",
+      "partNumber": "AG-PIC-002-002_SingleWindow",
+      "manufacturerPn": "PIC-002-002_SingleWindow"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PD99CE8DAFM43PF5YERJ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PY0Y2MXPBTQSCBATZ27",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDAAKHDHM04AEEEF2ZRP",
+      "partNumber": "AG-PIC-002-001_SMainBody",
+      "manufacturerPn": "PIC-002-001_SMainBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDAGXRDNYHQJSPH1QM80",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PYP0YYKQFHFV775621S",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDBFXNPC1XMXQ66GMQHG",
+      "partNumber": "AG-PIC-002-003_SingleWinMount",
+      "manufacturerPn": "PIC-002-003_SingleWinMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDBKTVZAPRZZKFHF7PHW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90PZCD086TNFJKJ3R8QM3",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDJF56XRZ2XJ2E3G73DJ",
+      "partNumber": "AG-PIC-001-005_ELPCam8",
+      "manufacturerPn": "PIC-001-005_ELPCam8"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDJJMFHMDH4Z6HV79Y64",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q0307APCAXNFCE8SFWZ",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDKJX57CCM046TY4F3DX",
+      "partNumber": "AG-PIC-001-006_ELPCamUSB",
+      "manufacturerPn": "PIC-001-006_ELPCamUSB"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDKQTKGEWTM2MVVPRNS5",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+   "partNumber": "AG-PIC-003-000"
+  },
+  "bomItems": {
+   "totalCount": 4,
+   "nodes": [
+    {
+     "id": "iti_01KQF90Q0YSBVQ2BTRMP1PSAT7",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 8.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q1JAYZ36X22WGZ57KZD",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDCRBECX8557ARC3EJJ7",
+      "partNumber": "AG-PIC-003-001_RoundBase",
+      "manufacturerPn": "PIC-003-001_RoundBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDCW50TP0RVN58N840SH",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q233ZWM5V7YS65C75BQ",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDDTS1C0XQMFN5A3XXMP",
+      "partNumber": "AG-PIC-003-003_SlipRing",
+      "manufacturerPn": "PIC-003-003_SlipRing"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDDYXQKWF6PW0J784TFS",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q2K4P91J0SND4Q06A88",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDEQDGXY2R7S1VP2JMP9",
+      "partNumber": "AG-PIC-003-002_PivotMount",
+      "manufacturerPn": "PIC-003-002_PivotMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDEVCR20Z4VMB7RZGRY9",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Mount",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:25:21-04:00",
+  "createdAt": "2026-04-30T09:21:43-04:00",
+  "updatedAt": "2026-04-30T09:25:21-04:00",
+  "part": {
+   "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+   "partNumber": "AG-PIC-004-000"
+  },
+  "bomItems": {
+   "totalCount": 4,
+   "nodes": [
+    {
+     "id": "iti_01KQF90Q34ZX5E3Y25EY23H4SV",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 8.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PCY6JADG85QPX46CBFP2",
+      "partNumber": "EXT-95893A197",
+      "manufacturerPn": "95893A197"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PCYC90XB6DCCCS9ZSG2W",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q3M72VYQAZZ8H1WNAAR",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDFP21WRVTG2QZK2QG2F",
+      "partNumber": "AG-PIC-004-001_SquareBase",
+      "manufacturerPn": "PIC-004-001_SquareBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDFXR9DNR4268S13HA1F",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q45ECQ37WS6PEYDDXVV",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDDTS1C0XQMFN5A3XXMP",
+      "partNumber": "AG-PIC-003-003_SlipRing",
+      "manufacturerPn": "PIC-003-003_SlipRing"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDDYXQKWF6PW0J784TFS",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF90Q4Q34AFXTCS8W32XTDT",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8PDEQDGXY2R7S1VP2JMP9",
+      "partNumber": "AG-PIC-003-002_PivotMount",
+      "manufacturerPn": "PIC-003-002_PivotMount"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8PDEVCR20Z4VMB7RZGRY9",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937SQABZBE95HAG1HBVS8",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount Dual Cam Kit \u2014 4mm + 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937SJJ2M1TE17Y4V595BV",
+   "partNumber": "AG-Dual46-WallMount-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KBE85Z9QAZETDH8Q6AD",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+      "partNumber": "AG-PIC-005-000",
+      "manufacturerPn": "PIC-005-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KKMNPM5C4SASRR4Q20V",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV57YWSYQMG5YH1KAP6M",
+      "partNumber": "AG-PIC-001-000_Dual46",
+      "manufacturerPn": "PIC-001-000_Dual46"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV5BPAPAX3BK1Q0ETV8X",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937TXGFF3GCG89KEYZY64",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount Dual Cam Kit \u2014 6mm + 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937TTYPR9ENJ430EFTVJ6",
+   "partNumber": "AG-Dual68-WallMount-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KBZRXA216ABZYRK3RK0",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+      "partNumber": "AG-PIC-005-000",
+      "manufacturerPn": "PIC-005-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KM4V1EN8NHYGVT05CE7",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV6HNQN6PNX8SPRPE7E6",
+      "partNumber": "AG-PIC-001-000_Dual68",
+      "manufacturerPn": "PIC-001-000_Dual68"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV6NKVE0Y096BFG5Y0A7",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937VX4ZV2P9BMSJMMTNCM",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount Single Cam Kit \u2014 4mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937VS47MASBK821TJD2S6",
+   "partNumber": "AG-Single4-WallMount-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KCFMRB0JTSWWTJ2PY0N",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+      "partNumber": "AG-PIC-005-000",
+      "manufacturerPn": "PIC-005-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KMMC8AB1MD88JEZZK0P",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV7FGCWSJMPCTV8EVP6D",
+      "partNumber": "AG-PIC-002-000_Single4",
+      "manufacturerPn": "PIC-002-000_Single4"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV7KH823VSY1ZK1R785Y",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937WVKDQF37YBSRDKC6R6",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount Single Cam Kit \u2014 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937WRZFHDATPKC563HB4T",
+   "partNumber": "AG-Single6-WallMount-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KCZCSFDNRKBSWK34NJF",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+      "partNumber": "AG-PIC-005-000",
+      "manufacturerPn": "PIC-005-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KN4PDJEY8NNBM90AE0F",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV8QFAYB3HKBPB23TC4H",
+      "partNumber": "AG-PIC-002-000_Single6",
+      "manufacturerPn": "PIC-002-000_Single6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV8V6J7Q5SJGFMMDEATM",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937XTN4WH03SZCGFRZP2N",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Wall Mount Single Cam Kit \u2014 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937XQ7P3GZKF25V3G2B27",
+   "partNumber": "AG-Single8-WallMount-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KDGBBYPPQ000R0Z9GN6",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV3VDMEBGS2TX1EYJ3PK",
+      "partNumber": "AG-PIC-005-000",
+      "manufacturerPn": "PIC-005-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV4285TF4NVYA41HS2SW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KNND9YK58YSVWA6B8VQ",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV9P1GEVC543RRW9QR3Q",
+      "partNumber": "AG-PIC-002-000_Single8",
+      "manufacturerPn": "PIC-002-000_Single8"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV9VZ3571GNYMKBNXYAB",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937YQZZPZCQZXH2P8ADFW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Dual Cam Kit \u2014 4mm + 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937YJGRKPA02D1N5BDWQ5",
+   "partNumber": "AG-Dual46-RoundBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KE23DX7HDVHRKDCT0FK",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+      "partNumber": "AG-PIC-003-000",
+      "manufacturerPn": "PIC-003-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KP5BTPFYT54CS0DWSZ6",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV57YWSYQMG5YH1KAP6M",
+      "partNumber": "AG-PIC-001-000_Dual46",
+      "manufacturerPn": "PIC-001-000_Dual46"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV5BPAPAX3BK1Q0ETV8X",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF937ZXWM0T0X03QQGCQSC1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Dual Cam Kit \u2014 6mm + 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF937ZS2ACJ5D1ZBRYJ8393",
+   "partNumber": "AG-Dual68-RoundBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KEKR3ZZ3A75H43FPDZ4",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+      "partNumber": "AG-PIC-003-000",
+      "manufacturerPn": "PIC-003-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KPMRCAPCFQCMHDJ27VV",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV6HNQN6PNX8SPRPE7E6",
+      "partNumber": "AG-PIC-001-000_Dual68",
+      "manufacturerPn": "PIC-001-000_Dual68"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV6NKVE0Y096BFG5Y0A7",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF9380XQ4P5AXX8BS2JS76M",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Single Cam Kit \u2014 4mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF9380RGZ7H0BJ9CQ2F85VQ",
+   "partNumber": "AG-Single4-RoundBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KF46R75N1XMMRF1M4YR",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+      "partNumber": "AG-PIC-003-000",
+      "manufacturerPn": "PIC-003-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KQ2XBVET9KQ300TK0N8",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV7FGCWSJMPCTV8EVP6D",
+      "partNumber": "AG-PIC-002-000_Single4",
+      "manufacturerPn": "PIC-002-000_Single4"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV7KH823VSY1ZK1R785Y",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF9381WMQDC72JK14NJYHVC",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Single Cam Kit \u2014 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF9381QNABDNR71FVWBC9HX",
+   "partNumber": "AG-Single6-RoundBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KFN7GT9FMZ0XA3885MK",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+      "partNumber": "AG-PIC-003-000",
+      "manufacturerPn": "PIC-003-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KQGH26D4CV73BJVXJ1N",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV8QFAYB3HKBPB23TC4H",
+      "partNumber": "AG-PIC-002-000_Single6",
+      "manufacturerPn": "PIC-002-000_Single6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV8V6J7Q5SJGFMMDEATM",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF9382TBNCE04SJ04862NKQ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Round Bollard Single Cam Kit \u2014 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:18-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF9382Q1K2H4V2HNH6XM0FV",
+   "partNumber": "AG-Single8-RoundBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KGE59QPP149240NBTNK",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVAMG5BG6XCW6NXGKE3Y",
+      "partNumber": "AG-PIC-003-000",
+      "manufacturerPn": "PIC-003-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVAR38CJHBVWXZ94F4Q1",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KQYCRR8XBJ3T85HDRSW",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV9P1GEVC543RRW9QR3Q",
+      "partNumber": "AG-PIC-002-000_Single8",
+      "manufacturerPn": "PIC-002-000_Single8"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV9VZ3571GNYMKBNXYAB",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF93846WCYAK4ZNYE2647EJ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Dual Cam Kit \u2014 4mm + 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF938429NH0D33ACX9SFNX2",
+   "partNumber": "AG-Dual46-SquareBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KGZDABEJN2TSMPNY60B",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+      "partNumber": "AG-PIC-004-000",
+      "manufacturerPn": "PIC-004-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KRD8G3N1VYH0XFWR7KG",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV57YWSYQMG5YH1KAP6M",
+      "partNumber": "AG-PIC-001-000_Dual46",
+      "manufacturerPn": "PIC-001-000_Dual46"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV5BPAPAX3BK1Q0ETV8X",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF93855B779BM4N2FG9WP3G",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Dual Cam Kit \u2014 6mm + 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF93851B6HV27B1T2AB97P8",
+   "partNumber": "AG-Dual68-SquareBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KHF2VAQVAMKGY57BN0R",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+      "partNumber": "AG-PIC-004-000",
+      "manufacturerPn": "PIC-004-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KRWW7M73SK5RPD9MCX5",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV6HNQN6PNX8SPRPE7E6",
+      "partNumber": "AG-PIC-001-000_Dual68",
+      "manufacturerPn": "PIC-001-000_Dual68"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV6NKVE0Y096BFG5Y0A7",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF938678BM47V1HVPMF91G1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Single Cam Kit \u2014 4mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF93864HBPZFD8AG50PT1CA",
+   "partNumber": "AG-Single4-SquareBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KJ5TC8N36BGKY03MSE8",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+      "partNumber": "AG-PIC-004-000",
+      "manufacturerPn": "PIC-004-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KSBKEKQ8Q3XM1DTRRM3",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV7FGCWSJMPCTV8EVP6D",
+      "partNumber": "AG-PIC-002-000_Single4",
+      "manufacturerPn": "PIC-002-000_Single4"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV7KH823VSY1ZK1R785Y",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF9387VJDH4EB3CXQD9CQ9E",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Single Cam Kit \u2014 6mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF9387Q4TDV4DVMRRWTFHJW",
+   "partNumber": "AG-Single6-SquareBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KJN2760WVFAAAM8ZFF8",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+      "partNumber": "AG-PIC-004-000",
+      "manufacturerPn": "PIC-004-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KSTK8758V2AFRFFJP0Y",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV8QFAYB3HKBPB23TC4H",
+      "partNumber": "AG-PIC-002-000_Single6",
+      "manufacturerPn": "PIC-002-000_Single6"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV8V6J7Q5SJGFMMDEATM",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KQF9388XD56GW4BT8A75HK8S",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Square Bollard Single Cam Kit \u2014 8mm",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-04-30T09:28:43-04:00",
+  "createdAt": "2026-04-30T09:26:19-04:00",
+  "updatedAt": "2026-04-30T09:28:43-04:00",
+  "part": {
+   "id": "itm_01KQF9388RANG05VNK4X706A7G",
+   "partNumber": "AG-Single8-SquareBollard-Kit"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KQF96KK4WR0F6GRT752BBFRZ",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TVBGMHH15PQCB7VFG4WK",
+      "partNumber": "AG-PIC-004-000",
+      "manufacturerPn": "PIC-004-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TVBNV61KS0QFJ6Y0YD02",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KQF96KT9WXGXBK9M5W1467HJ",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF8TV9P1GEVC543RRW9QR3Q",
+      "partNumber": "AG-PIC-002-000_Single8",
+      "manufacturerPn": "PIC-002-000_Single8"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF8TV9VZ3571GNYMKBNXYAB",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KRGYJPW1PHWPHJYE8596P7MG",
+  "revisionName": "C",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 RR Sensor Bar Kit",
+  "comment": "",
+  "revisionReason": "Removing power supply from retroreflective sensor bar kit",
+  "releasedAt": "2026-05-13T11:18:32-04:00",
+  "createdAt": "2026-05-13T11:16:41-04:00",
+  "updatedAt": "2026-05-13T11:18:32-04:00",
+  "part": {
+   "id": "itm_01KPVWAR7E33QKQJWAYM5APP2Q",
+   "partNumber": "AG-SEN2-RR-Kit"
+  },
+  "bomItems": {
+   "totalCount": 4,
+   "nodes": [
+    {
+     "id": "iti_01KRGYJPW878Y628VTN7NK4H1S",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPVVZQK4JD0TTMPAE55WMWN2",
+      "partNumber": "AG-SEN2-001-000",
+      "manufacturerPn": "SEN2-001-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPVVZQKJXXDJGRVY10KFATCW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KRGYJPWK7R6QFC6GDTP4G48B",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PMB8039R0Y2V893E2ST",
+      "partNumber": "EXT-E3Z-R61",
+      "manufacturerPn": "E3Z-R61"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8PMG0YXEQDPF39MWRVAY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KRGYJPWYMWQ12B1C38WNWSMM",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q4Z6PYCK9Q440P6XT0F",
+      "partNumber": "EXT-CS-44050-08",
+      "manufacturerPn": "CS-44050-08"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q54GXPE2JVTRGS5KTG4",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KRGYJPXJ1B2KGPV0EXB5BEAZ",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+      "partNumber": "AG-SEN2-002-000",
+      "manufacturerPn": "SEN2-002-000"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9R44VC8PT26N553JEV9GSM",
+      "revisionName": "C"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KSNC8986GTYQXMBM3DZ0MJYZ",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Black-Oxide Medium-Strength Steel Hex Nut, ISO Class 8, M2 x 0.4 mm Thread Size",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-05-27T14:48:35-04:00",
+  "createdAt": "2026-05-27T14:48:19-04:00",
+  "updatedAt": "2026-05-27T15:04:59-04:00",
+  "part": {
+   "id": "itm_01KSNC89817MJT99DQ5W262YPD",
+   "partNumber": "EXT-90593A024"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KSNC8999P1RS8PT25932Q78S",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Black-Oxide Alloy Steel Socket Head Screw, M2 x 0.4 mm Thread Size, 20 mm Long",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-05-27T14:48:35-04:00",
+  "createdAt": "2026-05-27T14:48:20-04:00",
+  "updatedAt": "2026-05-27T15:04:59-04:00",
+  "part": {
+   "id": "itm_01KSNC8994YRXZR5VNKJZM31ZP",
+   "partNumber": "EXT-91290A049"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KSNC8RMF5MCW270KARMG1WV6",
+  "revisionName": "B",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Compute Stack",
+  "comment": null,
+  "revisionReason": "Added EXT-90593A024 and EXT-91290A049 (McMaster-Carr hardware)",
+  "releasedAt": "2026-05-27T14:48:52-04:00",
+  "createdAt": "2026-05-27T14:48:35-04:00",
+  "updatedAt": "2026-05-27T14:48:52-04:00",
+  "part": {
+   "id": "itm_01KQF6JVCAY0PXM2R5QSDVCW9B",
+   "partNumber": "AG-CS3-001-000"
+  },
+  "bomItems": {
+   "totalCount": 28,
+   "nodes": [
+    {
+     "id": "iti_01KSNC8RMSJG62ZYVS49M3R1RG",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RNB8MZ1GX5YMVC20RRM",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650BD04Q603887V9G08R9",
+      "partNumber": "EXT-91292A837",
+      "manufacturerPn": "91292A837"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650BH76MNA6AE0PF1TMA7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RNQWA75JDPRFCCS8W8W",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+      "partNumber": "EXT-91292A009",
+      "manufacturerPn": "91292A009"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RP2GTJVBYAV6B7SQ2G9",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650D96E6H8568S6FQYM3W",
+      "partNumber": "EXT-732-10422-ND",
+      "manufacturerPn": "732-10422-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650DDKRY13C1JB6XMA6Q5",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RPE2K93YTD5M0MWYD6D",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650EBGQ2V2QRWQ0K6VY4F",
+      "partNumber": "EXT-732-12917-ND",
+      "manufacturerPn": "732-12917-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650EFZA91F4ZFPY77AWJW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RPTS3EPMKASVDPEJG3D",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650FCQVSC298RZZK8C2KY",
+      "partNumber": "EXT-952-3964-ND",
+      "manufacturerPn": "952-3964-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650FGJVNQM67RV60BHAD7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RQ78T0P1Q50CPS9ZFZQ",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "For the v\u03c0 USB port header \u2014 prevents SWDv9 button short",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650G9MPCV1CTN6C6E7GPZ",
+      "partNumber": "EXT-1168-TG-A1250-15-15-1.0-ND",
+      "manufacturerPn": "1168-TG-A1250-15-15-1.0-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650GEY4N3PJF7N7Q8YXZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RQK1215ZQKRB3PYMGC4",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650H9CZF5ZJVK91XS5EVF",
+      "partNumber": "AG-CS3-001-006_PDisp",
+      "manufacturerPn": "CS3-001-006_PDisp"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650HD2MGFS8X3NQVBXB0C",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RQYVFKSF23MMHZ4B572",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650J7WPG3SE85CEM3DWKZ",
+      "partNumber": "AG-CS3-001-004_WingLeft",
+      "manufacturerPn": "CS3-001-004_WingLeft"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650JB8ZJQRPV4G45Y28P9",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RRA1SP3QGPH0R0RAH9H",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650K3YERY8G1JS7JQESGF",
+      "partNumber": "AG-CS3-001-005_WingRight",
+      "manufacturerPn": "CS3-001-005_WingRight"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650K9T1V9Y32Q5YPHQSXR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RRNSZW56MNSPC4KYFPA",
+     "position": 11,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650M3EX0AHX86PGM7TFQD",
+      "partNumber": "AG-CS3-001-003_WingBase",
+      "manufacturerPn": "CS3-001-003_WingBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650M7PRB16QMJRQH8SNPY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RS46WNWNYJP9PTYP4C2",
+     "position": 12,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650MZT23TRYD3G4XAQF0A",
+      "partNumber": "AG-CS3-001-001_CaseBody",
+      "manufacturerPn": "CS3-001-001_CaseBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650N3V6KMMTAAWPZMDJQ6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RSGKFMWG8BQ3DNZ7KX0",
+     "position": 13,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650NX5P8FFSXZS6KTQYQY",
+      "partNumber": "AG-CS3-001-002_Faceplate",
+      "manufacturerPn": "CS3-001-002_Faceplate"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650P1SNGJSP5T19WE69P7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RT1FCYM40HKGE0G4HS9",
+     "position": 14,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650PTF895GZ6X9GFS86A3",
+      "partNumber": "EXT-G3-F",
+      "manufacturerPn": "G3-F"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650PYMS6QM3WA1K430EB7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RTC6FW4DQ9ZTYPWMSSN",
+     "position": 15,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650R09GV67G0ZQEQZR225",
+      "partNumber": "EXT-SM-I-003",
+      "manufacturerPn": "SM-I-003"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650R43R2EY30T09WG173B",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RTVA75ZG6FBEXC30K6R",
+     "position": 16,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Primary LTE modem (Eagle Wireless, 2026)",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650S3EVCMNE1DXS0QXDQF",
+      "partNumber": "EXT-I425-GL",
+      "manufacturerPn": "I425-GL"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650S87RE3M1PZMMHY06T3",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RV7N3MVG4SRQPRMHG26",
+     "position": 17,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Alternate to I425-GL \u2014 Quectel EG25-G via DigiKey (2025)",
+     "noLoad": true,
+     "childPart": {
+      "id": "itm_01KQF650T831Q15PPC4TJ5GZ0Y",
+      "partNumber": "EXT-EG25-G",
+      "manufacturerPn": "EG25-G"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650TCMBZF57X784P7VRMZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RVGXCD2KQGCP925S52J",
+     "position": 18,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650VE13VQ2MXG7CFE1MQ9",
+      "partNumber": "EXT-SixFabLTEHAT",
+      "manufacturerPn": "raspberry-pi-base-hat-3g-4g-lte-minipcie-cards"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650VJHT2N0EJNXH9ZRDHR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RVWNGGBKPVY34S321Z1",
+     "position": 19,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650WFBADK9RMPV0MW90AD",
+      "partNumber": "EXT-SC1113",
+      "manufacturerPn": "SC1113"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650WMP3PV4FSHB73DTR7P",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RW826GMCMNFP1VTRXJ1",
+     "position": 20,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650XDRVZCKMSZ4VRHKF46",
+      "partNumber": "EXT-MB-MJ256KA/AM",
+      "manufacturerPn": "MB-MJ256KA/AM"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650XGPWFEVFW2X6ERJ4PP",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RWN8R566DGX6S9SZQ1S",
+     "position": 21,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650YBVSJRRDX8DCW38JPD",
+      "partNumber": "AG-CS3-001-007_PowerCab",
+      "manufacturerPn": "CS3-001-007_PowerCab"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650YF3VYA2ASGXRKA0QWZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RX2QG2VW47286Y3QRBE",
+     "position": 22,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650Z9JQ6DY11X2Z5M0AE5",
+      "partNumber": "EXT-14657",
+      "manufacturerPn": "14657"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ZC0BAY011RNV98QPFM",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RXDXGRQERRW7HX09M06",
+     "position": 23,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "OLED to PartyHAT connection",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF65107NE1FCMQ5CSXBM4J0",
+      "partNumber": "EXT-5623",
+      "manufacturerPn": "5623"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF6510B7GKGBG1ACJJB3REC",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RXT1X679EE3FH60CEE6",
+     "position": 24,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF651131Q0D3AYX3BTFDR48",
+      "partNumber": "EXT-2073-05-12-A-0030-A-4-06-4-T-ND",
+      "manufacturerPn": "2073-05-12-A-0030-A-4-06-4-T-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65116YKM3EVB9NHE18DJH",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RYEBJCGNE1ZFKSCBGXY",
+     "position": 25,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + GPS antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6511YJ98E9JTA4ZQK8K70",
+      "partNumber": "EXT-W3906XXXX",
+      "manufacturerPn": "W3906B0100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65122TNWS4BSFCWR7CVVX",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC8RYSF16Z153NJKKDXQ8C",
+     "position": 26,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + Cellular antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6512XSVXPR2QTCQR8MFDF",
+      "partNumber": "EXT-SRFL029",
+      "manufacturerPn": "SRFL029-100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65132YTPW1GA1G8B8BRDZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC98S0ESME62YGFRXSA1KA",
+     "position": 27,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KSNC89817MJT99DQ5W262YPD",
+      "partNumber": "EXT-90593A024",
+      "manufacturerPn": "90593A024"
+     },
+     "childPartRevision": {
+      "id": "itr_01KSNC8986GTYQXMBM3DZ0MJYZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSNC98SJK8DRDMEBRB97TZXA",
+     "position": 28,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KSNC8994YRXZR5VNKJZM31ZP",
+      "partNumber": "EXT-91290A049",
+      "manufacturerPn": "91290A049"
+     },
+     "childPartRevision": {
+      "id": "itr_01KSNC8999P1RS8PT25932Q78S",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KSR3TFQGGXDYSJ7VE0TMM8AQ",
+  "revisionName": "C",
+  "active": false,
+  "status": "Draft",
+  "description": "v\u03c0 Compute Stack",
+  "comment": null,
+  "revisionReason": "Adding electronics",
+  "releasedAt": null,
+  "createdAt": "2026-05-28T16:18:42-04:00",
+  "updatedAt": "2026-05-28T16:18:42-04:00",
+  "part": {
+   "id": "itm_01KQF6JVCAY0PXM2R5QSDVCW9B",
+   "partNumber": "AG-CS3-001-000"
+  },
+  "bomItems": {
+   "totalCount": 28,
+   "nodes": [
+    {
+     "id": "iti_01KSR3TFQVHFRXTBTJMGMP4MHC",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650A7VB6VC8429JAASX1A",
+      "partNumber": "EXT-95893A189",
+      "manufacturerPn": "95893A189"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ADYA2Q50CC5YSX43AD",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFRBP8703N71J1JS2SP6",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650BD04Q603887V9G08R9",
+      "partNumber": "EXT-91292A837",
+      "manufacturerPn": "91292A837"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650BH76MNA6AE0PF1TMA7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFRRTYTHHWDGYV2P36MD",
+     "position": 3,
+     "buildSequence": null,
+     "quantity": 6.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+      "partNumber": "EXT-91292A009",
+      "manufacturerPn": "91292A009"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFS53E628M5VXNKKAENS",
+     "position": 4,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650D96E6H8568S6FQYM3W",
+      "partNumber": "EXT-732-10422-ND",
+      "manufacturerPn": "732-10422-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650DDKRY13C1JB6XMA6Q5",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFSHFB1DA2VMJ67Y8R2G",
+     "position": 5,
+     "buildSequence": null,
+     "quantity": 2.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650EBGQ2V2QRWQ0K6VY4F",
+      "partNumber": "EXT-732-12917-ND",
+      "manufacturerPn": "732-12917-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650EFZA91F4ZFPY77AWJW",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFSY134JG7PERF108776",
+     "position": 6,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650FCQVSC298RZZK8C2KY",
+      "partNumber": "EXT-952-3964-ND",
+      "manufacturerPn": "952-3964-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650FGJVNQM67RV60BHAD7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFTANKRT51755EHANARR",
+     "position": 7,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "For the v\u03c0 USB port header \u2014 prevents SWDv9 button short",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650G9MPCV1CTN6C6E7GPZ",
+      "partNumber": "EXT-1168-TG-A1250-15-15-1.0-ND",
+      "manufacturerPn": "1168-TG-A1250-15-15-1.0-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650GEY4N3PJF7N7Q8YXZT",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFTQ607EKW65WZTZ2H0N",
+     "position": 8,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650H9CZF5ZJVK91XS5EVF",
+      "partNumber": "AG-CS3-001-006_PDisp",
+      "manufacturerPn": "CS3-001-006_PDisp"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650HD2MGFS8X3NQVBXB0C",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFV1JE7T0S5NFV48QXY4",
+     "position": 9,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650J7WPG3SE85CEM3DWKZ",
+      "partNumber": "AG-CS3-001-004_WingLeft",
+      "manufacturerPn": "CS3-001-004_WingLeft"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650JB8ZJQRPV4G45Y28P9",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFVDD5W6A27QJJNH4W4Q",
+     "position": 10,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650K3YERY8G1JS7JQESGF",
+      "partNumber": "AG-CS3-001-005_WingRight",
+      "manufacturerPn": "CS3-001-005_WingRight"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650K9T1V9Y32Q5YPHQSXR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFVSND8WE9954CVJ7H9G",
+     "position": 11,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650M3EX0AHX86PGM7TFQD",
+      "partNumber": "AG-CS3-001-003_WingBase",
+      "manufacturerPn": "CS3-001-003_WingBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650M7PRB16QMJRQH8SNPY",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFW4HW3E1B4TENY58ZEN",
+     "position": 12,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650MZT23TRYD3G4XAQF0A",
+      "partNumber": "AG-CS3-001-001_CaseBody",
+      "manufacturerPn": "CS3-001-001_CaseBody"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650N3V6KMMTAAWPZMDJQ6",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFWFFZMHP4PK4J2AJCZF",
+     "position": 13,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650NX5P8FFSXZS6KTQYQY",
+      "partNumber": "AG-CS3-001-002_Faceplate",
+      "manufacturerPn": "CS3-001-002_Faceplate"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650P1SNGJSP5T19WE69P7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFWVZ5XFRCBC308YKKVM",
+     "position": 14,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650PTF895GZ6X9GFS86A3",
+      "partNumber": "EXT-G3-F",
+      "manufacturerPn": "G3-F"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650PYMS6QM3WA1K430EB7",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFX7Y6RMXJ6XT0D1VQ5K",
+     "position": 15,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650R09GV67G0ZQEQZR225",
+      "partNumber": "EXT-SM-I-003",
+      "manufacturerPn": "SM-I-003"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650R43R2EY30T09WG173B",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFXM9FEGCVCKG51BPHKM",
+     "position": 16,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Primary LTE modem (Eagle Wireless, 2026)",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650S3EVCMNE1DXS0QXDQF",
+      "partNumber": "EXT-I425-GL",
+      "manufacturerPn": "I425-GL"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650S87RE3M1PZMMHY06T3",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFY2WCTWG7ED43CZNWPH",
+     "position": 17,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "Alternate to I425-GL \u2014 Quectel EG25-G via DigiKey (2025)",
+     "noLoad": true,
+     "childPart": {
+      "id": "itm_01KQF650T831Q15PPC4TJ5GZ0Y",
+      "partNumber": "EXT-EG25-G",
+      "manufacturerPn": "EG25-G"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650TCMBZF57X784P7VRMZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFYETRKWZESMY94SPKN1",
+     "position": 18,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650VE13VQ2MXG7CFE1MQ9",
+      "partNumber": "EXT-SixFabLTEHAT",
+      "manufacturerPn": "raspberry-pi-base-hat-3g-4g-lte-minipcie-cards"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650VJHT2N0EJNXH9ZRDHR",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFYVZ8KQQ0TT6DY23VV4",
+     "position": 19,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650WFBADK9RMPV0MW90AD",
+      "partNumber": "EXT-SC1113",
+      "manufacturerPn": "SC1113"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650WMP3PV4FSHB73DTR7P",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFZ5TF4FC2H3EBRDTTMM",
+     "position": 20,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650XDRVZCKMSZ4VRHKF46",
+      "partNumber": "EXT-MB-MJ256KA/AM",
+      "manufacturerPn": "MB-MJ256KA/AM"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650XGPWFEVFW2X6ERJ4PP",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFZJYREG7H4AANZNB2T8",
+     "position": 21,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650YBVSJRRDX8DCW38JPD",
+      "partNumber": "AG-CS3-001-007_PowerCab",
+      "manufacturerPn": "CS3-001-007_PowerCab"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650YF3VYA2ASGXRKA0QWZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TFZX98STXRMTAH9MX430",
+     "position": 22,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF650Z9JQ6DY11X2Z5M0AE5",
+      "partNumber": "EXT-14657",
+      "manufacturerPn": "14657"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650ZC0BAY011RNV98QPFM",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG09GFZH0YQAKJY58WJV",
+     "position": 23,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "OLED to PartyHAT connection",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF65107NE1FCMQ5CSXBM4J0",
+      "partNumber": "EXT-5623",
+      "manufacturerPn": "5623"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF6510B7GKGBG1ACJJB3REC",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG0MJKHP7S6EY3J1C1ER",
+     "position": 24,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF651131Q0D3AYX3BTFDR48",
+      "partNumber": "EXT-2073-05-12-A-0030-A-4-06-4-T-ND",
+      "manufacturerPn": "2073-05-12-A-0030-A-4-06-4-T-ND"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65116YKM3EVB9NHE18DJH",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG0ZZ5FDMK7AR106KV14",
+     "position": 25,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + GPS antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6511YJ98E9JTA4ZQK8K70",
+      "partNumber": "EXT-W3906XXXX",
+      "manufacturerPn": "W3906B0100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65122TNWS4BSFCWR7CVVX",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG19A7GFW100K68G7GTP",
+     "position": 26,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": "LTE + Cellular antenna",
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KQF6512XSVXPR2QTCQR8MFDF",
+      "partNumber": "EXT-SRFL029",
+      "manufacturerPn": "SRFL029-100"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF65132YTPW1GA1G8B8BRDZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG1M00C68CW69K9BJFQS",
+     "position": 27,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KSNC89817MJT99DQ5W262YPD",
+      "partNumber": "EXT-90593A024",
+      "manufacturerPn": "90593A024"
+     },
+     "childPartRevision": {
+      "id": "itr_01KSNC8986GTYQXMBM3DZ0MJYZ",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KSR3TG1ZB16G7XQESC6VCE1N",
+     "position": 28,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KSNC8994YRXZR5VNKJZM31ZP",
+      "partNumber": "EXT-91290A049",
+      "manufacturerPn": "91290A049"
+     },
+     "childPartRevision": {
+      "id": "itr_01KSNC8999P1RS8PT25932Q78S",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KTC19XHGMP6XS8Z56HAPMWED",
+  "revisionName": "A",
+  "active": false,
+  "status": "Released",
+  "description": "TEST object",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-06-05T09:59:39-04:00",
+  "createdAt": "2026-06-05T09:59:31-04:00",
+  "updatedAt": "2026-06-05T09:59:39-04:00",
+  "part": {
+   "id": "itm_01KTC19XHGAR10BJQ7XNKH7QVX",
+   "partNumber": "TEST-Kit"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KTC2Z9R3HW4MPFYZ71EBV0ED",
+  "revisionName": "B",
+  "active": true,
+  "status": "Released",
+  "description": "TEST object",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-06-05T10:29:40-04:00",
+  "createdAt": "2026-06-05T10:28:40-04:00",
+  "updatedAt": "2026-06-05T10:29:40-04:00",
+  "part": {
+   "id": "itm_01KTC19XHGAR10BJQ7XNKH7QVX",
+   "partNumber": "TEST-Kit"
+  },
+  "bomItems": {
+   "totalCount": 1,
+   "nodes": [
+    {
+     "id": "iti_01KTC30VX2J23GPZNMP0JS6607",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KQF650CB73MCTPP8YRF1MQ8Y",
+      "partNumber": "EXT-91292A009",
+      "manufacturerPn": "91292A009"
+     },
+     "childPartRevision": {
+      "id": "itr_01KQF650CG0RK1QBQZPMV4BMA6",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KW9R44VC8PT26N553JEV9GSM",
+  "revisionName": "C",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Sensor Retroreflector",
+  "comment": "",
+  "revisionReason": "Replace E39-R2 dual-reflector (was 1x but should have been 2x qty) with 4x E39-R1 single-reflector",
+  "releasedAt": "2026-06-29T09:14:35-04:00",
+  "createdAt": "2026-06-29T09:11:59-04:00",
+  "updatedAt": "2026-06-29T09:14:35-04:00",
+  "part": {
+   "id": "itm_01KPTY8PNXEE2D2FDMN1JTV065",
+   "partNumber": "AG-SEN2-002-000"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KW9R44VD2N28MTK8GYK1GK72",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KPTY8Q25SAMYKE99G2YMKJVF",
+      "partNumber": "AG-SEN2-002-001_DualRRCov",
+      "manufacturerPn": "SEN2-002-001_DualRRCov"
+     },
+     "childPartRevision": {
+      "id": "itr_01KPTY8Q2A46016EH8Q2P7QRHA",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KW9R7343XXAVXBD917WN5J5J",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 4.0,
+     "designator": "",
+     "comment": "",
+     "noLoad": false,
+     "childPart": {
+      "id": "itm_01KW9R6E7KQ04BY8VHWSFQJ3MN",
+      "partNumber": "EXT-E39-R1",
+      "manufacturerPn": "E39-R1"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9R6E7MY0ZKEQ9BZACKECFC",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "itr_01KW9R6E7MY0ZKEQ9BZACKECFC",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "Omron E39-R1 Retroreflector",
+  "comment": "",
+  "revisionReason": "",
+  "releasedAt": "2026-06-29T09:13:25-04:00",
+  "createdAt": "2026-06-29T09:13:14-04:00",
+  "updatedAt": "2026-06-29T09:13:25-04:00",
+  "part": {
+   "id": "itm_01KW9R6E7KQ04BY8VHWSFQJ3MN",
+   "partNumber": "EXT-E39-R1"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KW9S66D2QRJQFC5SD0S5MNNF",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "SENSOR ENCLOSURE BASE V5",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-06-29T09:30:54-04:00",
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-06-29T09:30:54-04:00",
+  "part": {
+   "id": "itm_01KW9S66D2QNN1D3J1W80YQ0K8",
+   "partNumber": "AG-SEN2-003-001_EnclosureBase"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KW9S66EBR3W84FA7TDTHT3WW",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "SENSOR ENCLOSURE ASSY V5 CARDINAL ORANGE T009-OG26",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-06-29T09:30:54-04:00",
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-06-29T09:30:54-04:00",
+  "part": {
+   "id": "itm_01KW9S66EARHKDW1FSNBJ5EN4N",
+   "partNumber": "AG-SEN2-003-002_EnclosureTop"
+  },
+  "bomItems": {
+   "totalCount": 0
+  }
+ },
+ {
+  "id": "itr_01KW9S66FDKCDYFSTV3V2ZAAJ1",
+  "revisionName": "A",
+  "active": true,
+  "status": "Released",
+  "description": "v\u03c0 Sensor Enclosure X5",
+  "comment": null,
+  "revisionReason": null,
+  "releasedAt": "2026-06-29T09:31:08-04:00",
+  "createdAt": "2026-06-29T09:30:35-04:00",
+  "updatedAt": "2026-06-29T09:31:08-04:00",
+  "part": {
+   "id": "itm_01KW9S66FD4SC2Q1P2CYAY4NMY",
+   "partNumber": "AG-SEN2-003-000"
+  },
+  "bomItems": {
+   "totalCount": 2,
+   "nodes": [
+    {
+     "id": "iti_01KW9S6RWSV83C79A67D6YWT84",
+     "position": 1,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KW9S66D2QNN1D3J1W80YQ0K8",
+      "partNumber": "AG-SEN2-003-001_EnclosureBase",
+      "manufacturerPn": "SEN2-003-001_EnclosureBase"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9S66D2QRJQFC5SD0S5MNNF",
+      "revisionName": "A"
+     }
+    },
+    {
+     "id": "iti_01KW9S6RX5MW37HSK1KJ83KRQT",
+     "position": 2,
+     "buildSequence": null,
+     "quantity": 1.0,
+     "designator": null,
+     "comment": null,
+     "noLoad": null,
+     "childPart": {
+      "id": "itm_01KW9S66EARHKDW1FSNBJ5EN4N",
+      "partNumber": "AG-SEN2-003-002_EnclosureTop",
+      "manufacturerPn": "SEN2-003-002_EnclosureTop"
+     },
+     "childPartRevision": {
+      "id": "itr_01KW9S66EBR3W84FA7TDTHT3WW",
+      "revisionName": "A"
+     }
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,84 @@
+{
+ "data": {
+  "rateLimit": {
+   "limit": 600000,
+   "remaining": 599889,
+   "used": 111,
+   "cost": 56,
+   "resetAt": "2026-11-12T23:17:40-05:00"
+  },
+  "metadata": {
+   "queryCost": 56,
+   "totalComplexity": 616,
+   "totalQueries": 11,
+   "totalRecords": 105
+  },
+  "parts": {
+   "totalCount": 105
+  },
+  "partRevisions": {
+   "totalCount": 112
+  },
+  "partTypes": {
+   "totalCount": 6,
+   "nodes": [
+    {
+     "id": "itt_01KPVVQJEF5P1MWSAW5X3NA9MZ",
+     "name": "Assembly",
+     "partnumberKey": "0006",
+     "isNonMaterial": false,
+     "parentOnly": false,
+     "parent": null
+    },
+    {
+     "id": "itt_01KPRKE4N8PQ7RSXJFF1J5D9P2",
+     "name": "Cable",
+     "partnumberKey": "0005",
+     "isNonMaterial": null,
+     "parentOnly": false,
+     "parent": null
+    },
+    {
+     "id": "itt_01KPRKE4KEZ1M71K8VZMSZWSBH",
+     "name": "Mechanical",
+     "partnumberKey": "0001",
+     "isNonMaterial": null,
+     "parentOnly": false,
+     "parent": null
+    },
+    {
+     "id": "itt_01KPRKE4M0KEV0B4X744D5HYZ2",
+     "name": "Module",
+     "partnumberKey": "0002",
+     "isNonMaterial": null,
+     "parentOnly": false,
+     "parent": null
+    },
+    {
+     "id": "itt_01KPRKE4MV2Y131A84ACQYCW50",
+     "name": "Other",
+     "partnumberKey": "0004",
+     "isNonMaterial": null,
+     "parentOnly": false,
+     "parent": null
+    },
+    {
+     "id": "itt_01KPRKE4MD24YSKMS60T4QF51R",
+     "name": "Power",
+     "partnumberKey": "0003",
+     "isNonMaterial": null,
+     "parentOnly": false,
+     "parent": null
+    }
+   ]
+  },
+  "units": {
+   "nodes": [
+    {
+     "id": "uom_01KNW968REVQW2WJNZ96PQ6VMB",
+     "name": "each"
+    }
+   ]
+  }
+ }
+}
