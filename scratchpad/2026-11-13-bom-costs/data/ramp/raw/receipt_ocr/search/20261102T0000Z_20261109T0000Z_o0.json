@@ -1,0 +1,215 @@
+{
+ "query": {
+  "window": [
+   "2026-11-02T00:00:00Z",
+   "2026-11-09T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:07.343Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "3d757e18-d64c-496d-a707-f665fa39e74e",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "9b23dec0-1dc8-493c-b7df-d024fa23d392",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-06T19:02:21.531474Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-11-06",
+   "total_amount": "17503.58",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": null,
+    "transaction_date": "2026-11-06",
+    "total_amount": 17503.58,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": [
+     {
+      "discount_name": "Credit",
+      "discount_rate": null,
+      "discount_amount": 3875.6
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 19930.4
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 372.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 812.1
+     },
+     {
+      "item_date": null,
+      "item_name": "Late Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 264.68
+     }
+    ]
+   },
+   "ocr_excerpt": "Your receipt from Hologram, Inc. #2552-7528\nYour receipt from Hologram, Inc. #2552-7528\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\nHologram, Inc.\nReceipt from Hologram, Inc.\n$17,503.58\nPaid on November 6, 2026 with\n- 3129\nReceipt #2552-7528\nData Usage\nQty 1\n$19,930.40\nMonthly SIM Charges\nQty 1\n$372.00\nCredit\nQty 1\n-$3,875.60\nMonthly Support Fee\nQty 1\n$812.10\nLate Fee\nQty 1\n$264.68\nTotal\n$17,503.58\nAmount paid\n$17,503.58\nDownload receipt\nDownload invoice\nQuestions? Visit our\nsupport site\n, contact us at\nsupport@hologram.io\n, or call us at\n+1 888-980-4758\n.\nPowered by\n"
+  },
+  {
+   "receipt_uuid": "60b569d8-538b-4972-9aca-7bb50f93741e",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "ccf64547-ae4d-4dde-bab6-7d714c521709",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-03T21:03:22.900489Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-11-03",
+   "total_amount": "22.24",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-11-03",
+    "total_amount": 22.24,
+    "subtotal": 20.45,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.79
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Kester EP256 Solder Paste, No-Clean 63/37, Syringe Dispenser",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 20.45
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-0640022-8998628\n    Order Placed: November 3, 2026\n    Amazon.com order number: 114-0640022-8998628\n    Order Total: USD 22.24\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                  Price\n    1 of: Kester EP256 Solder Paste, No-Clean 63/37, Syringe Dispenser                                            $20.45\n    Sold by and invoiced on behalf of: CML Supply (seller profile)\n    Seller Credentials: 889 Certification, Registered Small Business, Classified Small Business - SBA Standard\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                        Item(s) Subtotal:    $20.45\n    Bryan Monti                                                                           Shipping & Handling:     $0.00\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616                                                                                      -----\n    United States                                                                            Total before tax:    $20.45\n                                                                                                    Sales Tax:     $1.79\n    Shipping Speed:                                                                                                -----\n    FREE Prime Delivery                                                               Total for This Shipment:    $22.24\n                                                                                                                   -----\n\n        Payment information\n    Payment Method:                                                                          Item(s) Subtotal: USD 20.45\n    Visa | Last digits: 1571                                                               Shipping & Handling: USD 0.00\n    Billing address\n    Bryan Monti                                                                "
+  },
+  {
+   "receipt_uuid": "07f6021e-c66d-4382-aef2-d3c0b612a6c8",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "576ccd87-ac5f-4a8e-b9fc-46e322794c34",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-08T08:04:13.556636Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-11-06",
+   "total_amount": "111.8",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-11-06",
+    "total_amount": 111.8,
+    "subtotal": 103.52,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 8.28
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "4 of: Dasen Bubble Mailers, 8.5x11 Inch Padded Bubble Mailers Pack of 50 Bubble Envelopes Opaque Self Seal Adhesive Waterproof Bags for Shipping and Packaging (White, 8.5x11-50Pc)",
+      "item_quantity": 4.0,
+      "item_unit_price": null,
+      "item_total_price": 25.88
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #113-8433397-4907409\n    Order Placed: November 6, 2026\n    Amazon.com order number: 113-8433397-4907409\n    Order Total: USD 111.80\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                           Price\n    4 of: Dasen Bubble Mailers, 8.5x11 Inch Padded Bubble Mailers Pack of 50 Bubble Envelopes Opaque Self Seal Adhesive    $25.88\n    Waterproof\n    Bags for Shipping and Packaging (White, 8.5x11-50Pc)\n    Sold by and invoiced on behalf of: DASEN-US (seller profile)\n    Condition: New\n\n    Shipping Address:                                                                                   Item(s) Subtotal: $103.52\n    Chris Williamson        Shipping & Handling:                                                                            $0.00\n    185 Stag Dr\n    WILLISTON, SC 29853                                                                                                     -----\n    United States                                                                                       Total before tax: $103.52\n        Sales Tax:                                                                                                          $8.28\n    Shipping Speed:                                                                                                         -----\n    FREE Prime Delivery                                                                          Total for This Shipment: $111.80\n                                                                                                                            -----\n\n        Payment information\n    Payment Method:                                                                                  Item(s) Subtotal: USD 103.52\n    Visa | Last digits: 2311        Shipping & Handling:                                                                 USD 0.00\n    Billing address\n    Chris Williamson             "
+  },
+  {
+   "receipt_uuid": "ddafd5cd-0c35-4960-a0d9-60e6045d8167",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "b2d7b5b7-b69c-44cd-8dd3-64ee4a6da6bc",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-02T17:44:20.055866Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-11-02",
+   "total_amount": "13.56",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-11-02",
+    "total_amount": 13.56,
+    "subtotal": 9.48,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.09
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 2.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "NAUIX 10PCS T25 Security Torx Bit Set, 2\" Long / S2 Alloy Steel, Magnetic Tips, 1/4\" Hex Shank Tamper Proof Star Bits for Impact Driver,deliver durability",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.48
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-5255203-2476208\n    Order Placed: November 2, 2026\n    Amazon.com order number: 114-5255203-2476208\n    Order Total: USD 13.56\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                Price\n    1 of: NAUIX 10PCS T25 Security Torx Bit Set, 2\" Long | S2 Alloy Steel, Magnetic Tips, 1/4\" Hex Shank Tamper Proof St         $9.48\n    ar Bits for Impact Driver,deliver durability\n    Sold by and invoiced on behalf of: NAUIX (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                      Item(s) Subtotal:     $9.48\n    Bryan Monti                                                                                         Shipping & Handling:     $2.99\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616                                                                                                    -----\n    United States                                                                                          Total before tax:    $12.47\n                                                                                                                  Sales Tax:     $1.09\n    Shipping Speed:                                                                                                              -----\n    Rush Shipping                                                                                   Total for This Shipment:    $13.56\n                                                                                                                                 -----\n\n        Payment information\n    Payment Method:        Item(s) Subtotal:                                                                                  USD 9.48\n    Visa | Last digits: 1571                                                                             Shipping & Handling: USD 2.9"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "call": {
+  "id": 72,
+  "received_after": "2026-07-29T12:25:52Z",
+  "received_before": "2026-07-29T14:25:52Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:58:43.057Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "47eaf0d7-a7fe-43c1-a148-ffb0585fb046",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "c7570d9a-33ec-4f63-921f-7dbc9b1de7d5",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-29T13:25:52.663305Z",
+   "merchant": "The Home Depot",
+   "receipt_date": "2026-07-29",
+   "total_amount": "158.2",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "The Home Depot",
+    "merchant_address": null,
+    "transaction_date": "2026-07-29",
+    "total_amount": 158.2,
+    "subtotal": 148.82,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 9.38
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Southwire 15 ft. 14/2 Solid Romex SIMpull CU NM-B W/G Wire",
+      "item_quantity": 1.0,
+      "item_unit_price": 24.0,
+      "item_total_price": 24.0
+     },
+     {
+      "item_date": null,
+      "item_name": "WAGO 221-413 Lever-Nuts 3-Conductor Splicing Connectors, 12-24AWG (50-Pack)",
+      "item_quantity": 1.0,
+      "item_unit_price": 21.47,
+      "item_total_price": 21.47
+     },
+     {
+      "item_date": null,
+      "item_name": "Scotch 1 in. x 1.66 yds. Permanent Double Sided Extreme Mounting Tape",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.98,
+      "item_total_price": 9.98
+     },
+     {
+      "item_date": null,
+      "item_name": "Commercial Electric Combo Thread Grounding Screw, Green (10-Pack)",
+      "item_quantity": 1.0,
+      "item_unit_price": 3.3,
+      "item_total_price": 3.3
+     },
+     {
+      "item_date": null,
+      "item_name": "Commercial Electric 3/8 in. (1/2 in. Knockout) Non-Metallic Clamp Connector (5-Pack)",
+      "item_quantity": 1.0,
+      "item_unit_price": 3.68,
+      "item_total_price": 3.68
+     },
+     {
+      "item_date": null,
+      "item_name": "Leviton 20 Amp 125 V Commercial Grade Duplex Outlet/Receptacle, White (1-Pack) CBR20-W",
+      "item_quantity": 4.0,
+      "item_unit_price": 4.38,
+      "item_total_price": 17.52
+     },
+     {
+      "item_date": null,
+      "item_name": "Steel City 4 in. Square Box Surface Steel Metallic Cover Double Duplex (RS8-10R)",
+      "item_quantity": 1.0,
+      "item_unit_price": 3.9,
+      "item_total_price": 3.9
+     },
+     {
+      "item_date": null,
+      "item_name": "3M Temflex 3/4 in. x 60 ft. 1700 Electrical Tape Black",
+      "item_quantity": 1.0,
+      "item_unit_price": 2.98,
+      "item_total_price": 2.98
+     },
+     {
+      "item_date": null,
+      "item_name": "Gardner Bender 1 lb. Plug Duct Seal Compound",
+      "item_quantity": 1.0,
+      "item_unit_price": 5.34,
+      "item_total_price": 5.34
+     },
+     {
+      "item_date": null,
+      "item_name": "Milwaukee 1/8 in. - 1/2 in. #1 Black Oxide Step Drill Bit (13-Steps)",
+      "item_quantity": 1.0,
+      "item_unit_price": 29.97,
+      "item_total_price": 29.97
+     },
+     {
+      "item_date": null,
+      "item_name": "Husky 9 ft. 14/3 Medium Duty Tool Replacement Cord, Black",
+      "item_quantity": 1.0,
+      "item_unit_price": 19.98,
+      "item_total_price": 19.98
+     },
+     {
+      "item_date": null,
+      "item_name": "Steel City 4 in. Metallic Square Box with CV Bracket (52171CV1234-25R)",
+      "item_quantity": 1.0,
+      "item_unit_price": 6.7,
+      "item_total_price": 6.7
+     }
+    ]
+   },
+   "ocr_excerpt": "BOMI DEPOT\nTHE Pro A Gloucester 9PM\n> 23149\nWh\nA\nGloucester 9PM > 23149\n= Menu\n=\nProX\nQuotes\nLists Benja ...\nil Lhe+ Chat\n1 of 3\n7/29/26, 09:25\nPlaced on: Jul 29, 2026\nBilling Information\nBenjamin Ward 611 Molys Way Saluda VA 23148\nPayment Method: VISA ** 3514\nİtem\nPrice/Item\nLine Total\nScheduled Delivery (12 items) 611 Molys Way , Saluda, VA 23149\nSouthwire 15 ft. 14/2 Solid Romex SIMpull CU NM-B W/G Win\n$24.00 1\n$24.00\nExpect it on Jul, 29 2026 8am - 8pm\nWAGO 221-413 Lover-Nuts 3-Conductor Splicing Connectors, 12-24AW3 (50- $21.47 Paciq\n1\n$21.47\nExpect it on Jul, 29 2026 6am - 8pm\nScotch 1 in. x 1.66 yds. Permanent Double Sided Extreme Mounting Tape $9.90 1\n$9.90\n$0.00\nExpect it on Jul, 29 2025 8am = 8pm\nCommercial Electrie Combo Thevad Grounding Screw, Groen (10-Pack) $3.30\n1\n$3.20\nExpect it on Jul, 29 2026 8am - 8pm\nCommercial Electrie 3/8 in. (1/2 in. Knockout) Non-Matalie Clamp Connector $3.68 [-Pack\n1\n53.68\nExpect it on Jul, 29 2024 6am - 8pm\nLeviton 20 Amp 125 Y Commercial Grade Duplex Outlet/Recepincle, White (1- $4.30 Pack OBA20-W\n4\n$17.52\nExpect it on Jul, 29 2026 8am - 8pm\nStoel City 4 in. Square Box Surface Stoel Metallic Cover Double Duplex [R88-10R)\n$3.90\n1\n$3.90\nExpect it on Jul, 29 2026 6am - 8pm\nJM Temflex 3/4 in. x 60 #. 1700 Electrical Tape Black\n$2.80\n1\n$2.90\nExpect it on Jul, 29 2026 6am - 8pm\nGardner Bender 1 l. Plug Duct Seal Compound\n$5.34\n1\n$5.34\nExpect it on Jul, 29 2024 8am = 8pm\nMilwaukee 1/8 in. - 1/2 in. #1 Black Oxide Step Drill Bit (13-Steps)\n$20.97\n1\n$29.97\nExpect it on Jul, 29 2026 8am - 8pm\nHusky 9 ft. 14/3 Medium Duty Tool Replacement Cord, Black\n$19.98 1\n$19.98\nExpect it on Jul, 29 2026 6am - 0pm\n2 of 3\n7/29/26. 09:25\nSteel City 4 in. Metallic Square Box with CV Bracket [52171CV1234-25P) Expect it on Jul, 29 2025 6am - 0pm\n$6.70 1\n$6.70\nSubtotal\nBakan Tax\n$140.02 $9.38\nTotal\n$158.20\nNeed help?\nOnline Customer Support\n1-800-430-3378\nCal 7 days a week 6 a.m. to 2 n.m. EST\nDownload Our App\nNeed Help? Visit our Customer Service Cent"
+  }
+ ]
+}

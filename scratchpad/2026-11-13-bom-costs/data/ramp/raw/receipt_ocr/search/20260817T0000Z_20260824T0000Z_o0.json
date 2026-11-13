@@ -1,0 +1,66 @@
+{
+ "query": {
+  "window": [
+   "2026-08-17T00:00:00Z",
+   "2026-08-24T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:27.259Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "afbb0f25-137a-43a0-bf5e-0a9a89178857",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "30189f76-dddb-44b7-85cd-cc03764bfe38",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-23T01:34:15.276388Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-08-21",
+   "total_amount": "38.91",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-08-21",
+    "total_amount": 38.91,
+    "subtotal": 36.95,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.96
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: DEWALT Drill Chuck for Impact Driver, Quick Connect (DW0521)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 36.95
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #111-8878513-4760203\n    Order Placed: August 21, 2026\n    Amazon.com order number: 111-8878513-4760203\n    Order Total: USD 38.91\n\n        Not Yet Shipped\n\n    Items Ordered                                                              Price\n    1 of: DEWALT Drill Chuck for Impact Driver, Quick Connect (DW0521)        $36.95\n    Sold by and invoiced on behalf of: Amazon.com\n    Condition: New\n\n    Shipping Address:                                    Item(s) Subtotal:    $36.95\n    Ben Ward                                          Shipping & Handling:     $0.00\n    611 MOLLYS WAY\n    SALUDA, VA 23149-2578                                                      -----\n    United States                                        Total before tax:    $36.95\n                                                                Sales Tax:     $1.96\n    Shipping Speed:                                                            -----\n    FREE Prime Delivery                           Total for This Shipment:    $38.91\n                                                                               -----\n\n        Payment information\n    Payment Method:                                      Item(s) Subtotal: USD 36.95\n    Visa | Last digits: 3514                           Shipping & Handling: USD 0.00\n    Billing address\n    Ben Ward                                             Total before tax: USD 36.95\n    2261 MARKET ST # 4027        Estimated tax to be collected:             USD 1.96\n    SAN FRANCISCO, CA 94114-1612\n    United States                                             Grand Total: USD 38.91\n\n   To view the status of your order, return to Order Summary .\n\nConditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc."
+  }
+ ]
+}

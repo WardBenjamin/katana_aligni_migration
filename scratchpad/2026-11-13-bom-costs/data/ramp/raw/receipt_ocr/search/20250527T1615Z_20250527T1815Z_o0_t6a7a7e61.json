@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-05-27T16:15:45Z",
+   "2025-05-27T18:15:45Z"
+  ],
+  "keywords": [
+   "SupplyHouse",
+   "SupplyHouse.com",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

@@ -1,0 +1,105 @@
+{
+ "query": {
+  "window": [
+   "2026-07-13T15:01:00Z",
+   "2026-07-13T17:01:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:02.133Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "29fded96-9e5c-489a-b326-6403c3417dd8",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "faa2d5e4-cafc-4971-9fcf-5c78de12209c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-13T16:01:30.938716Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-07-13",
+   "total_amount": "43.48",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": "2026-07-13",
+    "total_amount": 43.48,
+    "subtotal": 39.98,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Klein Tools 935DAF Digital Angle",
+      "item_quantity": 1.0,
+      "item_unit_price": 39.98,
+      "item_total_price": 39.98
+     }
+    ]
+   },
+   "ocr_excerpt": "\nArriving overnight 4 AM – 8 AM\nBryan - SOUTH SETAUKET, NY - On behalf of AirGarage, Inc\nOrder #\n‫111-9851249-5281805\nView or edit order\nKlein Tools 935DAF Digital Angle ...\nQuantity: 1\n$\n39\n98\nGrand Total:\n$43.48\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\n"
+  },
+  {
+   "receipt_uuid": "d37a76ee-06ff-41ed-b22e-ad1d5deca0ee",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "faa2d5e4-cafc-4971-9fcf-5c78de12209c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-13T15:57:25.747588Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-07-13",
+   "total_amount": "43.48",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-07-13",
+    "total_amount": 43.48,
+    "subtotal": 39.98,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 3.5
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 2.99
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "Promotion applied",
+      "discount_rate": null,
+      "discount_amount": 2.99
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Klein Tools 935DAF Digital Angle Finder, Precision Measurements, Miter Saw Protractor Angle Calculation and Portable Design",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 39.98
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nDetails for Order #111-9851249-5281805\nOrder Placed: July 13, 2026 Amazon.com order number: 111-9851249-5281805 Order Total: $43.48\nNot Yet Shipped\nItems Ordered\nPrice\n$39.98\n1 of: Klein Tools 935DAF Digital Angle Finder, Precision Measurements, Miter Saw Protractor Angle Calculation and Portable Des ign Sold by and invoiced on behalf of: Amazon.com Condition: New\nShipping Address: Bryan Monti 32 PROVINCE DR SOUTH SETAUKET, NY 11720-4616 United States\nShipping Speed: Rush Shipping\nPayment information\nPayment Method: Visa | Last digits: 3514\nItem(s) Subtotal: $39.98\nShipping & Handling: $2.99\nPromotion applied: -$2.99\nBilling address Ben Ward 2261 MARKET ST # 4027 SAN FRANCISCO, CA 94114-1612 United States\nTotal before tax: $39.98\nEstimated Tax: $3.50\nGrand Total: $43.48\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  }
+ ]
+}

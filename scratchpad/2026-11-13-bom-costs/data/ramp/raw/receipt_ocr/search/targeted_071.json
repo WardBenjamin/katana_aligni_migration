@@ -1,0 +1,42 @@
+{
+ "call": {
+  "id": 71,
+  "received_after": "2026-07-28T16:11:59Z",
+  "received_before": "2026-07-28T18:11:59Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:58:43.018Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "b81403ab-e505-4378-afc8-24560bfddee4",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "8afbc515-190c-498c-a1a1-e4445cf9dd71",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-28T17:11:59.068365Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "22.25",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 22.25,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": false,
+    "line_items": null
+   },
+   "ocr_excerpt": "er\nOrdered\nShipped\nOut for delivery\nDelivered\nArriving tomorrow 10 AM – 3 PM\n⁦2⁩ Tools items\nBryan - CENTEREACH, NY - On behalf of AirGarage, Inc\nOrder #\n‫114-4238714-3150615\nGrand Total:\n$22.25\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  }
+ ]
+}

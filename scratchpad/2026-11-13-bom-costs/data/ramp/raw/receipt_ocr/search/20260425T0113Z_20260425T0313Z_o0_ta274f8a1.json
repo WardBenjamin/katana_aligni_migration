@@ -1,0 +1,57 @@
+{
+ "query": {
+  "window": [
+   "2026-04-25T01:13:00Z",
+   "2026-04-25T03:13:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "a274f8a1-2f76-4652-9072-d77573974932"
+ },
+ "pulled_at": "2026-11-13T04:55:16Z",
+ "returned": 1,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "a274f8a1-2f76-4652-9072-d77573974932",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "1325aa7b-64fb-464b-ae7d-426258a0d1f0",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-25T02:13:00.170783Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-04-25",
+   "total_amount": "312.1",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": "P.O. Box 81226 Seattle, Washington 98108-1226",
+    "transaction_date": "2026-04-25",
+    "total_amount": 312.1,
+    "subtotal": 296.39,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Brother QL-1110NWBC Wide Format, Pos...",
+      "item_quantity": 1.0,
+      "item_unit_price": 296.39,
+      "item_total_price": 296.39
+     }
+    ]
+   },
+   "ocr_excerpt": " indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour estimated delivery date is:\nThursday, April 30 - Monday, May 4\nYour order will be sent to:\nBen Ward\nURBANNA, VA\nUnited States\nYour shipping speed:\nStandard Shipping\nOrder #\n111-0900433-7028204\nView or manage order\nBrother QL-1110NWBC Wide Format, Pos...\nOffice Product\nSold by\nAmazon.com Services, Inc\nCondition: New\nQty : 1\n$296.39\nOrder Total:\n$312.10\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nSimilar purchases on same day\nLabelchoice 12 Rolls 6000 Pcs 4\"x3...\n1,167\n$56.99\nSave 6%\non 5+ units\nAegis Adhesives - Replacement for...\n2,122\n$21.76\nSave 19%\non 3+ units\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.coms\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nThis email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.\n"
+  }
+ ]
+}

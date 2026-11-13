@@ -1,0 +1,147 @@
+{
+ "query": {
+  "window": [
+   "2026-07-06T06:26:00Z",
+   "2026-07-06T08:26:00Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:47.846Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "95dc100d-c322-42e9-a78d-9c1bcf08e7ef",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "06bb67cc-ed4a-406a-afa5-785723547ae7",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-06T07:26:35.075143Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-07-05",
+   "total_amount": "140.5",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-07-05",
+    "total_amount": 140.5,
+    "subtotal": 82.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 5.56
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Estimated Tariff Amount",
+      "fee_amount": 22.95
+     },
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 29.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "PART: 1145-ADT-060A12AAB-A-ND DESC: AC/DC DESKTOP ADAPTER 12V 60W",
+      "item_quantity": 1.0,
+      "item_unit_price": 28.19,
+      "item_total_price": 28.19
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 1145-ADT-120A24AAF-A-ND DESC: AC/DC DESKTOP ADAPTER 24V 120W",
+      "item_quantity": 1.0,
+      "item_unit_price": 53.39,
+      "item_total_price": 53.39
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 1866-DCPLUG-P1M-P1J-ND DESC: BARREL ADAPTER 2.5X5.5X11 TO 2.1",
+      "item_quantity": 1.0,
+      "item_unit_price": 0.42,
+      "item_total_price": 0.42
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 100200455 USD $\nBill To:\nBENJAMIN WARD AIRGARAGE 2261 MARKET STREET #4027 SAN FRANCISCO CA 94114-0000 USA\nShip To:\nBENJAMIN WARD AIRGARAGE, INC. 611 MOLLYS WAY SALUDA VA 23149-2578 USA\nCustomer:\n17021708 Visa\nPayment Terms: Shipping Method: Order Source: Order Date: Estimated Release Date:\nUPS 1 Day INTERNET 05-JUL -2026\n05 - JUL -2026/AUTO\nBuyer:\nBENJAMIN WARD AirGarage 611 Mollys Way Saluda VA 23149 USA\nShip From:\nDIGI-KEY ELECTRONICS 701 BROOKS AVE. SOUTH P.O. BOX 677 THIEF RIVER FALLS MN 56701-0677\nLine Item\nOrdered\nAvailable Qty\nBackordered Qty\nItem Number/ Description\nUnit Price USD $\nAmount USD $\n1\n1\n1\n0\nPART: 1145-ADT-060A12AAB-A-ND\nDESC: AC/DC DESKTOP ADAPTER 12V 60W\n28.19000\n28.19\nMFG : DELTA ENERGY INFRASTRUCTURE SOLUTIONS BUSINESS GROUP (EISBG) / ADT-060A12AA B-A ECCN: EAR99 HTSUS: 8504.40.9520 ROHS3 COMP REACH UNAFFECTED 19-JAN-2021\nTARIFF\n7.89\n2\n1\n1\n0\nPART: 1145-ADT-120A24AAF-A-ND\n53.39000\n53.39\nTARIFF\n14.95\n3\n1\n1\n0\nPART : 1866-DCPLUG-P1M-P1J-ND\nDESC: BARREL ADAPTER 2.5X5.5X11 TO 2.1\n0.42000\n0.42\nMFG : MEAN WELL USA INC / DC PLUG-P1M-P1J ECCN: EAR99 HTSUS: 8536.69.4010 ROHS3 COMP REACH UNAFFECTED 17-JAN-2023\nTARIFF\n0.11\nAll transactions with DigiKey, including its affiliates, are subject to DigiKey's Terms of Use and Conditions of Order.\nPage 1 of 2\nDESC: AC/DC DESKTOP ADAPTER 24V 120W MFG : DELTA ENERGY INFRASTRUCTURE SOLUTIONS BUSINESS GROUP (EISBG) / ADT-120A24AA F-A ECCN: EAR99 HTSUS: 8504.40.9520 ROHS3 COMP REACH AFFECTED 14-JUN-2023\nDigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 100200455 USD $\nSales Amount\n82.00\nEstimated Tariff Amount\n22.95\nTotal Sales and Estimated Tariff Amount\n104.95\n29.99\nShipping charges applied\n5.56\nSales Tax\n140.50\nTotal\nUSD $\nGeneral - "
+  },
+  {
+   "receipt_uuid": "49f7ed3a-e7b2-4bc1-8feb-7bbbb7d3a7a8",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "06bb67cc-ed4a-406a-afa5-785723547ae7",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-06T07:26:36.445002Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-07-06",
+   "total_amount": "140.5",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Avenue South, Thief River Falls, MN 56701",
+    "transaction_date": "2026-07-06",
+    "total_amount": 140.5,
+    "subtotal": 82.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales tax",
+      "tax_rate": null,
+      "tax_amount": 5.56
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 29.99
+     },
+     {
+      "fee_name": "Tariff",
+      "fee_amount": 22.95
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "AC/DC DESKTOP ADAPTER 12V 60W",
+      "item_quantity": 1.0,
+      "item_unit_price": 28.19,
+      "item_total_price": 28.19
+     },
+     {
+      "item_date": null,
+      "item_name": "AC/DC DESKTOP ADAPTER 24V 120W",
+      "item_quantity": 1.0,
+      "item_unit_price": 53.39,
+      "item_total_price": 53.39
+     },
+     {
+      "item_date": null,
+      "item_name": "BARREL ADAPTER 2.5X5.5X11 TO 2.1",
+      "item_quantity": 1.0,
+      "item_unit_price": 0.42,
+      "item_total_price": 0.42
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\nYou are one step closer to your next great design!\nThank you for placing your order with DigiKey!\nYour order is being processed. You will receive an email confirmation when your order ships.\nOrder details\nYour salesorder number is 100200455.\n3 of 3 parts displayed.\nView order history\non your myDigiKey account.\nAC/DC DESKTOP ADAPTER 12V 60W\nDigiKey part number\n1145-ADT-060A12AAB-A-ND\nManufacturer part number\nADT-060A12AA B-A\nQuantity\n1\nBackorder\n0\nUnit price\n28.19000\nExtended price\n$28.19\nAC/DC DESKTOP ADAPTER 24V 120W\nDigiKey part number\n1145-ADT-120A24AAF-A-ND\nManufacturer part number\nADT-120A24AA F-A\nQuantity\n1\nBackorder\n0\nUnit price\n53.39000\nExtended price\n$53.39\nBARREL ADAPTER 2.5X5.5X11 TO 2.1\nDigiKey part number\n1866-DCPLUG-P1M-P1J-ND\nManufacturer part number\nDC PLUG-P1M-P1J\nQuantity\n1\nBackorder\n0\nUnit price\n0.42000\nExtended price\n$0.42\nOrder summary\nItems in order:\n3\nSubtotal:\n$82.00\nShipping:\n$29.99\nSales tax:\n$5.56\nTariff:\n$22.95\nTotal:\n$140.50\nView order status\nShipping address\nBenjamin Ward\nAirGarage, Inc.\n611 MOLLYS WAY\nSALUDA, VA\n23149\nUSA\nBilling address\nBenjamin Ward\nAirGarage\n2261 Market Street\n#4027\nSan Francisco, CA\n94114\nUSA\n2026 DigiKey\n701 Brooks Avenue South\nThief River Falls, MN 56701\nThis email has been sent to you as a result of your purchase or quote request from DigiKey.\nPrivacy notice\n"
+  }
+ ]
+}

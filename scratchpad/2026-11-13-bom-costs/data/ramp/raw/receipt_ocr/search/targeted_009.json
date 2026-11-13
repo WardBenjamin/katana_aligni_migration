@@ -1,0 +1,122 @@
+{
+ "call": {
+  "id": 9,
+  "received_after": "2026-04-23T22:52:22Z",
+  "received_before": "2026-04-24T00:52:22Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:44.547Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "497a40b4-6623-4750-b6c8-2f9bb13a21b3",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "99f9650b-2731-42f0-8dbb-cd26e3611703",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-23T23:52:22.723438Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-04-23",
+   "total_amount": "35.64",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-04-23",
+    "total_amount": 35.64,
+    "subtotal": 20.75,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 1.1
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.79
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-27",
+      "item_name": "94645A220 High-Strength Steel Nylon-Insert Locknut, Class 10, Zinc Plated, M10 x 1.5 mm Thread, 10 mm High, packs of 25",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.17,
+      "item_total_price": 9.17
+     },
+     {
+      "item_date": "2026-04-27",
+      "item_name": "91292A158 18-8 Stainless Steel Socket Head Screw, M10 x 1.5 mm Thread, 25 mm Long, packs of 10",
+      "item_quantity": 1.0,
+      "item_unit_price": 11.58,
+      "item_total_price": 11.58
+     }
+    ]
+   },
+   "ocr_excerpt": "M&M ASTER-CARR CATALOG\nMcMASTER-CARR ®\n609-689-3000 609-689-3280 (fax) nj.sales@mcmaster.com\nShip to Airgarage, Inc. 611 Mollys Way Saluda VA 23149\nAttention McMaster-Carr\nOrder Confirmation\nOrder Date\n4/23/26\nOrdered By\nMcMaster-Carr Number\nBenjamin Ward\n6336651\nLine Product\nOrdered Delivers\nPrice\nTotal\n1\n94645A220 High-Strength Steel Nylon-Insert Locknut, Class 10, Zinc Plated, M10 x 1.5 mm Thread, 10 mm High, packs of 25\npack\nper pack\n2 91292A158 18-8 Stainless Steel Socket Head Screw, M10 x 1.5 mm Thread, 25 mm Long, packs of 10\n1\nApr 27\n9.17\n9.17\npack\nper pack\nMerchandise\n20.75\nShipping\n13.79\nTax\n1.10\nTotal\n$35.64\n1\nApr 27\n11.58\n11.58\nYour order is subject only to our terms and conditions, available at www.mcmaster.com or from our Sales Department. McMaster-Carr Supply Company\nPage 1 of 1"
+  },
+  {
+   "receipt_uuid": "b37bb496-4dc8-4f69-a9a4-78715f654b2e",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "99f9650b-2731-42f0-8dbb-cd26e3611703",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-23T23:52:22.852702Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-04-23",
+   "total_amount": "35.64",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-04-23",
+    "total_amount": 35.64,
+    "subtotal": 20.75,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 1.1
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.79
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "High-Strength Steel Nylon-Insert Locknut",
+      "item_quantity": 1.0,
+      "item_unit_price": 11.58,
+      "item_total_price": 11.58
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Socket Head Screw",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.17,
+      "item_total_price": 9.17
+     }
+    ]
+   },
+   "ocr_excerpt": "Thank you for your order. We will deliver your items by 5 pm on Monday.\nConfirmation\nDelivery address\nAirgarage, Inc.\n611 Mollys Way\nSaluda  VA  23149\nAttention:\nMcMaster-Carr\nDelivery method\nUPS Ground\nOrder date\n4/23/2026\nPayment method\nVisa (****4520)\nPlaced by\nBenjamin Ward\nMcMaster-Carr number\n6336651\n0423BWARD\nDelivers Apr 27, by 5 pm\n1\nHigh-Strength Steel Nylon-Insert Locknut\nClass 10, Zinc Plated, M10 x 1.5 mm Thread, 10 mm High\n94645A220\n1\npack of 25\n11.58\npack\n$11.58\n2\n18-8 Stainless Steel Socket Head Screw\nM10 x 1.5 mm Thread, 25 mm Long\n91292A158\n1\npack of 10\n9.17\npack\n$9.17\nMerchandise\n20.75\nShipping\n13.79\nTax\n1.10\nTotal\n$35.64\nYour order is subject only to our terms and conditions, available at\nwww.mcmaster.com\nor from our Sales Department.\nPhone: (609) 259-8900\nEmail: nj.sales@mcmaster.com\n"
+  }
+ ]
+}

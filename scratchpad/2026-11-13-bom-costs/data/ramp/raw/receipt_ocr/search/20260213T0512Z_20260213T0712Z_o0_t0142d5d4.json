@@ -1,0 +1,22 @@
+{
+ "query": {
+  "window": [
+   "2026-02-13T05:12:52Z",
+   "2026-02-13T07:12:52Z"
+  ],
+  "keywords": [
+   "SendCutSend",
+   "Send Cut Send",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "0142d5d4-d053-409d-b3d2-9529cc7ff2e2"
+ },
+ "pulled_at": "2026-11-13T04:54:52Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

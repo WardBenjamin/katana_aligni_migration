@@ -1,0 +1,120 @@
+{
+ "query": {
+  "window": [
+   "2026-05-16T00:00:00Z",
+   "2026-05-23T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:30Z",
+ "returned": 2,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "d7078524-37e0-4ddc-8cf6-6269077641b2",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "1320b3ac-f071-4fb2-9c65-2e04e2513e35",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:02:27.173872Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-05-18",
+   "total_amount": "55.68",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-05-18",
+    "total_amount": 55.68,
+    "subtotal": 39.48,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.16
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.04
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-15",
+      "item_name": "91292A837 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread, 40 mm Long, Packs of 50",
+      "item_quantity": 4.0,
+      "item_unit_price": 9.87,
+      "item_total_price": 39.48
+     }
+    ]
+   },
+   "ocr_excerpt": "McMASTER-CARR CATALOG\nMcMASTER-CARR®\n404-346-7000 404-349-9091 (fax) atl.sales@mcmaster.com\nReceipt\n| Purchase Order | 0515CWILLIAMSON |\n| Paid | $55.68 |\n| Invoice | 65100273 |\n| Invoice Date | 5/15/26 |\nBilled to\nATTENTION: CHRIS WILLIAMSON\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\nShipped to\nAirgarage\nC/O Bytechs LLC\n185 Stag Dr\nWilliston SC 29853\nInformation About Your Payment\n| Credit Card | Visa Ending- 2311 |\n| Date | 5/18/26 |\n| Name on Card | Chris Williamson |\n| Your Account | 389831100 |\nChristopher Williamson placed this order.\n| Line | Product | Ordered | Shipped | Balance | Price | Total |\n| 1 | 91292A837 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread, 40 mm Long, Packs of 50 | 4 Packs | 4 | 0 | 9.87 Per Pack | 39.48 |\n| Merchandise | 39.48 |\n| Sales Tax | 3.16 |\n| Shipping | 13.04 |\n| Total | $55.68 |\n| Payment Received 5/18/26 | (55.68) |\n| Balance Due | $0.00 |\n| Packing List | Shipped | Weight | Carrier | Tracking |\n| 7470795-01 | 5/15/26 | 2 lb | UPS Saturday | 1Z381779PG73001308 |\nFederal ID 36-1458720 McMaster-Carr Supply Company\nPage 1 of 1"
+  },
+  {
+   "receipt_uuid": "9ab515c6-9dc3-4450-9e4a-4b7eaa1e3ec5",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "285533a8-062c-4e05-82e2-ff008cef1e9c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:02:02.934759Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-05-18",
+   "total_amount": "60.56",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-05-18",
+    "total_amount": 60.56,
+    "subtotal": 44.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.52
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.04
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "92095A181 18-8 Stainless Steel Button Head Hex-Drive Screw, M3 x 0.5 mm Thread Size, 8 mm Long, Packs of 100",
+      "item_quantity": 5.0,
+      "item_unit_price": 8.8,
+      "item_total_price": 44.0
+     }
+    ]
+   },
+   "ocr_excerpt": "McMASTER-CARR CATALOG\nMcMASTER-CARR®\n404-346-7000 404-349-9091 (fax) atl.sales@mcmaster.com\nReceipt\n| Purchase Order | 0515CWILLIAMSON |\n| Paid | $60.56 |\n| Invoice | 65083851 |\n| Invoice Date | 5/15/26 |\nBilled to\nATTENTION: CHRIS WILLIAMSON\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\nShipped to\nAirgarage\nC/O Bytechs LLC\n185 Stag Dr\nWilliston SC 29853\nInformation About Your Payment\n| Credit Card | Visa Ending- 2311 |\n| Date | 5/18/26 |\n| Name on Card | Chris Williamson |\n| Your Account | 389831100 |\nChristopher Williamson placed this order.\n| Line | Product | Ordered | Shipped | Balance | Price | Total |\n| 1 | 92095A181 18-8 Stainless Steel Button Head Hex-Drive Screw, M3 x 0.5 mm Thread Size, 8 mm Long, Packs of 100 | 5 Packs | 5 | 0 | 8.80 Per Pack | 44.00 |\n| Merchandise | 44.00 |\n| Sales Tax | 3.52 |\n| Shipping | 13.04 |\n| Total | $60.56 |\n| Payment Received 5/18/26 | (60.56) |\n| Balance Due | $0.00 |\n| Packing List | Shipped | Weight | Carrier | Tracking |\n| 7470313-01 | 5/15/26 | 1 lb | UPS Saturday | 1Z381779PG73000970 |\nFederal ID 36-1458720 McMaster-Carr Supply Company\nPage 1 of 1"
+  }
+ ]
+}

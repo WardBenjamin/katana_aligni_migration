@@ -1,0 +1,600 @@
+{
+ "query": {
+  "window": [
+   "2026-10-30T16:54:00Z",
+   "2026-10-30T18:54:00Z"
+  ],
+  "keywords": [
+   "McMaster",
+   "McMaster-Carr",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:44.610Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "bb9c3f1f-013e-430a-a2a8-7283b561e1db",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "f9ac8e27-24c7-4472-90a3-083a764774e0",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:57:03.122971Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-09-02",
+   "total_amount": "64.93",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-09-02",
+    "total_amount": 64.93,
+    "subtotal": 48.54,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.88
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 12.51
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread Size, 40 mm Long, Partially Threaded, Packs of 50",
+      "item_quantity": 2.0,
+      "item_unit_price": 10.57,
+      "item_total_price": 21.14
+     },
+     {
+      "item_date": null,
+      "item_name": "Flat Head Thread-Forming Screws for Plastic, 18-8 Stainless Steel, Torx Drive, M3 Screw Size, 12 mm Long, Packs of 100",
+      "item_quantity": 2.0,
+      "item_unit_price": 13.7,
+      "item_total_price": 27.4
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                        Receipt\n404-346-7000\n404-349-9091 (fax)\natl.sales@mcmaster.com\n\n                                Purchase Order  0902CWILLIAMSON\n                                Paid                     $64.93\n                                Invoice                71197386\nBilled to\nATTENTION: CHRIS WILLIAMSON     Invoice Date             9/2/26\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\n\n\n        Shipped to                                                       Information About Your Payment\n        Airgarage                                                        Credit Card                            Visa Ending- 2311\n        C/O Bytechs LLC                                                  Date                                              9/3/26\n        185 Stag Dr                                                      Name on Card                            Chris Williamson\n        Williston SC 29853\n\n                                                                         Your Account                                   389831100\n\nChristopher Williamson placed this order.\nLine                   Product                                           Ordered        Shipped    Balance       Price      Total\n1       91292A837      18-8 Stainless Steel Socket Head Screw, M2.5 x              2              2      0       10.57      21.14\n                       0.45 mm Thread Size, 40 mm Long, Partially              Packs                              Per Pack\n                       Threaded, Packs of 50\n\n2       95893A192      Flat Head Thread-Forming Screws for Plastic,                2              2      0       13.70      27.40\n                       18-8 Stainless Steel, Torx Drive, M3 Screw Size,        Packs                              Per Pack\n                       12 mm Long, Packs of 100\n\n                                                                                        Merchandise                         48.54"
+  },
+  {
+   "receipt_uuid": "c3418381-839a-437f-969c-d0e05cc94ce5",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "223cf3ed-2b23-46cf-9aae-351abf688e34",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:55:17.356496Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-10-23",
+   "total_amount": "243.13",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-10-23",
+    "total_amount": 243.13,
+    "subtotal": 212.35,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 16.99
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.79
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "91292A009 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread Size, 5 mm Long, Fully Threaded, Packs of 100",
+      "item_quantity": 15.0,
+      "item_unit_price": 7.11,
+      "item_total_price": 106.65
+     },
+     {
+      "item_date": null,
+      "item_name": "91292A837 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread Size, 40 mm Long, Partially Threaded, Packs of 50",
+      "item_quantity": 10.0,
+      "item_unit_price": 10.57,
+      "item_total_price": 105.7
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                    Receipt\n404-346-7000\n404-349-9091 (fax)\natl.sales@mcmaster.com\n\n                                Purchase Order  AG-STACK-HW\n                                Paid                $243.13\n                                Invoice            74147585\nBilled to\nATTENTION: CHRIS WILLIAMSON     Invoice Date       10/23/26\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\n\n\n        Shipped to                                                       Information About Your Payment\n        Airgarage                                                        Credit Card                           Visa Ending- 2311\n        C/O Bytechs LLC                                                  Date                                           10/26/26\n        185 Stag Dr                                                      Name on Card                           Chris Williamson\n        Williston SC 29853\n\n                                                                         Your Account                                  389831100\n\nChristopher Williamson placed this order.\nLine                   Product                                           Ordered        Shipped    Balance       Price     Total\n1       91292A009      18-8 Stainless Steel Socket Head Screw, M2.5 x             15             15      0        7.11    106.65\n                       0.45 mm Thread Size, 5 mm Long, Fully                   Packs                          Per Pack\n                       Threaded, Packs of 100\n\n2       91292A837      18-8 Stainless Steel Socket Head Screw, M2.5 x             10             10      0       10.57    105.70\n                       0.45 mm Thread Size, 40 mm Long, Partially              Packs                          Per Pack\n                       Threaded, Packs of 50\n\n                                                                                        Merchandise                       212.35\n                                     "
+  },
+  {
+   "receipt_uuid": "848a2b70-9fe7-4373-8a6c-aef6a3496c05",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "4cf83b1a-ed9a-4980-a8ed-725ec54f9f04",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:56:20.566924Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-09-02",
+   "total_amount": "154.32",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-09-02",
+    "total_amount": 154.32,
+    "subtotal": 130.74,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 10.46
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.12
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Temper-Resistant Torx Bit, 1/4\" Hex Shank for Power Tools, T30 Size, 2\" Overall Length",
+      "item_quantity": 3.0,
+      "item_unit_price": 7.84,
+      "item_total_price": 23.52
+     },
+     {
+      "item_date": null,
+      "item_name": "Temper-Resistant Torx Flat Head Screw for Sheet Metal, 18-8 Stainless Steel, 1/4\" Size, 3/4\" Long, Packs of 10",
+      "item_quantity": 10.0,
+      "item_unit_price": 9.55,
+      "item_total_price": 95.5
+     },
+     {
+      "item_date": null,
+      "item_name": "Film Made From Teflon PTFE 12\" Wide, 0.01\" Thick, 1 ft. Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 11.72,
+      "item_total_price": 11.72
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                        Receipt\n404-346-7000\n404-349-9091 (fax)\natl.sales@mcmaster.com\n\n                                Purchase Order  0902CWILLIAMSON\n                                Paid                    $154.32\n                                Invoice                71196858\nBilled to\nATTENTION: CHRIS WILLIAMSON     Invoice Date             9/2/26\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\n\n\nShipped to          Information About Your Payment\nAirgarage           Credit Card    Visa Ending- 2311\nC/O Bytechs LLC     Date                      9/3/26\n185 Stag Dr         Name on Card    Chris Williamson\nWilliston SC 29853\n\n                    Your Account           389831100\n\n\nChristopher Williamson placed this order.\nLine                Product                                           Ordered    Shipped    Balance    Price     Total\n1       7233A68     Tamper-Resistant Torx Bit, 1/4\" Hex Shank for           3          3          0     7.84     23.52\n                    Power Tools, T30 Size, 2\" Overall Length             Each                           Each\n\n2       95015A314   Tamper-Resistant Torx Flat Head Screw for Sheet        10         10          0     9.55     95.50\n                    Metal, 18-8 Stainless Steel, 1/4\" Size, 3/4\" Long,  Packs                       Per Pack\n                    Packs of 10\n\n3       8569K41     Film Made From Teflon PTFE 12\" Wide, 0.01\"              1          1          0    11.72     11.72\n                    Thick, 1 ft. Length                                  Each                           Each\n\n\n                                                          Merchandise                                           130.74\n                                                          Sales Tax                                              10.46\n                                                          Shipping                                               13.12\n                                "
+  },
+  {
+   "receipt_uuid": "501514d3-f9d6-4697-9ad8-9a2e2e132abd",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "3b517d6c-da1d-44e7-be5e-6e1843faf22c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:54:30.701185Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-08-11",
+   "total_amount": "302.23",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-08-11",
+    "total_amount": 302.23,
+    "subtotal": 251.71,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 20.14
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 30.38
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "9056K42 Multipurpose 6061 Aluminum Round Tube, 1/8\" Wall Thickness, 4\" OD, 3\" Long",
+      "item_quantity": 10.0,
+      "item_unit_price": 14.36,
+      "item_total_price": 143.6
+     },
+     {
+      "item_date": null,
+      "item_name": "94625A423 Tamper-Resistant Torx Flat Head Drilling Screws, Zinc-Plated Steel, Number 10 Screw Size, 3/4\" Long, Packs of 50",
+      "item_quantity": 2.0,
+      "item_unit_price": 15.52,
+      "item_total_price": 31.04
+     },
+     {
+      "item_date": null,
+      "item_name": "8914A53 Countersink Drill Bit, High-Speed Steel, for Number 10 Screw Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 32.04,
+      "item_total_price": 32.04
+     },
+     {
+      "item_date": null,
+      "item_name": "98861A100 Low-Strength Steel Threaded Rod, M12 x 1.75 mm Thread Size, 1 M Long, Packs of 1",
+      "item_quantity": 1.0,
+      "item_unit_price": 16.57,
+      "item_total_price": 16.57
+     },
+     {
+      "item_date": null,
+      "item_name": "94300A360 Zinc-Plated Steel Wing Nut, Class 5, M12 x 1.75 mm Thread, Packs of 5",
+      "item_quantity": 1.0,
+      "item_unit_price": 5.25,
+      "item_total_price": 5.25
+     },
+     {
+      "item_date": null,
+      "item_name": "98687A114 General Purpose Steel Washer for M12 Screw Size, 13.5 mm ID, 24.0 mm OD, Packs of 50",
+      "item_quantity": 1.0,
+      "item_unit_price": 5.96,
+      "item_total_price": 5.96
+     },
+     {
+      "item_date": null,
+      "item_name": "34895A13 Spring-Impact Center Punch, Aluminum Handle, 1/8\" Diameter Point",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.25,
+      "item_total_price": 17.25
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                        Receipt\n404-346-7000\n404-349-9091 (fax)\natl.sales@mcmaster.com\n\n                                Purchase Order  0811CWILLIAMSON\n                                Paid                    $302.23\n                                Invoice                69892757\nBilled to\nATTENTION: CHRIS WILLIAMSON     Invoice Date            8/11/26\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\n\n\nShipped to          Information About Your Payment\nAirgarage           Credit Card    Visa Ending- 2311\nC/O Bytechs LLC     Date                     8/12/26\n185 Stag Dr         Name on Card    Chris Williamson\nWilliston SC 29853\n\n                    Your Account           389831100\n\n\nChristopher Williamson placed this order.\nLine                Product                                          Ordered    Shipped    Balance       Price    Total\n1       9056K42     Multipurpose 6061 Aluminum Round Tube, 1/8\"           10         10     0            14.36   143.60\n                    Wall Thickness, 4\" OD, 3\" Long                      Each                              Each\n\n2       94625A423   Tamper-Resistant Torx Flat Head Drilling Screws,       2          2     0            15.52    31.04\n                    Zinc-Plated Steel, Number 10 Screw Size, 3/4\"      Packs                          Per Pack\n                    Long, Packs of 50\n3       8914A53     Countersink Drill Bit, High-Speed Steel, for           1          1     0            32.04    32.04\n                    Number 10 Screw Size                                Each                              Each\n4       98861A100   Low-Strength Steel Threaded Rod, M12 x 1.75            1          1     0            16.57    16.57\n                    mm Thread Size, 1 M Long, Packs of 1                Pack                          Per Pack\n5       94300A360   Zinc-Plated Steel Wing Nut, Class 5, M12 x 1.75        1          1     0             5.25     5.25\n                    mm Th"
+  },
+  {
+   "receipt_uuid": "b2f4a00f-fbeb-4fa9-8bb1-7096151235a8",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "7e70a61d-90f2-4844-a5ba-549f544e8114",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T18:00:27.388640Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-08-15",
+   "total_amount": "75.37",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": "PO Box 9149, Jackson, WY 83002",
+    "transaction_date": "2026-08-15",
+    "total_amount": 75.37,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-08-14",
+      "item_name": "Import from Shopify: 7 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -59.92
+     },
+     {
+      "item_date": "2026-08-14",
+      "item_name": "Pickup",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -15.45
+     }
+    ]
+   },
+   "ocr_excerpt": "    PAID\n\nPayment Receipt\n#444766903\nSaturday, 08/15/2026 1:13 AM EDT\n\nChris Williamson\nAirGarage, Inc.\n185 Stag Dr\nWilliston SC 29853-4829\n\nCredit Card Payment: Visa ending in 3625    $75.37\n\n\n\nDate                               Type      Description                          Total      Balance\n\n                                                                 Starting account balance      $0.00\n\nFriday, 08/14/2026 9:25 AM EDT     Label     Import from Shopify: 7 Label Batch   -$59.92    -$59.92\n\nFriday, 08/14/2026 9:28 AM EDT     Pickup                                         -$15.45    -$75.37\n\nSaturday, 08/15/2026 1:13 AM       Payment   Credit Card Payment: Visa ending in   $75.37      $0.00\nEDT                                          3625\n\n                                                                   Ending account balance      $0.00\n\nTo see your entire transaction history, visit your reports page.\n\nARRRRrrrrr... we thank y'ee f'er y'er business!\n\nPirate Ship LLC - PO Box 9149, Jackson, WY 83002 - pirateship.com\n\n© 2014-2026 - All Rights Reserved\nPrivacy Policy - Terms of Use - DPA\nCookies Notice - Your Privacy Choices"
+  },
+  {
+   "receipt_uuid": "f9b1e5d3-28ae-43ac-ad75-08160a00d8a1",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "b8f41a10-7f55-4eb6-b62a-b91da907609f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:59:51.531501Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-08-27",
+   "total_amount": "125.74",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": "PO Box 9149, Jackson, WY 83002",
+    "transaction_date": "2026-08-27",
+    "total_amount": 125.74,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-08-22",
+      "item_name": "Chris Williamson: Refund for 9234690324992821776289 to Chris Williamson",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 7.61
+     },
+     {
+      "item_date": "2026-08-24",
+      "item_name": "Import from Shopify: 9 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -78.33
+     },
+     {
+      "item_date": "2026-08-24",
+      "item_name": "Pickup",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -10.2
+     },
+     {
+      "item_date": "2026-08-24",
+      "item_name": "Antonio Walker: 1 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -7.56
+     },
+     {
+      "item_date": "2026-08-27",
+      "item_name": "Import from Shopify: 4 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -37.26
+     }
+    ]
+   },
+   "ocr_excerpt": "    PAID\n\nPayment Receipt\n#447825934\nThursday, 08/27/2026 9:22 AM EDT\n\nChris Williamson\nAirGarage, Inc.\n185 Stag Dr\nWilliston SC 29853-4829\n\nCredit Card Payment: Visa ending in 3625    $125.74\n\n\n\nDate        Type                Description        Total      Balance\n\n                                                         Starting account balance      $0.00\n\nSaturday, 08/22/2026  Refund    Chris Williamson: Refund for                $7.61      $7.61\n11:17 PM EDT                    9234690324992821776289 to Chris Williamson\n\nMonday, 08/24/2026    Label     Import from Shopify: 9 Label Batch        -$78.33    -$70.72\n4:00 PM EDT\n\nMonday, 08/24/2026    Pickup                                              -$10.20    -$80.92\n4:01 PM EDT\n\nMonday, 08/24/2026    Label     Antonio Walker: 1 Label Batch              -$7.56    -$88.48\n5:08 PM EDT\n\nThursday, 08/27/2026  Label     Import from Shopify: 4 Label Batch        -$37.26   -$125.74\n9:22 AM EDT\n\nThursday, 08/27/2026  Payment   Credit Card Payment: Visa ending in 3625  $125.74      $0.00\n9:22 AM EDT\n\nDate    Type  Description        Total      Balance\n\n    Ending account balance     $0.00\n\nTo see your entire transaction history, visit your reports page.\n\nARRRRrrrrr... we thank y'ee f'er y'er business!\n\nPirate Ship LLC - PO Box 9149, Jackson, WY 83002 - pirateship.com\n\n\n\n\n\n© 2014-2026 - All Rights Reserved\nPrivacy Policy - Terms of Use - DPA\nCookies Notice - Your Privacy Choices"
+  },
+  {
+   "receipt_uuid": "4f1e7858-26f9-4fab-9651-f8a223a95ce2",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "aed8a9e3-608d-4d85-a066-2bc6d5f40621",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:58:56.960054Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-09-14",
+   "total_amount": "555.25",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": "PO Box 9149, Jackson, WY 83002",
+    "transaction_date": "2026-09-14",
+    "total_amount": 555.25,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-09-14",
+      "item_name": "Faibar Barrero: 1 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -136.22
+     },
+     {
+      "item_date": "2026-09-14",
+      "item_name": "Faibar Barrero: 1 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -136.22
+     },
+     {
+      "item_date": "2026-09-14",
+      "item_name": "Faibar Barrero: 1 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -84.1
+     },
+     {
+      "item_date": "2026-09-14",
+      "item_name": "Faibar Barrero: 1 Label Batch",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": -198.71
+     }
+    ]
+   },
+   "ocr_excerpt": "    PAID\n\nPayment Receipt\n#452384739\nMonday, 09/14/2026 4:18 PM EDT\n\nChris Williamson\nAirGarage, Inc.\n185 Stag Dr\nWilliston SC 29853-4829\n\nCredit Card Payment: Visa ending in 3625    $555.25\n\n\n\nDate                         Type      Description                          Total     Balance\n\n                                                            Starting account balance     $0.00\n\nMonday, 09/14/2026 4:13 PM   Label     Faiber Barrero: 1 Label Batch        -$136.22  -$136.22\nEDT\n\nMonday, 09/14/2026 4:14 PM   Label     Faiber Barrero: 1 Label Batch        -$136.22  -$272.44\nEDT\n\nMonday, 09/14/2026 4:16 PM   Label     Faiber Barrero: 1 Label Batch         -$84.10  -$356.54\nEDT\n\nMonday, 09/14/2026 4:18 PM   Label     Faiber Barrero: 1 Label Batch        -$198.71  -$555.25\nEDT\n\nMonday, 09/14/2026 4:18 PM   Payment   Credit Card Payment: Visa ending in   $555.25     $0.00\nEDT                                    3625\n\n                                                              Ending account balance     $0.00\n\nTo see your entire transaction history, visit your reports page.\n\nARRRRrrrrr... we thank y'ee f'er y'er business!\n\nPirate Ship LLC - PO Box 9149, Jackson, WY 83002 - pirateship.com\n\n\n\n\n\n    © 2014-2026 - All Rights Reserved\n    Privacy Policy - Terms of Use - DPA\n    Cookies Notice - Your Privacy Choices"
+  },
+  {
+   "receipt_uuid": "aa19b8d6-7cea-4d46-89ca-2d13c7c3573c",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "1d365419-2eb5-4d2e-8289-8bacb9be4f88",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:53:08.488747Z",
+   "merchant": "DHL Express",
+   "receipt_date": "2026-10-14",
+   "total_amount": "399.88",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "DHL Express",
+    "merchant_address": null,
+    "transaction_date": "2026-10-14",
+    "total_amount": 399.88,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": false,
+    "line_items": null
+   },
+   "ocr_excerpt": "YTECHS\nLLC\nChris Williamson <sales@bytechsllc.com>\nDHL Express Payment Receipt 1 message\nDHL Express <noreply@dhl.com> To: Sales@bytechsllc.com\nWed, Oct 14, 2026 at 6:42 AM\nON DEMAND DELIVERY\nPAYMENT CONFIRMATION\nPayment for DHL Express shipment with waybill number 2394021792 from SHENZHEN LCSC ELECTRONICS TECH has been successfully completed.\nYour shipment is expected to continue transit toward delivery within the next 24 to 48 business hours. To track your shipment, click here.\nPAYMENT DETAILS\nAmount Paid\nUSD 399.88\nTransaction ID\n217991362-121731672\nPayment Date\n10/14/2026\nDHL Express - Excellence. Simply delivered.\nDHL Express | Contact DHL | Privacy Notice\n2026 @ DHL International GmbH. All rights reserved."
+  },
+  {
+   "receipt_uuid": "9dd00f7a-0f58-4252-abd6-3f96481e0e86",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "bf713626-01a6-40b2-bb32-fa541bae5899",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T18:14:27.504800Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-30",
+   "total_amount": "63.92",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-30",
+    "total_amount": 63.92,
+    "subtotal": 59.18,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 4.74
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Black, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-5163032-9348251\n    Order Placed: October 30, 2026\n    Amazon.com order number: 112-5163032-9348251\n    Order Total: USD 63.92\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                      Price\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Black, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    Shipping Address:                                                                                            Item(s) Subtotal:    $59.18\n    Chris Williamson                                                                                          Shipping & Handling:     $0.00\n    185 STAG DR                                                                                                                        -----\n    WILLISTON, SC 29853-4829\n    United States                                                                                                Total before tax:    $59.18\n                                                                                                                        Sales Tax:     $4.74\n    Shipping Speed:                                                                                                                    -----\n    FREE Prime Deliver"
+  },
+  {
+   "receipt_uuid": "40ca6ff3-e7cb-4974-8d95-527bcd7ffaec",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "99e9eb47-f729-4352-880a-ea4b778de9e2",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:18:42.224214Z",
+   "merchant": "Sima",
+   "receipt_date": null,
+   "total_amount": "1530.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Sima",
+    "merchant_address": null,
+    "transaction_date": null,
+    "total_amount": 1530.0,
+    "subtotal": 1499.0,
+    "tip": null,
+    "taxes": null,
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 31.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "DevKit 3.0 (US & Europe)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 1499.0
+     }
+    ]
+   },
+   "ocr_excerpt": "9 United States 5716994608\nBilling address Benjamin Ward AirGarage, Inc. 2261 Market Street #4027 San Francisco CA 94114 United States\nShipping method Standard\n1\nDevKit 3.0 (US & Europe) $1,499.00\nSubtotal\n$1,499.00\nShipping\n$31.00\nTotal USD $1,530.00\nNeed help? Contact us\nContinue shopping"
+  },
+  {
+   "receipt_uuid": "ed7f736e-7132-44c0-abbb-4ade0fbe7cf2",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "99e9eb47-f729-4352-880a-ea4b778de9e2",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T17:33:51.360440Z",
+   "merchant": "Sima",
+   "receipt_date": null,
+   "total_amount": "1530.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Sima",
+    "merchant_address": null,
+    "transaction_date": null,
+    "total_amount": 1530.0,
+    "subtotal": 1499.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Taxes",
+      "tax_rate": null,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 31.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "DevKit 3.0 (US & Europe)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 1499.0
+     }
+    ]
+   },
+   "ocr_excerpt": " you for your order!\nWe're getting your order ready to be shipped. We will notify you when it has been sent.\nView your order\nor\nVisit our store\nOrder summary\nDevKit 3.0 (US & Europe) × 1\n$1,499.00\nSubtotal\n$1,499.00\nShipping\n$31.00\nTaxes\n$0.00\nTotal\n$1,530.00 USD\nCustomer information\nShipping address\nBenjamin Ward\nAirGarage, Inc.\n611 Mollys Way\nSaluda VA 23149\nUnited States\nBilling address\nBenjamin Ward\nAirGarage, Inc.\n2261 Market Street\n#4027\nSan Francisco CA 94114\nUnited States\nPayment\nending with 3514\nShipping method\nStandard\nIf you have any questions, reply to this email or contact us at\ndevkit@sima.ai\n"
+  }
+ ]
+}

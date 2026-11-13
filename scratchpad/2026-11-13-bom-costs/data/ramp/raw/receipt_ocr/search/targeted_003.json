@@ -1,0 +1,56 @@
+{
+ "call": {
+  "id": 3,
+  "received_after": "2026-04-08T15:18:32Z",
+  "received_before": "2026-04-08T17:18:32Z",
+  "keywords": [
+   "SupplyHouse.com"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:44.660Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "718cf3e2-c5e0-4f67-99e0-236c9903ab45",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "4d8b32b9-c167-4f56-aaeb-9f0e29929baf",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-08T16:18:32.562942Z",
+   "merchant": "SupplyHouse.com",
+   "receipt_date": "2026-04-08",
+   "total_amount": "186.75",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "SupplyHouse.com",
+    "merchant_address": null,
+    "transaction_date": "2026-04-08",
+    "total_amount": 186.75,
+    "subtotal": 172.92,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 13.83
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "3/4\" x 1/2\" Reducing Washer (28 Pack)",
+      "item_quantity": 22.0,
+      "item_unit_price": 7.86,
+      "item_total_price": 172.92
+     }
+    ]
+   },
+   "ocr_excerpt": "r order, Chris!\nOrder # 26822556\nPrint\nEdit your order\nWe've emailed you a copy of this receipt. You'll get a second email with a tracking number once your items ship.\nVIEW ORDER\nContinue Shopping\n11 SupplyHouse.com Plumbing, Hosting & HVAC Supplies\nAndrew Marketing\nTrack your orders in one place! Sign up for order updates.\nEmail Address sales@bytechsllc.com\nCreate Password\nShow\nConfirm Password Show :unselected: Send me automatic delivery updates and stay informed about my order's status New! Send me updates on top brands & products (you can always unsubscribe) :unselected: I am a Trade Professional\nCREATE ACCOUNT\nShipping Method UPS Ground\nShipping Address\nChris Williamson Bytechs LLC 185 Stag Dr Williston, SC 29853 (706) 495-6570\nPayment Method\nVISA **** 2311 (Exp. 11/2029)\nBilling Address Chris Williamson AirGarage, Inc 564 Market St San Francisco, CA 94104 (706) 495-6570\nArriving Fri, Apr 10\nFast Track\n3/4\" x :selected: 1/2\" 22 units\nReducing $7.86 each Washer (28 Pack) SKU:PI310\nDiversiTech\nOrder Total\n| Subtotal (22 items) | $172.92 |\n| Shipping - UPS Ground | FREE |\n| Sales Tax | $13.83 |\nTotal:\n$186.75\nEasy Returns No restocking fee for 90 days! View Return Policy\nSecure Checkout 1\n:selected: TrustedSite® CERTIFIED SECURE\n:selected: Norton\npowered by digicert'\nNeed Help? Call or Text 1-888-757-4774\nLive Chat :selected: Email Open Now: 8am-7:45pm v View Cart ID"
+  }
+ ]
+}

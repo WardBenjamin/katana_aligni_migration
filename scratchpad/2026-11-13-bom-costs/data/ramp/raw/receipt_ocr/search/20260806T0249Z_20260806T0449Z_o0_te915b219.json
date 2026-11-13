@@ -1,0 +1,59 @@
+{
+ "query": {
+  "window": [
+   "2026-08-06T02:49:00Z",
+   "2026-08-06T04:49:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:03.462Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "e915b219-7bac-41eb-8572-fea675f80a14",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "69830b13-d31a-45bb-b6e8-a22755b3a651",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-06T03:49:15.857284Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-08-05",
+   "total_amount": "32.6",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-08-05",
+    "total_amount": 32.6,
+    "subtotal": 29.98,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 2.62
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "2 of: TotalBoat 4-Minute Epoxy Glue Adhesive Syringe - Clear",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 14.99
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #114-7491182-7239437 Order Placed: August 5, 2026 Amazon.com order number: 114-7491182-7239437 Order Total: USD 32.60**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n2 of: TotalBoat 4-Minute Epoxy Glue Adhesive Syringe - Clear $14.99\n\nSold by and invoiced on behalf of: Amazon.com Condition: New\n\n| Shipping Address: Bryan Monti 32 PROVINCE DR CENTEREACH, NY 11720-4616 United States Shipping Speed: FREE Prime Delivery |\n|---|\n| Payment information |\n| Payment Method: Item(s) Subtotal: USD 29.98 Visa \\| Last digits: 1571 Shipping & Handling: USD 0.00 Billing address Bryan Monti Total before tax: USD 29.98 2261 MARKET ST Estimated tax to be collected: USD 2.62 SAN FRANCISCO, CA 94114-1612 United States Grand Total: USD 32.60 |\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "query": {
+  "window": [
+   "2026-03-19T19:37:48Z",
+   "2026-03-19T21:37:48Z"
+  ],
+  "keywords": [
+   "Carbide Processors",
+   "Carbide",
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "3a33fab5-6e87-4edf-b394-85cd4408f283"
+ },
+ "pulled_at": "2026-11-13T04:55:16Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

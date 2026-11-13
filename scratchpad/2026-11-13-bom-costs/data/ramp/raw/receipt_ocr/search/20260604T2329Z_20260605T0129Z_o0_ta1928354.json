@@ -1,0 +1,68 @@
+{
+ "query": {
+  "window": [
+   "2026-06-04T23:29:00Z",
+   "2026-06-05T01:29:00Z"
+  ],
+  "keywords": [
+   "Mouser",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:07.480Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "a1928354-b2ae-424b-ba62-c90e0908d9b9",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "efa00d20-b790-4c99-9834-e57ef3cba635",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-05T00:29:34.951083Z",
+   "merchant": "Mouser Electronics, Inc.",
+   "receipt_date": "2026-06-04",
+   "total_amount": "487.41",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics, Inc.",
+    "merchant_address": null,
+    "transaction_date": "2026-06-04",
+    "total_amount": 487.41,
+    "subtotal": 372.51,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 23.69
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 16.69
+     },
+     {
+      "fee_name": "Estimated Tariff",
+      "fee_amount": 74.52
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-06-04",
+      "item_name": "Circular Metric Conn",
+      "item_quantity": 9.0,
+      "item_unit_price": 41.39,
+      "item_total_price": 372.51
+     }
+    ]
+   },
+   "ocr_excerpt": "Mouser Electronics, Inc. - Order Confirmation\nOrder Confirmation\nPurchase Order Number :\n39407452\nWeb Order Number :\n39407452\nContact Name :\nBENJAMIN WARD\nOrder Date :\nJUN 04, 2026\nCustomer Number :\n61CCD08\nBenjamin Ward,\nThank you for your order.\nAs soon as your order is shipped, you will receive a Shipment Notification email.\nThe estimated tariff surcharges that apply to your order are shown below.\nPlease view this link\nhttps://www.mouser.com/tariff-updates/\nfor the latest tariff information.\nMeanwhile, use the link below to view the real-time status of your order.\nORDER STATUS\nWeb Order Number\n39407452\nOrder Date\nJUN 04, 2026\nPlease rate your experience with Mouser\nReview\nCurrent Status:\nReal-Time Order Status\nClick now\nfor status or questions about your order.\nOrdered\n-\nProcessing\n-\nWarehouse\n-\nPicked\n-\nPreparing Shipment\n-\nShipped\nA summary of your order is included below.\nThank you for your business.\nCustomer Service\nCustomer Service Representative\nShipping Method\nTerms\nInternet Customer Service\nUPS 2nd Day Air\nCredit Card\nBill To\nAIRGARAGE, INC.\nAttn: BENJAMIN WARD\n2261 MARKET STREET\n#4027\nSAN FRANCISCO, CALIFORNIA 94114\nUNITED STATES\nShip To\nAIRGARAGE, INC.\nAttn: BENJAMIN WARD\n611 MOLLYS WAY\nSALUDA, VIRGINIA 23149\nUNITED STATES\nLine Number\nMouser Part Number\nCustomer Part Number\nManufacturer Part Number\nDescription\nRequested\nDelivery\nDate(s)\nEstimated\nShipment\nDate(s)\nQuantity\nUnit Price\n(USD)\nExtended Price\n(USD)\n1\n1\n523-M12A17BMMMPL8D05\nM12A-17BMMM-PL8D05\nCircular Metric Conn\nEstimated Tariff\nJUN 04, 2026\nJUN 04, 2026\n9\n41.390\n372.51\n74.52\n1\nRoHS: Compliant\nShipping Notes\nMerchandise Total\n(USD)\n$372.51\nFinal tariff amount will be calculated at the time of shipment.\nShipping\n$16.69\nEstimated Tax\n$23.69\nEstimated Tariff\n$74.52\nThis order is subject to all terms and conditions displayed at:\nhttps://www.mouser.com/saleterms\n"
+  }
+ ]
+}

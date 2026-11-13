@@ -1,0 +1,1657 @@
+[
+ {
+  "id": 0,
+  "received_after": "2026-04-03T17:30:03Z",
+  "received_before": "2026-04-03T19:30:03Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "bc1551d4-dd53-4ee1-851c-b7d0326edfa6"
+  ]
+ },
+ {
+  "id": 1,
+  "received_after": "2026-04-04T15:11:43Z",
+  "received_before": "2026-04-04T17:11:43Z",
+  "keywords": [
+   "Digi",
+   "Key"
+  ],
+  "targets": [
+   "ba3f384b-721e-4f4c-97e3-5511a936af76"
+  ]
+ },
+ {
+  "id": 2,
+  "received_after": "2026-04-06T10:41:46Z",
+  "received_before": "2026-04-06T12:41:46Z",
+  "keywords": [
+   "Digi",
+   "Key"
+  ],
+  "targets": [
+   "37fecee9-179a-4c68-b2b9-4357041669ef"
+  ]
+ },
+ {
+  "id": 3,
+  "received_after": "2026-04-08T15:18:32Z",
+  "received_before": "2026-04-08T17:18:32Z",
+  "keywords": [
+   "SupplyHouse.com"
+  ],
+  "targets": [
+   "718cf3e2-c5e0-4f67-99e0-236c9903ab45"
+  ]
+ },
+ {
+  "id": 4,
+  "received_after": "2026-04-08T16:49:04Z",
+  "received_before": "2026-04-08T18:49:04Z",
+  "keywords": [
+   "Amazon",
+   "Corporation",
+   "Digi",
+   "Ecoenclose",
+   "Electric",
+   "Gordon",
+   "Key",
+   "Pololu"
+  ],
+  "targets": [
+   "159db0d7-2cb5-4562-b798-43cab2f080b4",
+   "a2f73952-d2b3-40d0-b098-2da470cb9737",
+   "f88f9dc6-490d-4029-b066-228583fbaed7",
+   "2ca79b6b-d178-48ec-9d1e-6c004856d27f",
+   "d816ff07-30c6-49ce-8012-c065a002fdec"
+  ]
+ },
+ {
+  "id": 5,
+  "received_after": "2026-04-10T13:52:39Z",
+  "received_before": "2026-04-10T15:52:39Z",
+  "keywords": [
+   "Amazon",
+   "Carr",
+   "Electric",
+   "Gordon",
+   "McMaster"
+  ],
+  "targets": [
+   "bcd1e994-6071-4d1b-ba39-0710cb6791b0",
+   "c3d84c7d-66ec-4eae-9e9b-c0c71c700c45",
+   "30585cbf-477e-4c4a-8d60-aacc141c3bec"
+  ]
+ },
+ {
+  "id": 6,
+  "received_after": "2026-04-15T12:04:05Z",
+  "received_before": "2026-04-15T14:04:05Z",
+  "keywords": [
+   "Amazon",
+   "Digi",
+   "Key"
+  ],
+  "targets": [
+   "2d152eb4-3a3a-4067-b2ca-c12e69c91e47",
+   "0960012e-fc1a-4257-bdf7-58ccbcfc18f7",
+   "84ccbc7e-e379-444f-9f3a-0f67a454c505",
+   "a9d923dd-c814-49d5-9686-98f77be17991",
+   "d6ec38dd-a2ae-4f56-8abc-dc9bb96fc882"
+  ]
+ },
+ {
+  "id": 7,
+  "received_after": "2026-04-20T19:20:41Z",
+  "received_before": "2026-04-20T21:23:23Z",
+  "keywords": [
+   "Depot",
+   "Home",
+   "Lowe's"
+  ],
+  "targets": [
+   "d9ba77b3-bcc6-47f9-9a30-ffeef288ab33",
+   "185d92fc-7c91-42ec-bfc0-4ca72584421f",
+   "cdc380ae-715f-4f1c-a080-059d10f661c2",
+   "2b16dfda-8e18-44dd-b884-5490d9cfe191",
+   "d3d25960-b9ac-4baa-a1d0-ade95f001160",
+   "0fbd234a-b79f-4939-b466-c3593edc593c",
+   "ce89e40d-03c5-4835-a1cf-a6a2b516f30a",
+   "873794e0-0bdf-4d16-a6e9-66af1d380df8",
+   "ce30cc3b-881c-423f-b224-742895cd9756",
+   "20876a40-c475-415f-9aa7-32c7c9a37d92",
+   "0d4df9b5-e5f1-4a05-bf82-a3b4b85bb30e"
+  ]
+ },
+ {
+  "id": 8,
+  "received_after": "2026-04-21T21:02:30Z",
+  "received_before": "2026-04-21T23:02:30Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "af401e40-6450-4962-bcff-33851ebfaa21"
+  ]
+ },
+ {
+  "id": 9,
+  "received_after": "2026-04-23T22:52:22Z",
+  "received_before": "2026-04-24T00:52:22Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ],
+  "targets": [
+   "497a40b4-6623-4750-b6c8-2f9bb13a21b3",
+   "b37bb496-4dc8-4f69-a9a4-78715f654b2e"
+  ]
+ },
+ {
+  "id": 10,
+  "received_after": "2026-04-27T19:51:48Z",
+  "received_before": "2026-04-27T21:51:48Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "f92773ba-201a-4375-86a8-2b6f895053c6"
+  ]
+ },
+ {
+  "id": 11,
+  "received_after": "2026-04-27T22:43:03Z",
+  "received_before": "2026-04-28T00:43:03Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "62eef674-267a-4665-85e1-321b24348cb7"
+  ]
+ },
+ {
+  "id": 12,
+  "received_after": "2026-04-28T14:37:25Z",
+  "received_before": "2026-04-28T16:37:25Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "0ee7d7a2-7cf0-4369-982b-bcaed393a2bf"
+  ]
+ },
+ {
+  "id": 13,
+  "received_after": "2026-05-01T13:37:53Z",
+  "received_before": "2026-05-01T15:37:53Z",
+  "keywords": [
+   "18650",
+   "Amazon",
+   "Battery"
+  ],
+  "targets": [
+   "5b975fc2-c1dc-4e2c-890c-a2f19a4f5149",
+   "83238f42-53dc-445f-ac4b-7c1cb51a7fa1",
+   "8e700bee-b229-41a3-9e21-bbaee700e4f2"
+  ]
+ },
+ {
+  "id": 14,
+  "received_after": "2026-05-11T17:47:40Z",
+  "received_before": "2026-05-11T19:47:40Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "84dc3665-c74b-4839-8ef8-3dd8ab9852ac"
+  ]
+ },
+ {
+  "id": 15,
+  "received_after": "2026-05-13T19:45:44Z",
+  "received_before": "2026-05-13T21:45:44Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "2f388b8f-63de-4787-996d-1f2dddac5d94"
+  ]
+ },
+ {
+  "id": 16,
+  "received_after": "2026-05-14T16:30:08Z",
+  "received_before": "2026-05-14T18:30:08Z",
+  "keywords": [
+   "Bambu",
+   "Lab"
+  ],
+  "targets": [
+   "af8c135f-90ae-42ca-90fa-7faa73e16065"
+  ]
+ },
+ {
+  "id": 17,
+  "received_after": "2026-05-27T13:35:46Z",
+  "received_before": "2026-05-27T15:35:46Z",
+  "keywords": [
+   "Osh",
+   "Stencils"
+  ],
+  "targets": [
+   "b17a0113-6cc6-4dc0-b427-014e75535fef"
+  ]
+ },
+ {
+  "id": 18,
+  "received_after": "2026-05-27T14:34:25Z",
+  "received_before": "2026-05-27T16:34:25Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "5cc522e2-4e76-41d7-bf0f-afe36d2e5773"
+  ]
+ },
+ {
+  "id": 19,
+  "received_after": "2026-05-27T16:51:57Z",
+  "received_before": "2026-05-27T18:51:57Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "6c6029e6-66e1-457a-b8b4-324bf2fc9cb1"
+  ]
+ },
+ {
+  "id": 20,
+  "received_after": "2026-06-04T18:45:13Z",
+  "received_before": "2026-06-04T20:45:13Z",
+  "keywords": [
+   "Cables",
+   "Infinite"
+  ],
+  "targets": [
+   "17833fa6-f38f-43da-8344-f19804b26743"
+  ]
+ },
+ {
+  "id": 21,
+  "received_after": "2026-06-05T09:54:50Z",
+  "received_before": "2026-06-05T11:54:50Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "0329e14b-c6ba-4e4d-90c5-4154868c080d"
+  ]
+ },
+ {
+  "id": 22,
+  "received_after": "2026-06-09T14:03:11Z",
+  "received_before": "2026-06-09T16:03:11Z",
+  "keywords": [
+   "Powerwerx"
+  ],
+  "targets": [
+   "027763b0-a718-406b-80f0-c9a8724f9b19"
+  ]
+ },
+ {
+  "id": 23,
+  "received_after": "2026-06-09T16:20:55Z",
+  "received_before": "2026-06-09T18:20:55Z",
+  "keywords": [
+   "Depot",
+   "Home",
+   "ULINE"
+  ],
+  "targets": [
+   "52e8cf45-fd7f-42f1-a1be-1840b878c5bf",
+   "c616d942-4888-42b1-9dd2-f6ecb30e1267"
+  ]
+ },
+ {
+  "id": 24,
+  "received_after": "2026-06-09T22:57:31Z",
+  "received_before": "2026-06-10T00:57:31Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "6ee962ca-9954-464a-8b38-b859c248cbc1"
+  ]
+ },
+ {
+  "id": 25,
+  "received_after": "2026-06-10T18:51:55Z",
+  "received_before": "2026-06-10T20:51:55Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "4fea2497-f69a-484b-9ac1-9bf8a9682791"
+  ]
+ },
+ {
+  "id": 26,
+  "received_after": "2026-06-10T19:47:57Z",
+  "received_before": "2026-06-10T21:47:57Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "82175ea6-8978-4815-8183-875d289bbd71"
+  ]
+ },
+ {
+  "id": 27,
+  "received_after": "2026-06-11T12:45:24Z",
+  "received_before": "2026-06-11T14:45:24Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "6c053de4-0454-4dfd-b29d-412fc38d28f8"
+  ]
+ },
+ {
+  "id": 28,
+  "received_after": "2026-06-11T15:14:51Z",
+  "received_before": "2026-06-11T17:14:51Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "11881c59-57b5-43b0-b773-11f2dc807737"
+  ]
+ },
+ {
+  "id": 29,
+  "received_after": "2026-06-11T20:04:52Z",
+  "received_before": "2026-06-11T22:04:52Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "7afe59d5-c1db-4cb3-904e-f87d2eeb288b",
+   "2ca8a8d9-270f-46a3-be9e-64c2ec7e6ed1"
+  ]
+ },
+ {
+  "id": 30,
+  "received_after": "2026-06-11T23:10:26Z",
+  "received_before": "2026-06-12T01:10:26Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "225db117-d370-459d-865a-116db03155c6"
+  ]
+ },
+ {
+  "id": 31,
+  "received_after": "2026-06-12T19:37:14Z",
+  "received_before": "2026-06-12T21:37:14Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "5231b312-3aa7-4fcb-81eb-a9f0a8496876"
+  ]
+ },
+ {
+  "id": 32,
+  "received_after": "2026-06-12T23:23:25Z",
+  "received_before": "2026-06-13T01:23:25Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "d702ef92-459b-4b44-9367-e2c9a74a9f5a"
+  ]
+ },
+ {
+  "id": 33,
+  "received_after": "2026-06-13T16:34:16Z",
+  "received_before": "2026-06-13T18:34:16Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "c0253988-7f09-4796-b026-35a77db2cde9"
+  ]
+ },
+ {
+  "id": 34,
+  "received_after": "2026-06-15T16:27:47Z",
+  "received_before": "2026-06-15T18:27:47Z",
+  "keywords": [
+   "Grainger",
+   "Industrial"
+  ],
+  "targets": [
+   "a16c1dc4-e479-4a13-8d56-f5e1836f9d25"
+  ]
+ },
+ {
+  "id": 35,
+  "received_after": "2026-06-16T16:42:53Z",
+  "received_before": "2026-06-16T18:42:53Z",
+  "keywords": [
+   "18650",
+   "Battery"
+  ],
+  "targets": [
+   "3a404541-7600-4d25-bcf6-d4e40b1a9f8e"
+  ]
+ },
+ {
+  "id": 36,
+  "received_after": "2026-06-17T17:08:37Z",
+  "received_before": "2026-06-17T19:08:37Z",
+  "keywords": [
+   "Toradex"
+  ],
+  "targets": [
+   "4865b5eb-9e41-4682-90c9-b878b0782430"
+  ]
+ },
+ {
+  "id": 37,
+  "received_after": "2026-06-19T16:04:21Z",
+  "received_before": "2026-06-19T18:04:21Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "2584ee60-49c1-466a-9f8a-d2bd68d495c0",
+   "54fc8707-cf79-4af7-83be-0339f6fd5824",
+   "6424ba25-dfc2-41be-9514-ebe579bea9ba"
+  ]
+ },
+ {
+  "id": 38,
+  "received_after": "2026-06-21T01:34:18Z",
+  "received_before": "2026-06-21T03:34:18Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "7bbfc1b1-eff2-43d6-b3b6-af5b4083c5d1"
+  ]
+ },
+ {
+  "id": 39,
+  "received_after": "2026-06-22T18:47:47Z",
+  "received_before": "2026-06-22T20:47:47Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "55eeb3da-7f49-47d8-8235-ec7b5f277d5d"
+  ]
+ },
+ {
+  "id": 40,
+  "received_after": "2026-06-23T21:14:55Z",
+  "received_before": "2026-06-23T23:14:55Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "1da0a0ac-56ba-4511-89df-d898145fdd9c"
+  ]
+ },
+ {
+  "id": 41,
+  "received_after": "2026-06-24T00:23:22Z",
+  "received_before": "2026-06-24T02:23:22Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "8fe901a9-ed1d-4a3c-bcc5-9b955fa09d0e"
+  ]
+ },
+ {
+  "id": 42,
+  "received_after": "2026-06-24T04:24:11Z",
+  "received_before": "2026-06-24T06:24:11Z",
+  "keywords": [
+   "Polymaker"
+  ],
+  "targets": [
+   "e9faa21a-8903-4afc-9c25-797b247b05a4"
+  ]
+ },
+ {
+  "id": 43,
+  "received_after": "2026-06-24T11:04:01Z",
+  "received_before": "2026-06-24T13:04:01Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "a672c830-3d83-4168-a46b-ccff97fe7ffc"
+  ]
+ },
+ {
+  "id": 44,
+  "received_after": "2026-06-26T16:39:50Z",
+  "received_before": "2026-06-26T18:39:50Z",
+  "keywords": [
+   "Digi",
+   "Key"
+  ],
+  "targets": [
+   "f47ec684-c4b3-4463-be5a-d7ec6d6c1152"
+  ]
+ },
+ {
+  "id": 45,
+  "received_after": "2026-07-01T17:04:39Z",
+  "received_before": "2026-07-01T19:04:39Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "5b7aa85b-24ee-4714-a7f3-71bbb950fb19",
+   "ef19db9c-c455-4500-aef7-8eec08883dbd"
+  ]
+ },
+ {
+  "id": 46,
+  "received_after": "2026-07-02T01:25:15Z",
+  "received_before": "2026-07-02T03:25:15Z",
+  "keywords": [
+   "Fasteners",
+   "Plus"
+  ],
+  "targets": [
+   "6162a510-6d52-4c4b-a657-4e19b41fc82b"
+  ]
+ },
+ {
+  "id": 47,
+  "received_after": "2026-07-02T16:42:57Z",
+  "received_before": "2026-07-02T18:42:57Z",
+  "keywords": [
+   "Toradex"
+  ],
+  "targets": [
+   "bd6a3c75-1949-4956-af5b-ecf909c0e5b2"
+  ]
+ },
+ {
+  "id": 48,
+  "received_after": "2026-07-06T07:50:44Z",
+  "received_before": "2026-07-06T09:50:44Z",
+  "keywords": [
+   "Digi",
+   "Key"
+  ],
+  "targets": [
+   "3d76866c-8bc4-4bff-9505-76ebcdb06bfb"
+  ]
+ },
+ {
+  "id": 49,
+  "received_after": "2026-07-06T17:19:41Z",
+  "received_before": "2026-07-06T19:19:41Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "3486ccc5-648f-48c9-a1ad-4b9e763f42a0",
+   "36571895-815d-4883-8c26-3239414c7069"
+  ]
+ },
+ {
+  "id": 50,
+  "received_after": "2026-07-09T06:09:08Z",
+  "received_before": "2026-07-09T08:09:08Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "77732f5f-05d5-4fbb-89b3-074590d0fafd"
+  ]
+ },
+ {
+  "id": 51,
+  "received_after": "2026-07-09T13:47:41Z",
+  "received_before": "2026-07-09T15:47:41Z",
+  "keywords": [
+   "Grainger",
+   "Industrial"
+  ],
+  "targets": [
+   "3a77f6eb-1eea-4933-bee5-d228f6293227"
+  ]
+ },
+ {
+  "id": 52,
+  "received_after": "2026-07-09T21:31:23Z",
+  "received_before": "2026-07-09T23:31:23Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "f36f1db4-3e3b-43d5-a801-fbaba38b0d17",
+   "410f9abf-71c1-4300-905b-01ba73ea89b6"
+  ]
+ },
+ {
+  "id": 53,
+  "received_after": "2026-07-10T14:44:01Z",
+  "received_before": "2026-07-10T16:44:01Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "0b769f35-53b3-462b-941e-737685c7bd1a"
+  ]
+ },
+ {
+  "id": 54,
+  "received_after": "2026-07-10T16:36:28Z",
+  "received_before": "2026-07-10T18:36:28Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "2d24ce29-c56f-49ce-bafa-dd2797f15e3e",
+   "89083919-72ea-40ca-9569-5ae91013088e"
+  ]
+ },
+ {
+  "id": 55,
+  "received_after": "2026-07-10T23:18:29Z",
+  "received_before": "2026-07-11T01:18:29Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "36c59d30-d830-404e-999c-24d9f90a4909"
+  ]
+ },
+ {
+  "id": 56,
+  "received_after": "2026-07-14T14:01:02Z",
+  "received_before": "2026-07-14T16:01:02Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "24415824-2391-4948-a809-3cd8ac07b02b"
+  ]
+ },
+ {
+  "id": 57,
+  "received_after": "2026-07-14T15:17:21Z",
+  "received_before": "2026-07-14T17:17:21Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "628eecd1-dc87-4814-a903-aa5b67443880",
+   "429e19db-0396-4498-bfd0-bf19de2ae5df",
+   "3c02927b-b8bb-42a6-8015-8e409d4884ce"
+  ]
+ },
+ {
+  "id": 58,
+  "received_after": "2026-07-14T22:39:14Z",
+  "received_before": "2026-07-15T00:39:14Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "18fdfe08-9615-4902-a997-7c68849b9290"
+  ]
+ },
+ {
+  "id": 59,
+  "received_after": "2026-07-16T18:31:28Z",
+  "received_before": "2026-07-16T20:31:28Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "789876c2-4983-44dc-87cb-16d692307cc0"
+  ]
+ },
+ {
+  "id": 60,
+  "received_after": "2026-07-16T20:41:33Z",
+  "received_before": "2026-07-16T22:41:33Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "f0862042-78f7-447a-8a2b-27624f9cd3bf"
+  ]
+ },
+ {
+  "id": 61,
+  "received_after": "2026-07-16T23:31:17Z",
+  "received_before": "2026-07-17T01:31:17Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "ffc3e74c-67bb-4cd1-92df-93c621a35e29"
+  ]
+ },
+ {
+  "id": 62,
+  "received_after": "2026-07-17T05:46:16Z",
+  "received_before": "2026-07-17T07:46:16Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "3712b725-7117-469e-9013-2dfef0a436ef"
+  ]
+ },
+ {
+  "id": 63,
+  "received_after": "2026-07-17T13:08:57Z",
+  "received_before": "2026-07-17T15:08:57Z",
+  "keywords": [
+   "Fasteners",
+   "Plus"
+  ],
+  "targets": [
+   "53debecf-3081-4cef-aad5-8750a7f2087d"
+  ]
+ },
+ {
+  "id": 64,
+  "received_after": "2026-07-17T18:26:54Z",
+  "received_before": "2026-07-17T20:26:54Z",
+  "keywords": [
+   "Fastener",
+   "Superstore"
+  ],
+  "targets": [
+   "0f42e5b5-34f3-4be8-9a28-473a2d12affd"
+  ]
+ },
+ {
+  "id": 65,
+  "received_after": "2026-07-18T03:44:18Z",
+  "received_before": "2026-07-18T05:44:18Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "50b277fc-0fd0-45b8-9588-a8d28811fa56"
+  ]
+ },
+ {
+  "id": 66,
+  "received_after": "2026-07-19T22:54:36Z",
+  "received_before": "2026-07-20T00:54:36Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "83daa587-b215-4999-9833-63d9594ea646",
+   "24482314-627e-427a-8c4a-e3a27dde30ae"
+  ]
+ },
+ {
+  "id": 67,
+  "received_after": "2026-07-20T01:18:19Z",
+  "received_before": "2026-07-20T03:18:19Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "2761097e-4334-4d1e-9e38-a892642e679a"
+  ]
+ },
+ {
+  "id": 68,
+  "received_after": "2026-07-23T21:43:16Z",
+  "received_before": "2026-07-23T23:43:16Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "c71deac2-fea4-43d1-8ece-8e6526fe553f"
+  ]
+ },
+ {
+  "id": 69,
+  "received_after": "2026-07-24T16:30:30Z",
+  "received_before": "2026-07-24T18:30:30Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "7f5ff6de-c95f-4b12-a6ba-4b99b0bcd8e4",
+   "00ae9df5-37b3-477f-a722-5cff2357e5e8"
+  ]
+ },
+ {
+  "id": 70,
+  "received_after": "2026-07-24T20:41:17Z",
+  "received_before": "2026-07-24T22:41:17Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "aaf01d49-811c-4676-8579-9053eff58657"
+  ]
+ },
+ {
+  "id": 71,
+  "received_after": "2026-07-28T16:11:59Z",
+  "received_before": "2026-07-28T18:11:59Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "b81403ab-e505-4378-afc8-24560bfddee4"
+  ]
+ },
+ {
+  "id": 72,
+  "received_after": "2026-07-29T12:25:52Z",
+  "received_before": "2026-07-29T14:25:52Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "47eaf0d7-a7fe-43c1-a148-ffb0585fb046",
+   "59f56538-614a-48af-a65c-ae5f9e3f44f6",
+   "edc91123-98ea-4ace-aabe-a81be7168ff9"
+  ]
+ },
+ {
+  "id": 73,
+  "received_after": "2026-07-30T16:40:24Z",
+  "received_before": "2026-07-30T18:40:24Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "784ae7b8-ef05-4032-a677-86cbc6221063"
+  ]
+ },
+ {
+  "id": 74,
+  "received_after": "2026-07-30T19:36:32Z",
+  "received_before": "2026-07-30T21:36:32Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "c94c2a67-4ccd-41ed-8ce1-2594c27eb37d"
+  ]
+ },
+ {
+  "id": 75,
+  "received_after": "2026-08-01T00:23:09Z",
+  "received_before": "2026-08-01T02:23:09Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "a9793507-98d6-4da5-9a75-adc966aa0ca0"
+  ]
+ },
+ {
+  "id": 76,
+  "received_after": "2026-08-05T00:31:33Z",
+  "received_before": "2026-08-05T02:31:33Z",
+  "keywords": [
+   "Oshpark.Com"
+  ],
+  "targets": [
+   "296f3c3b-0327-4a19-b18d-5ad806a12830"
+  ]
+ },
+ {
+  "id": 77,
+  "received_after": "2026-08-06T00:50:03Z",
+  "received_before": "2026-08-06T02:50:03Z",
+  "keywords": [
+   "Oshpark.Com"
+  ],
+  "targets": [
+   "b3955d41-4b7c-4928-8b1e-e2cde6e51b8c"
+  ]
+ },
+ {
+  "id": 78,
+  "received_after": "2026-08-06T16:47:09Z",
+  "received_before": "2026-08-06T18:47:09Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "59e575b2-c337-4b8c-9bb9-88f15df40a7b"
+  ]
+ },
+ {
+  "id": 79,
+  "received_after": "2026-08-10T16:08:31Z",
+  "received_before": "2026-08-10T18:08:31Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "bbbd1b25-41e8-48b6-82de-75b2960b3ae3"
+  ]
+ },
+ {
+  "id": 80,
+  "received_after": "2026-08-11T02:02:25Z",
+  "received_before": "2026-08-11T04:02:25Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "c0dc40ce-d277-407f-b4a0-88b9998f7c72"
+  ]
+ },
+ {
+  "id": 81,
+  "received_after": "2026-08-11T19:02:58Z",
+  "received_before": "2026-08-11T21:02:58Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "43cf4569-4cdc-4083-8fe2-cd6f74c238f6"
+  ]
+ },
+ {
+  "id": 82,
+  "received_after": "2026-08-14T16:59:17Z",
+  "received_before": "2026-08-14T18:59:17Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "targets": [
+   "fb116289-a790-4f52-a357-386b60463820"
+  ]
+ },
+ {
+  "id": 83,
+  "received_after": "2026-08-18T12:30:37Z",
+  "received_before": "2026-08-18T14:30:37Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ],
+  "targets": [
+   "33001335-7d49-4543-9781-e997994a3fd5",
+   "fe8561ca-010c-4925-a59f-2e4384ad11ec"
+  ]
+ },
+ {
+  "id": 84,
+  "received_after": "2026-08-18T16:28:27Z",
+  "received_before": "2026-08-18T18:28:27Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "c6b3f965-3420-4b86-896c-541a4f1660e6",
+   "b82abce2-0329-402b-a956-3f91676245bb"
+  ]
+ },
+ {
+  "id": 85,
+  "received_after": "2026-08-18T18:50:26Z",
+  "received_before": "2026-08-18T20:50:26Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "85d67e41-80fb-4d0c-b875-30f86e5dc389"
+  ]
+ },
+ {
+  "id": 86,
+  "received_after": "2026-08-19T06:39:31Z",
+  "received_before": "2026-08-19T08:39:31Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ],
+  "targets": [
+   "546882f5-9e6d-457a-a56a-b82ce64d583c"
+  ]
+ },
+ {
+  "id": 87,
+  "received_after": "2026-08-19T12:39:19Z",
+  "received_before": "2026-08-19T14:39:19Z",
+  "keywords": [
+   "Product",
+   "Safety"
+  ],
+  "targets": [
+   "fe90b2c1-6445-4f3d-8727-3e645ed0ce91"
+  ]
+ },
+ {
+  "id": 88,
+  "received_after": "2026-08-19T16:07:25Z",
+  "received_before": "2026-08-19T18:07:25Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "f57c7080-c1b0-42d8-84bd-669e48f05b1d"
+  ]
+ },
+ {
+  "id": 89,
+  "received_after": "2026-08-19T17:06:08Z",
+  "received_before": "2026-08-19T19:06:08Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "774d8b40-5812-4501-8a70-785af63c5128"
+  ]
+ },
+ {
+  "id": 90,
+  "received_after": "2026-08-21T10:25:29Z",
+  "received_before": "2026-08-21T12:25:29Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "74edbed5-4078-4723-acf7-01c587e6e632"
+  ]
+ },
+ {
+  "id": 91,
+  "received_after": "2026-08-22T22:13:36Z",
+  "received_before": "2026-08-23T00:13:36Z",
+  "keywords": [
+   "Product",
+   "Safety",
+   "Ubiquiti"
+  ],
+  "targets": [
+   "bad82d66-1f50-41c8-866e-5a31d8e531b6",
+   "2d9324a2-4e7e-4342-ae36-e6a20769f967"
+  ]
+ },
+ {
+  "id": 92,
+  "received_after": "2026-09-03T02:55:03Z",
+  "received_before": "2026-09-03T04:55:03Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "77d6d788-c0f8-4181-b1c4-7a562d9e3d7d"
+  ]
+ },
+ {
+  "id": 93,
+  "received_after": "2026-09-03T05:59:41Z",
+  "received_before": "2026-09-03T07:59:41Z",
+  "keywords": [
+   "Oshpark.Com"
+  ],
+  "targets": [
+   "968223d1-110c-4e0f-a099-38566ec7bebc"
+  ]
+ },
+ {
+  "id": 94,
+  "received_after": "2026-09-04T18:06:20Z",
+  "received_before": "2026-09-04T20:06:20Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "b1388e09-7c1a-4111-959b-fabe4bba9694"
+  ]
+ },
+ {
+  "id": 95,
+  "received_after": "2026-09-14T15:33:50Z",
+  "received_before": "2026-09-14T17:33:50Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "4921942e-43ab-4fa7-9efc-76422454f3a3"
+  ]
+ },
+ {
+  "id": 96,
+  "received_after": "2026-09-22T15:53:20Z",
+  "received_before": "2026-09-22T17:53:20Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "3febe4ea-751f-4eef-8f0a-53cff4080140"
+  ]
+ },
+ {
+  "id": 97,
+  "received_after": "2026-09-23T05:44:30Z",
+  "received_before": "2026-09-23T07:44:30Z",
+  "keywords": [
+   "Oshpark.Com"
+  ],
+  "targets": [
+   "8737a4d6-de2e-4548-93e2-b892120d84ba"
+  ]
+ },
+ {
+  "id": 98,
+  "received_after": "2026-09-25T04:20:28Z",
+  "received_before": "2026-09-25T06:20:28Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "6d1e487a-63b4-4cae-b996-57a44bfd1324"
+  ]
+ },
+ {
+  "id": 99,
+  "received_after": "2026-09-25T06:24:20Z",
+  "received_before": "2026-09-25T08:24:20Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "13689a96-493f-4a7e-bf24-8b4ebd11957d"
+  ]
+ },
+ {
+  "id": 100,
+  "received_after": "2026-09-28T16:30:40Z",
+  "received_before": "2026-09-28T18:30:40Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "5dff3aa9-1051-4b13-afa2-53f283f0792d"
+  ]
+ },
+ {
+  "id": 101,
+  "received_after": "2026-09-28T17:38:02Z",
+  "received_before": "2026-09-28T19:38:02Z",
+  "keywords": [
+   "Amazon",
+   "Apple",
+   "Depot",
+   "Home",
+   "Services"
+  ],
+  "targets": [
+   "db8cc08c-a1fb-423a-a9f4-1ea314f3939b",
+   "6d763760-f2dd-4dc1-96b6-6d73c9616939",
+   "3fbe6e00-54a4-40d9-8fba-04b6277d0eff"
+  ]
+ },
+ {
+  "id": 102,
+  "received_after": "2026-09-29T17:02:26Z",
+  "received_before": "2026-09-29T19:02:26Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "57a4a194-9f01-4cab-bc48-b0cf6b643c5f"
+  ]
+ },
+ {
+  "id": 103,
+  "received_after": "2026-09-30T22:13:54Z",
+  "received_before": "2026-10-01T00:13:54Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "04197bb8-4e54-4d2b-98dc-c9c01fecc8a2"
+  ]
+ },
+ {
+  "id": 104,
+  "received_after": "2026-10-06T20:45:02Z",
+  "received_before": "2026-10-06T22:45:02Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "f5907abc-50ff-4f1e-ba49-a21e9a3d0768"
+  ]
+ },
+ {
+  "id": 105,
+  "received_after": "2026-10-07T21:31:35Z",
+  "received_before": "2026-10-07T23:31:35Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "a6e90046-1f37-443b-908d-4d95eec13cd7"
+  ]
+ },
+ {
+  "id": 106,
+  "received_after": "2026-10-12T13:25:30Z",
+  "received_before": "2026-10-12T15:25:30Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "b6347b42-50c1-4528-bbef-2afb48575e59"
+  ]
+ },
+ {
+  "id": 107,
+  "received_after": "2026-10-12T17:28:56Z",
+  "received_before": "2026-10-12T19:28:56Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "7ceddeeb-0ebf-4e5c-8cd0-431636600ce0"
+  ]
+ },
+ {
+  "id": 108,
+  "received_after": "2026-10-12T20:19:30Z",
+  "received_before": "2026-10-12T22:19:30Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "9d2fb513-6f35-446b-b28b-a60cf91c031a"
+  ]
+ },
+ {
+  "id": 109,
+  "received_after": "2026-10-12T21:17:19Z",
+  "received_before": "2026-10-12T23:17:19Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "b13b5a22-2b84-4560-b60f-7b216dbffabc"
+  ]
+ },
+ {
+  "id": 110,
+  "received_after": "2026-10-13T18:01:39Z",
+  "received_before": "2026-10-13T20:01:39Z",
+  "keywords": [
+   "Plastics",
+   "TAP"
+  ],
+  "targets": [
+   "9bd86622-2805-4259-af73-308e9e2c3e81",
+   "a30ba91e-742c-468b-8b19-4ccf1d8d50f7",
+   "235ec41c-44bc-469f-813d-11a22ca5f7ea"
+  ]
+ },
+ {
+  "id": 111,
+  "received_after": "2026-10-14T14:04:31Z",
+  "received_before": "2026-10-14T16:04:31Z",
+  "keywords": [
+   "MSI",
+   "Tec"
+  ],
+  "targets": [
+   "7ccbdc40-a2bf-43f8-bcd7-681fcfb1516f"
+  ]
+ },
+ {
+  "id": 112,
+  "received_after": "2026-10-14T15:38:39Z",
+  "received_before": "2026-10-14T17:38:39Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "3e4aaf88-3eb8-4a5d-b76e-3a2832672304"
+  ]
+ },
+ {
+  "id": 113,
+  "received_after": "2026-10-15T19:51:52Z",
+  "received_before": "2026-10-15T21:51:52Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "587d3fac-2a08-4ae8-8d9c-68ddb1b56c71"
+  ]
+ },
+ {
+  "id": 114,
+  "received_after": "2026-10-21T19:08:10Z",
+  "received_before": "2026-10-21T21:08:10Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "9dc0ab73-eccf-4186-884f-b7daf0d8d459"
+  ]
+ },
+ {
+  "id": 115,
+  "received_after": "2026-10-22T15:25:54Z",
+  "received_before": "2026-10-22T17:25:54Z",
+  "keywords": [
+   "Starlink"
+  ],
+  "targets": [
+   "8d106bdc-dfeb-4247-bdfd-5a383539f0bf"
+  ]
+ },
+ {
+  "id": 116,
+  "received_after": "2026-10-23T15:13:19Z",
+  "received_before": "2026-10-23T17:13:19Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "1afaaaca-9e6c-4dd5-8b59-19bbd7e9ff32"
+  ]
+ },
+ {
+  "id": 117,
+  "received_after": "2026-10-26T20:06:32Z",
+  "received_before": "2026-10-26T22:06:32Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "817649e9-4f06-47cc-af9f-f1c5113f3511"
+  ]
+ },
+ {
+  "id": 118,
+  "received_after": "2026-10-28T04:45:28Z",
+  "received_before": "2026-10-28T06:45:28Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "7a63efc9-030e-4a3a-a5fb-bbc35dad73cb"
+  ]
+ },
+ {
+  "id": 119,
+  "received_after": "2026-10-28T14:52:55Z",
+  "received_before": "2026-10-28T16:52:55Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "66afc81b-53ae-4c17-93de-c88a18977543"
+  ]
+ },
+ {
+  "id": 120,
+  "received_after": "2026-10-29T20:45:39Z",
+  "received_before": "2026-10-29T22:45:39Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "fde0f9ac-141b-469c-b139-2c3235456698",
+   "b06caa0a-e3bb-4bf7-b611-f0c51fed37cc"
+  ]
+ },
+ {
+  "id": 121,
+  "received_after": "2026-10-30T02:07:07Z",
+  "received_before": "2026-10-30T04:07:07Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ],
+  "targets": [
+   "57e0db14-1454-41a8-930e-9fbd995b84ee"
+  ]
+ },
+ {
+  "id": 122,
+  "received_after": "2026-10-30T15:17:56Z",
+  "received_before": "2026-10-30T17:17:56Z",
+  "keywords": [
+   "Carr",
+   "Digi",
+   "Drives",
+   "Ecoenclose",
+   "Fenner",
+   "Key",
+   "McMaster"
+  ],
+  "targets": [
+   "5f1cd10e-57ba-43d5-a71d-4ecacbfe4c53",
+   "b2a234e1-59bd-4cce-a4d7-505d54c8e68b",
+   "c928d32a-7066-4963-8462-e776003e98d4",
+   "51aa09ba-b816-470a-b4a8-416133b4c67a",
+   "4b14fc44-f51c-4523-ad40-18dc2f3f5f28"
+  ]
+ },
+ {
+  "id": 123,
+  "received_after": "2026-10-30T15:33:20Z",
+  "received_before": "2026-10-30T17:33:20Z",
+  "keywords": [
+   "Drives",
+   "Fasteners",
+   "Fenner",
+   "Gluegun.com",
+   "Grainger",
+   "Industrial",
+   "Polymaker",
+   "Tanner"
+  ],
+  "targets": [
+   "0702320b-f1e7-42fb-8024-b2d8e1e21f79",
+   "b12ce35b-64dd-4463-9658-01dbd2398698",
+   "a03c9cba-8a4d-4282-b512-8c3f72d03009",
+   "67561116-bd50-4a91-b5b7-209457ad7850",
+   "6b30bfa6-f9b5-4600-a06a-24eb3080173f"
+  ]
+ },
+ {
+  "id": 124,
+  "received_after": "2026-10-31T09:35:22Z",
+  "received_before": "2026-10-31T11:35:22Z",
+  "keywords": [
+   "Carr",
+   "McMaster"
+  ],
+  "targets": [
+   "5bf6b3b1-471d-48c3-b0e4-90a77fa69b1e"
+  ]
+ },
+ {
+  "id": 125,
+  "received_after": "2026-11-02T16:54:58Z",
+  "received_before": "2026-11-02T18:54:58Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "5b92585f-608a-407e-a2ed-20f4352b0370"
+  ]
+ },
+ {
+  "id": 126,
+  "received_after": "2026-11-03T05:45:33Z",
+  "received_before": "2026-11-03T07:45:33Z",
+  "keywords": [
+   "Oshpark.Com"
+  ],
+  "targets": [
+   "abd28b98-4797-4057-936b-f6c5059bcc2c"
+  ]
+ },
+ {
+  "id": 127,
+  "received_after": "2026-11-03T18:39:32Z",
+  "received_before": "2026-11-03T20:39:32Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "277faec4-13e1-4452-b95c-2e4ab80a722e"
+  ]
+ },
+ {
+  "id": 128,
+  "received_after": "2026-11-03T21:43:39Z",
+  "received_before": "2026-11-03T23:43:39Z",
+  "keywords": [
+   "Drillsandcutters.Com"
+  ],
+  "targets": [
+   "1bba1692-ac37-4707-b591-7a4250018b82"
+  ]
+ },
+ {
+  "id": 129,
+  "received_after": "2026-11-04T17:07:07Z",
+  "received_before": "2026-11-04T19:07:07Z",
+  "keywords": [
+   "Drillsandcutters.Com"
+  ],
+  "targets": [
+   "62c3882d-320a-4759-b70f-e48ae681e0ad"
+  ]
+ },
+ {
+  "id": 130,
+  "received_after": "2026-11-05T00:13:21Z",
+  "received_before": "2026-11-05T02:13:21Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "287d0a68-aada-42f6-9a66-47c4a85367da"
+  ]
+ },
+ {
+  "id": 131,
+  "received_after": "2026-11-05T01:58:16Z",
+  "received_before": "2026-11-05T03:58:16Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ],
+  "targets": [
+   "8a79f601-7481-42e5-944e-49015131117c"
+  ]
+ },
+ {
+  "id": 132,
+  "received_after": "2026-11-06T17:09:30Z",
+  "received_before": "2026-11-06T19:09:30Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "a510e731-29b4-4281-b12b-4d326582253f"
+  ]
+ },
+ {
+  "id": 133,
+  "received_after": "2026-11-10T16:29:35Z",
+  "received_before": "2026-11-10T18:29:35Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "ae9e0b00-bea2-41fb-869d-922b0dd9b03b"
+  ]
+ },
+ {
+  "id": 134,
+  "received_after": "2026-11-10T18:37:51Z",
+  "received_before": "2026-11-10T20:37:51Z",
+  "keywords": [
+   "Depot",
+   "Home"
+  ],
+  "targets": [
+   "d061d6cf-51db-4ce7-a408-513efb11e882"
+  ]
+ },
+ {
+  "id": 135,
+  "received_after": "2026-11-12T02:45:38Z",
+  "received_before": "2026-11-12T04:45:38Z",
+  "keywords": [
+   "INDUSTRIES",
+   "NIC"
+  ],
+  "targets": [
+   "d6c0955b-4619-4481-84da-c339aaec50a2"
+  ]
+ },
+ {
+  "id": 136,
+  "received_after": "2026-11-12T13:59:45Z",
+  "received_before": "2026-11-12T15:59:45Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "7ad24e2c-bf08-4d27-bf8b-c70fae258bf2"
+  ]
+ },
+ {
+  "id": 137,
+  "received_after": "2026-11-12T15:46:17Z",
+  "received_before": "2026-11-12T17:46:17Z",
+  "keywords": [
+   "Toolup"
+  ],
+  "targets": [
+   "a33a70a2-5c6b-445a-ac7c-926bfe24e4fa"
+  ]
+ },
+ {
+  "id": 138,
+  "received_after": "2026-11-12T21:06:31Z",
+  "received_before": "2026-11-12T23:06:31Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "targets": [
+   "6b5ccaf3-569c-45f2-b710-510b47166d27"
+  ]
+ }
+]

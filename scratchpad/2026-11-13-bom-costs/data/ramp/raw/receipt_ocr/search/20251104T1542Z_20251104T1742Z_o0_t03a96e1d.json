@@ -1,0 +1,21 @@
+{
+ "query": {
+  "window": [
+   "2025-11-04T15:42:13Z",
+   "2025-11-04T17:42:13Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "03a96e1d-37b8-482c-bace-182b3713e9c5"
+ },
+ "pulled_at": "2026-11-13T04:49:56Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

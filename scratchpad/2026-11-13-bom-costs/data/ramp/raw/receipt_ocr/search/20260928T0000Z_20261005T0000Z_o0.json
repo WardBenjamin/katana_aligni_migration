@@ -1,0 +1,277 @@
+{
+ "query": {
+  "window": [
+   "2026-09-28T00:00:00Z",
+   "2026-10-05T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:43.779Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "eb529183-2c24-494b-9224-548e6ecd79e8",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "ed49e07b-8fad-4a43-8071-c8f126751ee7",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-02T15:34:23.964277Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-02",
+   "total_amount": "78.54",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-02",
+    "total_amount": 78.54,
+    "subtotal": 72.72,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 5.82
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "3 of: EdenseeLake 40 Pack 8x5x5 inches Shipping Boxes, Corrugated Cardboard Boxes Bulk for Packing, Moving, Mailing, Small Business",
+      "item_quantity": 3.0,
+      "item_unit_price": null,
+      "item_total_price": 24.24
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-1331436-4557840\n    Order Placed: October 2, 2026\n    Amazon.com order number: 112-1331436-4557840\n    Order Total: USD 78.54\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                    Price\n    3 of: EdenseeLake 40 Pack 8x5x5 inches Shipping Boxes, Corrugated Cardboard Boxes Bulk for Packing, Moving, Mailing, Small      $24.24\n    Bus\n    iness\n    Sold by and invoiced on behalf of: Hiddekel (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                          Item(s) Subtotal:    $72.72\n    Chris Williamson                                                                                        Shipping & Handling:     $0.00\n    185 Stag Dr                                                                                                                      -----\n    WILLISTON, SC 29853\n    United States                                                                                              Total before tax:    $72.72\n                                                                                                                      Sales Tax:     $5.82\n    Shipping Speed:                                                                                                                  -----\n    FREE Prime Delivery                                                                                 Total for This Shipment:    $78.54\n                                                                                                                                     -----\n\n        Payment information\n    Payment Method:                                                                                            Item(s) Subtotal: USD 72.72\n    Visa | Last digits: 2311                                                                                 Ship"
+  },
+  {
+   "receipt_uuid": "37058409-f0cd-49e9-95ff-50dd4f96bc46",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "8a26c790-c4e5-4979-8f1b-b4f85f1dcafa",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-28T19:14:22.993432Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-09-28",
+   "total_amount": "13.31",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-09-28",
+    "total_amount": 13.31,
+    "subtotal": 12.67,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.07
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 2.99
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "Your Coupon Savings",
+      "discount_rate": null,
+      "discount_amount": 3.42
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: TGF TGF Impact Torx Bit Set 31PCS (T5 T6, TT7-TT40), 1\" 2\" S2 Steel Security Torx, Tamper Proof Star Bit Set with Magnetic CNC Machined Tips, Impact Screwdriver Bits with Bit Holder Storage Case",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 12.67
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-8460671-3812201\n    Order Placed: September 28, 2026\n    Amazon.com order number: 114-8460671-3812201\n    Order Total: USD 13.31\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                Price\n    1 of: TGFTGF Impact Torx Bit Set 31PCS (T5 T6, TT7-TT40), 1\" 2\" S2 Steel Security Torx, Tamper Proof Star Bit Set wi        $12.67\n    th Magnetic CNC Machined Tips, Impact Screwdriver Bits with Bit Holder Storage Case\n    Sold by and invoiced on behalf of: TGFTGF (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                      Item(s) Subtotal:    $12.67\n    Bryan Monti                                                                                         Shipping & Handling:     $2.99\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616                                                                           Your Coupon Savings:    -$3.42\n    United States                                                                                                                -----\n                                                                                                           Total before tax:    $12.24\n    Shipping Speed:                                                                                               Sales Tax:     $1.07\n    Rush Shipping                                                                                                                -----\n                                                                                                    Total for This Shipment:    $13.31\n                                                                                                                                 -----\n\n        Payment information\n    Payment Method:                                                                        "
+  },
+  {
+   "receipt_uuid": "3e28a144-ccf9-4305-81df-228cbfdbc31f",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "b62fb060-05ef-47c3-8594-0de2d4567b66",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-30T23:12:25.354940Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-09-30",
+   "total_amount": "66.53",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-09-30",
+    "total_amount": 66.53,
+    "subtotal": 62.76,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.77
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: MOUNTUP Roof Mount for Starlink Gen 3 Standard 4 4X V4 Rustproof Pivot Pole",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 22.78
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Mount for Starlink Standard 4 4X Gen 3, Adjustable 25\" Roof Mounting Kit",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 39.98
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-2566925-8773034\n    Order Placed: September 30, 2026\n    Amazon.com order number: 114-2566925-8773034\n    Order Total: USD 66.53\n\n        Not Yet Shipped\n\n    Items Ordered                                                                             Price\n    1 of: MOUNTUP Roof Mount for Starlink Gen 3 Standard 4 4X V4 Rustproof Pivot Pole        $22.78\n    Sold by and invoiced on behalf of: Yuan Motive (seller profile)\n    Business Price\n    Condition: New\n\n    1 of: Mount for Starlink Standard 4 4X Gen 3, Adjustable 25\" Roof Mounting Kit           $39.98\n    Sold by and invoiced on behalf of: Haturi Selected (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                   Item(s) Subtotal:    $62.76\n    Bryan Monti                                                      Shipping & Handling:     $0.00\n    210 N CHESTER ST                                                                          -----\n    BALTIMORE, MD 21231-1301\n    United States                                                       Total before tax:    $62.76\n                                                                               Sales Tax:     $3.77\n    Shipping Speed:                                                                           -----\n    FREE Prime Delivery                                          Total for This Shipment:    $66.53\n                                                                                              -----\n\n        Payment information\n    Payment Method:                                                     Item(s) Subtotal: USD 62.76\n    Visa | Last digits: 1571                                          Shipping & Handling: USD 0.00\n    Billing address\n    Bryan Monti                                                         Total before tax: USD 62.76\n    2261 MARKET ST        Estimated tax to be collected:                                   USD 3.77\n    SAN FRANCISCO,"
+  },
+  {
+   "receipt_uuid": "d3b3fc09-2cbb-4325-996e-34427461af2d",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "02663279-efb9-4840-86f4-160c9f419e81",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-28T18:30:00.777588Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-09-28",
+   "total_amount": "579.12",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-09-28",
+    "total_amount": 579.12,
+    "subtotal": 549.97,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 29.15
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: UGREEN 80Gbps M.2 NVMe SSD Enclosure for Mac mini(SSD Not Included)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 159.98
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Samsung SSD 990 PRO 2TB, PCIe 4.0 M.2 2280, Up to 7,450 MB/s",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 389.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-4256516-9065814\n    Order Placed: September 28, 2026\n    Amazon.com order number: 112-4256516-9065814\n    Order Total: USD 579.12\n\n        Not Yet Shipped\n\n    Items Ordered                                                                  Price\n    1 of: UGREEN 80Gbps M.2 NVMe SSD Enclosure for Mac mini(SSD Not Included)    $159.98\n    Sold by and invoiced on behalf of: UGREEN GROUP LIMITED (seller profile)\n    Seller Credentials: ISO 9001\n    Condition: New\n\n    1 of: Samsung SSD 990 PRO 2TB, PCIe 4.0 M.2 2280, Up to 7,450 MB/s           $389.99\n    Sold by and invoiced on behalf of: Amazon (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                          Item(s) Subtotal: $549.97\n    Ben Ward        Shipping & Handling:                                           $0.00\n    611 MOLLYS WAY                                                                 -----\n    SALUDA, VA 23149-2578\n    United States                                              Total before tax: $549.97\n        Sales Tax:                                                                $29.15\n    Shipping Speed:                                                                -----\n    FREE Prime Delivery                                 Total for This Shipment: $579.12\n                                                                                   -----\n\n        Payment information\n    Payment Method:                                         Item(s) Subtotal: USD 549.97\n    Visa | Last digits: 3514        Shipping & Handling:                        USD 0.00\n    Billing address\n    Ben Ward                                                Total before tax: USD 549.97\n    2261 MARKET ST # 4027        Estimated tax to be collected:                USD 29.15\n    SAN FRANCISCO, CA 94114-1612\n    United States                                                Grand Total: USD 579.12\n\n   To view the status of your order, return to O"
+  },
+  {
+   "receipt_uuid": "20671a99-f6f9-4a0c-9f08-06052d68e4e1",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "02663279-efb9-4840-86f4-160c9f419e81",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-28T18:30:09.568998Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-09-28",
+   "total_amount": "579.12",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-09-28",
+    "total_amount": 579.12,
+    "subtotal": 549.97,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 29.15
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: UGREEN 80Gbps M.2 NVMe SSD Enclosure for Mac mini(SSD Not Included)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 159.98
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Samsung SSD 990 PRO 2TB, PCIe 4.0 M.2 2280, Up to 7,450 MB/s",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 389.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-4256516-9065814\n    Order Placed: September 28, 2026\n    Amazon.com order number: 112-4256516-9065814\n    Order Total: USD 579.12\n\n        Not Yet Shipped\n\n    Items Ordered                                                                  Price\n    1 of: UGREEN 80Gbps M.2 NVMe SSD Enclosure for Mac mini(SSD Not Included)    $159.98\n    Sold by and invoiced on behalf of: UGREEN GROUP LIMITED (seller profile)\n    Seller Credentials: ISO 9001\n    Condition: New\n\n    1 of: Samsung SSD 990 PRO 2TB, PCIe 4.0 M.2 2280, Up to 7,450 MB/s           $389.99\n    Sold by and invoiced on behalf of: Amazon (seller profile)\n    Business Price\n    Condition: New\n\n    Shipping Address:                                          Item(s) Subtotal: $549.97\n    Ben Ward        Shipping & Handling:                                           $0.00\n    611 MOLLYS WAY                                                                 -----\n    SALUDA, VA 23149-2578\n    United States                                              Total before tax: $549.97\n        Sales Tax:                                                                $29.15\n    Shipping Speed:                                                                -----\n    FREE Prime Delivery                                 Total for This Shipment: $579.12\n                                                                                   -----\n\n        Payment information\n    Payment Method:                                         Item(s) Subtotal: USD 549.97\n    Visa | Last digits: 3514        Shipping & Handling:                        USD 0.00\n    Billing address\n    Ben Ward                                                Total before tax: USD 549.97\n    2261 MARKET ST # 4027        Estimated tax to be collected:                USD 29.15\n    SAN FRANCISCO, CA 94114-1612\n    United States                                                Grand Total: USD 579.12\n\n   To view the status of your order, return to O"
+  }
+ ]
+}

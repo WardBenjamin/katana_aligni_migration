@@ -1,0 +1,446 @@
+{
+ "query": {
+  "window": [
+   "2026-10-30T13:13:00Z",
+   "2026-10-30T15:13:00Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:07.293Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "987d6283-0b5a-4aa1-862e-c9f4273eee2f",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "59768d20-68df-4be6-b5b8-dc3aec3fa575",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:14:45.977158Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-10-15",
+   "total_amount": "2828.14",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-10-15",
+    "total_amount": 2828.14,
+    "subtotal": 2610.79,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 208.86
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 8.49
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "REFLECTOR HARD PLASTIC FOR PHOTO",
+      "item_quantity": 100.0,
+      "item_unit_price": 26.1079,
+      "item_total_price": 2610.79
+     }
+    ]
+   },
+   "ocr_excerpt": "                           701 Brooks Ave South,                                www.digikey.com\n                           PO Box 677                                                                                                                            Invoice # 134573629\n                           Thief River Falls, MN 56701-0677\n                           USA                                                                                                                            Completed Salesorder USD $\n\n          CHRIS WILLIAMSON                                                  CHRIS WILLIAMSON                                Purchase Order:            AIRGARAGE-REFLECTORS\n          AIRGARAGE INC                                                     BYTECHS LLC                                     Salesorder / Packlist:     102272487 / PL1\n          2261 MARKET STREET                                                185 STAG DRIVE                                  Customer:                  12230777\n          #4027                                                             WILLISTON SC 29853-0000                         Payment Terms:             VISA / 2311\n          SAN FRANCISCO CA 94114-0000                                       UNITED STATES OF AMERICA                        Ref #:                     AIRGARAGE-REFLECTORS\n          UNITED STATES OF AMERICA                                                                                          Shipping Method:           XGT\n                                                                                                                            Tracking #:                547847750896\n          CHRIS WILLIAMSON                                                  DIGIKEY ELECTRONICS\n          BYTECHS LLC                                                       701 BROOKS AVE. SOUTH\n          185 STAG DRIVE                                                    P.O. BOX 677\n          WILLISTON SC 29853                 "
+  },
+  {
+   "receipt_uuid": "c0a2d425-8b1f-47b7-85b8-102a76329987",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "5985e020-c9f6-4616-82c1-154baaf1edee",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:13:56.254741Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-10-12",
+   "total_amount": "3536.56",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-10-12",
+    "total_amount": 3536.56,
+    "subtotal": 3275.22,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 261.34
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 8.49
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "2223-TBP03P5-350-02BE-ND",
+      "item_quantity": 250.0,
+      "item_unit_price": 0.5729,
+      "item_total_price": 143.23
+     },
+     {
+      "item_date": null,
+      "item_name": "455-2051-500-ND",
+      "item_quantity": 1000.0,
+      "item_unit_price": 0.0345,
+      "item_total_price": 34.5
+     },
+     {
+      "item_date": null,
+      "item_name": "455-1903-ND",
+      "item_quantity": 200.0,
+      "item_unit_price": 0.058,
+      "item_total_price": 11.6
+     },
+     {
+      "item_date": null,
+      "item_name": "493-2203-6-ND",
+      "item_quantity": 520.0,
+      "item_unit_price": 0.21587,
+      "item_total_price": 112.25
+     },
+     {
+      "item_date": null,
+      "item_name": "490-10784-1-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.4893,
+      "item_total_price": 127.22
+     },
+     {
+      "item_date": null,
+      "item_name": "620-ACS37041KLHBLT-010B3DKR-ND",
+      "item_quantity": 1000.0,
+      "item_unit_price": 0.82701,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "497-7286-6-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.18204,
+      "item_total_price": 47.33
+     },
+     {
+      "item_date": null,
+      "item_name": "TCMT4106DKR-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 1.06523,
+      "item_total_price": 276.96
+     },
+     {
+      "item_date": null,
+      "item_name": "296-44396-6-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.87738,
+      "item_total_price": 228.12
+     },
+     {
+      "item_date": null,
+      "item_name": "CP-063AH-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 1.0999,
+      "item_total_price": 285.97
+     },
+     {
+      "item_date": null,
+      "item_name": "609-1057-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 1.53535,
+      "item_total_price": 399.19
+     },
+     {
+      "item_date": null,
+      "item_name": "2073-FFC2B28-12-GDKR-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.2945,
+      "item_total_price": 76.57
+     },
+     {
+      "item_date": null,
+      "item_name": "2073-USB1035-GF-P-0-B-B-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.43492,
+      "item_total_price": 113.08
+     },
+     {
+      "item_date": null,
+      "item_name": "455-B4B-PH-K-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.1419,
+      "item_total_price": 36.89
+     },
+     {
+      "item_date": null,
+      "item_name": "311-3573-1-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.1312,
+      "item_total_price": 34.11
+     },
+     {
+      "item_date": null,
+      "item_name": "296-41185-1-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 2.3428,
+      "item_total_price": 609.13
+     },
+     {
+      "item_date": null,
+      "item_name": "2073-USB4110-GF-A-1-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.8574,
+      "item_total_price": 222.92
+     },
+     {
+      "item_date": null,
+      "item_name": "1168-TG-A1250-15-15-1.0-ND",
+      "item_quantity": 260.0,
+      "item_unit_price": 0.53224,
+      "item_total_price": 138.38
+     }
+    ]
+   },
+   "ocr_excerpt": "                           701 Brooks Ave South,                                 www.digikey.com\n                           PO Box 677                                                                                                                          Invoice # 134348055\n                           Thief River Falls, MN 56701-0677\n                           USA                                                                                                                                               USD $\n\n          CHRIS WILLIAMSON                                                   CHRIS WILLIAMSON                                Salesorder / Packlist:     102188931 / PL1\n          AIRGARAGE INC                                                      BYTECHS LLC                                     Customer:                  12230777\n          2261 MARKET STREET                                                 185 STAG DRIVE                                  Payment Terms:             VISA / 2311\n          #4027                                                              WILLISTON SC 29853-0000                         Ref #:                     SA # 102188931\n          SAN FRANCISCO CA 94114-0000                                        UNITED STATES OF AMERICA                        Shipping Method:           XGT\n          UNITED STATES OF AMERICA                                                                                           Tracking #:                547443471179\n\n          CHRIS WILLIAMSON                                                   DIGIKEY ELECTRONICS\n          BYTECHS LLC                                                        701 BROOKS AVE. SOUTH\n          185 STAG DRIVE                                                     P.O. BOX 677\n          WILLISTON SC 29853                                                 THIEF RIVER FALLS MN 56701-0677\n          UNITED STATES OF AMERICA                                           UNITED STATES OF AMERICA\n\n    "
+  },
+  {
+   "receipt_uuid": "cddb3679-a1e7-4d62-ba3b-079afc62854b",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "4fcdd8c6-f537-483d-b21b-bc8c71bac8d0",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:24:32.584739Z",
+   "merchant": "Samtec",
+   "receipt_date": "2026-10-20",
+   "total_amount": "1295.49",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Samtec",
+    "merchant_address": null,
+    "transaction_date": "2026-10-20",
+    "total_amount": 1295.49,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Samtec Invoice 18438338 - PARTYHAT X5C - OCTOBER26",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 1295.49
+     }
+    ]
+   },
+   "ocr_excerpt": "VTECHS\nB\nLLC\nChris Williamson <sales@bytechsllc.com>\nYour Samtec, Inc. receipt [#1804-2771] 1 message\nSamtec, Inc. < receipts@samtec.com> Reply-To: \"Samtec, Inc.\" <eCustomerService@samtec.com> To: SALES@bytechsllc.com\nTue, Oct 20, 2026 at 4:20 AM\nsamtec\nReceipt from Samtec, Inc. Receipt # 1804-2771\nAMOUNT PAID DATE PAID $1,295.49 October 20, 2026 at 4:18:54 AM EDT VISA - 2311\nPAYMENT METHOD\nSUMMARY\nSamtec Invoice 18438338 - PARTYHAT X5C - OCTOBER26 $1,295.49\nAmount paid $1,295.49\nIf you have any questions, visit our support site at https://wwws.samtec.com/about-us/contact-us.aspx, contact us at eCustomerService@samtec.com, or call us at +1 800-726-8329.\nSomething wrong with the email? View it in your browser.\nYou're receiving this email because you made a purchase at Samtec, Inc., which uses Stripe to provide invoicing and payment processing."
+  },
+  {
+   "receipt_uuid": "e7aa7216-f583-4e40-9cf5-ea9ced161af8",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "437ad378-3e77-4fce-919e-e9e3936932f1",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:20:37.682781Z",
+   "merchant": null,
+   "receipt_date": "2026-10-08",
+   "total_amount": "1517.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": null,
+    "merchant_address": null,
+    "transaction_date": "2026-10-08",
+    "total_amount": 1517.0,
+    "subtotal": 2147.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": null,
+    "discounts": [
+     {
+      "discount_name": "Discount",
+      "discount_rate": null,
+      "discount_amount": 630.0
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "3D Print Services * 100",
+      "item_quantity": 100.0,
+      "item_unit_price": null,
+      "item_total_price": 2147.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Checkout\nThank you. Your order has been received.\nORDER NUMBER: 11609 DATE: October 8, 2026 EMAIL: chris@bytechsllc.com TOTAL: $1,517.00 PAYMENT METHOD: Visa ending in 2311\nOrder details\nProduct\nTotal\n3D Print Services * 100\n100 v3 Mounting Assembly Pieces: 100\n$2,147.00\nSubtotal:\n$2,147.00\nDiscount:\n-$630.00\nTax:\n$0.00\nTotal:\n$1,517.00\nPayment method:\nVisa ending in 2311\n"
+  },
+  {
+   "receipt_uuid": "761c280d-0d65-40af-b28b-484e9d537dac",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "80daf50d-fecc-4434-87f5-7184c1be463b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:37:37.860150Z",
+   "merchant": "Shenzhen LCSC Electronics Tech",
+   "receipt_date": "2026-10-13",
+   "total_amount": "1061.88",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Shenzhen LCSC Electronics Tech",
+    "merchant_address": "2nd Floor, Building 5 Doumen District,Zhufeng Blvd, Zhuhai, 519175, Guangdong, China",
+    "transaction_date": "2026-10-13",
+    "total_amount": 1061.88,
+    "subtotal": 1016.4,
+    "tip": null,
+    "taxes": null,
+    "fees": [
+     {
+      "fee_name": "Freight Cost",
+      "fee_amount": 45.48
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "22uF ±20% 35V Ceramic Capacitor X5R 0805",
+      "item_quantity": 6000.0,
+      "item_unit_price": 0.1694,
+      "item_total_price": 1016.4
+     }
+    ]
+   },
+   "ocr_excerpt": "0045\n\n\n\n    Order Type: B2C\n\n\n               Commo-     GST                Net         Referen        Unit       Sub\n    Item   Description      dity Code paid   Weight COO  ce Type  QTY   Value      Total\n                                                         & ID                      Value\n           22uF ±20% 35V\n           Ceramic Capacitor\n           X5R 0805        8532240                       C2012X   6,000 0.1694     1,016.4\n\n1                             020        252g CN           5R1V22 PCS   USD  USD\n     customer#：22U-                                        6MT000E\n     PartyHat-X5C\n\nTotal Goods Value:        1,016.4 USD      Total line items:            1\nFreight Cost:             45.48 USD        Number of Pallets:           1\nTotal Invoice Amount:     1,061.88 USD     Total units:                 6,000\nCurrency Code:            USD              Package Marks / Other Info:\nTerms of Trade:\nFCA\nPlace of Incoterm:\nReason for Export:        For Sale         Payer of GST / VAT:\nType of Export:           PERMANENT\nTotal Net Weight:         252 g\nTotal Gross Weight:       0.44 kg\n\n\n\n\n\n\nI/We hereby certify that the information contained in the invoice is true and correct and that the contents\nof this shipment are as stated above.\n\n\n\n\nName:        LCSC         Signature:                       Company Stamp\nPosition:\nDate of Signature: 2026-10-13 17:28:48"
+  },
+  {
+   "receipt_uuid": "14732280-d1ae-429a-be94-117e38aa52b6",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "ec237126-e538-4cf4-af6c-094f9f8c5d08",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:20:19.593999Z",
+   "merchant": "18650BatteryStore.com",
+   "receipt_date": "2026-09-29",
+   "total_amount": "1693.96",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "18650BatteryStore.com",
+    "merchant_address": null,
+    "transaction_date": "2026-09-29",
+    "total_amount": 1693.96,
+    "subtotal": 1580.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Taxes",
+      "tax_rate": null,
+      "tax_amount": 79.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 34.96
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "GET EACH ITEM FOR 3.95",
+      "discount_rate": null,
+      "discount_amount": 816.0
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Samsung 35E 18650 3500mAh 8A Battery × 400",
+      "item_quantity": 400.0,
+      "item_unit_price": 3.95,
+      "item_total_price": 1580.0
+     }
+    ]
+   },
+   "ocr_excerpt": "s been sent.\n\n\n    View your order\n\n    or Visit our store\n\n\n\n\nOrder summary\n\n        Samsung 35E 18650 3500mAh 8A Battery × 400 $2,396.00\n        GET EACH ITEM FOR 3.95 (-$816.00) $1,580.00\n\n\n    Subtotal     $1,580.00\n    Shipping        $34.96\n    Taxes           $79.00\n\n    Total    $1,693.96 USD\n         You saved $816.00\n\nCustomer information\n\nShipping address       Billing address\nChris Williamson       Chris Williamson\nBytechs LLC            AirGarage, Inc\n185 Stag Drive         564 Market Street\nWilliston SC 29853     San Francisco CA 94104\nUnited States          United States\n\n\nShipping method        Payment method\nUPS® Ground            ending with 2311\n\n\n\n\n\n\nIf you have any questions, reply to this email or contact us at\nsupport@18650batterystore.com"
+  },
+  {
+   "receipt_uuid": "26314a1d-21c3-48c4-acfd-f764491ec309",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "bf713626-01a6-40b2-bb32-fa541bae5899",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:58:02.164036Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "63.92",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 63.92,
+    "subtotal": 59.18,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Siraya Tech Flex TPU 85A 3D Print...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     },
+     {
+      "item_date": null,
+      "item_name": "Siraya Tech Flex TPU 85A 3D Print...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     }
+    ]
+   },
+   "ocr_excerpt": "C - On behalf of AirGarage, Inc\nOrder #\n‫112-5163032-9348251\nView or edit order\nSiraya Tech Flex TPU 85A 3D Print...\nQuantity: 1\n$\n29\n59\nSiraya Tech Flex TPU 85A 3D Print...\nQuantity: 1\n$\n29\n59\nGrand Total:\n$63.92\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  }
+ ]
+}

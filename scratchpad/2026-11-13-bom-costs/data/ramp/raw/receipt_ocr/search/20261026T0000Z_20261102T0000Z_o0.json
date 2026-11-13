@@ -1,0 +1,565 @@
+{
+ "query": {
+  "window": [
+   "2026-10-26T00:00:00Z",
+   "2026-11-02T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:57.391Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "c7408480-5151-4db1-8859-878e2e43aefc",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "c0dcfac1-144b-4842-ad37-afd3118db3c8",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T16:18:19.796769Z",
+   "merchant": "Polymaker",
+   "receipt_date": "2026-10-30",
+   "total_amount": "1107.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Polymaker",
+    "merchant_address": "12515 Citypark Dr suite 300, Missouri City, TX, 77489, United States",
+    "transaction_date": "2026-10-30",
+    "total_amount": 1107.0,
+    "subtotal": 900.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Aiken Co Cp 1.0%",
+      "tax_rate": 1.0,
+      "tax_amount": 10.25
+     },
+     {
+      "tax_name": "Aiken Co Education Capital Improvement VAT % Sd 1.0%",
+      "tax_rate": 1.0,
+      "tax_amount": 10.25
+     },
+     {
+      "tax_name": "South Carolina State VAT % 6.0%",
+      "tax_rate": 6.0,
+      "tax_amount": 61.5
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 125.0
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "10% CasePack Discount",
+      "discount_rate": 10.0,
+      "discount_amount": -99.5
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Polymaker™ ASA 1.75mm / 1kg / Black",
+      "item_quantity": 50.0,
+      "item_unit_price": 18.0,
+      "item_total_price": 900.0
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                       Receipt / Tax Invoice #3927\n                                                                      Oct 30, 2026\n\n    SHIPPING ADDRESS                 CUSTOMER                       PAYMENT METHOD\n    185 Stag Drive                   185 Stag Drive                    Visa (2311)\n    Williston, SC 29853              Williston, SC 29853\n    United States                    United States                 SHIPPING METHOD\n                                                    Standard Parcel or LTL Freight\n    Tel. +17064956570                Tel. +17064956570\n\n    ITEMS                                          PRICE    QTY         ITEM TOTAL\n\n             Polymaker™ ASA                       $19.99\n             1.75mm / 1kg / Black                 $18.00     50            $900.00\n             SKU: PF01001\n\n\n    NOTES     OMS Order Link:                                       Discount\n              https://usws.oms.polymaker.com/oms/orders?        10% CasePack    -$99.50\n              orderId=775&detailTab=info&orderName=%233927          Discount\n\n                                                                    Subtotal    $900.00\n\n                                                                    Shipping    $125.00\n\n                                                                 Aiken Co Cp     $10.25\n                                                                        1.0%\n\n                                                                    Aiken Co\n                                                                   Education\n                                                                     Capital     $10.25\n                                                                 Improvement\n                                                               VAT % Sd 1.0%\n\n                                                              South Carolina\n                                                                 State VAT "
+  },
+  {
+   "receipt_uuid": "761c280d-0d65-40af-b28b-484e9d537dac",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "80daf50d-fecc-4434-87f5-7184c1be463b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:37:37.860150Z",
+   "merchant": "Shenzhen LCSC Electronics Tech",
+   "receipt_date": "2026-10-13",
+   "total_amount": "1061.88",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Shenzhen LCSC Electronics Tech",
+    "merchant_address": "2nd Floor, Building 5 Doumen District,Zhufeng Blvd, Zhuhai, 519175, Guangdong, China",
+    "transaction_date": "2026-10-13",
+    "total_amount": 1061.88,
+    "subtotal": 1016.4,
+    "tip": null,
+    "taxes": null,
+    "fees": [
+     {
+      "fee_name": "Freight Cost",
+      "fee_amount": 45.48
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "22uF ±20% 35V Ceramic Capacitor X5R 0805",
+      "item_quantity": 6000.0,
+      "item_unit_price": 0.1694,
+      "item_total_price": 1016.4
+     }
+    ]
+   },
+   "ocr_excerpt": "    Commercial Invoice\n\nAWB No: 2394021792 Invoice Date: 2026-10-13 17:28:48 Invoice No: WL2610130089\n\n    SHIP FROM:                                        SHIP TO:\n    Shenzhen LCSC Electronics Tech                    Chris Williamson\n    LCSC                                              , 185 Stag Dr\n    2nd Floor, Building 5 Doumen District,Zhufeng Blvd\n                                                      Williston, 29853\n    Zhuhai, 519175                                    South Carolina\n    Guangdong                                         United States\n    China                                             706****570\n    75583233027                                       n****@gmail.com\n\n    Trader Type: Business                             Trader Type:Business\n    VAT No:91440300MA5EDMX26A                         VAT No:\n    EORI:                                             EORI:\n    TAX ID:\n\n    EXPORTER:                                         SOLD TO:\n    LCSC ELECTRONICS TECHNOLOGY (HK) LIMITED          Christopher Williamson\n    Sean Chan                                         , 185 Stag Dr\n    FTB1 2/F GOLD KING IND. BLDG. NOS.35/41 TAI\n    LIN PAI ROAD                                      Williston, 29853\n                                                      South Carolina\n    KWAI CHUNG, 999077                                United States\n    Hong Kong                                         706****570\n    Hong Kong,China                                   n****@gmail.com\n    85236112905\n                                                      Trader Type:Business\n    Trader Type:Business                              EORI:\n    VAT No:67614729\n    EORI:\n    TAX ID:\n\n    Shipper Reference: WL2610130089-2764929A\n    Receiver Reference:\n\n    Remarks: WM2610130045\n\n\n\n    Order Type: B2C\n\n\n               Commo-     GST                Net         Referen        Unit       Sub\n    Item   Description      dity Code paid   Weight COO  ce Type  QTY   Value      To"
+  },
+  {
+   "receipt_uuid": "28654ce8-ebf9-4732-9a67-95a2d97822f1",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "dd1f0fe1-969f-42db-84d7-fcef0df3cee4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T16:38:21.379030Z",
+   "merchant": "Pololu Corporation",
+   "receipt_date": "2026-10-12",
+   "total_amount": "193.95",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pololu Corporation",
+    "merchant_address": "920 Pilot Rd, Las Vegas, NV 89119, USA",
+    "transaction_date": "2026-10-12",
+    "total_amount": 193.95,
+    "subtotal": 181.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "S & H",
+      "fee_amount": 12.95
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "JST PH-Style Cable, 4-Pin, Female-Female, 10cm",
+      "item_quantity": 100.0,
+      "item_unit_price": 1.81,
+      "item_total_price": 181.0
+     }
+    ]
+   },
+   "ocr_excerpt": "         Pololu Corporation                                                                                                        Salesorder 1J601001\n         920 Pilot Rd                                                                                                                 Invoice 1J629831\n         Las Vegas, NV 89119                                                                                                  Ship on: 12 October 2026\n         https://www.pololu.com/\n         1-702-262-6648                                                                                                                    Page 1 of 1\nOrdered By:             customer 1J386156      Ship To:                        customer 1J386156      Bill To:                  customer 1J386156\n\nChris Williamson                               Chris Williamson                                       Chris Williamson\nBytechs LLC                                    Bytechs LLC                                            AirGarage, Inc\n185 STAG DR                                    185 STAG DR                                            564 Market St\nWilliston, SC 29853-4829                       Williston, SC 29853-4829                               San Francisco, CA 94104\nUSA                                            USA                                                    USA\n\n7064956570                                     7064956570                                             7064956570\nsales@bytechsllc.com                           sales@bytechsllc.com                                   sales@bytechsllc.com\nOrder Date     Customer Purchase Order          Other Reference Numbers        Customer Tax ID                    Payment Terms\n12 Oct 2026    AG-ByT-LCD        Web order #1238899                                                               Visa ending in 2311\nShip Via FedEx 2Day                                             Shipping Terms Included in invoice                Sales Rep N/A; web "
+  },
+  {
+   "receipt_uuid": "f3be5ec4-39e3-4510-9f8f-0973b9e9ae82",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "1f18a06d-aa65-4770-a92b-e27a7fb7a548",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-29T21:53:17.349738Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-10-29",
+   "total_amount": "31.16",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-10-29",
+    "total_amount": 31.16,
+    "subtotal": 29.59,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.57
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-4967895-3696257\n    Order Placed: October 29, 2026\n    Amazon.com order number: 112-4967895-3696257\n    Order Total: USD 31.16\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                      Price\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    Shipping Address:                                                                                            Item(s) Subtotal:    $29.59\n    Ben Ward                                                                                                  Shipping & Handling:     $0.00\n    611 MOLLYS WAY\n    SALUDA, VA 23149-2578                                                                                                              -----\n    United States                                                                                                Total before tax:    $29.59\n                                                                                                                        Sales Tax:     $1.57\n    Shipping Speed:                                                                                                                    -----\n    FREE Prime Delivery                                                                                   Total for This Shipment:    $31.16\n                                                                                                                                       -----\n\n        Payment information\n    Payment Method:                                                                                           "
+  },
+  {
+   "receipt_uuid": "9986ceb3-e587-42b5-a2a9-495e46a6c27f",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "4f057d10-3e35-4b60-8af2-c6156c61543a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-29T21:07:17.389153Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-29",
+   "total_amount": "32.18",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-29",
+    "total_amount": 32.18,
+    "subtotal": 29.59,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 2.59
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-0377427-5633807\n    Order Placed: October 29, 2026\n    Amazon.com order number: 112-0377427-5633807\n    Order Total: USD 32.18\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                      Price\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    Shipping Address:                                                                                            Item(s) Subtotal:    $29.59\n    Bryan Monti                                                                                               Shipping & Handling:     $0.00\n    32 PROVINCE DR\n    SOUTH SETAUKET, NY 11720-4616                                                                                                      -----\n    United States                                                                                                Total before tax:    $29.59\n                                                                                                                        Sales Tax:     $2.59\n    Shipping Speed:                                                                                                                    -----\n    FREE Prime Delivery                                                                                   Total for This Shipment:    $32.18\n                                                                                                                                       -----\n\n        Payment information\n    Payment Method:                                                                                           "
+  },
+  {
+   "receipt_uuid": "811c2982-4af7-4f4b-a586-6eefbea3d01d",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "97746695-dc22-4498-9b4b-86798d9f5e2f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-28T09:14:16.356134Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-21",
+   "total_amount": "15.21",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-21",
+    "total_amount": 15.21,
+    "subtotal": 13.99,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.22
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Fujifilm Prescale Sample Pack - Super Low LLW (2LW) - Surface Pressure Mapping - Pressure Indicating Film - Tactile Sens or - Pressure Range 70-350 PSI; 3 in. x 4 in. Sheets",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 13.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-8850497-9815451\n    Order Placed: October 21, 2026\n    Amazon.com order number: 114-8850497-9815451\n    Order Total: USD 15.21\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                        Price\n    1 of: Fujifilm Prescale Sample Pack - Super Low LLW (2LW) - Surface Pressure Mapping - Pressure Indicating Film - Tactile Sens      $13.99\n    or - Pressure Range 70-350 PSI; 3 in. x 4 in. Sheets\n    Sold by and invoiced on behalf of: Sensor Products, Inc. (seller profile)\n    Seller Credentials: 889 Certification, Registered Small Business, Classified Small Business - SBA Standard\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                              Item(s) Subtotal:    $13.99\n    Bryan Monti                                                                                                 Shipping & Handling:     $0.00\n    32 PROVINCE DR                                                                                                                       -----\n    CENTEREACH, NY 11720-4616\n    United States                                                                                                  Total before tax:    $13.99\n                                                                                                                          Sales Tax:     $1.22\n    Shipping Speed:                                                                                                                      -----\n    FREE Prime Delivery                                                                                     Total for This Shipment:    $15.21\n                                                                                                                                         -----\n\n        Payment information\n    Payment Method:                       "
+  },
+  {
+   "receipt_uuid": "9dd00f7a-0f58-4252-abd6-3f96481e0e86",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "bf713626-01a6-40b2-bb32-fa541bae5899",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T18:14:27.504800Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-30",
+   "total_amount": "63.92",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-30",
+    "total_amount": 63.92,
+    "subtotal": 59.18,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 4.74
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Black, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 29.59
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-5163032-9348251\n    Order Placed: October 30, 2026\n    Amazon.com order number: 112-5163032-9348251\n    Order Total: USD 63.92\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                      Price\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Black, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    1 of: Siraya Tech Flex TPU 85A 3D Printer Filament, ISO 10993 Tested, Green, 1kg | High Flexibility & Toughness, High Flow        $29.59\n    & Speed, Moisture-Resistant Aluminum Bag, for Footwear, Protective Gear\n    Sold by and invoiced on behalf of: Siraya Tech (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Condition: New\n\n    Shipping Address:                                                                                            Item(s) Subtotal:    $59.18\n    Chris Williamson                                                                                          Shipping & Handling:     $0.00\n    185 STAG DR                                                                                                                        -----\n    WILLISTON, SC 29853-4829\n    United States                                                                                                Total before tax:    $59.18\n                                                                                                                        Sales Tax:     $4.74\n    Shipping Speed:                                                                                                                    -----\n    FREE Prime Deliver"
+  },
+  {
+   "receipt_uuid": "987d6283-0b5a-4aa1-862e-c9f4273eee2f",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "59768d20-68df-4be6-b5b8-dc3aec3fa575",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T14:14:45.977158Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-10-15",
+   "total_amount": "2828.14",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-10-15",
+    "total_amount": 2828.14,
+    "subtotal": 2610.79,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 208.86
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 8.49
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "REFLECTOR HARD PLASTIC FOR PHOTO",
+      "item_quantity": 100.0,
+      "item_unit_price": 26.1079,
+      "item_total_price": 2610.79
+     }
+    ]
+   },
+   "ocr_excerpt": "                       www.digikey.com\n                           PO Box 677                                                                                                                            Invoice # 134573629\n                           Thief River Falls, MN 56701-0677\n                           USA                                                                                                                            Completed Salesorder USD $\n\n          CHRIS WILLIAMSON                                                  CHRIS WILLIAMSON                                Purchase Order:            AIRGARAGE-REFLECTORS\n          AIRGARAGE INC                                                     BYTECHS LLC                                     Salesorder / Packlist:     102272487 / PL1\n          2261 MARKET STREET                                                185 STAG DRIVE                                  Customer:                  12230777\n          #4027                                                             WILLISTON SC 29853-0000                         Payment Terms:             VISA / 2311\n          SAN FRANCISCO CA 94114-0000                                       UNITED STATES OF AMERICA                        Ref #:                     AIRGARAGE-REFLECTORS\n          UNITED STATES OF AMERICA                                                                                          Shipping Method:           XGT\n                                                                                                                            Tracking #:                547847750896\n          CHRIS WILLIAMSON                                                  DIGIKEY ELECTRONICS\n          BYTECHS LLC                                                       701 BROOKS AVE. SOUTH\n          185 STAG DRIVE                                                    P.O. BOX 677\n          WILLISTON SC 29853                                                THIEF RIVER FALLS MN 56701"
+  },
+  {
+   "receipt_uuid": "a6328869-8135-47b0-9a3a-f2108e96fa8c",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "780d94b3-790b-4749-b577-766b9b67366c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T16:37:46.408327Z",
+   "merchant": "Mouser Electronics",
+   "receipt_date": "2026-09-18",
+   "total_amount": "222.99",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics",
+    "merchant_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "transaction_date": "2026-09-18",
+    "total_amount": 222.99,
+    "subtotal": 129.6,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "TAX",
+      "tax_rate": null,
+      "tax_amount": 14.3
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Handling",
+      "fee_amount": 0.0
+     },
+     {
+      "fee_name": "Freight",
+      "fee_amount": 29.89
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "640-512A0030A4064T",
+      "item_quantity": 150.0,
+      "item_unit_price": 0.864,
+      "item_total_price": 129.6
+     },
+     {
+      "item_date": null,
+      "item_name": "Tariff",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 49.2
+     }
+    ]
+   },
+   "ocr_excerpt": "                    Invoice - Credit Card Receipt\n\n                                                      Invoice No.        Invoice Date  Page No.\n    1000 North Main Street, Mansfield, TX 76063, USA\n    Customer Service Rep: Internet Customer Service    92606767            18-SEP-26    1 of 1\n    Customer Service: 800-346-6873\n    Credit: 800-333-9924                                  Purchase Order No.        Master Tracker No.\n    Federal ID# 61-1520598\n                    INCOTERMS: FCA Shipping Point         40512190        544282869974\n\n                Contact Name    Ship Via                  Customer Number    Terms    Order Date\n\nCHRISTOPHER WILLIAMSON        FEDX PRIORITY             61737A5             VI 2311    18-SEP-26\n\n                BYTECHS LLC                               BYTECHS LLC\n    Bill To     ATTN: CHRIS WILLIAMSON        Ship To     ATTN: CHRIS WILLIAMSON\n                116 TIMMERMAN ST                          185 STAG DR\n                WARRENVILLE, SOUTH CAROLINA 29851         WILLISTON, SOUTH CAROLINA 29853\n                UNITED STATES                             UNITED STATES\n\n\n\n\n             Mouser Part Number                                   Quantity   Quantity   Quantity  Unit Price(USD)  Extended\nLine No.    Customer/MFG Part No.\n                 Description                                      Ordered    Shipped    Pending                   Price(USD)\n\n    1       640-512A0030A4064T                                    150        150            0               0.864     129.60\n            MFG Part No: 05-12-A-0030-A-4-06-4-T\n            GCT 0.5mmP. FlatFlexCble / FFC / FPC Jumper Cables                                             Tariff      49.20\n            US HTS:8544492000 ECCN:EAR99 COO:CN ACO:-- COD:--\n\n\n\n\n\n\n\n\n\n\n    Merchandise    Handling    Freight                                                  TAX    Tariff\n\n                   129.60      0.00                               29.89                     14.30    49.20\n    "
+  },
+  {
+   "receipt_uuid": "a6367757-acfc-4e8a-be45-6c5c2082c52e",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "189abfdb-4c46-4f78-8bc1-255c5bd049c9",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-26T20:08:17.663283Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-26",
+   "total_amount": "174.74",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-26",
+    "total_amount": 174.74,
+    "subtotal": 165.94,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 8.8
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "2 of: Anker Nano USB C to USB C Cable, 240W Fast Charging Cable (Black, 10ft) | Flexible Multi-Color Braided Charger for iPhone e 18 / 17 Series, MacBook Pro, and More",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 22.98
+     },
+     {
+      "item_date": null,
+      "item_name": "2 of: UGREEN Nexode Pro Charger, 160W GaN 5-Port Fast USB C Wall Charger Block, Type-C Charging with Smart Display & Touch Control Compatible for MacBook Pro/Air, iPhone 17/16 Series, iPad, Galaxy",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 59.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-0755393-5349863\n    Order Placed: October 26, 2026\n    Amazon.com order number: 112-0755393-5349863\n    Order Total: USD 174.74\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                    Price\n    2 of: Anker Nano USB C to USB C Cable, 240W Fast Charging Cable (Black, 10ft) | Flexible Multi-Color Braided Charger for iPhon  $22.98\n    e 18 / 17 Series, MacBook Pro, and More\n    Sold by and invoiced on behalf of: AnkerDirect (seller profile)\n    Seller Credentials: ISO 9001:2015 - Quality Management Systems - Requirements\n    Business Price\n    Condition: New\n\n    2 of: UGREEN Nexode Pro Charger, 160W GaN 5-Port Fast USB C Wall Charger Block, Type-C Charging with Smart Display &            $59.99\n    Touch\n    Control Compatible for MacBook Pro/Air, iPhone 17/16 Series, iPad, Galaxy\n    Sold by and invoiced on behalf of: UGREEN GROUP LIMITED (seller profile)\n    Seller Credentials: ISO 9001\n    Condition: New\n\n    Shipping Address:                                                                                            Item(s) Subtotal: $165.94\n    Ben Ward        Shipping & Handling:                                                                                             $0.00\n    611 MOLLYS WAY                                                                                                                   -----\n    SALUDA, VA 23149-2578\n    United States                                                                                                Total before tax: $165.94\n        Sales Tax:                                                                                                                   $8.80\n    Shipping Speed:                                                                                                                  -----\n    FREE Prime Delivery                                                                "
+  },
+  {
+   "receipt_uuid": "e17e5fed-2e47-44bb-a6e1-147b5e6b1954",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "c31ce24b-a2f2-4dcc-be5d-fd22e92d63a4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-30T16:20:17.886343Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-10-28",
+   "total_amount": "467.23",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-10-28",
+    "total_amount": 467.23,
+    "subtotal": 433.66,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 33.57
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 13.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "211-GPVOUS-0.100-01-0816-ND",
+      "item_quantity": 1.0,
+      "item_unit_price": 62.83,
+      "item_total_price": 62.83
+     },
+     {
+      "item_date": null,
+      "item_name": "364-1282-ND",
+      "item_quantity": 25.0,
+      "item_unit_price": 13.5552,
+      "item_total_price": 338.88
+     },
+     {
+      "item_date": null,
+      "item_name": "4627-P0101E-ND",
+      "item_quantity": 25.0,
+      "item_unit_price": 0.7184,
+      "item_total_price": 17.96
+     }
+    ]
+   },
+   "ocr_excerpt": "                     www.digikey.com\n                           PO Box 677                                                                                                                              Invoice # 135364645\n                           Thief River Falls, MN 56701-0677\n                           USA                                                                                                                              Completed Salesorder USD $\n\n          CHRIS WILLIAMSON                                                  CHRIS WILLIAMSON                                Salesorder / Packlist:       102553000 / PL1\n          AIRGARAGE INC                                                     BYTECHS LLC                                     Customer:                    12230777\n          2261 MARKET STREET                                                185 STAG DRIVE                                  Payment Terms:               VISA / 2311\n          #4027                                                             WILLISTON SC 29853-0000                         Ref #:                       SA # 102553000\n          SAN FRANCISCO CA 94114-0000                                       UNITED STATES OF AMERICA                        Shipping Method:             XECO\n          UNITED STATES OF AMERICA                                                                                          Tracking #:                  549379739933\n\n          CHRIS WILLIAMSON                                                  DIGIKEY ELECTRONICS\n          BYTECHS LLC                                                       701 BROOKS AVE. SOUTH\n          185 STAG DRIVE                                                    P.O. BOX 677\n          WILLISTON SC 29853                                                THIEF RIVER FALLS MN 56701-0677\n          UNITED STATES OF AMERICA                                          UNITED STATES OF AMERICA\n\n          Order Source:         Order Date:           "
+  }
+ ]
+}

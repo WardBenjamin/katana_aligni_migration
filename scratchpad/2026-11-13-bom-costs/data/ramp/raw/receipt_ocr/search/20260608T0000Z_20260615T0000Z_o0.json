@@ -1,0 +1,71 @@
+{
+ "query": {
+  "window": [
+   "2026-06-08T00:00:00Z",
+   "2026-06-15T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:52:24.805Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "1f9f3166-e575-4fcf-aa35-421576ed25c3",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "1494d1e3-1db7-4d1e-bde7-06afdd899953",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-11T20:41:41.254061Z",
+   "merchant": "Pololu Corporation",
+   "receipt_date": "2026-06-11",
+   "total_amount": "193.95",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pololu Corporation",
+    "merchant_address": "920 Pilot Rd Las Vegas, NV 89119",
+    "transaction_date": "2026-06-11",
+    "total_amount": 193.95,
+    "subtotal": 181.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": 0.0,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "S & H",
+      "fee_amount": 12.95
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "JST PH-Style Cable, 4-Pin, Female-Female, 10cm",
+      "item_quantity": 100.0,
+      "item_unit_price": 1.81,
+      "item_total_price": 181.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Pololu Corporation 920 Pilot Rd Las Vegas, NV 89119 https://www.pololu.com/ Pololu 1-702-262-6648\nSalesorder 1J588453 Invoice 1J616616 Ship on: 11 June 2026\nPage 1 of 1\nOrdered By:\ncustomer 1J386156\nChris Williamson\nBytechs LLC\n185 STAG DR\nWilliston, SC 29853-4829\nUSA\n7064956570 sales@bytechsllc.com\nShip To:\nChris Williamson\nBytechs LLC\n185 STAG DR\nWilliston, SC 29853-4829\nUSA\ncustomer 1J386156\n7064956570 sales@bytechsllc.com\nBill To:\nChris Williamson\nAirGarage, Inc\n564 Market St\nSan Francisco, CA 94104\nUSA\ncustomer 1J386156\n7064956570\nsales@bytechsllc.com\nOrder Date\nCustomer Purchase Order\nOther Reference Numbers Web order #1199711\nCustomer Tax ID\nPayment Terms\n11 Jun 2026\nVisa ending in 2311\nShip Via FedEx 2Day\nShipping Terms Included in invoice\nSales Rep N/A; web order\n| Order Line | Ordered | Item Number | Item Description | Shipped | Back Order | Unit Price US$ | Extended Price |\n| 1 | 100 | 5623 | JST PH-Style Cable, 4-Pin, Female-Female, 10cm | 100 | 0 | 1.81 | 181.00 |\nNotes:\n1. We collect sales tax for some US states. The customer is responsible for any other local sales or use taxes. 2. All international duties and taxes are the responsibility of the customer.\n3. This order is subject to Pololu standard terms and conditions. Any other conditions, e.g. fine print on customer PO, are not accepted unless expressly agreed to in writing by an authorized Pololu representative.\n| Subtotal: | 181.00 |\n| S & H: | 12.95 |\n| Tax: | 0.00 |\n| Total: | $193.95 |\n| Amount paid: | |\n| 11 Jun 2026: Visa ending in 2311 | $193.95 |\n| Amount due: | $0.00 |"
+  }
+ ]
+}

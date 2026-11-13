@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-09-16T17:35:22Z",
+   "2025-09-16T19:35:22Z"
+  ],
+  "keywords": [
+   "Mouser",
+   "Mouser Electronics",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

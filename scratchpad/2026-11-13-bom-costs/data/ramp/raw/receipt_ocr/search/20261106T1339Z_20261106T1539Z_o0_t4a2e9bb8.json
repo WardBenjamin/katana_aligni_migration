@@ -1,0 +1,475 @@
+{
+ "query": {
+  "window": [
+   "2026-11-06T13:39:00Z",
+   "2026-11-06T15:39:00Z"
+  ],
+  "keywords": [
+   "McMaster",
+   "McMaster-Carr",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:42.420Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "4a2e9bb8-9fb8-4a39-9f15-ef8fee64af23",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "e01094cb-0ccb-499d-a886-a3de758caa2b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-06T14:39:05.597965Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-11-05",
+   "total_amount": "461.4",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-11-05",
+    "total_amount": 461.4,
+    "subtotal": 413.43,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 21.91
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 26.06
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "90292A098 High-Strength 17-4 PH Stainless Steel Shoulder Screw, 1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread",
+      "item_quantity": 3.0,
+      "item_unit_price": 7.75,
+      "item_total_price": 23.25
+     },
+     {
+      "item_date": null,
+      "item_name": "90298A537 18-8 Stainless Steel Shoulder Screw, Passivated, 1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.8,
+      "item_total_price": 11.4
+     },
+     {
+      "item_date": null,
+      "item_name": "97832A336 18-8 Stainless Steel Shoulder Screw, 5/16\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread Size",
+      "item_quantity": 3.0,
+      "item_unit_price": 9.56,
+      "item_total_price": 28.68
+     },
+     {
+      "item_date": null,
+      "item_name": "90298A214 18-8 Stainless Steel Shoulder Screw with Passivated Finish, 3/16\" Shoulder Diameter, 1/2\" Shoulder Length",
+      "item_quantity": 3.0,
+      "item_unit_price": 4.1,
+      "item_total_price": 12.3
+     },
+     {
+      "item_date": null,
+      "item_name": "90292A076 High-Strength 17-4 PH Stainless Steel Shoulder Screw, 3/16\" Shoulder Diameter, 1/2\" Shoulder Length, 8-32 Thread",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.89,
+      "item_total_price": 17.67
+     },
+     {
+      "item_date": null,
+      "item_name": "90298A211 18-8 Stainless Steel Shoulder Screw with Passivated Finish, 5/32\" Shoulder Diameter, 1/2\" Shoulder Length",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.95,
+      "item_total_price": 11.85
+     },
+     {
+      "item_date": null,
+      "item_name": "90292A050 High-Strength 17-4 PH Stainless Steel Shoulder Screw, 5/32\" Shoulder Diameter, 1/2\" Shoulder Length, 6-32 Thread",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.64,
+      "item_total_price": 16.92
+     },
+     {
+      "item_date": null,
+      "item_name": "90298A205 18-8 Stainless Steel Shoulder Screw with Passivated Finish, 1/8\" Shoulder Diameter, 1/2\" Shoulder Length",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.76,
+      "item_total_price": 11.28
+     },
+     {
+      "item_date": null,
+      "item_name": "90292A024 High-Strength 17-4 PH Stainless Steel Shoulder Screw, 1/8\" Shoulder Diameter, 1/2\" Shoulder Length, 4-40 Thread",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.4,
+      "item_total_price": 16.2
+     },
+     {
+      "item_date": null,
+      "item_name": "98201A112 18-8 Stainless Steel Flanged Socket Head Screw, 8-32 Thread Size, 9/16\" Long",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.34,
+      "item_total_price": 10.02
+     },
+     {
+      "item_date": null,
+      "item_name": "98201A113 18-8 Stainless Steel Flanged Socket Head Screw, 8-32 Thread Size, 11/16\" Long",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.37,
+      "item_total_price": 10.11
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A444 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 4-40 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.99,
+      "item_total_price": 9.99
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A442 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 2-56 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 15.43,
+      "item_total_price": 15.43
+     },
+     {
+      "item_date": null,
+      "item_name": "90696A157 18-8 Stainless Steel Socket Head Screw, 1-72 Thread Size, 1\" Long, Partially Threaded, packs of 50",
+      "item_quantity": 1.0,
+      "item_unit_price": 6.3,
+      "item_total_price": 6.3
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A462 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 1-72 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 18.4,
+      "item_total_price": 18.4
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A461 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 0-80 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 20.2,
+      "item_total_price": 20.2
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A446 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 6-32 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A447 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 8-32 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A448 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 10-24 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A469 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 10-32 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "2523A411 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 1/4\"-20 Thread Size",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "8302A31 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, M1.6 x 0.35 mm Thread Size, 5/16\" Thread Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 37.7,
+      "item_total_price": 37.7
+     },
+     {
+      "item_date": null,
+      "item_name": "8302A32 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, M2 x 0.4 mm Thread Size, 7/16\" Thread Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 24.18,
+      "item_total_price": 24.18
+     },
+     {
+      "item_date": null,
+      "item_name": "8302A11 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, M2.5 x 0.45 mm Thread Size, 1/2\" Thread Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.32,
+      "item_total_price": 17.32
+     },
+     {
+      "item_date": null,
+      "item_name": "8302A12 High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, M3 x 0.5 mm Thread Size, 5/8\" Thread Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 12.49,
+      "item_total_price": 12.49
+     },
+     {
+      "item_date": null,
+      "item_name": "2546A23 Tap Wrench with Fixed T-Handle, 3-1/2\" Long",
+      "item_quantity": 1.0,
+      "item_unit_price": 30.63,
+      "item_total_price": 30.63
+     },
+     {
+      "item_date": null,
+      "item_name": "92196A060 18-8 Stainless Steel Socket Head Screw, US Origin, 0-80 Thread Size, 1\" Long, packs of 25",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.01,
+      "item_total_price": 9.01
+     }
+    ]
+   },
+   "ocr_excerpt": "    Order Confirmation\n609-689-3000\n609-689-3280 (fax)\nnj.sales@mcmaster.com\n\nShip to        Purchase Order         Order Date\nAirgarage, Inc.        AIRGARAGE      11/5/26\n611 Mollys Way\nSaluda VA 23149        Ordered By     McMaster-Carr Number\n    Benjamin Ward                     8385628\n\nAttention McMaster-Carr\n\n\nLine               Product                                        Ordered     Delivers    Price         Total\n\n1       90292A098 High-Strength 17-4 PH Stainless Steel Shoulder        3     1 Nov 9          7.75     23.25\n                   Screw, 1/4\" Shoulder Diameter, 1/2\" Shoulder      each     2 Nov 10         each\n                   Length, 10-24 Thread\n\n2       90298A537 18-8 Stainless Steel Shoulder Screw, Passivated,      3     Nov 9            3.80     11.40\n                   1/4\" Shoulder Diameter, 1/2\" Shoulder Length,     each                      each\n                   10-24 Thread\n\n3       97832A336 18-8 Stainless Steel Shoulder Screw, 5/16\"            3     Nov 9            9.56     28.68\n                   Shoulder Diameter, 1/2\" Shoulder Length, 10-24    each                      each\n                   Thread Size\n\n4       90298A214 18-8 Stainless Steel Shoulder Screw with              3     Nov 9            4.10     12.30\n                   Passivated Finish, 3/16\" Shoulder Diameter, 1/2\"  each                      each\n                   Shoulder Length\n\n5       90292A076 High-Strength 17-4 PH Stainless Steel Shoulder        3     Nov 9            5.89     17.67\n                   Screw, 3/16\" Shoulder Diameter, 1/2\" Shoulder     each                      each\n                   Length, 8-32 Thread\n\n6       90298A211  18-8 Stainless Steel Shoulder Screw with             3     Nov 9            3.95     11.85\n                   Passivated Finish, 5/32\" Shoulder Diameter, 1/2\"  each                      each\n                   Shoulder Length\n\n7       90292A050 High-Strength 17-4 PH Stainless Steel Shoulder        3     Nov 9        "
+  },
+  {
+   "receipt_uuid": "d879b23f-ebba-44f0-b09f-b4158c7f86f6",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "e01094cb-0ccb-499d-a886-a3de758caa2b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-06T14:39:05.927954Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-11-05",
+   "total_amount": "461.39",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-11-05",
+    "total_amount": 461.39,
+    "subtotal": 413.43,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 21.91
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 26.06
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "High-Strength 17-4 PH Stainless Steel Shoulder Screw 1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread 90292A098",
+      "item_quantity": 3.0,
+      "item_unit_price": 7.75,
+      "item_total_price": 23.25
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Shoulder Screw Passivated, 1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread 90298A537",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.8,
+      "item_total_price": 11.4
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Shoulder Screw 5/16\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread Size 97832A336",
+      "item_quantity": 3.0,
+      "item_unit_price": 9.56,
+      "item_total_price": 28.68
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Shoulder Screw with Passivated Finish, 3/16\" Shoulder Diameter, 1/2\" Shoulder Length 90298A214",
+      "item_quantity": 3.0,
+      "item_unit_price": 4.1,
+      "item_total_price": 12.3
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Strength 17-4 PH Stainless Steel Shoulder Screw 3/16\" Shoulder Diameter, 1/2\" Shoulder Length, 8-32 Thread 90292A076",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.89,
+      "item_total_price": 17.67
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Shoulder Screw with Passivated Finish, 5/32\" Shoulder Diameter, 1/2\" Shoulder Length 90298A211",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.95,
+      "item_total_price": 11.85
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Strength 17-4 PH Stainless Steel Shoulder Screw 5/32\" Shoulder Diameter, 1/2\" Shoulder Length, 6-32 Thread 90292A050",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.64,
+      "item_total_price": 16.92
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Shoulder Screw with Passivated Finish, 1/8\" Shoulder Diameter, 1/2\" Shoulder Length 90298A205",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.76,
+      "item_total_price": 11.28
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Strength 17-4 PH Stainless Steel Shoulder Screw 1/8\" Shoulder Diameter, 1/2\" Shoulder Length, 4-40 Thread 90292A024",
+      "item_quantity": 3.0,
+      "item_unit_price": 5.4,
+      "item_total_price": 16.2
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Flanged Socket Head Screw 8-32 Thread Size, 9/16\" Long 98201A112",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.34,
+      "item_total_price": 10.02
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Flanged Socket Head Screw 8-32 Thread Size, 11/16\" Long 98201A113",
+      "item_quantity": 3.0,
+      "item_unit_price": 3.37,
+      "item_total_price": 10.11
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 4-40 Thread Size 2523A444",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.99,
+      "item_total_price": 9.99
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 2-56 Thread Size 2523A442",
+      "item_quantity": 1.0,
+      "item_unit_price": 15.43,
+      "item_total_price": 15.43
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Socket Head Screw 1-72 Thread Size, 1\" Long, Partially Threaded 90696A157",
+      "item_quantity": 1.0,
+      "item_unit_price": 6.3,
+      "item_total_price": 6.3
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 1-72 Thread Size 2523A462",
+      "item_quantity": 1.0,
+      "item_unit_price": 18.4,
+      "item_total_price": 18.4
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 0-80 Thread Size 2523A461",
+      "item_quantity": 1.0,
+      "item_unit_price": 20.2,
+      "item_total_price": 20.2
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 6-32 Thread Size 2523A446",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 8-32 Thread Size 2523A447",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 10-24 Thread Size 2523A448",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 10-32 Thread Size 2523A469",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes, Uncoated, 1/4\"-20 Thread Size 2523A411",
+      "item_quantity": 1.0,
+      "item_unit_price": 8.42,
+      "item_total_price": 8.42
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes Uncoated, M1.6 x 0.35 mm Thread Size, 5/16\" Thread Length 8302A31",
+      "item_quantity": 1.0,
+      "item_unit_price": 37.7,
+      "item_total_price": 37.7
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes Uncoated, M2 x 0.4 mm Thread Size, 7/16\" Thread Length 8302A32",
+      "item_quantity": 1.0,
+      "item_unit_price": 24.18,
+      "item_total_price": 24.18
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes Uncoated, M2.5 x 0.45 mm Thread Size, 1/2\" Thread Length 8302A11",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.32,
+      "item_total_price": 17.32
+     },
+     {
+      "item_date": null,
+      "item_name": "High-Speed Steel Chip-Clearing Tap for Through Holes Uncoated, M3 x 0.5 mm Thread Size, 5/8\" Thread Length 8302A12",
+      "item_quantity": 1.0,
+      "item_unit_price": 12.49,
+      "item_total_price": 12.49
+     },
+     {
+      "item_date": null,
+      "item_name": "Tap Wrench with Fixed T-Handle, 3-1/2\" Long 2546A23",
+      "item_quantity": 1.0,
+      "item_unit_price": 30.63,
+      "item_total_price": 30.63
+     },
+     {
+      "item_date": null,
+      "item_name": "18-8 Stainless Steel Socket Head Screw US Origin, 0-80 Thread Size, 1\" Long 92196A060",
+      "item_quantity": 1.0,
+      "item_unit_price": 9.01,
+      "item_total_price": 9.01
+     }
+    ]
+   },
+   "ocr_excerpt": "Thank you for your order.\nConfirmation\nDelivery address\nAirgarage, Inc.\n611 Mollys Way\nSaluda  VA  23149\nAttention:\nMcMaster-Carr\nDelivery method\nUPS Ground\nOrder date\n11/5/2026\nPayment method\nVisa (****4520)\nPlaced by\nBenjamin Ward\nMcMaster-Carr number\n8385628\nAIRGARAGE\n1 delivers Nov 9, by 5 pm, 2 deliver Nov 10, by 5 pm\n1\nHigh-Strength 17-4 PH Stainless Steel Shoulder Screw\n1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread\n90292A098\n3\neach\n7.75\neach\n$23.25\nDelivers Nov 9, by 5 pm\n2\n18-8 Stainless Steel Shoulder Screw\nPassivated, 1/4\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread\n90298A537\n3\neach\n3.80\neach\n$11.40\nDelivers Nov 9, by 5 pm\n3\n18-8 Stainless Steel Shoulder Screw\n5/16\" Shoulder Diameter, 1/2\" Shoulder Length, 10-24 Thread Size\n97832A336\n3\neach\n9.56\neach\n$28.68\nDelivers Nov 9, by 5 pm\n4\n18-8 Stainless Steel Shoulder Screw\nwith Passivated Finish, 3/16\" Shoulder Diameter, 1/2\" Shoulder Length\n90298A214\n3\neach\n4.10\neach\n$12.30\nDelivers Nov 9, by 5 pm\n5\nHigh-Strength 17-4 PH Stainless Steel Shoulder Screw\n3/16\" Shoulder Diameter, 1/2\" Shoulder Length, 8-32 Thread\n90292A076\n3\neach\n5.89\neach\n$17.67\nDelivers Nov 9, by 5 pm\n6\n18-8 Stainless Steel Shoulder Screw\nwith Passivated Finish, 5/32\" Shoulder Diameter, 1/2\" Shoulder Length\n90298A211\n3\neach\n3.95\neach\n$11.85\nDelivers Nov 9, by 5 pm\n7\nHigh-Strength 17-4 PH Stainless Steel Shoulder Screw\n5/32\" Shoulder Diameter, 1/2\" Shoulder Length, 6-32 Thread\n90292A050\n3\neach\n5.64\neach\n$16.92\nDelivers Nov 9, by 5 pm\n8\n18-8 Stainless Steel Shoulder Screw\nwith Passivated Finish, 1/8\" Shoulder Diameter, 1/2\" Shoulder Length\n90298A205\n3\neach\n3.76\neach\n$11.28\nDelivers Nov 9, by 5 pm\n9\nHigh-Strength 17-4 PH Stainless Steel Shoulder Screw\n1/8\" Shoulder Diameter, 1/2\" Shoulder Length, 4-40 Thread\n90292A024\n3\neach\n5.40\neach\n$16.20\nDelivers Nov 9, by 5 pm\n10\n18-8 Stainless Steel Flanged Socket Head Screw\n8-32 Thread Size, 9/16\" Long\n98201A112\n3\neach\n3.34\neach\n$10.02\nDelivers Nov 9, by 5 pm\n11\n18-8 Stainless Steel Fl"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "query": {
+  "window": [
+   "2026-07-13T00:00:00Z",
+   "2026-07-20T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:04.995Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "439a84ac-5e6a-436a-93cc-8e90750b1055",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "d69ed70d-ae1a-4ad6-9cbf-0c19ee6bfa40",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-17T14:09:44.201944Z",
+   "merchant": "SendCutsSend",
+   "receipt_date": "2026-07-16",
+   "total_amount": "863.57",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "SendCutsSend",
+    "merchant_address": "4855 Longley Lane :: Reno, NV 89502 :: USA",
+    "transaction_date": "2026-07-16",
+    "total_amount": 863.57,
+    "subtotal": 795.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 68.57
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Stainless Steel 316 series .125\" 1.496\" x 1.496\" Uline_Bollard_Drill_Jig___Bollard_ Washer.step",
+      "item_quantity": 500.0,
+      "item_unit_price": null,
+      "item_total_price": 795.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Invoice\n\n![](image_p1_0.png)\n\n4855 Longley Lane :: Reno, NV 89502 :: USA\n\nFor billing inquiries please email us at billing@sendcutsend.com\n\n| Bill To | Ship To | Invoice# | SF95W596 |\n|---|---|---|---|\n| AirGarage Chris Williamson | AirGarage Chris Williamson | Invoice Date | Jul 16, 2026 |\n| 564 Market St San Francisco, CA 94104 | 564 Market St San Francisco, CA 94104 |  |  |\n\nLine\n\nStainless Steel 316 series .125\"\n\n![](image_p1_1.png)\n\n1.496\" x 1.496\" 1\n\nUline\\_Bollard\\_Drill\\_Jig\\_\\_\\_Bollard\\_ Washer.step\n\nQty: 500\n\nItem total: $795.00\n\nSubtotal: `$795.00` Shipping + Handling: `FREE`\n\n```\nTax: $68.57\n```\n\n# Total: $863.57 PAID\n\nVisa (x2311)\n\nDOWNLOAD INVOICE"
+  }
+ ]
+}

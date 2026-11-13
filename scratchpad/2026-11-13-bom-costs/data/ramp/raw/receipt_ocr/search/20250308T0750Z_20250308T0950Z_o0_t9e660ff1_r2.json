@@ -1,0 +1,15 @@
+{
+ "query": {
+  "window": [
+   "2025-03-08T07:50:17Z",
+   "2025-03-08T09:50:17Z"
+  ],
+  "keywords": [
+   "McMaster"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:52:23Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

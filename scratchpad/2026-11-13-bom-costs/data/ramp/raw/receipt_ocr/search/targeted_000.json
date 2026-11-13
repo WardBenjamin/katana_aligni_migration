@@ -1,0 +1,61 @@
+{
+ "call": {
+  "id": 0,
+  "received_after": "2026-04-03T17:30:03Z",
+  "received_before": "2026-04-03T19:30:03Z",
+  "keywords": [
+   "ULINE"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:01.241Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "bc1551d4-dd53-4ee1-851c-b7d0326edfa6",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "225bffc3-222a-4f19-9f86-1eb21d8406a3",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-03T18:30:03.003255Z",
+   "merchant": "ULINE",
+   "receipt_date": "2026-04-03",
+   "total_amount": "105.62",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "ULINE",
+    "merchant_address": null,
+    "transaction_date": "2026-04-03",
+    "total_amount": 105.62,
+    "subtotal": 64.2,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "SALES TAX",
+      "tax_rate": null,
+      "tax_amount": 7.82
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "SHIPPING/HANDLING",
+      "fee_amount": 33.6
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-03",
+      "item_name": "24 X 14 X 12\" CORRUGATED BOXES",
+      "item_quantity": 20.0,
+      "item_unit_price": 3.21,
+      "item_total_price": 64.2
+     }
+    ]
+   },
+   "ocr_excerpt": "ULINE\n1-800-295-5510 uline.com\nThank you for your order!\nORDER CONFIRMATION\nORDER # 48346010 PO # AGTRIPWIRE SHIPMENT 1 of 1\nSOLD TO: AIRGARAGE MILLICENT\n564 MARKET ST STE 300\nSAN FRANCISCO CA 94104-5410\nUS\nSHIP TO: ByTechs LLC\n185 STAG DR\nATTN Chris Williamson\nWILLISTON SC 29853\nUS\n| CUSTOMER NUMBER | SHIP VIA | ORDER DATE | SHIP DATE | TERMS |\n| 34948923 | UPS GROUND | 04/03/26 | 04/03/26 | VISA |\n| QUANTITY | U/M | ITEM NUMBER | DESCRIPTION | UNIT PRICE | EXT. PRICE |\n| 20 | EA | S-4217 | 24 X 14 X 12\" CORRUGATED BOXES | 3.21 | 64.20 T |\n| SUB-TOTAL | SALES TAX | SHIPPING/HANDLING | TOTAL |\n| 64.20 | 7.82 | 33.60 | 105.62 |\n1\nNOTE: DELIVERY TIME 1 BUSINESS DAY VIA UPS GROUND. SHIPMENT #1 SHIPPED 04/03/26 ATTENTION: CHRIS WILLIAMSON CHECK ORDER STATUS T - DENOTES A TAXABLE ITEM THANK YOU FOR YOUR ORDER. ULINE'S TERMS AND CONDITIONS APPLY.\nPage 1 of 1"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "query": {
+  "window": [
+   "2026-06-27T16:34:00Z",
+   "2026-06-27T18:34:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:02.143Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "d59e5468-3ff8-40d3-822d-c2bb9442d124",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "6e331dc5-5c88-472c-88ee-f5c29b549d56",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-27T17:34:49.666721Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-06-26",
+   "total_amount": "35.8",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-06-26",
+    "total_amount": 35.8,
+    "subtotal": 33.14,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 2.66
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "2 of: Hefty Load & Carry Heavy Duty Contractor Large Trash Bags, 42 Gallon, 26 Count",
+      "item_quantity": 2.0,
+      "item_unit_price": 16.57,
+      "item_total_price": 33.14
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nDetails for Order #114-3882487-7482609\nOrder Placed: June 26, 2026 Amazon.com order number: 114-3882487-7482609 Order Total: $35.80\nNot Yet Shipped\nItems Ordered\nPrice\n2 of: Hefty Load & Carry Heavy Duty Contractor Large Trash Bags, 42 Gallon, 26 Count\n$16.57\nSold by and invoiced on behalf of: Amazon.com Condition: New\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nItem(s) Subtotal:\n$33.14\nShipping & Handling: $0.00\nTotal before tax:\n$33.14\nSales Tax:\n$2.66\nShipping Speed: FREE Prime Delivery\nTotal for This Shipment:\n$35.80\nPayment information\nPayment Method: Visa | Last digits: 2311\nItem(s) Subtotal: $33.14\nShipping & Handling: $0.00\nBilling address Chris Williamson 2261 MARKET ST # 4027 SAN FRANCISCO, CA 94114-1612 United States\nTotal before tax: $33.14\nEstimated Tax: $2.66\nGrand Total: $35.80\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  }
+ ]
+}

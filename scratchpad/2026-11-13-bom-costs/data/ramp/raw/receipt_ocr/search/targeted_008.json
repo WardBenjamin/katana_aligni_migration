@@ -1,0 +1,66 @@
+{
+ "call": {
+  "id": 8,
+  "received_after": "2026-04-21T21:02:30Z",
+  "received_before": "2026-04-21T23:02:30Z",
+  "keywords": [
+   "Electronics",
+   "Mouser"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:44.431Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "af401e40-6450-4962-bcff-33851ebfaa21",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "1437e33f-964c-478b-85f7-7dbbd6d31c5f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-21T22:02:30.778031Z",
+   "merchant": "Mouser Electronics, Inc.",
+   "receipt_date": "2026-04-21",
+   "total_amount": "491.42",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics, Inc.",
+    "merchant_address": null,
+    "transaction_date": "2026-04-21",
+    "total_amount": 491.42,
+    "subtotal": 339.99,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 39.54
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 16.69
+     },
+     {
+      "fee_name": "Estimated Tariff",
+      "fee_amount": 95.2
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-21",
+      "item_name": "HPS-3D160-U Area Arr",
+      "item_quantity": 1.0,
+      "item_unit_price": 339.99,
+      "item_total_price": 339.99
+     }
+    ]
+   },
+   "ocr_excerpt": "Mouser Electronics, Inc. - Order Confirmation\nOrder Confirmation\nPurchase Order Number:\n38961875\nWeb Order Number:\n38961875\nContact Name:\nBRYAN MONTI\nOrder Date:\nAPR21,2026\nCustomer Number:\n61CCD08\nBryan Monti,\nThank you for your order.\nAs soon as your order is shipped, you will receive a Shipment Notification email.\nThe estimated tariff surcharges that apply to your order are shown below.\nPlease view this link\nhttps://www.mouser.com/tariff-updates/\nfor the latest tariff information.\nMeanwhile, use the link below to view the real-time status of your order.\nORDER STATUS\nWeb Order Number\n38961875\nOrder Date\nAPR21,2026\nPlease rate your experience with Mouser\nReview\nCurrent Status:\nReal-Time Order Status\nClick now\nfor status or questions about your order.\nOrdered\n-\nProcessing\n-\nWarehouse\n-\nPicked\n-\nPreparing Shipment\n-\nShipped\nA summary of your order is included below.\nThank you for your business.\nCustomer Service\nCustomer Service Representative\nShipping Method\nTerms\nInternet Customer Service\nUPS 2nd Day Air\nCredit Card\nBill To\nAIRGARAGE, INC.\nAttn: BRYAN MONTI\n2261 MARKET STREET\n#4027\nSAN FRANCISCO, CALIFORNIA 94114\nUNITED STATES\nShip To\nBRYAN MONTI\n32 PROVINCE DR\nS SETAUKET, NEW YORK 11720\nUNITED STATES\nLine Number\nMouser Part Number\nCustomer Part Number\nManufacturer Part Number\nDescription\nRequested\nDelivery\nDate(s)\nEstimated\nShipment\nDate(s)\nQuantity\nUnit Price\n(USD)\nExtended Price\n(USD)\n1\n1\n426-DFR0728\nDFR0728\nHPS-3D160-U Area Arr\nEstimated Tariff\nAPR21,2026\nAPR21,2026\n1\n339.990\n339.99\n95.20\n1\nRoHS: Compliant\nShipping Notes\nMerchandise Total\n(USD)\n$339.99\nFinal tariff amount will be calculated at the time of shipment.\nShipping\n$16.69\nEstimated Tax\n$39.54\nEstimated Tariff\n$95.2\nThis order is subject to all terms and conditions displayed at:\nhttps://www.mouser.com/saleterms\n"
+  }
+ ]
+}

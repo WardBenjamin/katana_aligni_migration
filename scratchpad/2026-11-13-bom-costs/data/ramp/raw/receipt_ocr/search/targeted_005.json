@@ -1,0 +1,118 @@
+{
+ "call": {
+  "id": 5,
+  "received_after": "2026-04-10T13:52:39Z",
+  "received_before": "2026-04-10T15:52:39Z",
+  "keywords": [
+   "Amazon",
+   "Carr",
+   "Electric",
+   "Gordon",
+   "McMaster"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:43.574Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "30585cbf-477e-4c4a-8d60-aacc141c3bec",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "969d8eff-0a85-4eec-a01e-4a70ab1d6205",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-10T14:54:46.320985Z",
+   "merchant": "GORDON ELECTRIC SUPPLY, INC.",
+   "receipt_date": "2026-04-08",
+   "total_amount": "1632.96",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "GORDON ELECTRIC SUPPLY, INC.",
+    "merchant_address": "1290 N. HOBBIE AVE P.O. BOX 231 KANKAKEE, IL 60901",
+    "transaction_date": "2026-04-08",
+    "total_amount": 1632.96,
+    "subtotal": 1512.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 120.96
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "S&H Charges",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Topaz 652SRT 3/4\" Compression EMT Connector",
+      "item_quantity": 900.0,
+      "item_unit_price": 1.68,
+      "item_total_price": 1512.0
+     }
+    ]
+   },
+   "ocr_excerpt": "G\nORDON @ ELECTRIC SUPPLY, INC.\nWHERE RELIABILITY IS GUARANTEED\nGORDON ELECTRIC SUPPLY - WEB 1290 N. HOBBIE AVE P.O. BOX 231 KANKAKEE, IL 60901 Phone 815-936-4700 Fax 815-932-7484\nSOLD TO:\nWEB CUSTOMER\nKANKAKEE, IL 60901\nAcknowledgement\n| ORDER DATE | ORDER NUMBER |\n| 04/08/2026 | S3170325 |\n| GORDON ELECTRIC SUPPLY, INC. PO BOX 430 BRADLEY, IL 60915 | PAGE NO. |\n| 1 of 1 |\nSHIP TO:\nWEB CUSTOMER\nBYTECHS LLC/CHRIS 706-495-6570\n185 STAG DRIVE\nWILLISTON, SC 29853\n| CUSTOMER NUMBER | CUSTOMER PO NUMBER | JOB NAME / RELEASE NUMBER | SALESPERSON |\n| 7228 | CHRIS 4/8 | | WEB |\n| WRITER | SHIP VIA | TERMS | SHIP DATE | ORDERED BY |\n| KRIS K | BW BEST-WAY | | 04/09/2026 | |\n| ORDER QTY | DESCRIPTION | UNIT PRICE | EXT PRICE |\n| | SHIPPING INSTRUCTIONS SALES@BYTECHSLLC.COM | | |\n| 900ea | Topaz 652SRT 3/4\" Compression EMT Connector *** Above may not be returnable !*** - IN STOCK | 168.000/c | 1512.00 |\n| Subtotal | 1512.00 |\n| S&H Charges | 0.00 |\n| Tax | 120.96 |\n| Pymt & Disc | 0.00 |\n| Amount Due | 1632.96 |\nPrinted By: KRIK on 4/9/2026 8:58:07 AM CDT"
+  },
+  {
+   "receipt_uuid": "bcd1e994-6071-4d1b-ba39-0710cb6791b0",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "e04d3aa4-e950-46c0-80f9-4dc93281c118",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-10T14:52:39.882948Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-04-10",
+   "total_amount": "229.04",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-04-10",
+    "total_amount": 229.04,
+    "subtotal": 199.25,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 15.94
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.85
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "95893A198 Flat Head Thread-Forming Screws for Plastic, Torx Drive, 90 Degree Countersink, M3 Size, 30 mm Long, Packs of 25",
+      "item_quantity": 20.0,
+      "item_unit_price": 8.26,
+      "item_total_price": 165.2
+     },
+     {
+      "item_date": null,
+      "item_name": "95893A189 Flat Head Thread-Forming Screws for Plastic, Torx Drive, 90 Degree Countersink, M3 Size, 8 mm Long, Packs of 100",
+      "item_quantity": 3.0,
+      "item_unit_price": 11.35,
+      "item_total_price": 34.05
+     }
+    ]
+   },
+   "ocr_excerpt": "McMASTER-CARR CATALOG\nMcMASTER-CARR®\n404-346-7000 404-349-9091 (fax) atl.sales@mcmaster.com\nReceipt\n| Purchase Order | 0409CWILLIAMSON |\n| Paid | $229.04 |\n| Invoice | 62975075 |\n| Invoice Date | 4/9/26 |\nBilled to\nATTENTION: CHRIS WILLIAMSON\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\nShipped to\nAirgarage\nC/O Bytechs LLC\n185 Stag Dr\nWilliston SC 29853\nInformation About Your Payment\n| Credit Card | Visa Ending- 2311 |\n| Date | 4/10/26 |\n| Name on Card | Chris Williamson |\n| Your Account | 389831100 |\nChristopher Williamson placed this order.\n| Line | Product | Ordered | Shipped | Balance | Price | Total |\n| 1 | 95893A198 Flat Head Thread-Forming Screws for Plastic, Torx Drive, 90 Degree Countersink, M3 Size, 30 mm Long, Packs of 25 | 20 Packs | 20 | 0 | 8.26 Per Pack | 165.20 |\n| 2 | 95893A189 Flat Head Thread-Forming Screws for Plastic, Torx Drive, 90 Degree Countersink, M3 Size, 8 mm Long, Packs of 100 | 3 Packs | 3 | 0 | 11.35 Per Pack | 34.05 |\n| Merchandise | 199.25 |\n| Sales Tax | 15.94 |\n| Shipping | 13.85 |\n| Total | $229.04 |\n| Payment Received 4/10/26 | (229.04) |\n| Balance Due | $0.00 |\n| Packing List | Shipped | Weight | Carrier | Tracking |\n| 5583401-01 | 4/9/26 | 2 lb | UPS | 1Z3817790371740798 |\nFederal ID 36-1458720 McMaster-Carr Supply Company\nPage 1 of 1"
+  }
+ ]
+}

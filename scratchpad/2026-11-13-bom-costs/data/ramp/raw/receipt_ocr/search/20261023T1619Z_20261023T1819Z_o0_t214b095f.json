@@ -1,0 +1,620 @@
+{
+ "query": {
+  "window": [
+   "2026-10-23T16:19:00Z",
+   "2026-10-23T18:19:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:17.952Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "c8892385-e747-42db-a92b-5860a6703671",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "969d6e80-0821-4435-bd9e-135afac80bb6",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T16:43:13.288973Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "81.35",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 81.35,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "KWANGIL 24AWG 12C Unshielded Cabl...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 65.52
+     },
+     {
+      "item_date": null,
+      "item_name": "NECABLES 2Pack RJ12 Cable 15ft Te...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.29
+     }
+    ]
+   },
+   "ocr_excerpt": "uantity: 1\n$\n65\n52\nArriving tomorrow\nBryan - CENTEREACH, NY - On behalf of AirGarage, Inc\nOrder #\n‫114-6513419-8866634\nView or edit order\nNECABLES 2Pack RJ12 Cable 15ft Te...\nQuantity: 1\n$\n9\n29\nGrand Total:\n$81.35\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  },
+  {
+   "receipt_uuid": "214b095f-b753-430e-bc95-154299f289da",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "ee97d938-032f-4685-b024-ec37ef1d5f12",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:19:09.273962Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-03-16",
+   "total_amount": "168.54",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-03-16",
+    "total_amount": 168.54,
+    "subtotal": 154.98,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "GL.iNet GL-E750V2 (MUDI) 4G LTE Port...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 154.98
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Mon, Mar 16, 2026 at 8:11 PM\nSubject: Your Amazon.com order of \"GL.iNet GL-E750V2 (MUDI) 4G...\".\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your item has shipped.\nYour order details are indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\ntomorrow, March 17\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nRush Shipping\nOrder #\n114-7990147-2463463\nView or manage order\nGL.iNet GL-E750V2 (MUDI) 4G LTE Port...\nElectronics\nSold by\nGL Technologies\nCondition: New\nQty : 1\n$154.98\nOrder Total:\n$168.54\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nThis email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.\n"
+  },
+  {
+   "receipt_uuid": "160db051-fe14-47ff-a7e1-7d16ac5d79fb",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "e8d6c4f6-ca9d-41fd-a24e-3ab58138db4e",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:24:07.126451Z",
+   "merchant": "Amazon",
+   "receipt_date": "2025-06-27",
+   "total_amount": "14.01",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2025-06-27",
+    "total_amount": 14.01,
+    "subtotal": 12.88,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Scotch Heavy Duty Packaging Tape, 1....",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 12.88
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Fri, Jun 27, 2025 at 5:59 PM\nSubject: Your Amazon.com order of \"Scotch Heavy Duty Packaging...\".\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your item has shipped.\nYour order details are indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\ntomorrow, June 28\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nFREE Prime Delivery\nOrder #\n112-6442462-6833004\nView or manage order\nScotch Heavy Duty Packaging Tape, 1....\nOffice Product\nSold by\nAmazon.com Services, Inc\nCondition: New\nQty : 1\n$12.88\nOrder Total:\n$14.01\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nSimilar purchases on same day\nScotch Sure Start Shipping Packaging...\n5,144\n$4.44\nSave 53%\non 2+ units\nOne-Day\nDuck Brand High Performance Packaging...\n2,856\n$5.50\nOne-Day\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nThis email was sent from a notification-only address that cann"
+  },
+  {
+   "receipt_uuid": "c805e812-9b63-4f57-bb06-304ee4bf1ed3",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "efce92fa-1442-4288-b1b6-dd6e45b20d86",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:19:13.502146Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-03-12",
+   "total_amount": "56.52",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-03-12",
+    "total_amount": 56.52,
+    "subtotal": 51.98,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Polymaker ASA Filament 1.75mm Black",
+      "item_quantity": 2.0,
+      "item_unit_price": 25.99,
+      "item_total_price": 51.98
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Thu, Mar 12, 2026 at 7:01 PM\nSubject: Your Amazon.com order of \"2\" x Polymaker ASA Filament....\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your items have shipped.\nYour order details are indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\ntomorrow, March 13\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nRush Shipping\nOrder #\n114-7505515-4425067\nView or manage order\nPolymaker ASA Filament 1.75mm Black,...\nOffice Product\nSold by\nPolymaker LLC\nCondition: New\nQty : 2\n$25.99\nOrder Total:\n$56.52\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nSimilar purchases on same day\nPolymaker Matte PLA Filament Cotton...\n7,505\n$19.99\nSave 10%\non 10+ units\nTwo-Day\nPolymaker Polymax Tough PC Filament...\n490\n$38.99\nSave 3%\non 3+ units\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nThis email was sent from a notification-only address that cannot ac"
+  },
+  {
+   "receipt_uuid": "31f93fde-1ca1-4b84-8d9f-a5ac34e22018",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "7775a060-d9a0-4d11-9cb6-d4737c848034",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:19:16.509587Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-01-09",
+   "total_amount": "123.79",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-01-09",
+    "total_amount": 123.79,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Arducam 2.8-12mm Varifocal C-Mount L...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 64.34
+     },
+     {
+      "item_date": null,
+      "item_name": "Arducam 8-50mm C-Mount Zoom Lens for...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 49.49
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Fri, Jan 9, 2026 at 12:54 AM\nSubject: Your Amazon.com order of \"Arducam 2.8-12mm Varifocal...\" and 1 more item.\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your items have shipped.\nYour order details are indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\nSaturday, January 10\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nFREE Prime Delivery\nOrder #\n114-9963571-6131418\nView or manage order\nArducam 2.8-12mm Varifocal C-Mount L...\nElectronics\nSold by\nUCTRONICS\nCondition: New\nQty : 1\n$64.34\nArducam 8-50mm C-Mount Zoom Lens for...\nElectronics\nSold by\nUCTRONICS\nCondition: New\nQty : 1\n$49.49\nOrder Total:\n$123.79\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nProducts related to your purchase\nArducam Sensor Extension Cable for...\n40\n$12.80\nTwo-Day\nArducam 5MP Camera for Raspberry Pi...\n1,441\n$6.98\nSave 3%\non 30+ units\nOne-Day\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn m"
+  },
+  {
+   "receipt_uuid": "c82f9425-8f9b-4b0c-8b64-0b66f8e950fe",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "d4e2370f-c5fc-43c5-a3cc-81b49ee40f8c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:23:59.147426Z",
+   "merchant": "Amazon",
+   "receipt_date": "2025-07-16",
+   "total_amount": "290.36",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2025-07-16",
+    "total_amount": 290.36,
+    "subtotal": 267.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Raspberry Pi 4G/LTE Cellular Modem K...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 135.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Raspberry Pi 5 (16GB)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 132.0
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Wed, Jul 16, 2025 at 11:08 PM\nSubject: Your Amazon.com order of \"Raspberry Pi 4G/LTE...\" and 1 more item.\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your items have shipped.\nYour order details are indicated below. The payment details of your transaction can be found on the\norder invoice\n. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\nFriday, July 18\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nFREE Prime Delivery\nOrder #\n112-0366923-0281877\nView or manage order\nRaspberry Pi 4G/LTE Cellular Modem K...\nSold by\nSixfab US\nCondition: New\nQty : 1\n$135.00\nRaspberry Pi 5 (16GB)\nElectronics\nSold by\niRasptek US\nCondition: New\nQty : 1\n$132.00\nOrder Total:\n$290.36\nTo learn more about ordering, go to\nOrdering from Amazon.com\n.\nIf you want more information or need more assistance, go to\nHelp\n.\nProducts related to your purchase\nCat 6 Ethernet Cable 6 Ft 2 Pack, Cat...\n26,107\n$9.49\nTwo-Day\nSTEAMEMO PoE+ Switch, 8 Port Managed...\n2,104\n$32.99\nSave 13%\non 5+ units\nTwo-Day\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller info"
+  },
+  {
+   "receipt_uuid": "9f46b9c3-a962-4926-a02d-75f8e14d3254",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "0dbbc901-1715-445d-8845-5bdede8ac5c1",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T16:54:22.611125Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-10-23",
+   "total_amount": "31.76",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-10-23",
+    "total_amount": 31.76,
+    "subtotal": 29.96,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.8
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "2 of: Anker USB C to Ethernet Adapter, Portable 1 Gbps Network Hub | Aluminum, Compact, 10/100/1000Mbps, for MacBook Pro, iPad",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 14.98
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-2994582-0955449\n    Order Placed: October 23, 2026\n    Amazon.com order number: 114-2994582-0955449\n    Order Total: USD 31.76\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                   Price\n    2 of: Anker USB C to Ethernet Adapter, Portable 1 Gbps Network Hub | Aluminum, Compact, 10/100/1000Mbps, for MacBook Pro,      $14.98\n    iPad\n    Pro, ChromeBook, XPS, Galaxy and More\n    Sold by and invoiced on behalf of: AnkerDirect (seller profile)\n    Seller Credentials: ISO 9001:2015 - Quality Management Systems - Requirements\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                         Item(s) Subtotal:    $29.96\n    James McKenny                                                                                          Shipping & Handling:     $0.00\n    519 S CHAPEL ST                                                                                                                 -----\n    BALTIMORE, MD 21231-3017\n    United States                                                                                             Total before tax:    $29.96\n                                                                                                                     Sales Tax:     $1.80\n    Shipping Speed:                                                                                                                 -----\n    FREE Prime Delivery                                                                                Total for This Shipment:    $31.76\n                                                                                                                                    -----\n\n        Payment information\n    Payment Method:                                                                                           Item(s) Subtotal: USD 29.96\n"
+  },
+  {
+   "receipt_uuid": "9d9e172b-9bfc-4cd4-b956-fda20296aaf3",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "969d6e80-0821-4435-bd9e-135afac80bb6",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T16:26:22.954983Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-10-23",
+   "total_amount": "81.35",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-23",
+    "total_amount": 81.35,
+    "subtotal": 74.81,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 6.54
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "KWANGIL 24AWG 12C Unshielded Cable Wire, AWM 2464 Matte Black 100FT",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 65.52
+     },
+     {
+      "item_date": null,
+      "item_name": "NECABLES 2Pack RJ12 Cable 15ft Telephone Cord Phone Cable - 15 Feet",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.29
+     }
+    ]
+   },
+   "ocr_excerpt": "    Details for Order #114-6513419-8866634\nOrder Placed: October 23, 2026\nAmazon.com order number: 114-6513419-8866634\nOrder Total: USD 81.35\n\n    Not Yet Shipped\n\nItems Ordered                                                                                      Price\n1 of: KWANGIL 24AWG 12C Unshielded Cable Wire, AWM 2464 Matte Black 100FT                         $65.52\nSold by and invoiced on behalf of: KWANGIL ELECTRIC WIRE (seller profile)\nSeller Credentials: ISO 14001:2004 - Environmental Management Systems - Requirements, ISO 9001\nBusiness Price\nCondition: New\n\nShipping Address:\nBryan Monti\n32 PROVINCE DR\nCENTEREACH, NY 11720-4616\nUnited States\n\nShipping Speed:\nFREE Prime Delivery\n\n    Not Yet Shipped\n\nItems Ordered                                                                                      Price\n1 of: NECABLES 2Pack RJ12 Cable 15ft Telephone Cord Phone Cable - 15 Feet                          $9.29\nSold by and invoiced on behalf of: NECABLES (seller profile)\nCondition: New\n\nShipping Address:                                                            Item(s) Subtotal:     $9.29\nBryan Monti                                                               Shipping & Handling:     $0.00\n32 PROVINCE DR                                                                                     -----\nCENTEREACH, NY 11720-4616\nUnited States                                                                Total before tax:     $9.29\n                                                                                    Sales Tax:     $0.81\nShipping Speed:                                                                                    -----\nFREE Prime Delivery                                                   Total for This Shipment:    $10.10\n                                                                                                   -----\n\n    Payment information\nPayment Method:                                                              Item(s) Subtotal: USD 74.81"
+  },
+  {
+   "receipt_uuid": "5d4121f4-88a3-4d87-b5e0-7f6d858f5a63",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "394f2960-90ed-4148-9c3d-037a0c6cd9f8",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:23:49.409381Z",
+   "merchant": "TAP Plastics",
+   "receipt_date": "2025-10-27",
+   "total_amount": "173.25",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "TAP Plastics",
+    "merchant_address": null,
+    "transaction_date": "2025-10-27",
+    "total_amount": 173.25,
+    "subtotal": 120.93,
+    "tip": null,
+    "taxes": null,
+    "fees": [
+     {
+      "fee_name": "UPS 2nd Day Air",
+      "fee_amount": 52.32
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "OP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 AR1 Clear 1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 AR1 Clear",
+      "item_quantity": 3.0,
+      "item_unit_price": 16.67,
+      "item_total_price": 50.01
+     },
+     {
+      "item_date": null,
+      "item_name": "OP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 Clear 1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 Clear",
+      "item_quantity": 3.0,
+      "item_unit_price": 13.22,
+      "item_total_price": 39.66
+     },
+     {
+      "item_date": null,
+      "item_name": "OP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 Clear P99 Non-Glare 1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 Clear P99 Non-Glare",
+      "item_quantity": 3.0,
+      "item_unit_price": 10.42,
+      "item_total_price": 31.26
+     }
+    ]
+   },
+   "ocr_excerpt": "n Monti\nAirGarage\n2261 Market St\nSan Francisco, California 94114\nUnited States\nChris Williamson\nAirGarage\n185 Stag Dr\nWilliston, South Carolina 29853-4829\nUnited States\nSKU\nDescription\nQuantity\nPrice\nTotal\n99999\nOP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 AR1 Clear\n1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 AR1 Clear    – 195\n3\n$16.67\n$50.01\n99999\nOP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 Clear\n1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 Clear    – 164\n3\n$13.22\n$39.66\n99999\nOP3 Ultraviolet (UV) Filtering Clear Acrylic Plexiglass - OP3 Clear P99 Non-Glare\n1/8 (.118)\" Thick, 10 inches Wide, 8 inches Long, Color: OP3 Clear P99 Non-Glare    – 183\n3\n$10.42\n$31.26\nSub-Total:\n$120.93\nUPS 2nd Day Air:\n$52.32\nTotal:\n$173.25\nThank you for shopping at TAP Plastics.\nCut to Size orders are currently taking 2 to 3 days to process (Monday–Friday).\nQuestions concerning your order? Send them to\norders@tapplastics.com\n"
+  },
+  {
+   "receipt_uuid": "b82e2215-f4e3-4c1b-abe8-dadb56a012fa",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "5c74afb4-11de-4311-b274-668cee5b1ab4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:24:11.255990Z",
+   "merchant": "Sur-Seal",
+   "receipt_date": "2025-05-06",
+   "total_amount": "65.73",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Sur-Seal",
+    "merchant_address": null,
+    "transaction_date": "2025-05-06",
+    "total_amount": 65.73,
+    "subtotal": 40.5,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 5.28
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 19.95
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "ORSIL031 - O-Ring, Orange Vinyl Methyl Silicone, Duro: 70, Size: 031 (Min Qty: 45)",
+      "item_quantity": 90.0,
+      "item_unit_price": 0.45,
+      "item_total_price": 40.5
+     }
+    ]
+   },
+   "ocr_excerpt": "\nOrder #1479\nShip to\n32 Province Dr, South Setauket, New York, 11720, United States\nORSIL031 - O-Ring, Orange Vinyl Methyl Silicone, Duro: 70, Size: 031 (Min Qty: 45)\nORSIL031\n$0.45\nQty:\n90\n$40.50\nSubtotal:\n$40.50\nShipping:\n$19.95\nTax:\n$5.28\nGrand total:\n$65.73\nPayment method:\nNMI\nShipping method:\nShip by Weight for $19.95\nBilling Address\nBRYAN\nMONTI\n32 Province Dr\nSouth Setauket,\nNew York\n11720\nUnited States\n16314874699\nCheck order status\nSur-Seal Inc.\nsur-sealinc.com\nGo shopping\n"
+  },
+  {
+   "receipt_uuid": "2ecaeccc-9ad7-4d19-921b-41cc0df9d8eb",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "1cd1f7c5-6e13-4c79-893c-c2f6a604916f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:23:55.708815Z",
+   "merchant": "18650BatteryStore.com",
+   "receipt_date": "2025-09-17",
+   "total_amount": "92.69",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "18650BatteryStore.com",
+    "merchant_address": null,
+    "transaction_date": "2025-09-17",
+    "total_amount": 92.69,
+    "subtotal": 78.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Taxes",
+      "tax_rate": null,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 14.69
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Molicel P30B 18650 3000mAh 30A Battery",
+      "item_quantity": 20.0,
+      "item_unit_price": null,
+      "item_total_price": 78.0
+     }
+    ]
+   },
+   "ocr_excerpt": "i Bryan, we're getting your order ready to be shipped. We will notify you when it has been sent.\nView your order\nor\nVisit our store\nOrder summary\nMolicel P30B 18650 3000mAh 30A Battery × 20\n$78.00\nSubtotal\n$78.00\nShipping\n$14.69\nTaxes\n$0.00\nTotal\n$92.69 USD\nCustomer information\nShipping address\nBryan Monti\nAirGarage\n32 Province Drive\nSouth Setauket NY 11720\nUnited States\nBilling address\nBryan Monti\nAirGarage\n2261 Market Street\nSan Francisco CA 94114\nUnited States\nShipping method\nFedEx Ground\nPayment method\nending with 1571\nIf you have any questions, reply to this email or contact us at\nsupport@18650batterystore.com\n"
+  },
+  {
+   "receipt_uuid": "f175dcca-fffb-4db6-8171-875c6f31dedc",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "4cf000c5-87a8-4f2d-befd-4625956b21fa",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:25:10.466564Z",
+   "merchant": "VOXELPLA",
+   "receipt_date": "2025-05-05",
+   "total_amount": "76.96",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "VOXELPLA",
+    "merchant_address": null,
+    "transaction_date": "2025-05-05",
+    "total_amount": 76.96,
+    "subtotal": 76.96,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Replacement Cobalt-Free Silica Gel Drying Beads (1lbs)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 12.99
+     },
+     {
+      "item_date": null,
+      "item_name": "Bambu Lab X-Filter (HEPA 13 & Carbon Combo Filter)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 5.99
+     },
+     {
+      "item_date": null,
+      "item_name": "Replacement HEPA 13 Filter for VOXEL Bento Box",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 3.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Replacement Acid-Free Activated Carbon for VOXEL Bento Box and Bento Mini (1lbs)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 14.99
+     },
+     {
+      "item_date": null,
+      "item_name": "VOXEL Bento Box 2 Stage Filter with HEPA and Activated Carbon - Standard / 4028 Fans (High-Flow)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 39.99
+     }
+    ]
+   },
+   "ocr_excerpt": "Free Activated Carbon for VOXEL Bento Box and Bento Mini (1lbs) × 1\n$14.99\nVOXEL Bento Box 2 Stage Filter with HEPA and Activated Carbon × 1\nStandard / 4028 Fans (High-Flow) (SHIP SAME DAY)\n$39.99\nSubtotal\n$76.96\nShipping\n$0.00\nTaxes\n$0.00\nTotal\n$76.96 USD\nCustomer information\nShipping address\nBryan Monti\nAirGarage\n32 Province Drive\nSouth Setauket NY 11720\nUnited States\nBilling address\nBryan Monti\nAirGarage\n2261 Market Street\nSan Francisco CA 94114\nUnited States\nShipping method\nStandard\nIf you have any questions, reply to this email or contact us at\nsupport_voxelpla@voxelpla.com\n"
+  },
+  {
+   "receipt_uuid": "9ed707e8-f29d-4590-97b9-721f3c54135f",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "a88f3a2a-ebfe-4326-88a8-9ff10b92012d",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-23T17:24:02.505709Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2025-07-01",
+   "total_amount": "129.11",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2025-07-01",
+    "total_amount": 129.11,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "100-Pack 2020 2040 2060 Roll in Spri...",
+      "item_quantity": 3.0,
+      "item_unit_price": null,
+      "item_total_price": 15.0
+     },
+     {
+      "item_date": null,
+      "item_name": "50pcs 3D Printing Brass Nuts, M5x5.8...",
+      "item_quantity": 6.0,
+      "item_unit_price": null,
+      "item_total_price": 6.59
+     },
+     {
+      "item_date": null,
+      "item_name": "M5-0.8 x 8 mm Button Head Socket Cap...",
+      "item_quantity": 4.0,
+      "item_unit_price": null,
+      "item_total_price": 8.54
+     },
+     {
+      "item_date": null,
+      "item_name": "10FT Long Surge Protector Power Stri...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 36.99
+     },
+     {
+      "item_date": null,
+      "item_name": "Airlonv LED Desk Lamp for Office Hom...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 19.68
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ----------\nFrom:\nAmazon.com\n<\nauto-confirm@amazon.com\n>\nDate: Tue, Jul 1, 2025 at 6:02 PM\nSubject: Your Amazon.com order of \"10FT Long Surge Protector...\" and 14 more items.\nTo:\n<\nmonti@airgarage.com\n>\nHello Bryan Monti,\nThank you for shopping with us. We’ll send a confirmation once your items have shipped.\nYour order details are indicated below. If you would like to view the status of your order or make any changes to it, please visit\nYour Orders\non Amazon.com.\nYour purchase has been divided into 2 orders.\nThis order is placed on behalf of AirGarage, Inc.\nOrder Confirmation\nYour guaranteed delivery date is:\ntomorrow, July 2\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nFREE Prime Delivery\nOrder #\n112-2053722-7072251\nView or manage order\n100-Pack 2020 2040 2060 Roll in Spri...\nTools & Home Improvement\nSold by\nPOLISI3D\nCondition: New\nQty : 3\n$15.00\n50pcs 3D Printing Brass Nuts, M5x5.8...\nSold by\nnamsion\nCondition: New\nQty : 6\n$6.59\nM5-0.8 x 8 mm Button Head Socket Cap...\nSold by\nFullerkreg\nCondition: New\nQty : 4\n$8.54\nOrder Total:\n$129.11\nThe payment details of your transaction can be found on the\norder invoice\n.\nOrder Confirmation\nYour guaranteed delivery date is:\ntomorrow, July 2\nYour order will be sent to:\nBryan Monti\nCENTEREACH, NY\nUnited States\nYour shipping speed:\nRush Shipping\nOrder #\n112-4444135-3533812\nView or manage order\n10FT Long Surge Protector Power Stri...\nElectronics\nSold by\nIECOPOWER US\nCondition: New\nQty : 1\n$36.99\nAirlonv LED Desk Lamp for Office Hom...\nKitchen\nSold by\nAirlonv Store\nCondition: New\nQty : 1\n$19.68\n"
+  }
+ ]
+}

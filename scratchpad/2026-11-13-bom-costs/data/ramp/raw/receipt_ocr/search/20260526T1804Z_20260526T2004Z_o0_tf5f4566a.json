@@ -1,0 +1,57 @@
+{
+ "query": {
+  "window": [
+   "2026-05-26T18:04:50Z",
+   "2026-05-26T20:04:50Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "f5f4566a-4f8b-40d8-9932-b6ca2e77fbb8"
+ },
+ "pulled_at": "2026-11-13T04:55:16Z",
+ "returned": 1,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "f5f4566a-4f8b-40d8-9932-b6ca2e77fbb8",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "61dbdc9d-a782-4a39-94ce-737f79247a87",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-26T19:04:50.195370Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-05-26",
+   "total_amount": "22.82",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": "2026-05-26",
+    "total_amount": 22.82,
+    "subtotal": 20.98,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-26",
+      "item_name": "UGREEN USB C Hard Drive Enclosure",
+      "item_quantity": 1.0,
+      "item_unit_price": 20.98,
+      "item_total_price": 20.98
+     }
+    ]
+   },
+   "ocr_excerpt": "elivery\nDelivered\nArriving tomorrow\nBryan - CENTEREACH, NY - On behalf of AirGarage, Inc\nOrder #\n‫114-0668690-3102637\nView or edit order\nUGREEN USB C Hard Drive Enclosure...\nQuantity: 1\n$\n20\n98\nGrand Total:\n$22.82\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\n"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "query": {
+  "window": [
+   "2026-07-20T18:46:00Z",
+   "2026-07-20T20:46:00Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:50.049Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "df8e46b3-a6c6-4e3f-9568-8a697f7e5da6",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "26cb68ae-85b9-4fcb-8768-ddc59ef62f39",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-20T19:46:46.194605Z",
+   "merchant": "DigiKey Electronics",
+   "receipt_date": "2026-07-20",
+   "total_amount": "476.51",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "DigiKey Electronics",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-07-20",
+    "total_amount": 476.51,
+    "subtotal": 443.43,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 33.08
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 29.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "PART: 364-1282-ND MFG : Tri-Mag, LLC / L6R36-120 DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 25.0,
+      "item_unit_price": 13.6304,
+      "item_total_price": 340.76
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 4627-P0101E-ND MFG : Ease Electronics / P0101E DESC: CBL ASSY 2.1MM JACK-PLG RND 3'",
+      "item_quantity": 50.0,
+      "item_unit_price": 1.4536,
+      "item_total_price": 72.68
+     }
+    ]
+   },
+   "ocr_excerpt": "## 701 Brooks Ave South,\n\n![](image_p1_0.png)\n\n## PO Box 677 Thief River Falls, MN 56701-0677 USA\n\n## www.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\n\n# Invoice # 129493151 Completed Salesorder USD $\n\n| CHRIS WILLIAMSON | CHRIS WILLIAMSON | Salesorder / Packlist: | 100493973 / PL1 |\n|---|---|---|---|\n| AIRGARAGE INC | BYTECHS LLC | Customer: | 12230777 |\n| 2261 MARKET STREET | 185 STAG DRIVE | Payment Terms: | VISA / 2311 |\n| #4027 | WILLISTON SC 29853-0000 | Ref #: | SA # 100493973 |\n| SAN FRANCISCO CA 94114-0000 UNITED STATES OF AMERICA | UNITED STATES OF AMERICA | Shipping Method: Tracking #: | U1D 1Z5674320103704520 |\n| CHRIS WILLIAMSON BYTECHS LLC | DIGIKEY ELECTRONICS 701 BROOKS AVE. SOUTH |  |  |\n| 185 STAG DRIVE WILLISTON SC 29853 | P.O. BOX 677 THIEF RIVER FALLS MN 56701-0677 |  |  |\n| UNITED STATES OF AMERICA | UNITED STATES OF AMERICA |  |  |\n\n| Order Source: | Order Date: | Invoice Date: | Ship Date: | Document Date: |\n|---|---|---|---|---|\n| INTERNET | 20-Jul-2026 | 20-Jul-2026 | 20-Jul-2026 | 20-Jul-2026/AUTO |\n\n**Line Unit Price Amount**\n\n**Ordered Cancelled Shipped Item Number/ Description**\n\n| Item | USD $ | USD $ |\n|---|---|---|\n| 1 | 13.63040 | 340.76 T |\n\n```\nMFG : Tri-Mag, LLC / L6R36-120\nCOO : CHINA ECCN: EAR99 HTSUS: 8504.40.9510\nROHS3 COMP REACH UNAFFECTED Jan-2024\n2 50 0 50 PART: 4627-P0101E-ND DESC: CBL ASSY 2.1MM JACK-PLG RND 3' 1.45360 72.68 T\nMFG : Ease Electronics / P0101E\nCOO : CHINA ECCN: EAR99 HTSUS: 8544.42.9090\nROHS3 COMP REACH UNAFFECTED\n```\n\n---\n\n```\nSales Amount 413.44\nShipping charges applied 29.99\n** Charges subtotal ** 443.43\nSales Tax 33.08\nTotal charged to credit card 476.51\nUSD $\nT indicates taxable amounts\n```\n\n---\n\n```python\n* No license required\n* These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user(s)\nherein identified. They may not be resold, transferred, or otherwise disposed of, to "
+  }
+ ]
+}

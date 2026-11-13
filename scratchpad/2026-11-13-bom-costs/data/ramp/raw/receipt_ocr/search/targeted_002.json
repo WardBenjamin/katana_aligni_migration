@@ -1,0 +1,15 @@
+{
+ "call": {
+  "id": 2,
+  "received_after": "2026-04-06T10:41:46Z",
+  "received_before": "2026-04-06T12:41:46Z",
+  "keywords": [
+   "Digi",
+   "Key"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:43.667Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": []
+}

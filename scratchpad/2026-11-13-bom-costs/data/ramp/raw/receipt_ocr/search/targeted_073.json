@@ -1,0 +1,14 @@
+{
+ "call": {
+  "id": 73,
+  "received_after": "2026-07-30T16:40:24Z",
+  "received_before": "2026-07-30T18:40:24Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:58:42.851Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

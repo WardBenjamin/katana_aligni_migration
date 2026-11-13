@@ -1,0 +1,100 @@
+{
+ "query": {
+  "window": [
+   "2026-10-09T13:47:00Z",
+   "2026-10-09T15:47:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:17.522Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "185d3756-72fd-489c-aaed-76ec55609220",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "0a98bb17-d623-4d47-b618-f84439898144",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-09T14:47:20.335133Z",
+   "merchant": "Amazon.com",
+   "receipt_date": null,
+   "total_amount": "47.07",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 47.07,
+    "subtotal": 44.7,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 2.37
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Item hidden for privacy",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 44.7
+     }
+    ]
+   },
+   "ocr_excerpt": "ped!\nOrdered\nShipped\nOut for delivery\nDelivered\nArriving tomorrow\nBen - SALUDA, VA - On behalf of AirGarage, Inc\nOrder #\n‫112-1264340-4667453\nTrack package\nItem hidden for privacy\nQuantity: 1\n$\n44\n70\nTotal\n$47.07\nView related transactions in\nYour Transactions\n.\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nYour invoice can be accessed\nhere.\nOne or more items in your shipment was supplied by a different seller than the seller you purchased the item from. Visit\nYour Orders\nfrom a web browser to see the suppliers of these items on your invoices.\nItems in this shipment may be subject to California's Electronic Waste Recycling Act. For any items not sold by Amazon.com or Amazon Digital Services, Inc. that are subject to that Act, the seller of that item is responsible for submitting the California Electronic Waste Recycling fees on your behalf.\nUnless otherwise noted, items sold by Amazon are subject to sales tax in selected states or provinces in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon, it may be subject to local and state or province tax, depending upon the sellers business policies and the location of their operations. For more information, go to\ntax and seller information\n.\nPrivacy Notice\n"
+  },
+  {
+   "receipt_uuid": "b5f36c6d-54eb-479e-851a-f0980711d459",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "0a98bb17-d623-4d47-b618-f84439898144",
+   "reimbursement_uuid": null,
+   "received_at": "2026-10-09T14:25:18.110258Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-10-09",
+   "total_amount": "47.07",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-10-09",
+    "total_amount": 47.07,
+    "subtotal": 44.7,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 2.37
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Sterilite ClearView Latch Boxes, Storage Bins with Lids, 27 Quart, 6-Pack",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 44.7
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-1264340-4667453\n    Order Placed: October 9, 2026\n    Amazon.com order number: 112-1264340-4667453\n    Order Total: USD 47.07\n\n        Not Yet Shipped\n\n    Items Ordered                                                                           Price\n    1 of: Sterilite ClearView Latch Boxes, Storage Bins with Lids, 27 Quart, 6-Pack        $44.70\n    Sold by and invoiced on behalf of: Spreetail (seller profile)\n    Seller Credentials: 889 Certification\n    Condition: New\n\n    Shipping Address:                                                 Item(s) Subtotal:    $44.70\n    Ben Ward                                                       Shipping & Handling:     $0.00\n    611 MOLLYS WAY\n    SALUDA, VA 23149-2578                                                                   -----\n    United States                                                     Total before tax:    $44.70\n                                                                             Sales Tax:     $2.37\n    Shipping Speed:                                                                         -----\n    Two-Day Shipping                                           Total for This Shipment:    $47.07\n                                                                                            -----\n\n        Payment information\n    Payment Method:                                                   Item(s) Subtotal: USD 44.70\n    Visa | Last digits: 3514                                        Shipping & Handling: USD 0.00\n    Billing address\n    Ben Ward                                                          Total before tax: USD 44.70\n    2261 MARKET ST # 4027        Estimated tax to be collected:                          USD 2.37\n    SAN FRANCISCO, CA 94114-1612\n    United States                                                          Grand Total: USD 47.07\n\n   To view the status of your order, return to Order Summary .\n\nConditions of Use | Privacy Notice © 1996-2020, Amazo"
+  }
+ ]
+}

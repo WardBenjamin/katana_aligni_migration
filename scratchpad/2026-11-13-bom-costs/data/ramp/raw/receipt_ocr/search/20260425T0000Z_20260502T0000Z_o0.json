@@ -1,0 +1,227 @@
+{
+ "query": {
+  "window": [
+   "2026-04-25T00:00:00Z",
+   "2026-05-02T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:12Z",
+ "returned": 4,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "4dddb7eb-2118-4d11-9ae3-3fa37808ab00",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "9d38b205-7108-493b-83a3-fabbe357c5eb",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-01T14:41:08.533734Z",
+   "merchant": "JLCPCB",
+   "receipt_date": "2026-05-01",
+   "total_amount": "160.76",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "JLCPCB",
+    "merchant_address": "Unit 21, 28/F, Metropole Square No.2 On Yiu Street, Shatin, New Territories HONG KONG, China",
+    "transaction_date": "2026-05-01",
+    "total_amount": 160.76,
+    "subtotal": 123.7,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "States Sales&Use Tax",
+      "tax_rate": null,
+      "tax_amount": 9.9
+     },
+     {
+      "tax_name": "Import Taxes",
+      "tax_rate": null,
+      "tax_amount": 27.16
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 46.1
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "4-layer Bare Rigid Printed circuit board",
+      "item_quantity": 50.0,
+      "item_unit_price": 1.55,
+      "item_total_price": 77.6
+     }
+    ]
+   },
+   "ocr_excerpt": "J@LC\nJLCPCB\nJiaLiChuang (HongKong) Co., Limited\nUnit 21, 28/F, Metropole Square No.2 On Yiu Street, Shatin, New Territories HONG KONG, China support@jlcpcb.com +86 755 23919769 JLCPCB.COM\n| Invoice No: | 2764929A2026050103386879 |\n| Invoice Date: | 01/05/2026 |\n| Batch No: | W2026050103386879 |\n| Ship Via: | DHL Express (DDP) |\n| Type of Trade: | DDP |\nShip To:\nByTechs LLC\nChris Williamson\n185 Stag Dr\nSouth Carolina Williston 29853\nUS\nEmail:necrolyte17@gmail.com\nTel:+17064956570\nVAT No:\nBilling To:\nChris Williamson\n564 Market Street\nCalifornia San Francisco 94104\nUNITED STATES OF AMERICA\nEmail:necrolyte17@gmail.com\nTel:+17064956570\nVAT No:\n| Product | File Name | Order Number | QTY Unit Price | Ext.Price |\n| 1 4-layer Bare Rigid Printed circuit board | usb-bridge-x3_gerber S_P7 | P7 | 50 USD $1.55 | USD $77.60 |\n| Merchandise Total: | USD $77.60 |\n| Shipping: | USD $46.10 |\n| Subtotal: USD $123.70 |\n| States Sales&Use Tax: USD $9.90 |\n| Import Taxes : USD $27.16 |\n| Grand Total: USD $160.76 |\nTax rates vary for different products; please refer to the tax details ."
+  },
+  {
+   "receipt_uuid": "9a6dca1b-9330-4bfb-b65c-c20bca26e902",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "94a898a5-6e0f-4aaf-aa15-d8610de63d9f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-01T14:39:31.948076Z",
+   "merchant": "Mouser Electronics",
+   "receipt_date": "2026-04-30",
+   "total_amount": "233.3",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics",
+    "merchant_address": "1000 North Main Street Mansfield, TX 76063 USA",
+    "transaction_date": "2026-04-30",
+    "total_amount": 233.3,
+    "subtotal": 188.45,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "TAX TOTAL",
+      "tax_rate": null,
+      "tax_amount": 16.59
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "FREIGHT",
+      "fee_amount": 9.39
+     },
+     {
+      "fee_name": "TARIFF",
+      "fee_amount": 18.87
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Mouser No GSB3CN1130DSHR",
+      "item_quantity": 255.0,
+      "item_unit_price": 0.739,
+      "item_total_price": 188.45
+     }
+    ]
+   },
+   "ocr_excerpt": "M\nMOUSER ELECTRONICS.\nMouser Electronics® 1000 North Main Street Mansfield, TX 76063 USA (800) 346-6873\nInvoice\nSummary\n| Sales Order # | 279925636 |\n| Web Order # | 39062463 |\n| Order Date | 30-Apr-26 |\n| Invoice No | 90134087 |\n| Invoice Date | 30-Apr-26 |\n| Customer PO No | 39062463 |\n| Master Track No | 1Z7759450320332147 |\n| Buyer | Ship via | Customer No | Terms |\n| CHRISTOPHER WILLIAMSON | UPS Ground | 6220B14 | Mastercard |\nMouser Electronics, Inc. MANSFIELD, TX 76063-1514\nSales (800)346-6873 Credit (800)333-9924 Fax (800)333-9924\n| Please remit to MOUSER ELECTRONICS, Inc. | Billed to | Shipped to |\n| AIRGARAGE INC | BYTECHS LLC |\n| P.O. BOX 99319 | Attention: CHRIS WILLIAMSON | Attention: CHRIS WILLIAMSON |\n| FORT WORTH, TX 76199-0319 | 564 MARKET STREET | 185 STAG DR |\n| SAN FRANCISCO, CA 94104 | WILLISTON, SC 29853 |\n| FED ID# 61-1520598 | United States | United States |\n| Line No. | Product Detail | Customer Part # | Order Qty. | Shipped Qty. | Pending Qty. | Price (USD) | Ext. (USD) |\n| 1 | Mouser No GSB3CN1130DSHR | | 255 | 255 | 0 | $0.739 | $188.45 |\n| | Mfr. No 523-GSB3CN1130DSHR | | | | | |\n| | Desc. Tariff USB3.2 TYPE C | | | | | $0.074 | $18.87 |\nTracking Number(s)\n1Z7759450320332147\nTHIS ORDER IS SUBJECT TO ALL TERMS AND CONDITIONS DISPLAYED AT: www.mouser.com/saleterms\n| MERCHANDISE TOTAL | $188.45 |\n| HANDLING | $0.00 |\n| FREIGHT | $9.39 |\n| TAX TOTAL | $16.59 |\n| TARIFF | $18.87 |\n| ORDER TOTAL | $233.30 |"
+  },
+  {
+   "receipt_uuid": "b8b733db-f189-4720-8477-6909eefa39c9",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "48909dd2-307d-4ec2-a82b-3d48eb9c7a50",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-25T23:55:09.161237Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-04-25",
+   "total_amount": "5555.92",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": "2045 W Grand Ave, Ste B, PMB #25937, Chicago, Illinois 60612, United States",
+    "transaction_date": "2026-04-25",
+    "total_amount": 5555.92,
+    "subtotal": 5555.92,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": 5146.72,
+      "item_total_price": 5146.72
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": 159.2,
+      "item_total_price": 159.2
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": 250.0,
+      "item_total_price": 250.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\n| Invoice number | 5BNYU5S8-0006 |\n| Receipt number | 2723-2413 |\n| Date paid | April 25, 2026 |\n| Hologram, Inc. | Bill to |\n| 2045 W Grand Ave | AirGarage |\n| Ste B, PMB #25937 | 2261 Market Street |\n| Chicago, Illinois 60612 | #4027 |\n| United States | San Francisco, California 94114 |\n| +1 888-980-4758 | United States |\n| support@hologram.io | monti@airgarage.com |\n$5,555.92 paid on April 25, 2026 March 1 - 31, 2026\n| Description | Qty | Unit price | Amount |\n| Data Usage | 1 | $5,146.72 | $5,146.72 |\n| Monthly SIM Charges | 1 | $159.20 | $159.20 |\n| Monthly Support Fee | 1 | $250.00 | $250.00 |\n| Subtotal | $5,555.92 |\n| Total | $5,555.92 |\n| Amount paid | $5,555.92 |\nPayment history\n| Payment method | Date | Amount paid | Receipt number |\n| Visa - 3129 | April 25, 2026 | $5,555.92 | 2723-2413 |\nPage 1 of 2\nTo pay via ACH or wire transfer: Bank name: First Citizens Bank and Trust Co. (formerly Silicon Valley Bank) Routing number: 121140399 Account number: 3301306001 SWIFT code: SVBKUS6S\nIf payment is not received within stated terms, any overdue or unpaid balances will be subject to a late fee of 1.5% assessed monthly until paid in full.\nQuestions? Contact Hologram at success@hologram.io or +1 888-980-4758.\nPage 2 of 2"
+  },
+  {
+   "receipt_uuid": "189b920f-ffd3-4acd-afd1-a2c34c6a34b9",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "48909dd2-307d-4ec2-a82b-3d48eb9c7a50",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-25T23:59:23.675873Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-04-25",
+   "total_amount": "5555.92",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": "2261 Market Street #4027, San Francisco, California 94114, United States",
+    "transaction_date": "2026-04-25",
+    "total_amount": 5555.92,
+    "subtotal": 5555.92,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": 5146.72,
+      "item_total_price": 5146.72
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": 159.2,
+      "item_total_price": 159.2
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": 250.0,
+      "item_total_price": 250.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\nInvoice number 5BNYU5S8-0006 Receipt number 2723-2413 Date paid April 25, 2026\nHologram, Inc.\nBill to\nAirGarage\n2045 W Grand Ave Ste B, PMB #25937 Chicago, Illinois 60612 United States\n2261 Market Street #4027\n+1 888-980-4758\nsupport@hologram.io\nSan Francisco, California 94114 United States monti@airgarage.com\n$5,555.92 paid on April 25, 2026\nMarch 1 - 31, 2026\nDescription\nQty\nUnit price\nAmount\nData Usage\n1\n$5,146.72\n$5,146.72\nMonthly SIM Charges\n1 $159.20\n$159.20\nMonthly Support Fee\n1\n$250.00\n$250.00\nSubtotal\n$5,555.92\nTotal\n$5,555.92\nAmount paid\n$5,555.92\nPayment history\nPayment method\nDate\nAmount paid\nReceipt number\nVisa - 3129\nApril 25, 2026\n$5,555.92\n2723-2413\nPage 1 of 2\nTo pay via ACH or wire transfer: Bank name: First Citizens Bank and Trust Co. (formerly Silicon Valley Bank) Routing number: 121140399 Account number: 3301306001 SWIFT code: SVBKUS6S\nIf payment is not received within stated terms, any overdue or unpaid balances will be subject to a late fee of 1.5% assessed monthly until paid in full.\nQuestions? Contact Hologram at success@hologram.io or +1 888-980-4758.\nPage 2 of 2"
+  }
+ ]
+}

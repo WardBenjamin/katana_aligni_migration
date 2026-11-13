@@ -1,0 +1,121 @@
+{
+ "call": {
+  "id": 4,
+  "received_after": "2026-04-08T16:49:04Z",
+  "received_before": "2026-04-08T18:49:04Z",
+  "keywords": [
+   "Amazon",
+   "Corporation",
+   "Digi",
+   "Ecoenclose",
+   "Electric",
+   "Gordon",
+   "Key",
+   "Pololu"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:43.966Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "159db0d7-2cb5-4562-b798-43cab2f080b4",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "ecaf02ea-184b-4fbe-bed6-cf321b86ca6e",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-08T17:49:04.759711Z",
+   "merchant": "GORDON ELECTRIC SUPPLY, INC.",
+   "receipt_date": "2026-04-03",
+   "total_amount": "10206.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "GORDON ELECTRIC SUPPLY, INC.",
+    "merchant_address": "1290 N. HOBBIE AVE P.O. BOX 231 KANKAKEE, IL 60901",
+    "transaction_date": "2026-04-03",
+    "total_amount": 10206.0,
+    "subtotal": 9450.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 756.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "S&H Charges",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "IPEX 277009 12 x 12 x 6 PVC Junction Box",
+      "item_quantity": 150.0,
+      "item_unit_price": 63.0,
+      "item_total_price": 9450.0
+     }
+    ]
+   },
+   "ocr_excerpt": "6\nORDON @ ELECTRIC SUPPLY, INC.\nWHERE RELIABILITY IS GUARANTEED\nGORDON ELECTRIC SUPPLY - WEB 1290 N. HOBBIE AVE P.O. BOX 231 KANKAKEE, IL 60901 Phone 815-936-4700 Fax 815-932-7484\nSOLD TO:\nWEB CUSTOMER\nKANKAKEE, IL 60901\nAcknowledgement\n| ORDER DATE | ORDER NUMBER |\n| 04/03/2026 | S3168224 |\n| GORDON ELECTRIC SUPPLY, INC. PO BOX 430 BRADLEY, IL 60915 | PAGE NO. |\n| 1 of 1 |\nSHIP TO:\nWEB CUSTOMER\nBYTECHS LLC/CHRIS 706-495-6570\n185 STAG DRIVE\nWILLISTON, SC 29853\n| CUSTOMER NUMBER | CUSTOMER PO NUMBER | JOB NAME / RELEASE NUMBER | SALESPERSON |\n| 7228 | CHRIS 4/3 | | WEB |\n| WRITER | SHIP VIA | TERMS | SHIP DATE | ORDERED BY |\n| KRIS K | BW BEST-WAY | | 04/08/2026 | |\n| ORDER QTY | DESCRIPTION | UNIT PRICE | EXT PRICE |\n| | SHIPPING INSTRUCTIONS SALES@BYTECHSLLC.COM | | |\n| 150ea | IPEX 277009 12 x 12 x 6 PVC Junction Box | 6300.000/c | 9450.00 |\n| Subtotal | 9450.00 |\n| S&H Charges | 0.00 |\n| Tax | 756.00 |\n| Pymt & Disc | 0.00 |\n| Amount Due | 10206.00 |\nPrinted By: KRIK on 4/8/2026 12:15:39 PM CDT"
+  },
+  {
+   "receipt_uuid": "a2f73952-d2b3-40d0-b098-2da470cb9737",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "a833e9d7-98df-49e9-830f-9c4332bb2480",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-08T17:49:53.394610Z",
+   "merchant": "Ecoenclose",
+   "receipt_date": "2026-04-08",
+   "total_amount": "584.03",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Ecoenclose",
+    "merchant_address": null,
+    "transaction_date": "2026-04-08",
+    "total_amount": 584.03,
+    "subtotal": 495.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": 0.0,
+      "tax_amount": 0.0
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 89.03
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "150 x 100% Recycled Box - FPF 32ECT B - CUSTOM",
+      "item_quantity": 150.0,
+      "item_unit_price": 1.24,
+      "item_total_price": 186.0
+     },
+     {
+      "item_date": null,
+      "item_name": "150 x 100% Recycled Box - FPF 32ECT B - CUSTOM",
+      "item_quantity": 150.0,
+      "item_unit_price": 2.06,
+      "item_total_price": 309.0
+     }
+    ]
+   },
+   "ocr_excerpt": "ECOENCLOSE\nThank you Chris!\nYour order number is 427772\nAn email will be sent containing information about your purchase. If you have any questions about your purchase, email us at hello@ecoenclose.com or call us at 888-445- 6575.\nOrder Summary\n300 Items\n150 x 100% Recycled Box - FPF 32ECT B - CUSTOM Details Box Strength: 32B (25 lbs) Box Style: FPF Length(in): 9.000 Width(in): 3.500 Height(in): 3.500 Service Speed: Standard (5 - 8 business days) Shipping Weight 3 oz\n$186.00\n150 x 100% Recycled Box - FPF 32ECT B - CUSTOM Details Box Strength: 32B (25 lbs) Box Style: FPF Length(in): 20.000 Width(in): 3.500 Height(in): 3.000 Service Speed: Standard (5 - 8 business days) Shipping Weight 6 oz\n$309.00\nSubtotal $495.00\n| Shipping | $89.03 |\n| Tax | $0.00 |\n| Total (USD) | $584.03 |"
+  }
+ ]
+}

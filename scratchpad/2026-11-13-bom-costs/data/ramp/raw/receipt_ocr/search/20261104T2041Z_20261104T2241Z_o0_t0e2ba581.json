@@ -1,0 +1,110 @@
+{
+ "query": {
+  "window": [
+   "2026-11-04T20:41:00Z",
+   "2026-11-04T22:41:00Z"
+  ],
+  "keywords": [
+   "Mouser",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:25.007Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "0e2ba581-21d7-4750-80c3-8518f1d697aa",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "2b185186-d3d4-425b-85d5-3a3203c391cb",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-04T21:41:08.323722Z",
+   "merchant": "Mouser Electronics, Inc.",
+   "receipt_date": "2026-11-04",
+   "total_amount": "576.5",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics, Inc.",
+    "merchant_address": null,
+    "transaction_date": "2026-11-04",
+    "total_amount": 576.5,
+    "subtotal": 576.5,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 59.96
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 12.99
+     },
+     {
+      "fee_name": "Estimated Tariff",
+      "fee_amount": 173.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "M Series Sensor Conn",
+      "item_quantity": 50.0,
+      "item_unit_price": 11.53,
+      "item_total_price": 576.5
+     }
+    ]
+   },
+   "ocr_excerpt": "Mouser Electronics, Inc. - Order Confirmation\nOrder Confirmation\nPurchase Order Number :\n40998484\nWeb Order Number :\n40998484\nContact Name :\nCHRISTOPHER WILLIAMSON\nOrder Date :\nNOV 04, 2026\nCustomer Number :\n61737A5\nChristopher Williamson,\nThank you for your order.\nAs soon as your order is shipped, you will receive a Shipment Notification email.\nThe estimated tariff surcharges that apply to your order are shown below.\nPlease view this link\nhttps://www.mouser.com/tariff-updates/\nfor the latest tariff information.\nMeanwhile, use the link below to view the real-time status of your order.\nORDER STATUS\nWeb Order Number\n40998484\nOrder Date\nNOV 04, 2026\nPlease rate your experience with Mouser\nReview\nCurrent Status:\nReal-Time Order Status\nClick now\nfor status or questions about your order.\nA summary of your order is included below.\nThank you for your business.\nCustomer Service\nCustomer Service Representative\nShipping Method\nTerms\nInternet Customer Service\nUPS Ground Service\nCredit Card\nBill To\nBYTECHS LLC\nAttn: CHRIS WILLIAMSON\n116 TIMMERMAN ST\nWARRENVILLE, SOUTH CAROLINA 29851\nUNITED STATES\nShip To\nBYTECHS LLC\nAttn: CHRIS WILLIAMSON\n185 STAG DR\nWILLISTON, SOUTH CAROLINA 29853\nUNITED STATES\nLine Number\nMouser Part Number\nCustomer Part Number\nManufacturer Part Number\nDescription\nRequested\nDelivery\nDate(s)\nEstimated\nShipment\nDate(s)\nQuantity\nUnit Price\n(USD)\nExtended Price\n(USD)\n1\n1\n523-MSAS17PMMPSF8001\nMSAS-17PMMP-SF8001\nM Series Sensor Conn\nEstimated Tariff\nNOV 04, 2026\nNOV 04, 2026\n50\n11.530\n576.50\n173.00\n1\nRoHS: Compliant\nShipping Notes\nMerchandise Total\n(USD)\n$576.50\nFinal tariff amount will be calculated at the time of shipment.\nShipping\n$12.99\nEstimated Tax\n$59.96\nEstimated Tariff\n$173.00\nThis order is subject to all terms and conditions displayed at:\nhttps://www.mouser.com/saleterms\n"
+  },
+  {
+   "receipt_uuid": "5d6a0511-0ecc-4654-b37d-0d75f9adf015",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "51a73c5d-6778-42ce-be11-7b4a82caeb90",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-04T20:55:59.996791Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "70.33",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 70.33,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "KWANGIL 26AWG 6 Conductor Unshiel...",
+      "item_quantity": 2.0,
+      "item_unit_price": null,
+      "item_total_price": 27.71
+     },
+     {
+      "item_date": null,
+      "item_name": "NECABLES 20Pack RJ11/RJ12 Pass Th...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.69
+     }
+    ]
+   },
+   "ocr_excerpt": "N, SC - On behalf of ByTechs LLC\nOrder #\n‫114-6382800-2030657\nView or edit order\nKWANGIL 26AWG 6 Conductor Unshiel...\nQuantity: 2\n$\n27\n71\nNECABLES 20Pack RJ11/RJ12 Pass Th...\nQuantity: 1\n$\n9\n69\nGrand Total:\n$70.33\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "query": {
+  "window": [
+   "2026-06-22T00:00:00Z",
+   "2026-06-29T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:52:22.682Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "20a23734-b112-4fe8-8514-f0a4ca4195ad",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "4861f516-23e4-48b0-b396-733ed1cb59f8",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-23T16:24:22.067083Z",
+   "merchant": "Ubiquiti",
+   "receipt_date": "2026-06-04",
+   "total_amount": "2048.81",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Ubiquiti",
+    "merchant_address": "685 3rd Avenue 27th Floor, New York, NY, 10017, US",
+    "transaction_date": "2026-06-04",
+    "total_amount": 2048.81,
+    "subtotal": 1797.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Va State Tax",
+      "tax_rate": 0.043,
+      "tax_amount": 80.41
+     },
+     {
+      "tax_name": "Va County Tax",
+      "tax_rate": 0.01,
+      "tax_amount": 18.7
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping Amount Before Tax",
+      "fee_amount": 79.7
+     },
+     {
+      "fee_name": "Surcharge Amount Before Tax",
+      "fee_amount": 73.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "UniFi Express 7 (US Version)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 199.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Memory Surcharge Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 11.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Switch Lite 8 PoE (US Version)",
+      "item_quantity": 3.0,
+      "item_unit_price": null,
+      "item_total_price": 327.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Memory Surcharge Fee",
+      "item_quantity": 3.0,
+      "item_unit_price": null,
+      "item_total_price": 18.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Device Bridge Pro (US Version)",
+      "item_quantity": 4.0,
+      "item_unit_price": null,
+      "item_total_price": 796.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Memory Surcharge Fee",
+      "item_quantity": 4.0,
+      "item_unit_price": null,
+      "item_total_price": 44.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Ethernet Surge Protection Outdoor (20kA)",
+      "item_quantity": 4.0,
+      "item_unit_price": null,
+      "item_total_price": 76.0
+     },
+     {
+      "item_date": null,
+      "item_name": "UniFi 5G Max Outdoor",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 399.0
+     }
+    ]
+   },
+   "ocr_excerpt": "U\nUbiquiti Store USA\nUbiquiti Inc. store@ui.com\nReceipt / Tax Invoice\n| Invoice No .: | US5552787 |\n| Invoice Date: | 2026/06/04 |\n| Payment status: | Paid |\nBilling Address\nBenjamin Ward 2261 Market St #4027 San Francisco, CA, 94114, US +1 571 699 4608\nShipping Address Benjamin Ward 611 Mollys Way Saluda, VA, 23149, US +1 571 699 4608\n| NO. | PRODUCT DESCRIPTION | HS CODE | QTY | PRICE | TAX TOTAL | TOTAL |\n| 1 | UniFi Express 7 (US Version) UX7-US | 851762 | 1 | $199.00 | $10.55 | $199.00 |\n| Memory Surcharge Fee | | 1 | $11.00 | $0.58 | $11.00 |\n| 2 | Switch Lite 8 PoE (US Version) USW-Lite-8-POE | 851762 | 3 | $109.00 | $17.33 | $327.00 |\n| Memory Surcharge Fee | | 3 | $6.00 | $0.95 | $18.00 |\n| 3 | Device Bridge Pro (US Version) UDB-Pro-US | 851762 | 4 | $199.00 | $42.19 | $796.00 |\n| Memory Surcharge Fee | | 4 | $11.00 | $2.33 | $44.00 |\n| 4 | Ethernet Surge Protection Outdoor (20kA) UACC-ETH-SP-Pro | 853630 | 4 | $19.00 | $4.03 | $76.00 |\n| 5 | UniFi 5G Max Outdoor U5G-Max-Outdoor | 851762 | 1 | $399.00 | $21.15 | $399.00 |\n| Total Amount Before Tax | $1,797.00 |\n| Shipping Amount Before Tax | $79.70 |\n| Surcharge Amount Before Tax | $73.00 |\n| Va State Tax (4.3%) | $80.41 |\n| Va County Tax (1%) | $18.70 |\n| Total Tax | $99.11 |\n| Total | $2,048.81 |\nUbiquiti Inc. 685 3rd Avenue 27th Floor, New York, NY, 10017, US"
+  },
+  {
+   "receipt_uuid": "19e9916f-5940-44dd-a4e2-0d504518d411",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "bdbf211b-2131-478b-bb6d-82a68b9b5714",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-24T03:53:46.346905Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-06-23",
+   "total_amount": "51.85",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-06-23",
+    "total_amount": 51.85,
+    "subtotal": 45.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "ESTIMATED TAX",
+      "tax_rate": null,
+      "tax_amount": 6.85
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "SCOTCH 3M SUPER 33+ VINYL ELECTRICAL TAPE.75-INCH BY 66-FEET, 10-PACK",
+      "item_quantity": 1.0,
+      "item_unit_price": 45.0,
+      "item_total_price": 45.0
+     }
+    ]
+   },
+   "ocr_excerpt": "a\nAmazon WWW.AMAZON.COM JUN 23, 2026 AT 11:51PM EDT\nQTY ITEM\nUNIT AMT\nPRICE\n1 SCOTCH 3M SUPER 33+ VINYL $45.00 $45.00 ELECTRICAL TAPE. 75-INCH BY 66-FEET, 10-PACK\nSHIPPING & HANDLING $0.00\nESTIMATED TAX $6.85\nSUBTOTAL $45.00\nTAX $6.85\nTOTAL $51.85\nPAID VISA X-2311 $51.85\nCARDHOLDER CHRIS WILLIAMSON\nCURRENCY\nUSD\nTransaction Data provided by Amazon and Visa Receipt generated by Ramp"
+  }
+ ]
+}

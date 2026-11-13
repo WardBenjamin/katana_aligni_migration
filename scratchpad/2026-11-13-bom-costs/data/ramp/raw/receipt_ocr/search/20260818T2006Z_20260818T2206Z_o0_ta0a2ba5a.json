@@ -1,0 +1,198 @@
+{
+ "query": {
+  "window": [
+   "2026-08-18T20:06:00Z",
+   "2026-08-18T22:06:00Z"
+  ],
+  "keywords": [
+   "McMaster",
+   "McMaster-Carr",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:22.586Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "e61449eb-ad94-44bf-a9e6-b088f328b4c6",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "0042a7ad-b1c5-4fce-a0f3-b2e5bd5a7e85",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-18T21:06:40.279621Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-08-18",
+   "total_amount": "28.96",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-08-18",
+    "total_amount": 28.96,
+    "subtotal": 15.68,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 0.83
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 12.45
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Tamper-Resistant Torx Bit 1/4\" Hex Shank for Power Tools, T20 Size, 2\" Overall Length",
+      "item_quantity": 1.0,
+      "item_unit_price": 7.84,
+      "item_total_price": 15.68
+     }
+    ]
+   },
+   "ocr_excerpt": "Thank you for your order. We will deliver your items by 5 pm tomorrow.\nConfirmation\nDelivery address\nAirgarage, Inc.\n611 Mollys Way\nSaluda  VA  23149\nAttention:\nMcMaster-Carr\nDelivery method\nUPS Ground\nOrder date\n8/18/2026\nPayment method\nVisa (****4520)\nPlaced by\nBenjamin Ward\nMcMaster-Carr number\n4205958\n0818BWARD\nDelivers Aug 19, by 5 pm\n1\nTamper-Resistant Torx Bit\n1/4\" Hex Shank for Power Tools, T20 Size, 2\" Overall Length\n7233A65\n2\neach\n7.84\neach\n$15.68\nMerchandise\n15.68\nShipping\n12.45\nTax\n0.83\nTotal\n$28.96\nYour order is subject only to our terms and conditions, available at\nwww.mcmaster.com\nor from our Sales Department.\nPhone: (609) 259-8900\nEmail: nj.sales@mcmaster.com\n"
+  },
+  {
+   "receipt_uuid": "a0a2ba5a-2fa1-4025-ae62-d2522bfc3b56",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "0042a7ad-b1c5-4fce-a0f3-b2e5bd5a7e85",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-18T21:06:39.708478Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-08-18",
+   "total_amount": "15.68",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-08-18",
+    "total_amount": 15.68,
+    "subtotal": 15.68,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 0.83
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 12.45
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 7233A65 Tamper-Resistant Torx Bit, 1/4\" Hex Shank for Power Tools, T20 Size, 2\" Overall Length",
+      "item_quantity": 2.0,
+      "item_unit_price": 7.84,
+      "item_total_price": 15.68
+     }
+    ]
+   },
+   "ocr_excerpt": "    Order Confirmation\n609-689-3000\n609-689-3280 (fax)\nnj.sales@mcmaster.com\n\nShip to                               Order Date\nAirgarage, Inc.                       8/18/26\n611 Mollys Way\nSaluda VA 23149        Ordered By     McMaster-Carr Number\n    Benjamin Ward                     4205958\n\nAttention McMaster-Carr\n\n\nLine               Product        Ordered                                  Delivers        Price    Total\n\n1      7233A65     Tamper-Resistant Torx Bit, 1/4\" Hex Shank for    2      Aug 19           7.84    15.68\n                   Power Tools, T20 Size, 2\" Overall Length        each                     each\n\n                                                                            Merchandise             15.68\n                                                                               Shipping             12.45\n                                                                                    Tax              0.83\n                                                                                  Total            $28.96\n\n\n\n\n\n\n\n\n\n\nYour order is subject only to our terms and conditions, available at www.mcmaster.com or from our Sales Department.\n\nMcMaster-Carr Supply Company                                                               Page 1 of 1"
+  },
+  {
+   "receipt_uuid": "2d4bdcbe-877c-47c0-b879-0600f3711097",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "c4dfbb94-b004-4404-a697-00aa595e603a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-18T20:39:24.367644Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-08-18",
+   "total_amount": "43.49",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-08-18",
+    "total_amount": 43.49,
+    "subtotal": 39.99,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 3.5
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "ASMALAM 20 Pack 14\"x16\" Expanding Foam Packaging Cushioning Foam Pouches Expanding for PC Electronic Components Equipment Fragile Items Shipping Moving Packaging Storage",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 39.99
+     }
+    ]
+   },
+   "ocr_excerpt": "t 18, 2026\nOrder # 114-6077957-2904212\nShip to\nBryan Monti\n32 PROVINCE DR\nCENTEREACH, NY 11720-4616\nUnited States\nPayment method\nVisa ending in 1571\nView related transactions\nOrder Summary\nItem(s) Subtotal:\n$39.99\nShipping & Handling: $0.00\nTotal before tax: $39.99\nEstimated tax to be\n$3.50\ncollected:\nGrand Total:\n$43.49\nPlaced by\nBryan Monti\nArriving tomorrow\nASMALAM 20 Pack 14\"x16\" Expanding Foam Packaging Cushioning Foam Pouches Expanding for PC Electronic Components Equipment Fragile Items Shipping Moving Packaging Storage Sold by: Buzuo Supplied by: Other $39.99\nBack to top\n✕\nprime business\nEnglish\nUnited\nConditions of Use Privacy Notice Your Ads Privacy Choice 1996-2026, Amazon.com, Inc. or its affiliates\nA\n›\n-\n-\nn"
+  },
+  {
+   "receipt_uuid": "67d23503-f699-4a88-ae1d-b6d28e15b15d",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "a90a4b8c-3da4-44a0-b4a1-5dc4fa6517de",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-18T20:21:00.962171Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-08-18",
+   "total_amount": "10.47",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-08-18",
+    "total_amount": 10.47,
+    "subtotal": 6.64,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 0.84
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 2.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Black Paint Markers, 2 Pack Oil-Based Waterproof Quick Dry Permanent Paint Pen Set for Rocks Painting, Wood, Fabric, Plastic, Canvas, Glass, Mugs, Metal, Tire, Stone, DIY Craft",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 6.64
+     }
+    ]
+   },
+   "ocr_excerpt": "t 18, 2026\nOrder # 114-0143207-3217074\nShip to\nBryan Monti\n32 PROVINCE DR\nCENTEREACH, NY 11720-4616\nUnited States\nPayment method\nVisa ending in 1571\nView related transactions\nOrder Summary\nItem(s) Subtotal:\n$6.64\nShipping & Handling: $2.99\nTotal before tax: $9.63\nEstimated tax to be\n$0.84\ncollected:\nGrand Total:\n$10.47\nPlaced by\nBryan Monti\nArriving overnight 7 AM - 11 AM\nPAINT PENS\nPAINT PENS\nBlack Paint Markers, 2 Pack Oil-Based Waterproof Quick Dry Permanent Paint Pen Set for Rocks Painting, Wood, Fabric, Plastic, Canvas, Glass, Mugs, Metal, Tire, Stone, DIY Craft Sold by: Aoh Supplied by: Other $6.64\nBack to top\n✕\nprime business\nEnglish\nUnited\nConditions of Use Privacy Notice Your Ads Privacy Choice 1996-2026, Amazon.com, Inc. or its affiliates\nA\n›"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-03-19T00:44:01Z",
+   "2025-03-19T02:44:01Z"
+  ],
+  "keywords": [
+   "Texas Instruments",
+   "TI",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

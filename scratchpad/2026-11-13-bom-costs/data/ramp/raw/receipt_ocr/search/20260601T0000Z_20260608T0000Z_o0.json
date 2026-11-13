@@ -1,0 +1,71 @@
+{
+ "query": {
+  "window": [
+   "2026-06-01T00:00:00Z",
+   "2026-06-08T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:49:55.941Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "bd1d7b07-0b0b-4a60-8fcd-24861040b61b",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "ec725d5e-8adb-4434-b24a-755560b35df0",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-04T12:36:46.217064Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-05-29",
+   "total_amount": "68.01",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-05-29",
+    "total_amount": 68.01,
+    "subtotal": 62.97,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 5.04
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "EdenseeLake 40 Pack 8x5x5 inches Shipping Boxes, Corrugated Cardboard Boxes Bulk for Packing, Moving, Mailing, Small Business",
+      "item_quantity": 3.0,
+      "item_unit_price": 20.99,
+      "item_total_price": 62.97
+     }
+    ]
+   },
+   "ocr_excerpt": "Your Account > Your Orders > Order Details Order Details\nOrder placed May 29, 2026\nOrder # 112-4926200-3553856\nInvoice\nShip to\nChris Williamson\n185 Stag Dr\nWILLISTON, SC 29853\nUnited States\nPayment method\nVISA Visa ending in 2311\nView related transactions\nOrder Summary\nItem(s) Subtotal:\n$62.97\nShipping & Handling: $0.00\nTotal before tax:\n$62.97\nEstimated tax to be\n$5.04\ncollected:\nGrand Total:\n$68.01\nPlaced by\nChris Williamson\nDelivered June 2\nYour package was left near the front door or porch.\nEdenseeLake 40 Pack 8x5x5 inches Shipping Boxes, Corrugated Cardboard Boxes Bulk for Packing, Moving, Mailing, Small Business Sold by: Hiddekel\nReturn or replace items: Eligible through July 2, 2026\n3\n$20.99\nBuy it again\nView your item\nTrack package\nReturn or replace items\nShare gift receipt\nAsk Product Question\nLeave seller feedback\nWrite a product review\nPrint packing slip"
+  }
+ ]
+}

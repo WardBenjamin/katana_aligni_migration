@@ -1,0 +1,66 @@
+{
+ "query": {
+  "window": [
+   "2026-07-27T00:00:00Z",
+   "2026-08-03T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:03.942Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "ce43c1e5-cfca-4fde-b901-4fc40af5f5bd",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "597721f8-f0b7-46d9-8b05-b951c7cd190a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-30T09:24:21.218337Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-07-29",
+   "total_amount": "14.81",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-07-29",
+    "total_amount": 14.81,
+    "subtotal": 14.06,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 0.75
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "DSD TECH SH-U09C5 USB to TTL UART Converter Cable with FTDI Chip Support 5V 3.3V 2.5V 1.8V TTL",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 14.06
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #111-8793214-7433052 Order Placed: July 29, 2026 Amazon.com order number: 111-8793214-7433052 Order Total: USD 14.81**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n1 of: DSD TECH SH-U09C5 USB to TTL UART Converter Cable with FTDI Chip Support 5V 3.3V 2.5V 1.8V TTL $14.06\n\nSold by and invoiced on behalf of: DSD TECH Direct (seller profile) Business Price Condition: New\n\n# Shipping Address:\n\nBen Ward 611 MOLLYS WAY SALUDA, VA 23149-2578 United States\n\n# Shipping Speed:\n\nFREE Prime Delivery\n\nItem(s) Subtotal: $14.06 Shipping & Handling: $0.00\n\n---\n\nTotal before tax: $14.06 Sales Tax: $0.75\n\n---\n\n# Total for This Shipment: $14.81\n\n---\n\n# Payment information\n\n**Payment Method:** Item(s) Subtotal: USD 14.06 Visa | Last digits: 3514 Shipping & Handling: USD 0.00\n\n# Billing address\n\nBen Ward Total before tax: USD 14.06 2261 MARKET ST # 4027 Estimated tax to be collected: USD 0.75 SAN FRANCISCO, CA 94114-1612 United States\n\n# Grand Total: USD 14.81\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "query": {
+  "window": [
+   "2025-10-08T15:05:38Z",
+   "2025-10-08T17:05:38Z"
+  ],
+  "keywords": [
+   "Hologram",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

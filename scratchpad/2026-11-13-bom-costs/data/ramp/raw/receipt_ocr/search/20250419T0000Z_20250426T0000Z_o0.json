@@ -1,0 +1,24 @@
+{
+ "query": {
+  "window": [
+   "2025-04-19T00:00:00Z",
+   "2025-04-26T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:16Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

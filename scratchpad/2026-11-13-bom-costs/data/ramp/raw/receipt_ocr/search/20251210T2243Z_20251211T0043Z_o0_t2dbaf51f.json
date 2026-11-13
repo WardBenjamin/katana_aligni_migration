@@ -1,0 +1,22 @@
+{
+ "query": {
+  "window": [
+   "2025-12-10T22:43:17Z",
+   "2025-12-11T00:43:17Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "2dbaf51f-adaf-4af4-a3f1-fada8a3042f7"
+ },
+ "pulled_at": "2026-11-13T04:54:52Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

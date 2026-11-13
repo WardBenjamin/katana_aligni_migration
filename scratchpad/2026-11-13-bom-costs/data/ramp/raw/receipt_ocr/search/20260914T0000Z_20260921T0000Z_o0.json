@@ -1,0 +1,250 @@
+{
+ "query": {
+  "window": [
+   "2026-09-14T00:00:00Z",
+   "2026-09-21T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:44.030Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "f27d65a8-ba31-462b-a22d-3df3b0debab0",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "76eb20fb-6fbf-4682-ac81-dac3bfe84d03",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-14T20:12:49.579459Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-09-14",
+   "total_amount": "544.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-09-14",
+    "total_amount": 544.0,
+    "subtotal": 544.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Quality Control Records Aug 10–Sep 10, 2026",
+      "item_quantity": 0.0,
+      "item_unit_price": null,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "First 3",
+      "item_quantity": 0.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Viewer Seats Sep 10–Oct 10, 2026",
+      "item_quantity": 1.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 76.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Collaborator Seats Sep 10–Oct 10, 2026",
+      "item_quantity": 3.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 228.0
+     },
+     {
+      "item_date": null,
+      "item_name": "MRP Pro Sep 10–Oct 10, 2026",
+      "item_quantity": 1.0,
+      "item_unit_price": 240.0,
+      "item_total_price": 240.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\n\nInvoice number 3QVWWHHB-0007\nReceipt number 2751-1419\nDate paid     September 14, 2026\n\nAligni Incorporated             Bill to\nsales@aligni.com                AirGarage, Inc.\n                                ben@airgarage.com\n\n$544.00 paid on September 14, 2026\n\nDescription                                                    Qty           Unit price     Amount\n\nQuality Control Records                                      0                               $0.00\nAug 10-Sep 10, 2026\nFirst 3                                                      0                    $0.00      $0.00\n\nViewer Seats                                                 1                   $76.00     $76.00\nSep 10-Oct 10, 2026\n\nCollaborator Seats                                           3                   $76.00    $228.00\nSep 10-Oct 10, 2026\n\nMRP Pro                                                      1                  $240.00    $240.00\nSep 10-Oct 10, 2026\n\n                                       Subtotal                                            $544.00\n                                       Total                                               $544.00\n                                       Amount paid                                         $544.00\n\nPayment history\n\nPayment method                         Date                   Amount paid           Receipt number\n\nVisa - 4198                            September 14, 2026     $544.00                    2751-1419\n\n\n\n\n\n\n\n\n\n\n                                                                             Page 1 of 1"
+  },
+  {
+   "receipt_uuid": "db5f9a70-37aa-41e0-b099-d6f3747887fe",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "76eb20fb-6fbf-4682-ac81-dac3bfe84d03",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-14T20:12:49.762290Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-09-14",
+   "total_amount": "544.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-09-14",
+    "total_amount": 544.0,
+    "subtotal": 544.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": null,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 76.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 228.0
+     },
+     {
+      "item_date": null,
+      "item_name": "MRP Pro",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 240.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Your receipt from Aligni Incorporated #2751-1419\nYour receipt from Aligni Incorporated #2751-1419\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\nAligni Incorporated\nReceipt from Aligni Incorporated\n$544.00\nPaid September 14, 2026\nDownload invoice\nDownload receipt\nReceipt number\n2751-1419\nInvoice number\n3QVWWHHB-0007\nPayment method\n- 4198\nReceipt #2751-1419\nAug 10–Sep 10, 2026\nQuality Control Records\nQty 0\nFirst 3\nQty 0\n$0.00\nSep 10–Oct 10, 2026\nViewer Seats\nQty 1\n$76.00\nCollaborator Seats\nQty 3\n$228.00\n$76.00 each\nMRP Pro\nQty 1\n$240.00\nTotal\n$544.00\nAmount paid\n$544.00\nQuestions? Visit our\nsupport site\nor contact us at\nsales@aligni.com\n.\nPowered by\n"
+  },
+  {
+   "receipt_uuid": "05b2c8f1-507e-4da5-b1d2-f0f393177ff1",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "ee7e1e2c-e7f7-44b3-8d09-c314afbf8883",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-14T16:24:21.825590Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-09-14",
+   "total_amount": "145.16",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-09-14",
+    "total_amount": 145.16,
+    "subtotal": 133.48,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 11.68
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 2.99
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "Free Shipping",
+      "discount_rate": null,
+      "discount_amount": 2.99
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Magswitch MagSquare 150 2-Pack Switchable Magnetic Squares",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 133.48
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-5358634-2204216\n    Order Placed: September 14, 2026\n    Amazon.com order number: 114-5358634-2204216\n    Order Total: USD 145.16\n\n        Not Yet Shipped\n\n    Items Ordered                                                                     Price\n    1 of: Magswitch MagSquare 150 2-Pack Switchable Magnetic Squares                $133.48\n    Sold by and invoiced on behalf of: Magswitch Technologies (seller profile)\n    Seller Credentials: Classified Small Business - SBA Standard\n    Business Price\n    Condition: New\n\n    Shipping Address:\n    Bryan Monti\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616\n    United States\n\n    Shipping Speed:\n    Rush Shipping\n\n        Payment information\n    Payment Method:                                            Item(s) Subtotal: USD 133.48\n    Visa | Last digits: 1571                              Shipping & Handling:     USD 2.99\n    Billing address                                             Free Shipping:    -USD 2.99\n    Bryan Monti\n    2261 MARKET ST                                             Total before tax: USD 133.48\n    SAN FRANCISCO, CA 94114-1612                Estimated tax to be collected:    USD 11.68\n    United States\n\n                                                                    Grand Total: USD 145.16\n\n   To view the status of your order, return to Order Summary .\n\nConditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc."
+  },
+  {
+   "receipt_uuid": "3a666d45-87cc-4d99-b20d-ab78f382109e",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "100b05a0-f29d-447e-8067-6835768c20b2",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-14T16:24:34.700307Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-09-14",
+   "total_amount": "27.78",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-09-14",
+    "total_amount": 27.78,
+    "subtotal": 26.14,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 2.24
+     }
+    ],
+    "fees": null,
+    "discounts": [
+     {
+      "discount_name": "Promotion applied",
+      "discount_rate": null,
+      "discount_amount": 0.6
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Thermal Pad 14.8 W/mK, 85x45x2.5mm, Non Conductive Heat Resistance High Temperature Resistance, Silicone Thermal Pads for Laptop Heatsink GPU CPU LED Cooler (2.5mm)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 14.24
+     },
+     {
+      "item_date": null,
+      "item_name": "ViaGasaFamido Thermal Pad 100 x 100 x 5mm 1.5W/m-k Conductivity Heat Conductive Silicone Pad CPU GPU Heat Dissipation Silicone Sheet for Laptop Heatsink SSD IC LED Cooler",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 11.9
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-1719504-6355445\n    Order Placed: September 14, 2026\n    Amazon.com order number: 114-1719504-6355445\n    Order Total: USD 27.78\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                            Price\n    1 of: Thermal Pad 14.8 W/mK, 85x45x2.5mm, Non Conductive Heat Resistance High Temperature Resistance, Silicone Thermal  $14.24\n    Pads fo\n    r Laptop Heatsink GPU CPU LED Cooler (2.5mm)\n    Sold by and invoiced on behalf of: WithFlying (seller profile)\n    Business Price\n    Condition: New\n\n    1 of: ViaGasaFamido Thermal Pad 100 x 100 x 5mm 1.5W/m-k Conductivity Heat Conductive Silicone Pad CPU GPU Heat         $11.90\n    Dissipation Si\n    licone Sheet for Laptop Heatsink SSD IC LED Cooler\n    Sold by and invoiced on behalf of: yapdi-us (seller profile)\n    Condition: New\n\n    Shipping Address:\n    Bryan Monti\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616\n    United States\n\n    Shipping Speed:\n    FREE Prime Delivery\n\n        Payment information\n    Payment Method:                                                                                    Item(s) Subtotal: USD 26.14\n    Visa | Last digits: 1571                                                                         Shipping & Handling: USD 0.00\n    Billing address                                                                                  Promotion applied:: -USD 0.60\n    Bryan Monti\n    2261 MARKET ST                                                                                     Total before tax: USD 25.54\n    SAN FRANCISCO, CA 94114-1612        Estimated tax to be collected:                                                    USD 2.24\n    United States\n\n                                                                                                            Grand Total: USD 27.78\n\n   To view the status of your order, return to Order Summary .\n\nConditions of Use | Privacy No"
+  }
+ ]
+}

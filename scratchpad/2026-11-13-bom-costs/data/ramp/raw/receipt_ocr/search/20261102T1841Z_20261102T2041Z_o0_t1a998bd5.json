@@ -1,0 +1,94 @@
+{
+ "query": {
+  "window": [
+   "2026-11-02T18:41:00Z",
+   "2026-11-02T20:41:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:18.231Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "1a998bd5-dd24-4df0-b2f3-46c91962d775",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "3a7a3dbd-3993-41f3-90f9-6c5aaa5d0caa",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-02T19:41:15.104443Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "256.4",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 256.4,
+    "subtotal": 237.4,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "10 PCS 14\"x16\" Expanding Packing ...",
+      "item_quantity": 10.0,
+      "item_unit_price": 23.74,
+      "item_total_price": 237.4
+     }
+    ]
+   },
+   "ocr_excerpt": "r delivery\nDelivered\nArriving Thursday\nChris - WILLISTON, SC - On behalf of ByTechs LLC\nOrder #\n‫112-8032283-1401021\nView or edit order\n10 PCS 14\"x16\" Expanding Packing ...\nQuantity: 10\n$\n23\n74\nGrand Total:\n$256.40\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  },
+  {
+   "receipt_uuid": "6dbaf4d1-5e51-49cd-8607-ba1bce82d8c2",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "bc5721f4-d914-4609-85cc-1f9664194c3b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-02T19:05:17.386319Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-11-02",
+   "total_amount": "13.99",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-11-02",
+    "total_amount": 13.99,
+    "subtotal": 12.86,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.13
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: TMAX 25p T27 Torx Star 6 Point 2\" Impact Torsion Screwdriver Bit, S2 Steel | 1/4\" Hex Shank Quick Release Slot / Extended Torsion Zone, High Torsion Resistance |Fit Dewalt Milwaukee Bosch Makita",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 12.86
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-4149877-1974619\n    Order Placed: November 2, 2026\n    Amazon.com order number: 114-4149877-1974619\n    Order Total: USD 13.99\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                  Price\n    1 of: TMAX 25p T27 Torx Star 6 Point 2\" Impact Torsion Screwdriver Bit, S2 Steel | 1/4\" Hex Shank Quick Release Slot          $12.86\n    | Extended Torsion Zone, High Torsion Resistance |Fit Dewalt Milwaukee Bosch Makita\n    Sold by and invoiced on behalf of: Golden Coulee, LLC (seller profile)\n    Seller Credentials: 889 Certification, Registered Small Business, Classified Small Business - SBA Standard, Minority-Owned\n    Business\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                        Item(s) Subtotal:    $12.86\n    Bryan Monti                                                                                           Shipping & Handling:     $0.00\n    32 PROVINCE DR                                                                                                                 -----\n    CENTEREACH, NY 11720-4616\n    United States                                                                                            Total before tax:    $12.86\n                                                                                                                    Sales Tax:     $1.13\n    Shipping Speed:                                                                                                                -----\n    FREE Prime Delivery                                                                               Total for This Shipment:    $13.99\n                                                                                                                                   -----\n\n        Payment information\n    Payment Method:                          "
+  }
+ ]
+}

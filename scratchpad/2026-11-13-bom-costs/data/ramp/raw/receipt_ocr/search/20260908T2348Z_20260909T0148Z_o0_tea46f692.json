@@ -1,0 +1,121 @@
+{
+ "query": {
+  "window": [
+   "2026-09-08T23:48:00Z",
+   "2026-09-09T01:48:00Z"
+  ],
+  "keywords": [
+   "Mouser",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:07.338Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "ea46f692-39b6-4a2a-b0fa-845b68ff6ede",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "8f723058-52cf-4246-b3da-964340fba561",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-09T00:48:01.981042Z",
+   "merchant": "Mouser Electronics, Inc.",
+   "receipt_date": "2026-09-08",
+   "total_amount": "490.5",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics, Inc.",
+    "merchant_address": null,
+    "transaction_date": "2026-09-08",
+    "total_amount": 490.5,
+    "subtotal": 305.85,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 33.76
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 34.69
+     },
+     {
+      "fee_name": "Estimated Tariff",
+      "fee_amount": 116.2
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "M12 Circular Metric",
+      "item_quantity": 5.0,
+      "item_unit_price": 61.17,
+      "item_total_price": 305.85
+     }
+    ]
+   },
+   "ocr_excerpt": "Mouser Electronics, Inc. - Order Confirmation\nOrder Confirmation\nPurchase Order Number :\n40394573\nWeb Order Number :\n40394573\nContact Name :\nBRYAN MONTI\nOrder Date :\nSEP 08, 2026\nCustomer Number :\n61CCD08\nBryan Monti,\nThank you for your order.\nAs soon as your order is shipped, you will receive a Shipment Notification email.\nThe estimated tariff surcharges that apply to your order are shown below.\nPlease view this link\nhttps://www.mouser.com/tariff-updates/\nfor the latest tariff information.\nMeanwhile, use the link below to view the real-time status of your order.\nORDER STATUS\nWeb Order Number\n40394573\nOrder Date\nSEP 08, 2026\nPlease rate your experience with Mouser\nReview\nCurrent Status:\nReal-Time Order Status\nClick now\nfor status or questions about your order.\nA summary of your order is included below.\nThank you for your business.\nCustomer Service\nCustomer Service Representative\nShipping Method\nTerms\nInternet Customer Service\nUPS Next Day Air\nCredit Card\nBill To\nAIRGARAGE, INC.\nAttn: BRYAN MONTI\n2261 MARKET STREET\n#4027\nSAN FRANCISCO, CALIFORNIA 94114\nUNITED STATES\nShip To\nBYTECHS LLC\nAttn: CHRIS WILLIAMSON\n185 STAG DR\nWILLISTON, SOUTH CAROLINA 29853-4829\nUNITED STATES\nLine Number\nMouser Part Number\nCustomer Part Number\nManufacturer Part Number\nDescription\nRequested\nDelivery\nDate(s)\nEstimated\nShipment\nDate(s)\nQuantity\nUnit Price\n(USD)\nExtended Price\n(USD)\n1\n1\n523-AS17MLSASFLSB001\nMSAS17ML-SASFL-SB001\nM12 Circular Metric\nEstimated Tariff\nSEP 08, 2026\nSEP 08, 2026\n5\n61.170\n305.85\n116.20\n1\nRoHS: Compliant\nShipping Notes\nMerchandise Total\n(USD)\n$305.85\nFinal tariff amount will be calculated at the time of shipment.\nShipping\n$34.69\nEstimated Tax\n$33.76\nEstimated Tariff\n$116.20\nThis order is subject to all terms and conditions displayed at:\nhttps://www.mouser.com/saleterms\n"
+  },
+  {
+   "receipt_uuid": "d703a9af-c931-41a9-b92d-c62f0beb236e",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "8f723058-52cf-4246-b3da-964340fba561",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-09T01:23:41.011210Z",
+   "merchant": "Mouser Electronics",
+   "receipt_date": "2026-09-08",
+   "total_amount": "490.5",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics",
+    "merchant_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "transaction_date": "2026-09-08",
+    "total_amount": 490.5,
+    "subtotal": 305.85,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "TAX",
+      "tax_rate": null,
+      "tax_amount": 33.76
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Freight",
+      "fee_amount": 34.69
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "523-AS17MLSASFLSB001 MFG Part No: MSAS17ML-SASFL-SB001 Amphenol LTW M12 Circular Metric / Sensor Cables / Actuator Cables US HTS:8544429090 ECCN:EAR99 COO:CN ACO:-- COD:--",
+      "item_quantity": 5.0,
+      "item_unit_price": 61.17,
+      "item_total_price": 305.85
+     },
+     {
+      "item_date": null,
+      "item_name": "Tariff",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 116.2
+     }
+    ]
+   },
+   "ocr_excerpt": "                    Invoice - Credit Card Receipt\n\n                                                        Invoice No.      Invoice Date  Page No.\n    1000 North Main Street, Mansfield, TX 76063, USA\n    Customer Service Rep: Internet Customer Service      92404895          08-SEP-26    1 of 1\n    Customer Service: 800-346-6873\n    Credit: 800-333-9924                                  Purchase Order No.        Master Tracker No.\n    Federal ID# 61-1520598\n                    INCOTERMS: FCA Shipping Point         40394573                  1Z7759450126609592\n\n                      Contact Name        Ship Via        Customer Number    Terms    Order Date\n\n                       BRYAN MONTI    UPS NEXT DAY AIR    61CCD08           VI 1571    08-SEP-26\n\n                AIRGARAGE, INC.                           BYTECHS LLC\n    Bill To     ATTN: BRYAN MONTI        Ship To          ATTN: CHRIS WILLIAMSON\n                2261 MARKET STREET                        185 STAG DR\n                #4027                                     WILLISTON, SOUTH CAROLINA 29853-4829\n                SAN FRANCISCO, CALIFORNIA 94114           UNITED STATES\n                UNITED STATES\n\n\n\n             Mouser Part Number                              Quantity             Quantity   Quantity  Unit Price(USD)  Extended\nLine No.    Customer/MFG Part No.\n                 Description                                 Ordered              Shipped    Pending                   Price(USD)\n\n    1       523-AS17MLSASFLSB001                                 5                    5          0              61.170     305.85\n            MFG Part No: MSAS17ML-SASFL-SB001\n            Amphenol LTW M12 Circular Metric / Sensor Cables / Actuator Cables                                  Tariff     116.20\n            US HTS:8544429090 ECCN:EAR99 COO:CN ACO:-- COD:--\n\n\n\n\n\n\n\n\n\n\n    Merchandise    Handling    Freight                                                       TAX    Tariff\n\n                   305.85      0.00    "
+  }
+ ]
+}

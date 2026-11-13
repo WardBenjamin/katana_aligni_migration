@@ -1,0 +1,56 @@
+{
+ "call": {
+  "id": 74,
+  "received_after": "2026-07-30T19:36:32Z",
+  "received_before": "2026-07-30T21:36:32Z",
+  "keywords": [
+   "Amazon"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:58:43.078Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "c94c2a67-4ccd-41ed-8ce1-2594c27eb37d",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "5e9981ab-3eb3-4c02-a273-cb94759d9152",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-30T20:36:32.437440Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-07-30",
+   "total_amount": "11.42",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-07-30",
+    "total_amount": 11.42,
+    "subtotal": 10.49,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 0.93
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Amazon Basics 36-Piece Allen Wrench/Hex Key Set, SAE & Metric Sizes, Chrome Vanadium Steel with Long Arm, 2\nOrganize \nd Storage Cases",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 10.49
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #111-1485560-8666601 Order Placed: July 30, 2026 Amazon.com order number: 111-1485560-8666601 Order Total: USD 11.42**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n1 of: Amazon Basics 36-Piece Allen Wrench/Hex Key Set, SAE & Metric Sizes, Chrome Vanadium Steel with Long Arm, 2 $10.49\n\n*Organize* *d Storage Cases* Sold by and invoiced on behalf of: Amazon.com Condition: New\n\n|  |\n|---|\n| Shipping Address: McKinley Stephens 22 14TH ST NW UNIT 2205 ATLANTA GA ATLANTA, GA 30309-4703 United States Shipping Speed: FREE Prime Delivery |\n| Payment information |\n| Payment Method: Item(s) Subtotal: USD 10.49 Visa \\| Last digits: 3514 Shipping & Handling: USD 0.00 Billing address Ben Ward Total before tax: USD 10.49 2261 MARKET ST # 4027 Estimated tax to be collected: USD 0.93 SAN FRANCISCO, CA 94114-1612 United States Grand Total: USD 11.42 |\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  }
+ ]
+}

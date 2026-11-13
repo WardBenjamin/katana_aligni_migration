@@ -1,0 +1,79 @@
+{
+ "query": {
+  "window": [
+   "2026-08-18T10:01:00Z",
+   "2026-08-18T12:01:00Z"
+  ],
+  "keywords": [
+   "McMaster",
+   "McMaster-Carr",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:25.267Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "22f0c96d-de20-4f43-bd93-a4b9ad0cc4f9",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "0042a7ad-b1c5-4fce-a0f3-b2e5bd5a7e85",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-18T11:01:12.140648Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-08-17",
+   "total_amount": "154.15",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": "McMaster-Carr Supply Company",
+    "transaction_date": "2026-08-17",
+    "total_amount": 154.15,
+    "subtotal": 134.05,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 7.1
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "3497A11 Spring-Impact Center Punch, Starrett 819 with Self-Centering Sleeve",
+      "item_quantity": 1.0,
+      "item_unit_price": 63.53,
+      "item_total_price": 63.53
+     },
+     {
+      "item_date": null,
+      "item_name": "34225A65 Spring-Impact Center Punch, Starrett 818 with Aluminum Handle",
+      "item_quantity": 1.0,
+      "item_unit_price": 55.0,
+      "item_total_price": 55.0
+     },
+     {
+      "item_date": null,
+      "item_name": "94625A423 Tamper-Resistant Torx Flat Head Drilling Screws, Zinc-Plated Steel, Number 10 Screw Size, 3/4\" Long, Packs of 50",
+      "item_quantity": 1.0,
+      "item_unit_price": 15.52,
+      "item_total_price": 15.52
+     }
+    ]
+   },
+   "ocr_excerpt": "                                                 Receipt\n609-689-3000\n609-689-3280 (fax)\nnj.sales@mcmaster.com\n\n                             Purchase Order    0817BWARD\n                             Paid                $154.15\n                             Invoice            70281002\nBilled to\nATTENTION: BENJAMIN WARD     Invoice Date        8/17/26\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\n\n\nShipped to                   Information About Your Payment\nAttention: McMaster-Carr     Credit Card    Visa Ending- 4520\nAirgarage, Inc.              Date                     8/18/26\n611 Mollys Way               Name on Card       Benjamin Ward\nSaluda VA 23149\n\n                             Your Account           389831100\n\n\nBenjamin Ward placed this order.\n\nLine                Product                                          Ordered    Shipped    Balance     Price     Total\n1       3497A11     Spring-Impact Center Punch, Starrett 819 with          1          1          0     63.53     63.53\n                    Self-Centering Sleeve                               Each                           Each\n\n2       34225A65    Spring-Impact Center Punch, Starrett 818 with          1          1          0     55.00     55.00\n                    Aluminum Handle                                     Each                           Each\n\n3       94625A423   Tamper-Resistant Torx Flat Head Drilling Screws,       1          1          0     15.52     15.52\n                    Zinc-Plated Steel, Number 10 Screw Size, 3/4\"       Pack                            Per Pack\n                    Long, Packs of 50\n\n\n                                                          Merchandise                                           134.05\n                                                          Sales Tax                                               7.10\n                                                          Shipping                                               13.00\n                          "
+  }
+ ]
+}

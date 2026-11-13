@@ -1,0 +1,50 @@
+{
+ "call": {
+  "id": 70,
+  "received_after": "2026-07-24T20:41:17Z",
+  "received_before": "2026-07-24T22:41:17Z",
+  "keywords": [
+   "ULINE"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:58:43.204Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "aaf01d49-811c-4676-8579-9053eff58657",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "1eda7509-f69e-419b-8465-56e9c83c0437",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-24T21:41:17.765674Z",
+   "merchant": "ULINE",
+   "receipt_date": null,
+   "total_amount": "145.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "ULINE",
+    "merchant_address": null,
+    "transaction_date": null,
+    "total_amount": 145.0,
+    "subtotal": 145.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "STANDARD SAFETY BOLLARD - 4.5 X 60\", FIXED",
+      "item_quantity": 1.0,
+      "item_unit_price": 145.0,
+      "item_total_price": 145.0
+     }
+    ]
+   },
+   "ocr_excerpt": "ULINE:  THANK YOU FOR YOUR ORDER.\n800-295-5510 | uline.com\nThank you for choosing Uline. Your order 52475596‌ has shipped.\nTo track the status of this order and all other orders, please visit\nuline.com/track\n. Please note that shipment status and tracking details may not be available immediately.\nSOLD TO:\nSHIP TO:\nAIRGARAGE\nPMB 4027\n2261 MARKET ST\nSAN FRANCISCO CA 94114-1612\nAIRGARAGE INC\n32 PROVINCE DR\nSOUTH SETAUKET NY 11720-4616\nORDER #:\n52475596‌\nPO #:\nBENJAMIN‌\nShipment 1 of 1\nQTY\nORDERED\nU/M\nITEM NUMBER\nDESCRIPTION\nUNIT PRICE\nQTY\nSHIPPED\n1\nEA\nH-6290F\nSTANDARD SAFETY BOLLARD - 4.5 X 60\", FIXED\n145.00\n1\nCARRIER:\nUPS GROUND\nTRACKING #:\n1ZC6W4480300359648\nSincerely,\nUline Customer Service Department\nPhone: (800) 295-5510\nEmail:\ncustomer.service@uline.com\n"
+  }
+ ]
+}

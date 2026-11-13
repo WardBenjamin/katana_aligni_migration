@@ -1,0 +1,199 @@
+{
+ "query": {
+  "window": [
+   "2026-04-01T00:00:00Z",
+   "2026-04-08T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:50:05Z",
+ "returned": 3,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "bcd4280a-681b-43cc-b0fd-724eedf2edd8",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "78a9a726-8eb2-4895-b204-587dc843d080",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-02T19:33:18.631906Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-04-02",
+   "total_amount": "668.22",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA",
+    "transaction_date": "2026-04-02",
+    "total_amount": 668.22,
+    "subtotal": 622.25,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 32.98
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges",
+      "fee_amount": 12.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "NITROGEN95 IMX95 BT WIFI",
+      "item_quantity": 1.0,
+      "item_unit_price": 622.25,
+      "item_total_price": 622.25
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 98420762 USD $\nBill To:\nBENJAMIN WARD AIRGARAGE 2261 MARKET STREET #4027 SAN FRANCISCO CA 94114-0000 USA\nShip To:\nBENJAMIN WARD AIRGARAGE, INC. 611 MOLLYS WAY SALUDA VA 23149-2578 USA\nCustomer:\n17021708 Visa\nPayment Terms: Shipping Method: Order Source:\nUPS 2 Day INTERNET\n02-APR-2026\n02-APR-2026/AUTO\nBuyer:\nBENJAMIN WARD AirGarage 903 RED HILL DR URBANNA VA 23175 USA\nShip From:\nDIGI-KEY ELECTRONICS 701 BROOKS AVE. SOUTH P.O. BOX 677 THIEF RIVER FALLS MN 56701-0677\nLine Item\nOrdered\nAvailable Qty\nBackordered Qty\nItem Number/ Description\nUnit Price USD $\nAmount USD $\n1\n1\n1\n0\nPART: 2851-EZSMI-959-0816-00158-2-K2-ND\nDESC: NITROGEN95 IMX95 BT WIFI\n622.25000\n622.25\nMFG : EZURIO LLC. / EZSMI-959-0816-00158-2-K2\nECCN: 5A992C HTSUS: 8471.50.0150\nSales Amount\n622.25\nTotal Sales and Estimated Tariff Amount\n622.25\nShipping charges applied\n12.99\nSales Tax\n32.98\nTotal\n668.22\nUSD $\nGeneral - WEB ORDER ID: 370262262\nAll transactions with DigiKey, including its affiliates, are subject to DigiKey's Terms of Use and Conditions of Order.\nPage 1 of 1\nOrder Date: Estimated Release Date:"
+  },
+  {
+   "receipt_uuid": "6a6f0bd3-967f-47f4-af15-c3d39c066451",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "7f0b3c42-ecbf-4b36-8564-a1340b51a87d",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-02T20:38:55.213210Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-04-02",
+   "total_amount": "473.51",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA",
+    "transaction_date": "2026-04-02",
+    "total_amount": 473.51,
+    "subtotal": 393.25,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 34.11
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "TARIFF",
+      "fee_amount": 33.16
+     },
+     {
+      "fee_name": "Shipping charges",
+      "fee_amount": 12.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "CONN SHIELD FOR USB MICRO B PLUG",
+      "item_quantity": 500.0,
+      "item_unit_price": 0.12322,
+      "item_total_price": 61.61
+     },
+     {
+      "item_date": null,
+      "item_name": "CONN PLG USB2.0 MICRO B VERT",
+      "item_quantity": 500.0,
+      "item_unit_price": 0.66328,
+      "item_total_price": 331.64
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 98422820 USD $\nBill To:\nBENJAMIN WARD AIRGARAGE 2261 MARKET STREET #4027 SAN FRANCISCO CA 94114-0000 USA\nShip To:\nCHRIS WILLIAMSON BYTECHS, LLC 185 STAG DR WILLISTON SC 29853-4829 USA\nCustomer:\n17021708\nVisa\nPayment Terms: Shipping Method: UPS 2 Day\nOrder Source: INTERNET\nOrder Date: Estimated Release Date:\n02-APR-2026\n02-APR-2026/AUTO\nBuyer:\nBENJAMIN WARD AirGarage 903 RED HILL DR URBANNA VA 23175 USA\nShip From:\nDIGI -KEY ELECTRONICS 701 BROOKS AVE. SOUTH P.O. BOX 677 THIEF RIVER FALLS MN 56701-0677\nLine Item\nOrdered\nAvailable Qty\nBackordered Qty\nItem Number/ Description\nUnit Price USD $\nAmount USD $\n1\n500\n500\n0\nPART: H11496CT-ND\nDESC: CONN SHIELD FOR USB MICRO B PLUG\n0.12322\n61.61\nMFG : HIROSE ELECTRIC CO LTD (VA) / ZX20-B-SLDC\nECCN: EAR99 HTSUS: 8538.90.8180\nROHS3 COMP REACH UNAFFECTED 14-JUN-2023\nMercury: Cert on File. For more information contact Environmental@Digikey.com\n2\n500\n500\n0\nPART: H125237-ND\nDESC: CONN PLG USB2.0 MICRO B VERT\n0.66328\n331.64\nMFG : HIROSE ELECTRIC CO LTD / ZX20-B-5S-UNIT(30) ECCN: EAR99 HTSUS: 8536.69.4040\nROHS3 COMP REACH UNAFFECTED 14-JUN-2023\nMercury: Cert on File. For more information contact Environmental@DigiKey.com\nTARIFF\n33.16\nSales Amount\n393.25\nEstimated Tariff Amount\n33.16\nTotal Sales and Estimated Tariff Amount\n426.41\nShipping charges applied\n12.99\nSales Tax\n34.11\nTotal\n473.51\nUSD $\nGeneral - WEB ORDER ID: 370265148\nAll transactions with DigiKey, including its affiliates, are subject to DigiKey's Terms of Use and Conditions of Order.\nPage 1 of 2\nDigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 98422820 USD $\nAll transactions with DigiKey, including its affiliates, are subject to DigiKey's Terms of Use and Conditions of Order.\nPage 2 of 2"
+  },
+  {
+   "receipt_uuid": "0af5ef33-b55c-43ac-90a6-9932c1ccf7db",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": null,
+   "reimbursement_uuid": "4149441a-8215-43c1-a7b6-7116c52f0098",
+   "received_at": "2026-04-02T04:08:45.253769Z",
+   "merchant": "Outback Steakhouse",
+   "receipt_date": "2026-04-01",
+   "total_amount": "53.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Outback Steakhouse",
+    "merchant_address": "160 Aiken Mall Road, Aiken, SC 29803",
+    "transaction_date": "2026-04-01",
+    "total_amount": 53.0,
+    "subtotal": 38.28,
+    "tip": 11.27,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 3.45
+     }
+    ],
+    "fees": null,
+    "discounts": [
+     {
+      "discount_name": "COMP 2 ITEM PR",
+      "discount_rate": null,
+      "discount_amount": 12.99
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-01",
+      "item_name": "STRAW LEM",
+      "item_quantity": 1.0,
+      "item_unit_price": 3.99,
+      "item_total_price": 3.99
+     },
+     {
+      "item_date": "2026-04-01",
+      "item_name": "ICE WATER",
+      "item_quantity": 1.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": "2026-04-01",
+      "item_name": "8 FILET",
+      "item_quantity": 1.0,
+      "item_unit_price": 34.29,
+      "item_total_price": 34.29
+     },
+     {
+      "item_date": "2026-04-01",
+      "item_name": "DU TRIO",
+      "item_quantity": 1.0,
+      "item_unit_price": 12.99,
+      "item_total_price": 12.99
+     }
+    ]
+   },
+   "ocr_excerpt": "Benjamin Ward\nTech Lead / Manager - Hardware Engineering, AirGarage\nairgarage.com\n---------- Forwarded message ---------\nFrom:\nOutback Steakhouse\n<\nreceipt@ziosk.com\n>\nDate: Wed, Apr 1, 2026, 9:51 PM\nSubject: Your Receipt\nTo:  <\nben@airgarage.com\n>\nOutback Steakhouse Aiken, SC #4150\n160 Aiken Mall Road\nAiken, SC 29803\n(803) 644-4031\nPhoneNumber1: 8036444031\nCheck No: 280\nTable No: 9\nDate: 04/01/2026 09:51 PM\nServer: DYLAN\nVISA CREDIT/2345\nSale/Chip Read\nTID:0106\nAID:A0000000031010\nTVR:8080008000\nIAD:72CA519700820000\nTSI:6800\nARC:00\nTRN SEQ:00002137\nTRN ID:1088364947\nNET:Visa\nMODE:Issuer\nAuth Code:01138D\nDescription\nQty\nPrice\nSTRAW LEM\n1.00\n3.99\nICE WATER\n1.00\n0.00\n8 FILET\n1.00\n34.29\nDU TRIO\n1.00\n12.99\nCOMP 2 ITEM PR\n1.00\n-12.99\n-------------\nSub Total\n38.28\nTax\n3.45\n-------------\nTotal\n41.73\nTip\n11.27\nAmount Paid\n53.00\n*** This is an automatically generated email, please do not reply. ***\n"
+  }
+ ]
+}

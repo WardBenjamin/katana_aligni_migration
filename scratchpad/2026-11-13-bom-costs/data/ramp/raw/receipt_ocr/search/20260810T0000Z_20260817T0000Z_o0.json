@@ -1,0 +1,204 @@
+{
+ "query": {
+  "window": [
+   "2026-08-10T00:00:00Z",
+   "2026-08-17T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:04.128Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "ed237eb3-5cc0-41ba-a3b4-17518c2a7dc7",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "63506472-479c-49b7-a6c2-5586ac8b96b1",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-13T11:20:48.915759Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-08-13",
+   "total_amount": "7882.47",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": "2045 W Grand Ave, Ste B, PMB #25937, Chicago, Illinois 60612",
+    "transaction_date": "2026-08-13",
+    "total_amount": 7882.47,
+    "subtotal": 7882.47,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": 6976.0,
+      "item_total_price": 6976.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": 348.8,
+      "item_total_price": 348.8
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": 292.99,
+      "item_total_price": 292.99
+     },
+     {
+      "item_date": null,
+      "item_name": "Late Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": 264.68,
+      "item_total_price": 264.68
+     }
+    ]
+   },
+   "ocr_excerpt": "![](img_p1_1.png)\n\n## Receipt\n\n## Invoice number 5BNYU5S8-0010\n\nReceipt number 2689-7946 Date paid August 13, 2026\n\n| Hologram, Inc. | Bill to |\n|---|---|\n| 2045 W Grand Ave | AirGarage |\n| Ste B, PMB #25937 | 2261 Market Street |\n| Chicago, Illinois 60612 | #4027 |\n| United States | San Francisco, California 94114 |\n| +1 888-980-4758 | United States |\n| support@hologram.io | monti@airgarage.com |\n\n# $7,882.47 paid on August 13, 2026\n\nJuly 1 - July 31, 2026\n\nDescription\n\nData Usage\n\nQty Unit price\n\n1 $6,976.00\n\nAmount\n\n$6,976.00\n\nMonthly SIM Charges 1 $348.80 $348.80\n\nMonthly Support Fee 1 $292.99 $292.99\n\nLate Fee 1 $264.68 $264.68\n\n# Payment history\n\nPayment method\n\nVisa - 3129\n\nSubtotal Total\n\n## Amount paid\n\n$7,882.47 $7,882.47\n\n**$7,882.47**\n\nDate Amount paid\n\nAugust 13, 2026 $7,882.47\n\nReceipt number\n\n2689-7946\n\n-----\n\nTo pay via ACH or wire transfer: Bank name: First Citizens Bank and Trust Co. (formerly Silicon Valley Bank) Routing number: 121140399 Account number: 3301306001 SWIFT code: SVBKUS6S If payment is not received within stated terms, any overdue or unpaid balances will be subject to a late fee of 1.5% assessed monthly until paid in full. Questions? Contact Hologram at success@hologram.io or +1 888-980-4758."
+  },
+  {
+   "receipt_uuid": "dcd55f8f-34e7-449a-8be0-041c110392f2",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "3e236c37-f6cb-41f8-a853-37d095a2fbe6",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-10T16:58:46.174789Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-08-10",
+   "total_amount": "35.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-08-10",
+    "total_amount": 35.0,
+    "subtotal": 32.18,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 2.82
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "3M VHB LSE 110WF Double Sided Permanent (1in x 5yds) Assemble, Bond, Fasten, Seal",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 32.18
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #114-3053100-1332212 Order Placed: August 10, 2026 Amazon.com order number: 114-3053100-1332212 Order Total: USD 35.00**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n1 of: 3M VHB LSE 110WF Double Sided Permanent (1in x 5yds) Assemble, Bond, Fasten, Seal $32.18\n\nSold by and invoiced on behalf of: Amazon.com Condition: New\n\n| Shipping Address: Bryan Monti 32 PROVINCE DR CENTEREACH, NY 11720-4616 United States Shipping Speed: FREE Prime Delivery |\n|---|\n| Payment information |\n| Payment Method: Item(s) Subtotal: USD 32.18 Visa \\| Last digits: 1571 Shipping & Handling: USD 0.00 Billing address Bryan Monti Total before tax: USD 32.18 2261 MARKET ST Estimated tax to be collected: USD 2.82 SAN FRANCISCO, CA 94114-1612 United States Grand Total: USD 35.00 |\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  },
+  {
+   "receipt_uuid": "f767b661-932d-4427-b37d-ec538598be7e",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "02f53942-52fb-4f40-b97c-e62212934b9b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-11T05:25:20.118124Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-08-10",
+   "total_amount": "79.1",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-08-10",
+    "total_amount": 79.1,
+    "subtotal": 72.74,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 6.36
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Polymaker ASA Filament 1.75mm 3KG Black, UV & Weather Resistant\nSold by and invoiced on behalf of: Polymaker LLC (seller profile)\nSeller Credentials: Classified Small Business - SBA Standard\nBusiness Price\nCondition: New",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 72.74
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #114-6366333-3454649 Order Placed: August 10, 2026 Amazon.com order number: 114-6366333-3454649 Order Total: USD 79.10**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n1 of: Polymaker ASA Filament 1.75mm 3KG Black, UV & Weather Resistant $72.74\n\nSold by and invoiced on behalf of: Polymaker LLC (seller profile) Seller Credentials: Classified Small Business - SBA Standard Business Price Condition: New\n\n|  |\n|---|\n| Shipping Address: Bryan Monti 32 PROVINCE DR CENTEREACH, NY 11720-4616 United States Shipping Speed: FREE Prime Delivery |\n| Payment information |\n| Payment Method: Item(s) Subtotal: USD 72.74 Visa \\| Last digits: 1571 Shipping & Handling: USD 0.00 Billing address Bryan Monti Total before tax: USD 72.74 2261 MARKET ST Estimated tax to be collected: USD 6.36 SAN FRANCISCO, CA 94114-1612 United States Grand Total: USD 79.10 |\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  },
+  {
+   "receipt_uuid": "6c7915f6-9dd5-491d-abfd-807efddffe16",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "ac12bc39-5bc3-42f6-8378-189b101ec6a3",
+   "reimbursement_uuid": null,
+   "received_at": "2026-08-11T05:25:22.519859Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-08-10",
+   "total_amount": "102.28",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-08-10",
+    "total_amount": 102.28,
+    "subtotal": 94.05,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 8.23
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "GOYOJO Digital Force Gauge 500N&110LB with Extra-Large Screen and Bold Font, High Precision Multi-Unit Display for P ush-Pull Testing, Trigger Pull Measurement, and Industrial Quality Control",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 94.05
+     }
+    ]
+   },
+   "ocr_excerpt": "**Details for Order #114-0837907-9769803 Order Placed: August 10, 2026 Amazon.com order number: 114-0837907-9769803 Order Total: USD 102.28**\n\n# Not Yet Shipped\n\n# Items Ordered Price\n\n1 of: GOYOJO Digital Force Gauge 500N&110LB with Extra-Large Screen and Bold Font, High Precision Multi-Unit Display for P $94.05\n\n*ush-Pull Testing, Trigger Pull Measurement, and Industrial Quality Control* Sold by and invoiced on behalf of: JT MALL (seller profile) Business Price Condition: New\n\n# Shipping Address:\n\nBryan Monti 32 PROVINCE DR CENTEREACH, NY 11720-4616 United States\n\n# Shipping Speed:\n\nFREE Prime Delivery\n\n# Payment information\n\n| Payment Method: | Item(s) Subtotal: | USD 94.05 |\n|---|---|---|\n| Visa \\| Last digits: 1571 | Shipping & Handling: | USD 0.00 |\n\n# Billing address\n\nBryan Monti Total before tax: USD 94.05 2261 MARKET ST Estimated tax to be collected: USD 8.23 SAN FRANCISCO, CA 94114-1612 United States\n\n# Grand Total: USD 102.28\n\nTo view the status of your order, return to Order Summary .\n\n[Conditions of Use | Privacy Notice © 1996-2020, Amazon.com, Inc.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)"
+  }
+ ]
+}

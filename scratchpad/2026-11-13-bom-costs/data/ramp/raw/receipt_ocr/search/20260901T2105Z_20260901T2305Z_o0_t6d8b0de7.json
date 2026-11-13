@@ -1,0 +1,128 @@
+{
+ "query": {
+  "window": [
+   "2026-09-01T21:05:00Z",
+   "2026-09-01T23:05:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:18.135Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "a0d21e44-9933-40dc-bfe8-be573f2e8fa1",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "a8fe129d-64af-4cdb-bb65-8ac21c955ac5",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-01T22:35:19.598135Z",
+   "merchant": "Amazon",
+   "receipt_date": null,
+   "total_amount": "54.11",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": "410 Terry Avenue N., Seattle, WA 98109",
+    "transaction_date": null,
+    "total_amount": 54.11,
+    "subtotal": 54.11,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Thermal Grizzly Minus Pad High Co...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 28.99
+     },
+     {
+      "item_date": null,
+      "item_name": "ViaGasaFamido Thermal Pad 100 x 1...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 11.9
+     },
+     {
+      "item_date": null,
+      "item_name": "4Pcs Heatsink 80 x 40 x 11mm Blac...",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.46
+     }
+    ]
+   },
+   "ocr_excerpt": "0236\nView or edit order\nThermal Grizzly Minus Pad High Co...\nQuantity: 1\n$\n28\n99\nViaGasaFamido Thermal Pad 100 x 1...\nQuantity: 1\n$\n11\n90\n4Pcs Heatsink 80 x 40 x 11mm Blac...\nQuantity: 1\n$\n9\n46\nGrand Total:\n$54.11\n2026 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.\nThe payment for your invoice is processed by Amazon Payments, Inc. P.O. Box 81226 Seattle, Washington 98108-1226. If you need more information, please contact (866) 216-1075\nBy placing your order, you agree to Amazon.com’s\nPrivacy Notice\nand\nConditions of Use\n. Unless otherwise noted, items sold by Amazon.com are subject to sales tax in select states in accordance with the applicable laws of that state. If your order contains one or more items from a seller other than Amazon.com, it may be subject to state and local sales tax, depending upon the seller's business policies and the location of their operations. Learn more about\ntax and seller information\n.\nPrivacy Notice\n"
+  },
+  {
+   "receipt_uuid": "6d8b0de7-a059-4608-a572-f586ae9ef607",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "a8fe129d-64af-4cdb-bb65-8ac21c955ac5",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-01T22:05:20.078986Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-09-01",
+   "total_amount": "54.11",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-09-01",
+    "total_amount": 54.11,
+    "subtotal": 50.35,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated tax to be collected",
+      "tax_rate": null,
+      "tax_amount": 4.36
+     }
+    ],
+    "fees": null,
+    "discounts": [
+     {
+      "discount_name": "Promotion applied",
+      "discount_rate": null,
+      "discount_amount": 0.6
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "ViaGasaFamido Thermal Pad 100 x 100 x 5mm 1.5W/m-k Conductivity Heat Conductive Silicone Pad CPU GPU Heat Dissipation Si licone Sheet for Laptop Heatsink SSD IC LED Cooler",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 11.9
+     },
+     {
+      "item_date": null,
+      "item_name": "4Pcs Heatsink 80 x 40 x 11mm Black Aluminum Heat Sink Radiator Cooler with Thermal Conductive Adhesive Tape Cooling Fin for 3D Printer Motor, Thermoelectric Peltier",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 9.46
+     },
+     {
+      "item_date": null,
+      "item_name": "Thermal Grizzly Minus Pad High Compression - 120x100x4.0mm 2-Pack",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 28.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #114-3550476-3000236\n    Order Placed: September 1, 2026\n    Amazon.com order number: 114-3550476-3000236\n    Order Total: USD 54.11\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                               Price\n    1 of: ViaGasaFamido Thermal Pad 100 x 100 x 5mm 1.5W/m-k Conductivity Heat Conductive Silicone Pad CPU GPU Heat            $11.90\n    Dissipation Si\n    licone Sheet for Laptop Heatsink SSD IC LED Cooler\n    Sold by and invoiced on behalf of: yapdi-us (seller profile)\n    Condition: New\n\n    1 of: 4Pcs Heatsink 80 x 40 x 11mm Black Aluminum Heat Sink Radiator Cooler with Thermal Conductive Adhesive Tape Cooling   $9.46\n    Fin\n    for 3D Printer Motor, Thermoelectric Peltier\n    Sold by and invoiced on behalf of: DFKJ US (seller profile)\n    Business Price\n    Condition: New\n\n    1 of: Thermal Grizzly Minus Pad High Compression - 120x100x4.0mm 2-Pack                                                    $28.99\n    Sold by and invoiced on behalf of: Platinum Micro, Inc. (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard, Minority-Owned Business\n    Condition: New\n\n    Shipping Address:\n    Bryan Monti\n    32 PROVINCE DR\n    CENTEREACH, NY 11720-4616\n    United States\n\n    Shipping Speed:\n    Delivery in fewer trips to your address\n\n        Payment information\n    Payment Method:                                                                                       Item(s) Subtotal: USD 50.35\n    Visa | Last digits: 1571                                                                            Shipping & Handling: USD 0.00\n    Billing address                                                                                     Promotion applied:: -USD 0.60\n    Bryan Monti\n    2261 MARKET ST                                                                                        Total before tax: USD 49.75\n   "
+  }
+ ]
+}

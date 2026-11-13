@@ -1,0 +1,342 @@
+{
+ "query": {
+  "window": [
+   "2026-11-09T00:00:00Z",
+   "2026-11-14T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:07.101Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "ecfb50dc-5f46-4c7d-aec4-e74432813bb9",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "8b8c6d94-0b76-414b-861d-036ffbec6ae3",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-10T19:20:05.530339Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-11-10",
+   "total_amount": "544.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-11-10",
+    "total_amount": 544.0,
+    "subtotal": 544.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": null,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "First 3",
+      "item_quantity": 0.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 76.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 228.0
+     },
+     {
+      "item_date": null,
+      "item_name": "MRP Pro",
+      "item_quantity": 1.0,
+      "item_unit_price": 240.0,
+      "item_total_price": 240.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\n\nInvoice number 3QVWWHHB-0009\nReceipt number 2953-8913\nDate paid  November 10, 2026\n\nAligni Incorporated         Bill to\nsales@aligni.com            AirGarage, Inc.\n                            ben@airgarage.com\n\n$544.00 paid on November 10, 2026\n\nDescription                                                Qty    Unit price     Amount\n\nQuality Control Records                                  0                        $0.00\nOct 10-Nov 10, 2026\nFirst 3                                                  0             $0.00      $0.00\n\nViewer Seats                                             1            $76.00     $76.00\nNov 10-Dec 10, 2026\n\nCollaborator Seats                                       3            $76.00    $228.00\nNov 10-Dec 10, 2026\n\nMRP Pro                                                  1           $240.00    $240.00\nNov 10-Dec 10, 2026\n\n                                   Subtotal                                     $544.00\n                                   Total                                        $544.00\n                                   Amount paid                                  $544.00\n\nPayment history\n\nPayment method                     Date                Amount paid       Receipt number\n\nVisa - 4198                        November 10, 2026     $544.00              2953-8913\n\n\n\n\n\n\n\n\n\n\n                                                                    Page 1 of 1"
+  },
+  {
+   "receipt_uuid": "d2774af5-e916-434d-ade6-8077d3e96fc9",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "187850e6-b648-4071-b9dc-ad0a636dc4a9",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-12T16:19:20.411199Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-11-12",
+   "total_amount": "14846.49",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": null,
+    "transaction_date": "2026-11-12",
+    "total_amount": 14846.49,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 13874.67
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 400.8
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 571.02
+     }
+    ]
+   },
+   "ocr_excerpt": "Your receipt from Hologram, Inc. #2069-7899\nYour receipt from Hologram, Inc. #2069-7899\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\nHologram, Inc.\nReceipt from Hologram, Inc.\n$14,846.49\nPaid on November 12, 2026 with\n- 3129\nReceipt #2069-7899\nData Usage\nQty 1\n$13,874.67\nMonthly SIM Charges\nQty 1\n$400.80\nMonthly Support Fee\nQty 1\n$571.02\nTotal\n$14,846.49\nAmount paid\n$14,846.49\nDownload receipt\nDownload invoice\nQuestions? Visit our\nsupport site\n, contact us at\nsupport@hologram.io\n, or call us at\n+1 888-980-4758\n.\nPowered by\n"
+  },
+  {
+   "receipt_uuid": "8adea182-63a3-4d45-a63c-07ec766a318e",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "8b8c6d94-0b76-414b-861d-036ffbec6ae3",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-10T19:20:05.728630Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-11-10",
+   "total_amount": "544.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-11-10",
+    "total_amount": 544.0,
+    "subtotal": 544.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": null,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 76.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 76.0,
+      "item_total_price": 228.0
+     },
+     {
+      "item_date": null,
+      "item_name": "MRP Pro",
+      "item_quantity": 1.0,
+      "item_unit_price": 240.0,
+      "item_total_price": 240.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Your receipt from Aligni Incorporated #2953-8913\nYour receipt from Aligni Incorporated #2953-8913\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏\n͏  ͏  ͏  ͏  ͏  ͏\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\n­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­\nAligni Incorporated\nReceipt from Aligni Incorporated\n$544.00\nPaid on November 10, 2026 with\n- 4198\nReceipt #2953-8913\nOct 10–Nov 10, 2026\nQuality Control Records\nQty 0\nFirst 3\nQty 0\n$0.00\nNov 10–Dec 10, 2026\nViewer Seats\nQty 1\n$76.00\nCollaborator Seats\nQty 3\n$228.00\n$76.00 each\nMRP Pro\nQty 1\n$240.00\nTotal\n$544.00\nAmount paid\n$544.00\nDownload receipt\nDownload invoice\nQuestions? Visit our\nsupport site\nor contact us at\nsales@aligni.com\n.\nPowered by\n"
+  },
+  {
+   "receipt_uuid": "58c9cb34-4722-4578-a967-7f5cb8291296",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "c830370a-3013-40bf-9264-e1142388ac8a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-12T15:24:19.108521Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-11-12",
+   "total_amount": "21.46",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-11-12",
+    "total_amount": 21.46,
+    "subtotal": 21.06,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 1.68
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "Amazon Discount",
+      "discount_rate": null,
+      "discount_amount": 1.28
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: Purell Cottony Soft Hand Sanitizing Wipes, 120ct Display Box - 9027-12",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 21.06
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-8969491-9657044\n    Order Placed: November 12, 2026\n    Amazon.com order number: 112-8969491-9657044\n    Order Total: USD 21.46\n\n        Not Yet Shipped\n\n    Items Ordered                                                                           Price\n    1 of: Purell Cottony Soft Hand Sanitizing Wipes, 120ct Display Box - 9027-12           $21.06\n    Sold by and invoiced on behalf of: Prime National Distribution (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - Gartner Standard\n    Condition: New\n\n    Shipping Address:                                                 Item(s) Subtotal:    $21.06\n    Chris Williamson                                               Shipping & Handling:     $0.00\n    185 Stag Dr\n    WILLISTON, SC 29853                                                Amazon Discount:    -$1.28\n    United States                                                                           -----\n                                                                      Total before tax:    $19.78\n    Shipping Speed:                                                          Sales Tax:     $1.68\n    Standard Shipping                                                                       -----\n                                                               Total for This Shipment:    $21.46\n                                                                                            -----\n\n        Payment information\n    Payment Method:                                                   Item(s) Subtotal: USD 21.06\n    Visa | Last digits: 2311                                        Shipping & Handling: USD 0.00\n    Billing address                                                    Amazon Discount: -USD 1.28\n    Chris Williamson\n    2261 MARKET ST # 4027                                             Total before tax: USD 19.78\n    SAN FRANCISCO, CA 94114-1612        Estimated tax to be collected:                 "
+  },
+  {
+   "receipt_uuid": "9c2d84be-4b2a-49cc-80bf-50e1dc1c57ca",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "187850e6-b648-4071-b9dc-ad0a636dc4a9",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-12T16:19:20.185266Z",
+   "merchant": "Hologram",
+   "receipt_date": "2026-11-12",
+   "total_amount": "14846.49",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Hologram",
+    "merchant_address": "2045 W Grand Ave Ste B, PMB #25937, Chicago, Illinois 60612, United States",
+    "transaction_date": "2026-11-12",
+    "total_amount": 14846.49,
+    "subtotal": 14846.49,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Data Usage",
+      "item_quantity": 1.0,
+      "item_unit_price": 13874.67,
+      "item_total_price": 13874.67
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly SIM Charges",
+      "item_quantity": 1.0,
+      "item_unit_price": 400.8,
+      "item_total_price": 400.8
+     },
+     {
+      "item_date": null,
+      "item_name": "Monthly Support Fee",
+      "item_quantity": 1.0,
+      "item_unit_price": 571.02,
+      "item_total_price": 571.02
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\n\nInvoice number 5BNYU5S8-0013\nReceipt number 2069-7899\nDate paid     November 12, 2026\n\nHologram, Inc.                 Bill to\n2045 W Grand Ave               AirGarage\nSte B, PMB #25937              2261 Market Street\nChicago, Illinois 60612        #4027\nUnited States                  San Francisco, California 94114\n+1 888-980-4758                United States\nsupport@hologram.io            monti@airgarage.com\n\n$14,846.49 paid on November 12, 2026\nOctober 1 - October 31, 2026\n\nDescription                                                 Qty    Unit price        Amount\n\nData Usage                                                    1    $13,874.67    $13,874.67\n\nMonthly SIM Charges                                           1       $400.80       $400.80\n\nMonthly Support Fee                                           1       $571.02       $571.02\n\n                                        Subtotal                                 $14,846.49\n                                        Total                                    $14,846.49\n                                        Amount paid                              $14,846.49\n\nPayment history\n\nPayment method                          Date                  Amount paid    Receipt number\n\nVisa - 3129                             November 12, 2026      $14,846.49         2069-7899\n\n\n\n\n\n\n\n\n\n\n                                                                                 Page 1 of 2\n\nTo pay via ACH or wire transfer:\nBank name:\nFirst Citizens Bank and Trust Co. (formerly Silicon Valley Bank)\nRouting number:\n121140399\nAccount number:\n3301306001\nSWIFT code:\nSVBKUS6S\n\nIf payment is not received within stated terms, any overdue or unpaid balances will be subject to a late fee of 1.5% assessed\nmonthly until paid in full.\n\nQuestions? Contact Hologram at success@hologram.io or +1 888-980-4758.\n\n\n\n\n\n\n\n\n\n\nPage 2 of 2"
+  },
+  {
+   "receipt_uuid": "c4f84960-4894-4a21-98b6-38409ab2900b",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "c364f293-3c11-4ae9-9419-5718191b3f6a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-11-11T16:49:35.122743Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-11-10",
+   "total_amount": "43.86",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-11-10",
+    "total_amount": 43.86,
+    "subtotal": 40.61,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.25
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "1 of: JSAUX Micro HDMI to HDMI Adapter, Micro HDMI Male to HDMI Female-Gray | 4K@60Hz HDR 3D Dolby 18Gbps,",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 8.72
+     },
+     {
+      "item_date": null,
+      "item_name": "1 of: Cable Matters HDMI to DisplayPort Adapter, Active HDMI to DP, 4K@30Hz | Unidirectional, HDMI Source to DisplayPort",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 31.89
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #113-5160848-7656264\n    Order Placed: November 10, 2026\n    Amazon.com order number: 113-5160848-7656264\n    Order Total: USD 43.86\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                    Price\n    1 of: JSAUX Micro HDMI to HDMI Adapter, Micro HDMI Male to HDMI Female-Gray | 4K@60Hz HDR 3D Dolby 18Gbps,                       $8.72\n    Compatible with Ras\n    pberry Pi 5/Pi 4/Go Pro Hero/Nikon/Canon/Sony and Other Camera\n    Sold by and invoiced on behalf of: JS Digital US (seller profile)\n    Business Price\n    Condition: New\n\n    1 of: Cable Matters HDMI to DisplayPort Adapter, Active HDMI to DP, 4K@30Hz | Unidirectional, HDMI Source to DisplayPort        $31.89\n    Monit\n    or Only\n    Sold by and invoiced on behalf of: Cable Matters (seller profile)\n    Seller Credentials: 889 Certification, Classified Small Business - SBA Standard\n    Business Price\n    Condition: New\n\n    Shipping Address:                                                                                          Item(s) Subtotal:    $40.61\n    Chris Williamson                                                                                        Shipping & Handling:     $0.00\n    185 Stag Dr                                                                                                                      -----\n    WILLISTON, SC 29853\n    United States                                                                                              Total before tax:    $40.61\n                                                                                                                      Sales Tax:     $3.25\n    Shipping Speed:                                                                                                                  -----\n    Delivery in fewer trips to your address                                                             Total for This Shipme"
+  }
+ ]
+}

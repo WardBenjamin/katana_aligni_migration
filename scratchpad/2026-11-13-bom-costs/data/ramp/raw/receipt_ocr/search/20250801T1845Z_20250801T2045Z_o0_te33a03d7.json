@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-08-01T18:45:48Z",
+   "2025-08-01T20:45:48Z"
+  ],
+  "keywords": [
+   "Arrow",
+   "Arrow Electronics",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

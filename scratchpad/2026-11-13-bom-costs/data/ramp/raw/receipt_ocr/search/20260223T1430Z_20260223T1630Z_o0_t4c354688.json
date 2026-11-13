@@ -1,0 +1,22 @@
+{
+ "query": {
+  "window": [
+   "2026-02-23T14:30:54Z",
+   "2026-02-23T16:30:54Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "4c354688-ee19-43b1-8b72-d10f2d677d53"
+ },
+ "pulled_at": "2026-11-13T04:54:52Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

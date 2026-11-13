@@ -1,0 +1,21 @@
+{
+ "query": {
+  "window": [
+   "2026-01-09T01:22:34Z",
+   "2026-01-09T03:22:34Z"
+  ],
+  "keywords": [
+   "Variscite",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "9ff80c97-57b8-4fac-8289-f98255060c4f"
+ },
+ "pulled_at": "2026-11-13T04:54:52Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

@@ -1,0 +1,100 @@
+{
+ "query": {
+  "window": [
+   "2026-06-12T13:34:00Z",
+   "2026-06-12T15:34:00Z"
+  ],
+  "keywords": [
+   "Amazon",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:02.806Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "913a74f0-cca5-4158-a37c-4d10679bd8c1",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "4883cc8b-e776-461d-bf13-8f40cf8acc76",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-12T14:34:23.485017Z",
+   "merchant": "Amazon.com",
+   "receipt_date": "2026-06-11",
+   "total_amount": "122.55",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-06-11",
+    "total_amount": 122.55,
+    "subtotal": 113.45,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 9.1
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filamen t Perfect for Printing Outdoor Functional Parts",
+      "item_quantity": 5.0,
+      "item_unit_price": 22.69,
+      "item_total_price": 113.45
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nDetails for Order #113-5556833-2847447\nOrder Placed: June 11, 2026 Amazon.com order number: 113-5556833-2847447 Order Total: $122.55\nNot Yet Shipped\nItems Ordered\nPrice\n$22.69\n5 of: Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filamen t Perfect for Printing Outdoor Functional Parts Sold by and invoiced on behalf of: Polymaker LLC (seller profile) Business Price Condition: New\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nItem(s) Subtotal: $113.45 Shipping & Handling: $0.00\nTotal before tax: $113.45 Sales Tax: $9.10\nShipping Speed: FREE Prime Delivery\nTotal for This Shipment: $122.55\nPayment information\nPayment Method: Visa | Last digits: 2311\nItem(s) Subtotal: $113.45 Shipping & Handling: $0.00\nBilling address Chris Williamson 2261 MARKET ST # 4027 SAN FRANCISCO, CA 94114-1612 United States\nTotal before tax: $113.45\nEstimated Tax: $9.10\nGrand Total: $122.55\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  },
+  {
+   "receipt_uuid": "c6e36006-9004-45fe-bbd0-00943c849c48",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "b0519491-41d3-4a10-adb1-2d72e8e3743d",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-12T14:34:24.849456Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-06-11",
+   "total_amount": "122.55",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": null,
+    "transaction_date": "2026-06-11",
+    "total_amount": 122.55,
+    "subtotal": 113.45,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 9.1
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filamen t Perfect for Printing Outdoor Functional Parts",
+      "item_quantity": 5.0,
+      "item_unit_price": 22.69,
+      "item_total_price": 113.45
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nDetails for Order #113-5556833-2847447\nOrder Placed: June 11, 2026 Amazon.com order number: 113-5556833-2847447 Order Total: $122.55\nNot Yet Shipped\nItems Ordered\nPrice\n$22.69\n5 of: Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filamen t Perfect for Printing Outdoor Functional Parts Sold by and invoiced on behalf of: Polymaker LLC (seller profile) Business Price Condition: New\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nItem(s) Subtotal: $113.45 Shipping & Handling: $0.00\nTotal before tax: $113.45 Sales Tax: $9.10\nShipping Speed: FREE Prime Delivery\nTotal for This Shipment: $122.55\nPayment information\nPayment Method: Visa | Last digits: 2311\nItem(s) Subtotal: $113.45 Shipping & Handling: $0.00\nBilling address Chris Williamson 2261 MARKET ST # 4027 SAN FRANCISCO, CA 94114-1612 United States\nTotal before tax: $113.45\nEstimated Tax: $9.10\nGrand Total: $122.55\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  }
+ ]
+}

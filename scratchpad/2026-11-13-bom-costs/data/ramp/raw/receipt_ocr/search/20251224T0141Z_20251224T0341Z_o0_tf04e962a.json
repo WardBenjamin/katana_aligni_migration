@@ -1,0 +1,22 @@
+{
+ "query": {
+  "window": [
+   "2025-12-24T01:41:40Z",
+   "2025-12-24T03:41:40Z"
+  ],
+  "keywords": [
+   "JLCPCB",
+   "JLC",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "f04e962a-aeec-4828-a7b4-3f1ede17443b"
+ },
+ "pulled_at": "2026-11-13T04:54:49Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "hybrid",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

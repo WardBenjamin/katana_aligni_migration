@@ -1,0 +1,22 @@
+{
+ "query": {
+  "window": [
+   "2026-03-09T02:29:09Z",
+   "2026-03-09T04:29:09Z"
+  ],
+  "keywords": [
+   "Pirate Ship",
+   "PirateShip",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "83285ad9-6621-4bd5-8243-e926cf4fde5a"
+ },
+ "pulled_at": "2026-11-13T04:55:15Z",
+ "returned": 0,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

@@ -1,0 +1,648 @@
+{
+ "query": {
+  "window": [
+   "2026-05-22T18:13:52Z",
+   "2026-05-22T20:13:52Z"
+  ],
+  "keywords": [
+   "PayPal",
+   "Paypal",
+   "total",
+   "receipt"
+  ],
+  "offset": 0,
+  "target_receipt_uuid": "f438acf1-99e0-44a7-a396-3ab38347bfb3"
+ },
+ "pulled_at": "2026-11-13T04:55:16Z",
+ "returned": 14,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 1,
+ "receipts": [
+  {
+   "receipt_uuid": "f438acf1-99e0-44a7-a396-3ab38347bfb3",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "6300a68d-0406-42c6-81ee-422c67b3c07b",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:13:52.098790Z",
+   "merchant": "XIAMEN JINBEILI ELECTRONICS CO.,LTD",
+   "receipt_date": "2026-05-02",
+   "total_amount": "117.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "XIAMEN JINBEILI ELECTRONICS CO.,LTD",
+    "merchant_address": "801-802, A1 Building, Tongji Tech Innovation Zone, No.639-3 2nd Ring Tongji South Road, Tongan, Xiamen China 361100",
+    "transaction_date": "2026-05-02",
+    "total_amount": 117.0,
+    "subtotal": 54.0,
+    "tip": null,
+    "taxes": null,
+    "fees": [
+     {
+      "fee_name": "Shipping cost By UPS (DDP)",
+      "fee_amount": 58.0
+     },
+     {
+      "fee_name": "Pay fee",
+      "fee_amount": 5.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-02",
+      "item_name": "USB A Plug Through Hole",
+      "item_quantity": 600.0,
+      "item_unit_price": 0.09,
+      "item_total_price": 54.0
+     }
+    ]
+   },
+   "ocr_excerpt": " QTY (pcs) | Unit Price (USD) | Amount (USD) |\n| JBLBYT20260502-1 | USB A Plug Through Hole | USB-3.0AM-01-D | 600 | 0.09 | 54.00 |\n| Shipping cost By UPS (DDP) : | 58.00 |\n| Pay fee (5%): | 5.00 |\n| Total Amount : | 117.00 |\nPayment Terms : 100% TT in advance\nShipping By : Fedex\nShipping Date : within 10 days after payment done ( not including labor day holiday 1 May to 5 May 2026 )\nPayment Way : Paypal\nPaypal Account : 13580962919@139.com"
+  },
+  {
+   "receipt_uuid": "1be3fde3-5782-4db8-8dd8-5c0e372ae0f0",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "24858846-885c-4f80-9af3-cb8b5ab482cc",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:20:03.882685Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-05-21",
+   "total_amount": "46.32",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": null,
+    "transaction_date": "2026-05-21",
+    "total_amount": 46.32,
+    "subtotal": 46.32,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-20",
+      "item_name": "1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": 46.32,
+      "item_total_price": 46.32
+     }
+    ]
+   },
+   "ocr_excerpt": "Pirate Ship®\nShip\nRates\nReports\nSettings\nCredit Card Payment: Visa ending in 3625\n$46.32\nDate\nType\nDescription\nTotal\nBalance\nLogout\nStarting account balance\n$0.00\nWednesday, 05/20/2026 10:17 AM EDT\nLabel\nChris Williamson: 1 Label Batch\n-$46.32\n-$46.32\nThursday, 05/21/2026 1:22 AM EDT\nPayment\nCredit Card Payment: Visa ending in 3625\n$46.32\n$0.00\nEnding account balance\n$0.00\nTo see your entire transaction history, visit your reports page.\nARRRRrrrrr ... we thank y'ee f'er y'er business!\nPAID\nPayment Receipt #424015909 Thursday, 05/21/2026 1:22 AM EDT\nChris Williamson AirGarage, Inc. 185 Stag Dr Williston SC 29853-4829\nSupport\n< Collapse"
+  },
+  {
+   "receipt_uuid": "c6d9f003-3105-4fbf-9211-fa38cf38e396",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "e31904aa-1144-4613-a724-92407ed2c2ce",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:20:43.298973Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-05-16",
+   "total_amount": "154.18",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": null,
+    "transaction_date": "2026-05-16",
+    "total_amount": 154.18,
+    "subtotal": 154.18,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-15",
+      "item_name": "Import from Shopify: 16 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 154.18
+     }
+    ]
+   },
+   "ocr_excerpt": "Pirate Ship®\nShip\nRates\nReports\nSettings\nCredit Card Payment: Visa ending in 3625\n$154.18\nDate\nType\nDescription\nTotal\nBalance\nLogout\nStarting account balance\n$0.00\nFriday, 05/15/2026 12:24 PM EDT\nLabel\nImport from Shopify: 16 Label Batch\n-$154.18\n-$154.18\nSaturday, 05/16/2026 1:31 AM EDT\nPayment\nCredit Card Payment: Visa ending in 3625\n$154.18\n$0.00\nEnding account balance\n$0.00\nTo see your entire transaction history, visit your reports page.\nARRRRrrrrr ... we thank y'ee f'er y'er business!\nPAID\nPayment Receipt #422821655 Saturday, 05/16/2026 1:30 AM EDT\nChris Williamson AirGarage, Inc. 185 Stag Dr Williston SC 29853-4829\nSupport\n< Collapse"
+  },
+  {
+   "receipt_uuid": "d7078524-37e0-4ddc-8cf6-6269077641b2",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "1320b3ac-f071-4fb2-9c65-2e04e2513e35",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:02:27.173872Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-05-18",
+   "total_amount": "55.68",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-05-18",
+    "total_amount": 55.68,
+    "subtotal": 39.48,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.16
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.04
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-15",
+      "item_name": "91292A837 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread, 40 mm Long, Packs of 50",
+      "item_quantity": 4.0,
+      "item_unit_price": 9.87,
+      "item_total_price": 39.48
+     }
+    ]
+   },
+   "ocr_excerpt": "McMASTER-CARR CATALOG\nMcMASTER-CARR®\n404-346-7000 404-349-9091 (fax) atl.sales@mcmaster.com\nReceipt\n| Purchase Order | 0515CWILLIAMSON |\n| Paid | $55.68 |\n| Invoice | 65100273 |\n| Invoice Date | 5/15/26 |\nBilled to\nATTENTION: CHRIS WILLIAMSON\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\nShipped to\nAirgarage\nC/O Bytechs LLC\n185 Stag Dr\nWilliston SC 29853\nInformation About Your Payment\n| Credit Card | Visa Ending- 2311 |\n| Date | 5/18/26 |\n| Name on Card | Chris Williamson |\n| Your Account | 389831100 |\nChristopher Williamson placed this order.\n| Line | Product | Ordered | Shipped | Balance | Price | Total |\n| 1 | 91292A837 18-8 Stainless Steel Socket Head Screw, M2.5 x 0.45 mm Thread, 40 mm Long, Packs of 50 | 4 Packs | 4 | 0 | 9.87 Per Pack | 39.48 |\n| Merchandise | 39.48 |\n| Sales Tax | 3.16 |\n| Shipping | 13.04 |\n| Total | $55.68 |\n| Payment Received 5/18/26 | (55.68) |\n| Balance Due | $0.00 |\n| Packing List | Shipped | Weight | Carrier | Tracking |\n| 7470795-01 | 5/15/26 | 2 lb | UPS Saturday | 1Z381779PG73001308 |\nFederal ID 36-1458720 McMaster-Carr Supply Company\nPage 1 of 1"
+  },
+  {
+   "receipt_uuid": "9ab515c6-9dc3-4450-9e4a-4b7eaa1e3ec5",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "285533a8-062c-4e05-82e2-ff008cef1e9c",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:02:02.934759Z",
+   "merchant": "McMaster-Carr",
+   "receipt_date": "2026-05-18",
+   "total_amount": "60.56",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "McMaster-Carr",
+    "merchant_address": null,
+    "transaction_date": "2026-05-18",
+    "total_amount": 60.56,
+    "subtotal": 44.0,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 3.52
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 13.04
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "92095A181 18-8 Stainless Steel Button Head Hex-Drive Screw, M3 x 0.5 mm Thread Size, 8 mm Long, Packs of 100",
+      "item_quantity": 5.0,
+      "item_unit_price": 8.8,
+      "item_total_price": 44.0
+     }
+    ]
+   },
+   "ocr_excerpt": "McMASTER-CARR CATALOG\nMcMASTER-CARR®\n404-346-7000 404-349-9091 (fax) atl.sales@mcmaster.com\nReceipt\n| Purchase Order | 0515CWILLIAMSON |\n| Paid | $60.56 |\n| Invoice | 65083851 |\n| Invoice Date | 5/15/26 |\nBilled to\nATTENTION: CHRIS WILLIAMSON\nAIRGARAGE\n2261 MARKET ST PMB 4027\nSAN FRANCISCO CA 94114\nShipped to\nAirgarage\nC/O Bytechs LLC\n185 Stag Dr\nWilliston SC 29853\nInformation About Your Payment\n| Credit Card | Visa Ending- 2311 |\n| Date | 5/18/26 |\n| Name on Card | Chris Williamson |\n| Your Account | 389831100 |\nChristopher Williamson placed this order.\n| Line | Product | Ordered | Shipped | Balance | Price | Total |\n| 1 | 92095A181 18-8 Stainless Steel Button Head Hex-Drive Screw, M3 x 0.5 mm Thread Size, 8 mm Long, Packs of 100 | 5 Packs | 5 | 0 | 8.80 Per Pack | 44.00 |\n| Merchandise | 44.00 |\n| Sales Tax | 3.52 |\n| Shipping | 13.04 |\n| Total | $60.56 |\n| Payment Received 5/18/26 | (60.56) |\n| Balance Due | $0.00 |\n| Packing List | Shipped | Weight | Carrier | Tracking |\n| 7470313-01 | 5/15/26 | 1 lb | UPS Saturday | 1Z381779PG73000970 |\nFederal ID 36-1458720 McMaster-Carr Supply Company\nPage 1 of 1"
+  },
+  {
+   "receipt_uuid": "9d994988-e17c-4994-9bb3-802a143d6ea8",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "80282dbf-5ee0-4f8b-a5c1-114c60c9cbf2",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:19:23.585651Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-05-20",
+   "total_amount": "425.26",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": null,
+    "transaction_date": "2026-05-20",
+    "total_amount": 425.26,
+    "subtotal": 425.26,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-19",
+      "item_name": "Carrier Adjustment",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -42.39
+     },
+     {
+      "item_date": "2026-05-19",
+      "item_name": "Tabias Law (HOLD FOR PICK UP): 1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -155.34
+     },
+     {
+      "item_date": "2026-05-19",
+      "item_name": "Tabias Law (HOLD FOR PICK UP): 1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -203.4
+     },
+     {
+      "item_date": "2026-05-19",
+      "item_name": "Import from Shopify: 3 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -24.13
+     }
+    ]
+   },
+   "ocr_excerpt": "PAID\nShip\nRates\nReports\nSettings\nCredit Card Payment: Visa ending in 3625\n$425.26\nDate\nType\nDescription\nTotal\nBalance\nLogout\nStarting account balance\n$0.00\nTuesday, 05/19/2026 2:04 AM EDT\nCarrier Adjustment\nCarrier Adjustment\n-$42.39\n-$42.39\nTuesday, 05/19/2026 10:51 AM EDT\nLabel\nTabias Law (HOLD FOR PICK UP): 1 Label Batch\n-$155.34\n-$197.73\nTuesday, 05/19/2026 11:01 AM EDT\nLabel\nTabias Law (HOLD FOR PICK UP): 1 Label Batch\n-$203.40\n-$401.13\nTuesday, 05/19/2026 11:31 AM EDT\nLabel\nImport from Shopify: 3 Label Batch\n-$24.13\n-$425.26\nWednesday, 05/20/2026 1:01 AM EDT\nPayment\nCredit Card Payment: Visa ending in 3625\n$425.26\n$0.00\nPirate Ship®\nPayment Receipt #423732622 Wednesday, 05/20/2026 1:01 AM EDT\nChris Williamson AirGarage, Inc. 185 Stag Dr Williston SC 29853-4829\nSupport\n< Collapse\n1"
+  },
+  {
+   "receipt_uuid": "86894255-06a3-4ba8-a5ad-e63538d65d4d",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "dd065f68-3588-4abf-b140-b9a312b47c3a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:21:17.643792Z",
+   "merchant": "Pirate Ship",
+   "receipt_date": "2026-05-14",
+   "total_amount": "373.38",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Pirate Ship",
+    "merchant_address": null,
+    "transaction_date": "2026-05-14",
+    "total_amount": 373.38,
+    "subtotal": null,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-13",
+      "item_name": "Carrier Adjustment",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -6.06
+     },
+     {
+      "item_date": "2026-05-13",
+      "item_name": "Tory Adams: 1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -169.19
+     },
+     {
+      "item_date": "2026-05-13",
+      "item_name": "Tory Adams: 1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -137.19
+     },
+     {
+      "item_date": "2026-05-13",
+      "item_name": "Whitley Mayfield Mayfield: 1 Label Batch",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": -7.67
+     },
+     {
+      "item_date": "2026-05-13",
+      "item_name": "Import from Shopify: Refund for 1Z10XD630325464237 to Sparkles Wrice Wrice",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 7.67
+     }
+    ]
+   },
+   "ocr_excerpt": "Pirate Ship®\nShip\nRates\nReports\nSettings\nCredit Card Payment: Visa ending in 3625\n$373.38\nDate\nType\nDescription\nTotal\nBalance\nLogout\nStarting account balance\n$0.00\nWednesday, 05/13/2026 2:06 AM EDT\nCarrier Adjustment\nCarrier Adjustment\n-$6.06\n-$6.06\nWednesday, 05/13/2026 8:58 AM EDT\nLabel\nTory Adams: 1 Label Batch\n-$169.19\n-$175.25\nWednesday, 05/13/2026 8:59 AM EDT\nLabel\nTory Adams: 1 Label Batch\n-$137.19\n-$312.44\nWednesday, 05/13/2026 9:02 AM EDT\nLabel\nWhitley Mayfield Mayfield: 1 Label Batch\n-$7.67\n-$320.11\nWednesday, 05/13/2026 10:09 AM EDT\nRefund\nImport from Shopify: Refund for 1Z10XD630325464237 to Sparkles Wrice Wrice\n$7.67\n-$312.44\nWednesday 05 /12/2026 90.44 AM EDT\nCause Wanew. Dafund for 1 7 1 0 0 0 6 2 0 2 2 62 0110246 SAMUEL WADEN\nPAID\nPayment Receipt #422293257 Thursday, 05/14/2026 1:03 AM EDT\nChris Williamson AirGarage, Inc. 185 Stag Dr Williston SC 29853-4829\nSupport\n< Collapse"
+  },
+  {
+   "receipt_uuid": "63057af4-2a57-42ab-8a63-b115458914ef",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "e5271ace-b915-472b-b0f0-1cc36340e20f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:06:36.463806Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-05-14",
+   "total_amount": "238.08",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-05-14",
+    "total_amount": 238.08,
+    "subtotal": 220.44,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 17.64
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-15",
+      "item_name": "SUNLU 4kg ASA 3D Printer Filament Bundle, UV/Rain/Heat Resistant Tough 3D Printer Filament, Great for Printing Outdoor F unctional Mechanical Parts, 4kg in Total, 1kg per Spool, 4 Pack. (Black)",
+      "item_quantity": 3.0,
+      "item_unit_price": 73.48,
+      "item_total_price": 220.44
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nFinal Details for Order #113-0533671-8953812\nOrder Placed: May 14, 2026 Amazon.com order number: 113-0533671-8953812 Order Total: $238.08\n| Shipped on May 15, 2026 |\n| Items Ordered | Price |\n| 3 of: SUNLU 4kg ASA 3D Printer Filament Bundle, UV/Rain/Heat Resistant Tough 3D Printer Filament, Great for Printing Outdoor F unctional Mechanical Parts, 4kg in Total, 1kg per Spool, 4 Pack. (Black) Sold by and invoiced on behalf of: SUNLU Industry (seller profile) | $73.48 |\n| Business Price | |\n| Condition: New | |\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\n| Item(s) Subtotal: | $220.44 |\n| Shipping & Handling: | $0.00 |\n| Total before tax: | $220.44 |\n| Sales Tax: | $17.64 |\n| Total for This Shipment: | $238.08 |\n| | |\nShipping Speed:\nFREE Prime Delivery\n| | Payment information |\n| Payment Method: | | | Item(s) Subtotal: $220.44 |\n| Visa | Last digits: 2311 | | Shipping & Handling: $0.00 |\n| Billing address | | | |\n| Chris Williamson | Total before tax: $220.44 |\n| 2261 MARKET ST # 4027 | | Estimated Tax: $17.64 |\n| SAN FRANCISCO, CA 94114-1612 | |\n| United States | Grand Total: | $238.08 |\n| Credit Card transactions | Visa ending in 2311: May 15, 2026: $238.08 |\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  },
+  {
+   "receipt_uuid": "32113fb6-42ad-46c4-8df1-1633e2ec2885",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "d8b4a16f-7d23-4d89-b52c-669fa23a3a81",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:08:56.711353Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-04-30",
+   "total_amount": "415.4",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-04-30",
+    "total_amount": 415.4,
+    "subtotal": 384.6,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": 8.0083,
+      "tax_amount": 30.8
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Insert Embedment Nuts",
+      "item_quantity": 20.0,
+      "item_unit_price": 6.49,
+      "item_total_price": 129.8
+     },
+     {
+      "item_date": null,
+      "item_name": "Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filament Perfect for Printing Outdoor Functional Parts",
+      "item_quantity": 10.0,
+      "item_unit_price": 25.48,
+      "item_total_price": 254.8
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nFinal Details for Order #113-1339106-6616205\nOrder Placed: April 30, 2026 Amazon.com order number: 113-1339106-6616205 Order Total: $415.40\nShipped on May 2, 2026\n| Items Ordered | Price |\n| 5 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse | $6.49 |\n| rt Embedment Nuts |\n| Sold by and invoiced on behalf of: Amadeo City (seller profile) | |\n| Business Price | |\n| Condition: New | |\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nShipping Speed:\nOne-Day Shipping\n| Item(s) Subtotal: | $32.45 |\n| Shipping & Handling: | $0.00 |\n| Total before tax: | $32.45 |\n| Sales Tax: | $2.60 |\n| Total for This Shipment: | $35.05 |\n| | |\nShipped on May 4, 2026\nItems Ordered\n3 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse rt Embedment Nuts\nSold by and invoiced on behalf of: Amadeo City (seller profile) Business Price Condition: New\nPrice $6.49\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nShipping Speed:\nOne-Day Shipping\n| Item(s) Subtotal: | $19.47 |\n| Shipping & Handling: | $0.00 |\n| Total before tax: | $19.47 |\n| Sales Tax: | $1.56 |\n| Total for This Shipment: | $21.03 |\n| | |\nShipped on May 4, 2026\nItems Ordered\nPrice 2 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse\n$6.49\nrt Embedment Nuts Sold by and invoiced on behalf of: Amadeo City (seller profile) Business Price Condition: New\n| Shipping Address: | Item(s) Subtotal: | $12.98 |\n| Chris Williamson | Shipping & Handling: | $0.00 |\n| 185 Stag Dr | |\n| WILLISTON, SC 29853 | | |\n| United States | Total before tax: | $12.98 |\n| | Sales Tax: | $1.04 |\n| Shipping Speed: | | |\n| One-Day Shipping | Total for This Shipment: | $14.02 |\n| | | |\nShipped on May 4, 2026\nItems Ordered\n6 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x"
+  },
+  {
+   "receipt_uuid": "7e6ac0bb-4755-464b-9d6f-88ffe99bb7d3",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "b74dc29d-5433-4366-a7fa-23c98a8ff2b4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:14:22.484314Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-04-30",
+   "total_amount": "415.4",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-04-30",
+    "total_amount": 415.4,
+    "subtotal": 384.6,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": 8.0083,
+      "tax_amount": 30.8
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Insert Embedment Nuts",
+      "item_quantity": 20.0,
+      "item_unit_price": 6.49,
+      "item_total_price": 129.8
+     },
+     {
+      "item_date": null,
+      "item_name": "Polymaker ASA Filament 1.75mm Black, 1kg ASA 3D Printing Filament, Heat & Weather Resistant - ASA 3D Printer Filament Perfect for Printing Outdoor Functional Parts",
+      "item_quantity": 10.0,
+      "item_unit_price": 25.48,
+      "item_total_price": 254.8
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nFinal Details for Order #113-1339106-6616205\nOrder Placed: April 30, 2026 Amazon.com order number: 113-1339106-6616205 Order Total: $415.40\nShipped on May 2, 2026\n| Items Ordered | Price |\n| 5 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse | $6.49 |\n| rt Embedment Nuts |\n| Sold by and invoiced on behalf of: Amadeo City (seller profile) | |\n| Business Price | |\n| Condition: New | |\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nShipping Speed:\nOne-Day Shipping\n| Item(s) Subtotal: | $32.45 |\n| Shipping & Handling: | $0.00 |\n| Total before tax: | $32.45 |\n| Sales Tax: | $2.60 |\n| Total for This Shipment: | $35.05 |\n| | |\nShipped on May 4, 2026\nItems Ordered\n3 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse rt Embedment Nuts\nSold by and invoiced on behalf of: Amadeo City (seller profile) Business Price Condition: New\nPrice $6.49\nShipping Address: Chris Williamson 185 Stag Dr WILLISTON, SC 29853 United States\nShipping Speed:\nOne-Day Shipping\n| Item(s) Subtotal: | $19.47 |\n| Shipping & Handling: | $0.00 |\n| Total before tax: | $19.47 |\n| Sales Tax: | $1.56 |\n| Total for This Shipment: | $21.03 |\n| | |\nShipped on May 4, 2026\nItems Ordered\nPrice 2 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x 7mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Inse\n$6.49\nrt Embedment Nuts Sold by and invoiced on behalf of: Amadeo City (seller profile) Business Price Condition: New\n| Shipping Address: | Item(s) Subtotal: | $12.98 |\n| Chris Williamson | Shipping & Handling: | $0.00 |\n| 185 Stag Dr | |\n| WILLISTON, SC 29853 | | |\n| United States | Total before tax: | $12.98 |\n| | Sales Tax: | $1.04 |\n| Shipping Speed: | | |\n| One-Day Shipping | Total for This Shipment: | $14.02 |\n| | | |\nShipped on May 4, 2026\nItems Ordered\n6 of: uxcell Knurled Insert Nuts, 50pcs M5 x 4mm L x"
+  },
+  {
+   "receipt_uuid": "dd59c02b-e2fe-43e1-b4d4-081c06b0f3c5",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "93a4e466-0930-4622-969d-c17bcf6fcdf1",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:11:41.246482Z",
+   "merchant": "Fastener Superstore",
+   "receipt_date": "2026-05-11",
+   "total_amount": "541.76",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Fastener Superstore",
+    "merchant_address": "2302 Wisconsin Ave PO Box 854 Downers Grove, IL 60515",
+    "transaction_date": "2026-05-11",
+    "total_amount": 541.76,
+    "subtotal": 487.94,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 37.08
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "UPS Ground",
+      "fee_amount": 16.74
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-05-11",
+      "item_name": "M3-1.34 x 30 mm Type PT Style Thread Forming Screws / Six-Lobe (Torx®) / Flat Head / 18-8 Stainless Steel (A2) Fastener SuperStore Part Number: 608064",
+      "item_quantity": 2000.0,
+      "item_unit_price": 0.10234,
+      "item_total_price": 204.68
+     },
+     {
+      "item_date": "2026-05-11",
+      "item_name": "M3-1.34 x 8 mm Type PT Style Thread Forming Screws / Six-Lobe (Torx®) / Flat Head / 18-8 Stainless Steel (A2) Fastener SuperStore Part Number: 553418",
+      "item_quantity": 6000.0,
+      "item_unit_price": 0.04721,
+      "item_total_price": 283.26
+     }
+    ]
+   },
+   "ocr_excerpt": "tag Dr Williston, SC 29853-4829\nContact Information Chris Williamson sales@bytechsllc.com 7064956570\nOrder Number: 1578179 Payment Method: MC/VISA/AMEX/DISC\n| Product Description | Quantity | Price | Total |\n| M3-1.34 x 30 mm Type PT Style Thread Forming Screws / Six-Lobe (Torx®) / Flat Head / 18-8 Stainless Steel (A2) Fastener SuperStore Part Number: 608064 Ship Date: 05-11-2026 | 2,000 | $0.10234 / Each | $204.68 |\n| M3-1.34 x 8 mm Type PT Style Thread Forming Screws / Six-Lobe (Torx®) / Flat Head / 18-8 | 6,000 | $0.04721 / Each | $283.26 |\nStainless Steel (A2) Fastener SuperStore Part Number: 553418\nShip Date: 05-11-2026\n| Subtotal | $487.94 |\n| Tax | $37.08 |\n| UPS Ground | $16.74 |\n| Total | $541.76 |\nToll-Free Phone (USA): (866) 688-2500 www.fastenersuperstore.com"
+  },
+  {
+   "receipt_uuid": "bc829967-7de2-4b5d-a1e9-a44e143ca761",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "304742e7-3516-4371-bd37-55b2fa983c1f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:04:43.708353Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-05-17",
+   "total_amount": "230.97",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA",
+    "transaction_date": "2026-05-17",
+    "total_amount": 230.97,
+    "subtotal": 183.67,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 16.59
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Tariff Amount",
+      "fee_amount": 23.72
+     },
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 6.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "PART : 2073-05-12-A-0030-A-4-06-4-T-ND DESC: CABLE FFC/FPC 12POS 0.5MM 1.18\"",
+      "item_quantity": 150.0,
+      "item_unit_price": 0.7785,
+      "item_total_price": 116.78
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 2073-FFC2B28-12-GCT-ND DESC: CONN FFC FPC 12POS 0.5MM R/A",
+      "item_quantity": 250.0,
+      "item_unit_price": 0.26756,
+      "item_total_price": 66.89
+     }
+    ]
+   },
+   "ocr_excerpt": " / FFC2B28-12-G COO : CHINA ECCN: EAR99 HTSUS: 8536.69.4051 ROHS3 COMP REACH UNAFFECTED Jan-2025 TARIFF | 0.26756 | 66.89 T |\n| | | | | | 12.04 |\n| Sales Amount | 183.67 |\n| Tariff Amount | 23.72 |\n| Total Sales and Tariff | 207.39 |\n| Shipping charges applied | 6.99 |\n| ** Charges subtotal ** | 214.38 |\n| Sales Tax | 16.59 |\n| Total charged to credit card | 230.97 |\n| | USD $ |\n| T indicates taxable amounts |\nDUNS No: 05 760 2120 FEI No: 41-1234968 Any applicable sales tax not collected on this invoice is the responsibility of the customer.\nPage 1 of 2\nDigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nInvoice # 125915237 Completed Salesorder USD $\n* No license required\n* These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user (s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the authorized ultimate consignee or end- user (s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. Government or as otherwise authorized by U.S. law and regulations.\n| Box | Ship Method | Tracking | Weight | Line Item | Part Quantity |\n| 1 | XGT | 526368290366 | 0.06 kgs / 2 oz | 1 | 2073-05-12-A-0030-A-4-06-4-T-ND 150 |\n| | | | | 2 | 2073-FFC2B28-12-GCT-ND 250 |\nGeneral - WEB ORDER ID: 371843942\nCERTIFICATE OF COMPLIANCE: The DigiKey or supplier direct ship products included in the above shipment were purchased from the original manufacturer or through the manufacturer's authorized distribution. The original manufacturer warrants and certifies that the products they produce meet their specifications. Test reports (chemical, physical, electrical, etc.) supporting their certification are on file (either at DigiKey, the supplier or i"
+  },
+  {
+   "receipt_uuid": "9232c321-777a-4070-aec9-83bc27d7a67f",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "62808df0-aa9e-4d5c-9503-42550e06eabe",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-22T19:04:30.707767Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-05-18",
+   "total_amount": "391.44",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA",
+    "transaction_date": "2026-05-18",
+    "total_amount": 391.44,
+    "subtotal": 355.97,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 28.48
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges",
+      "fee_amount": 6.99
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "PART: 1168-TG-A1250-15-15-1.0-ND DESC: THERM PAD 15MMX15MM GREEN",
+      "item_quantity": 150.0,
+      "item_unit_price": 0.5478,
+      "item_total_price": 82.17
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 277-1190298-ND DESC: PCB TERMINAL BLOCK",
+      "item_quantity": 200.0,
+      "item_unit_price": 1.369,
+      "item_total_price": 273.8
+     }
+    ]
+   },
+   "ocr_excerpt": "tact / 1190298 COO : SLOVAKIA ECCN: EAR99 HTSUS: 8536.90.4000 ROHS3 COMP REACH UNAFFECTED Jun-2023 | 1.36900 | 273.80 T |\n| Sales Amount | 355.97 |\n| Shipping charges applied | 6.99 |\n| ** Charges subtotal ** | 362.96 |\n| Sales Tax | 28.48 |\n| Total charged to credit card | 391.44 |\n| | USD $ |\n| T indicates taxable amounts |\n* No license required * These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user (s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the authorized ultimate consignee or end- user (s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. Government or as otherwise authorized by U.S. law and regulations.\nDUNS No: 05 760 2120 FEI No: 41-1234968 Any applicable sales tax not collected on this invoice is the responsibility of the customer.\nPage 1 of 2\nDigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nInvoice # 125912366 Completed Salesorder USD $\n| Box | Ship Method | Tracking | Weight | Line Item | Part Quantity |\n| 1 | XGT | 526750112770 | 1.79 kgs / 3 lbs 15 oz | 1 | 1168-TG-A1250-15-15-1.0-ND 150 |\n| | | | | 2 | 277-1190298-ND 200 |\nGeneral - WEB ORDER ID: 371837518\nCERTIFICATE OF COMPLIANCE: The DigiKey or supplier direct ship products included in the above shipment were purchased from the original manufacturer or through the manufacturer's authorized distribution. The original manufacturer warrants and certifies that the products they produce meet their specifications. Test reports (chemical, physical, electrical, etc.) supporting their certification are on file (either at DigiKey, the supplier or in the plant of the manufacturer) and will be made available upon request. This document is e"
+  }
+ ]
+}

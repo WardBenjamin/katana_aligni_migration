@@ -1,0 +1,494 @@
+receipt_uuid,kind,created_at,owner,merchant,retried
+9e660ff1-8115-4d58-8f62-96f039276e45,card,2025-03-08T08:50:17.115227,Benjamin Ward,McMaster-Carr,y
+5bc8c5bf-8014-4241-ad2d-0328edd22514,card,2025-03-08T16:49:05.404143,Bryan Monti,Sur-Seal Inc,y
+2b51d7bc-7279-4245-a3f8-502427b54393,card,2025-03-08T16:52:18.335556,Bryan Monti,McMaster-Carr,n
+9ac37756-77f9-4f29-9d54-ea00e3da18bd,card,2025-03-08T17:02:52.647794,Bryan Monti,Delta Air Lines,n
+c0305769-2aa2-4c5b-ac2a-215b0c0c8f03,reimbursement,2025-03-10T20:04:53+00:00,Benjamin Ward,,n
+e99b8835-9172-42a0-830f-b65eeb3b0c41,reimbursement,2025-03-10T20:04:53+00:00,Benjamin Ward,,n
+d61176f3-80e2-42c5-831b-04b77ba41b3e,reimbursement,2025-03-10T20:05:07+00:00,Benjamin Ward,,n
+37ef9e30-d43b-4b25-ab30-94b171d10070,reimbursement,2025-03-10T20:05:07+00:00,Benjamin Ward,,n
+ddeb9312-0173-471c-9069-cb071a315155,card,2025-03-11T13:19:04.302945,Benjamin Ward,JLCPCB,n
+9a23b454-988b-435b-a79e-d45af195689f,reimbursement,2025-03-11T13:35:53+00:00,Benjamin Ward,,n
+0a44c63d-f5d8-4880-9e69-23e131223837,reimbursement,2025-03-11T13:36:59+00:00,Benjamin Ward,,n
+326cbea9-4ce7-46e5-934a-b3e2c209103c,reimbursement,2025-03-11T13:36:59+00:00,Benjamin Ward,,n
+d76fbcf0-054a-4805-81b8-0e0475d775a6,reimbursement,2025-03-12T17:04:05+00:00,Benjamin Ward,,n
+e5efe0ef-e970-4ce0-984f-6ed28e3d0ad0,card,2025-03-19T01:44:01.838833,Benjamin Ward,Texas Instruments,y
+09f2d9d1-586f-4e25-9ada-42dd62396763,card,2025-03-25T01:54:36.060096,Benjamin Ward,Digi-Key,n
+82cac357-8aec-4d36-b4c2-0f9aec3f4e29,card,2025-03-25T01:54:36.921075,Benjamin Ward,Digi-Key,n
+61ce0239-af36-4278-8717-07cc62300829,card,2025-03-25T02:14:31.450441,Benjamin Ward,Digi-Key,n
+f6dcc79b-ccce-4aa4-abfc-5b490d716334,card,2025-03-25T02:14:33.500416,Benjamin Ward,Digi-Key,n
+fd2e27ec-c64f-4601-af4c-3970360252ba,card,2025-03-25T11:49:21.412087,Benjamin Ward,Digi-Key,n
+dad7b5c5-2e65-4d2c-a9dc-bb59b81f4ab7,card,2025-03-25T18:12:54.635711,Benjamin Ward,Amazon,n
+54f9e4bf-28e1-4fd4-adb5-232923075cf7,card,2025-03-25T22:11:18.393496,Bryan Monti,Amazon,n
+f7acf41a-6e81-499a-9f13-c3645fce441d,card,2025-03-25T23:49:28.143375,Benjamin Ward,Digi-Key,n
+27c5c28c-847e-4173-8c9e-fec496003b29,reimbursement,2025-03-26T23:40:08+00:00,Benjamin Ward,,n
+f6adf516-21a4-4b51-b8eb-98df5ea53a16,card,2025-03-28T23:40:22.255429,Benjamin Ward,Digi-Key,n
+311bd660-7aab-4970-aa52-ed9afd287895,card,2025-03-29T00:10:34.892740,Benjamin Ward,Digi-Key,n
+54cc6b6e-e60e-495d-b88f-b66ede737138,card,2025-03-29T00:10:35.559101,Benjamin Ward,Digi-Key,n
+cd7fb714-d52f-48d7-966d-93e7b33f4bcc,card,2025-03-29T03:05:28.362467,Benjamin Ward,Amazon,n
+fd33b7c5-b299-4627-84aa-37ba7bb2aa99,card,2025-03-31T17:50:30.617177,Benjamin Ward,Amazon,n
+218a0d57-e218-4d56-b92a-a2e2c8ac5f4d,card,2025-04-03T02:23:49.985323,Bryan Monti,Amazon,n
+1d332a66-b15e-4a95-ae75-c81973062305,card,2025-04-03T19:09:46.781403,Benjamin Ward,JLCPCB,y
+e161bda9-c14e-49e8-973b-dcd50aca14e0,card,2025-04-04T01:03:07.153537,Benjamin Ward,Amazon,n
+7883ec4c-1cfb-4c06-a9c8-777b214ff3ba,card,2025-04-05T01:28:51.390237,Bryan Monti,Amazon,n
+2af06396-54be-4e08-9cd9-f503454b5c00,card,2025-04-07T01:45:40.541829,Bryan Monti,Amazon,n
+dcfdadc4-c0c0-4a6a-8145-49e506991400,card,2025-04-07T20:07:59.901329,Benjamin Ward,Digi-Key,n
+1ba75365-9054-4157-81a0-7eb99816f160,card,2025-04-07T20:08:02.568519,Benjamin Ward,Digi-Key,n
+b60b083b-a035-49c3-9f47-d5a0e5ce4dc0,card,2025-04-08T00:11:54.457411,Benjamin Ward,Digi-Key,n
+a4239ae4-5abf-4f5d-831b-b7d24c1f7567,card,2025-04-08T04:37:47.945179,Bryan Monti,Amazon,n
+a5b03bb8-76ba-43ca-8163-6eeac7340c02,card,2025-04-08T04:37:47.957627,Bryan Monti,Amazon,n
+6ddb4734-8a88-43c2-aa90-4f15f55fad93,card,2025-04-08T04:37:48.517939,Bryan Monti,Amazon,n
+2cea268b-6a94-4231-88ad-ea1b423207c6,card,2025-04-08T18:38:04.630237,Bryan Monti,Amazon,n
+b73235fb-6aa1-4c85-9c04-b0cc54906327,card,2025-04-10T02:48:07.953362,Bryan Monti,Amazon,n
+6d4b751e-6297-4636-8807-e80143f249d5,card,2025-04-10T03:46:26.298619,Bryan Monti,Amazon,n
+7270209e-711a-4d72-b4e8-72f28d7ff99c,card,2025-04-10T04:06:13.284238,Bryan Monti,Amazon,n
+b9f5703e-2472-437d-b928-88af620da641,card,2025-04-14T20:22:51.338955,Bryan Monti,Amazon,n
+4dac5bc7-048a-4f9f-8f7c-78038e3b5c2e,card,2025-04-15T23:41:31.869516,Benjamin Ward,Pirate Ship,n
+8dcb2fbe-a99e-4c4e-b7aa-213bc5fec752,card,2025-04-15T23:41:32.383560,Benjamin Ward,Pirate Ship,n
+f118d8b5-e419-46ae-aed9-4005b2ff45d0,card,2025-04-15T23:41:36.079821,Benjamin Ward,Pirate Ship,n
+6d0f3b5a-c897-4cad-85db-a25247c0f1f1,card,2025-04-16T21:45:24.373599,Bryan Monti,Amazon,n
+8c9815b9-52ac-4252-a61f-72a21fa1a177,card,2025-04-17T00:29:43.315891,Benjamin Ward,Pirate Ship,n
+51f93ed0-416f-4e3a-a774-b7d0e40f6792,card,2025-04-17T19:46:51.874025,Bryan Monti,Amazon,n
+7e3ac704-b90b-4aff-aa07-a17f4cb14681,card,2025-04-17T20:29:53.523712,Benjamin Ward,Digi-Key,y
+e46cb146-617b-4bd4-9a2a-5803cea021ae,card,2025-04-17T20:44:22.740786,Benjamin Ward,Digi-Key,n
+8645cb45-cc84-48df-977c-87fbca2d7d86,card,2025-04-17T21:37:05.886032,Benjamin Ward,Digi-Key,n
+4a44295f-754e-4483-818c-d253b48060c5,card,2025-04-17T21:37:07.409545,Benjamin Ward,Digi-Key,n
+9a28c925-1477-41b6-acbb-3321f81f9388,card,2025-04-18T00:54:19.203250,Bryan Monti,Amazon,n
+30a8ff2f-e13f-4b0c-8093-afe959aa384e,card,2025-04-18T10:25:19.597962,Benjamin Ward,Digi-Key,n
+91988744-7f36-46a4-b120-c314c0b3dda4,card,2025-04-18T12:52:03.389631,Benjamin Ward,Digi-Key,n
+25059d08-c00a-4a1e-ba61-b453ec2f377d,card,2025-04-18T20:46:26.383503,Bryan Monti,Amazon,n
+d167550a-db43-4dab-a880-7df0d2ea734e,card,2025-04-19T02:34:10.427798,Bryan Monti,Amazon,n
+77181a84-9e92-4bb5-a334-2226a27aacb5,card,2025-04-19T06:23:24.440926,Bryan Monti,Amazon,n
+4b448338-9d52-495e-868e-86ea5e17fc92,card,2025-04-19T15:52:13.647974,Bryan Monti,Amazon,n
+f3feceb2-c136-40fe-a5de-010701316f1d,card,2025-04-19T17:22:03.892732,Bryan Monti,Amazon,n
+8d843cef-91d3-499a-984d-ac8bf428394c,card,2025-04-19T21:53:35.218099,Bryan Monti,Amazon,n
+4ad0815c-67cf-4829-aa71-d35c7de9ebe0,card,2025-04-20T02:55:17.812176,Bryan Monti,Amazon,n
+8f9d547d-1bdd-460f-95e6-2a242c717da5,card,2025-04-21T14:55:17.742786,Bryan Monti,Amazon,n
+62744d97-65f6-40a9-af5c-4e3d0cd402f6,card,2025-04-21T18:48:41.282209,Bryan Monti,Amazon,n
+8783c844-4d75-49d3-844f-99c89cfea09b,card,2025-04-21T20:40:12.910227,Benjamin Ward,Amazon,n
+72b692ec-413d-47e6-940f-d4d2e5f724df,card,2025-04-21T20:51:29.304491,Benjamin Ward,JLCPCB,n
+071724cf-7202-4721-aba1-6f0ceff17b74,card,2025-04-22T13:30:36.977093,Benjamin Ward,MakerBright,n
+9e3d083d-7245-4c5b-8422-0676217611ea,card,2025-04-22T19:28:11.360898,Benjamin Ward,Amazon,n
+9993facc-8b81-471c-a327-79e787ede588,card,2025-04-22T20:01:10.767611,Benjamin Ward,Amazon,n
+ec3fe71a-98e1-4485-bcbb-9f3bcf938d05,card,2025-04-22T20:47:03.351318,Benjamin Ward,Prusa Research,n
+1cc7fe0c-97e5-4b22-b91c-3ef6c2e8025f,card,2025-04-22T20:50:27.034877,Benjamin Ward,MISUMI USA,n
+1c75517b-fbf3-46ca-9fa7-f137c57cc3b6,card,2025-04-22T20:51:26.829447,Benjamin Ward,Sixfab,n
+6260808f-5b7c-4c84-8259-2a1d6d7f8b24,card,2025-04-22T21:15:10.582763,Benjamin Ward,Sequent Microsystems,n
+3eadf592-c1cd-493e-9055-7863b876e536,card,2025-04-22T21:25:23.369350,Benjamin Ward,Amazon,n
+122dfbae-a7a5-44ac-9133-64abdcb92d39,card,2025-04-22T21:25:24.002874,Benjamin Ward,Amazon,n
+e4ebd837-6405-41ab-bc50-65f919d4643b,card,2025-04-23T03:33:10.595735,Bryan Monti,Amazon,n
+6b83ec45-45ec-4b1a-9427-cfd9ebe85a7e,card,2025-04-23T03:43:05.511351,Bryan Monti,Amazon,n
+f5ba0f7e-0e82-46b7-b1ea-a4b8e8a1a20c,card,2025-04-23T04:59:20.014073,Bryan Monti,Amazon,n
+d4740865-a109-4d07-97cf-6a65bbe08299,card,2025-04-23T04:59:20.282996,Bryan Monti,Amazon,n
+0069ec59-a80e-4af3-a39e-ca16876a10ad,card,2025-04-23T18:44:51.005443,Benjamin Ward,Amazon,n
+92184449-5042-463c-a648-098ff0f1dc6a,card,2025-04-23T23:18:29.026610,Benjamin Ward,Amazon,n
+339e3b08-2096-45f3-95b5-63d959a0b7e8,card,2025-04-23T23:22:22.126976,Benjamin Ward,18650 Battery Store,n
+d7448753-454c-4fe9-a730-805d946254d3,card,2025-04-23T23:33:20.933119,Benjamin Ward,Digi-Key,n
+35e36f75-068b-4e04-be5e-9ab89556fced,card,2025-04-23T23:33:30.433668,Benjamin Ward,Digi-Key,n
+a3b76e54-ede4-43dc-88c0-88190b957bc6,card,2025-04-24T00:41:20.148738,Benjamin Ward,Digi-Key,n
+73a50528-14a3-4d3f-9aa8-b38c5453d629,card,2025-04-24T02:26:03.962227,Bryan Monti,Amazon,n
+0eaf1b63-f391-4345-b38e-3a78661c29ec,card,2025-04-24T03:05:33.878707,Bryan Monti,Amazon,n
+2ee2997d-03b2-458e-bb30-b829b7aae55d,card,2025-04-24T14:35:30.251998,Benjamin Ward,Amazon,n
+6f4fe9d3-c2a4-4ff0-9c3e-10c5df891812,card,2025-04-24T16:56:50.559098,Benjamin Ward,Amazon,n
+9219cdb8-55df-49cf-8cc3-3d2017d154b4,card,2025-04-24T16:56:52.450688,Benjamin Ward,Digi-Key,n
+e5e9668b-c4e0-44aa-ae32-8dd9e91f45e7,card,2025-04-24T17:06:14.020461,Benjamin Ward,Digi-Key,n
+790ae833-8b06-475f-b7fc-7fa6687cfecf,card,2025-04-24T18:38:01.951258,Benjamin Ward,Digi-Key,n
+c66b92b2-9fbd-47a1-96a2-e3ff9240ef41,card,2025-04-24T18:38:02.492589,Benjamin Ward,Digi-Key,n
+6089047b-c38f-495b-b9a4-a0d80f1bd1b0,card,2025-04-24T18:54:14.448281,Benjamin Ward,Amazon,n
+30badfc7-6d91-4ad1-9497-e4014476af39,card,2025-04-24T19:48:45.472013,Bryan Monti,Amazon,n
+a09c9470-1c78-4b39-baf4-826e0598c01b,card,2025-04-24T19:48:49.219420,Bryan Monti,Amazon,n
+8de6788e-bced-418c-8a8f-4e6655026052,card,2025-04-24T20:04:14.513923,Benjamin Ward,Mouser Electronics,n
+dcdad8fc-652e-40ce-ac4e-86e123abcf55,card,2025-04-24T20:13:10.027474,Benjamin Ward,Digi-Key,n
+de0bb211-8c36-4d06-8f44-e9e93a258a9b,card,2025-04-24T21:41:07.849629,Benjamin Ward,Mouser Electronics,n
+55ed279e-e642-4ef0-9893-cc55e232a538,card,2025-04-25T13:03:40.323093,Benjamin Ward,Digi-Key,n
+5cacf17d-ebcc-4064-82f5-05e8199b8472,card,2025-04-25T13:03:41.284266,Benjamin Ward,Digi-Key,n
+b9687bfc-feb1-4298-80cf-f28c51161a08,card,2025-04-25T13:03:41.782766,Benjamin Ward,Digi-Key,n
+553184de-9f4b-4120-a70b-45cf68c53fcc,card,2025-04-25T14:10:48.359924,Benjamin Ward,Digi-Key,n
+c7ed4924-b5e4-4630-94e5-c8d54be26bc0,card,2025-04-25T15:38:13.093509,Benjamin Ward,Digi-Key,n
+f9544860-7978-4c05-9d16-ac0f502bb8d5,card,2025-04-25T18:01:04.946306,Benjamin Ward,Digi-Key,n
+285f81df-a4b3-48a6-8dd1-268e5d780bbb,card,2025-04-25T19:37:59.895719,Benjamin Ward,Mouser Electronics,n
+3bb2f6aa-d107-4635-b22c-4f0379f476e9,card,2025-04-25T23:43:38.354081,Benjamin Ward,Mouser Electronics,n
+e9ff7130-4930-429b-9290-ae0e08aa99d4,card,2025-04-27T19:02:36.856514,Benjamin Ward,Digi-Key,n
+d92bbb44-96a2-4426-9a7a-effca77b6c2f,card,2025-04-27T19:20:05.389952,Benjamin Ward,Digi-Key,n
+a4234694-3fba-4c02-84b5-a5e969375708,card,2025-04-27T22:39:48.253199,Benjamin Ward,Digi-Key,n
+e9aa8c16-c386-4fdc-bf48-23bbcb2c1061,card,2025-04-27T22:39:48.857427,Benjamin Ward,Digi-Key,n
+fc92cc8b-1c50-4af4-893a-14ad128717a7,card,2025-04-28T05:46:10.057319,Benjamin Ward,Amazon,n
+2e4b6ed6-0a4e-4e0a-8aa9-f39e6d00595e,card,2025-04-28T06:02:02.919770,Benjamin Ward,Digi-Key,n
+f8c9aa44-238b-49ca-a872-15a00fa9bfbd,card,2025-04-28T13:19:00.520088,Benjamin Ward,Digi-Key,n
+9f68150f-5be7-4a54-900b-ad96ccdaaee8,card,2025-04-29T18:46:43.971365,Benjamin Ward,Pirate Ship,n
+d03a56be-b250-40c2-9538-ff9d63f1b93b,card,2025-04-30T14:53:44.761713,Bryan Monti,Amazon,n
+68e16ca9-f8ff-4c6b-bc4f-3c517d196962,card,2025-05-01T14:45:33.832642,Benjamin Ward,Amazon,n
+ca4964f9-6363-4478-b3d1-017abfcd5c7d,card,2025-05-05T13:59:18.123162,Benjamin Ward,Digi-Key,n
+415d2a8f-3787-4b7e-a8db-63b798b2f630,card,2025-05-05T15:04:20.151614,Benjamin Ward,Digi-Key,n
+5deabfb0-1fa8-4a5c-ab9b-b5f79ed1d253,card,2025-05-05T15:58:23.168755,Benjamin Ward,Digi-Key,n
+25e29a46-4d44-40a9-b379-7df1d0f0b6e1,card,2025-05-06T15:04:44.486814,Bryan Monti,Amazon,n
+ab806d24-f868-4d0c-8186-bf7ca2621642,card,2025-05-06T15:41:50.903199,Bryan Monti,Amazon,n
+134604a0-0634-4c5a-a3cb-bf3b89dc6066,reimbursement,2025-05-06T16:20:16+00:00,Benjamin Ward,,n
+56699fd1-ef09-43ca-a3a5-6352d6a88c16,card,2025-05-06T22:29:03.326389,Bryan Monti,Amazon,n
+ff158f08-d698-477c-877f-3ed15670fabc,card,2025-05-06T22:29:07.904821,Bryan Monti,Amazon,n
+b42ed9b9-ca54-4e2c-97a7-2942144d2d20,card,2025-05-08T01:47:45.950476,Bryan Monti,Amazon,n
+baf63254-0227-4d73-b943-39b8d1d0d3df,card,2025-05-09T14:30:21.273373,Benjamin Ward,Amazon,n
+8464ab24-ef82-46d8-9d62-07ed6b00a3f5,reimbursement,2025-05-09T14:42:40+00:00,Benjamin Ward,,n
+90078462-d784-4357-8946-2642e73e42ae,card,2025-05-11T20:13:05.259907,Benjamin Ward,Amazon,n
+26f27c44-6f48-4acd-b2a4-a3a8e80ee60e,card,2025-05-12T21:38:44.345432,Benjamin Ward,Pirate Ship,n
+d7ad4479-1f3e-4060-b870-ac94056d6198,card,2025-05-12T21:38:44.588817,Benjamin Ward,Pirate Ship,n
+723ac553-45a5-4dbc-ba30-d85fa0b3399c,card,2025-05-13T15:50:34.074450,Benjamin Ward,DHL,n
+e8423122-1a83-4eb8-b7ff-48a239d83136,reimbursement,2025-05-13T17:36:21+00:00,Benjamin Ward,,n
+88a5ecec-8b94-4648-bb38-959b15c0bf88,card,2025-05-13T19:44:27.572117,Benjamin Ward,Extra Space Storage,n
+6f4292c8-c7f0-4146-b7b5-08a0ba3455f2,card,2025-05-13T19:47:35.901536,Benjamin Ward,igloohome,n
+f2dfcb98-f8b5-4433-9323-dda9c9f92aef,card,2025-05-13T19:57:59.734144,Benjamin Ward,RS Group,n
+522293d6-4397-476d-a11f-dc1922f542a6,card,2025-05-13T19:59:24.311849,Benjamin Ward,Amazon,n
+4714ddd5-4ccc-4455-9504-f3f1e914d9ed,card,2025-05-13T21:51:31.327300,Benjamin Ward,SupplyHouse.com,n
+80c77b20-b1b8-4a73-86e3-86c5f6d8a7ac,card,2025-05-13T21:51:32.522924,Benjamin Ward,ULINE,n
+57073834-4fd3-498b-8d67-4ca7a9a5ca34,card,2025-05-14T15:06:26.302786,Benjamin Ward,Amazon,n
+e622a4f7-93be-43fd-9f6b-bcd5338566c9,card,2025-05-14T18:32:22.632446,Benjamin Ward,Pirate Ship,n
+8c455b39-003a-4d88-b7fa-f6226a314a55,card,2025-05-15T02:28:08.438492,Bryan Monti,Amazon,n
+56a45ef8-f502-448d-ae80-ca231ee73ecd,card,2025-05-15T21:42:21.200782,Bryan Monti,Amazon,n
+46dfd098-9249-4ad8-b055-e094ab95f020,card,2025-05-19T00:19:44.790272,Bryan Monti,Amazon,n
+b54fa107-375b-4550-a4da-c1944a2509c4,card,2025-05-19T06:51:24.637671,Bryan Monti,Amazon,n
+29a13f03-bd14-485f-93b9-bef79b3e5143,card,2025-05-19T17:31:43.758966,Bryan Monti,Amazon,n
+8b0b0637-4bbc-4ac9-ab84-17ccc2ff3426,card,2025-05-19T17:50:13.603528,Bryan Monti,Amazon,n
+f292ae94-a1d5-4cd2-a801-7c1f4203abec,card,2025-05-19T19:05:57.223966,Bryan Monti,Amazon,n
+9f10f8d8-b214-4c9e-a6da-86f2936c2fea,card,2025-05-23T19:41:25.645497,Bryan Monti,Amazon,n
+6a7a7e61-9e80-4863-a7d3-163c1762eacd,card,2025-05-27T17:15:45.167578,Benjamin Ward,SupplyHouse.com,y
+ce98e5b1-263e-4966-abe3-8225def1c9ef,card,2025-05-27T17:19:55.763517,Bryan Monti,Amazon,n
+30968ea1-cd4e-4929-9ff5-04d592131125,card,2025-05-27T17:25:46.270722,Bryan Monti,Amazon,n
+6aa6b275-5fba-4582-9021-74760da5f448,card,2025-05-27T17:25:48.105397,Benjamin Ward,Amazon,n
+3f72438d-a98c-4af5-9223-ca3182eff7ef,card,2025-05-27T18:41:21.189692,Bryan Monti,Amazon,n
+30ffb2aa-e663-4eea-a59e-56de2b3f0ea2,card,2025-05-27T19:41:11.239476,Benjamin Ward,Pirate Ship,n
+79f062fc-c9e0-4594-88f7-2c4acb8c18b8,card,2025-05-27T21:25:21.047023,Bryan Monti,Amazon,n
+505ed574-f698-4919-95f3-27f06a5a7b60,card,2025-05-27T22:24:58.373357,Bryan Monti,Amazon,n
+693b0b5f-e290-42a0-b8b0-ed16c64bb17f,card,2025-05-28T13:02:29.729752,Benjamin Ward,Pirate Ship,n
+a8176156-fd75-4bf7-a562-ed5daabbef1c,card,2025-05-28T13:02:30.238500,Benjamin Ward,Pirate Ship,n
+47db6035-7a5b-4335-b6a9-187efcd36028,card,2025-05-28T22:02:30.084328,Bryan Monti,Amazon,n
+0d2f65dc-153d-4293-8872-db83e2c4725b,card,2025-05-29T01:37:28.632779,Benjamin Ward,Amazon,n
+690f91bb-e1c2-4398-b4da-ede483f207a9,card,2025-05-30T18:17:07.102711,Bryan Monti,Amazon,n
+ebcf5181-0d3c-456c-896a-c0f7532b30a2,card,2025-05-30T21:50:06.809071,Benjamin Ward,Mouser Electronics,n
+05d1fbdc-6308-4889-8a9c-14f5c466d923,card,2025-05-30T22:00:23.040037,Benjamin Ward,OPULO,n
+78920c4b-7c71-4cd9-a735-02ef99d40487,card,2025-05-31T01:13:29.129748,Benjamin Ward,Mouser Electronics,n
+b33f6606-6d8e-4ee3-8d13-065d75b17412,card,2025-05-31T21:01:11.956137,Bryan Monti,Amazon,n
+3c119a19-0d1f-4126-ac5e-c1dbf1baaf3f,card,2025-06-01T01:23:23.389990,Bryan Monti,Amazon,y
+9359ba25-2628-4f5a-a509-1f8ea6924d1a,card,2025-06-02T17:01:36.164810,Benjamin Ward,Amazon,n
+4d8c0c75-1c79-495c-aafe-25ca901edc77,card,2025-06-02T17:57:44.111628,Benjamin Ward,Sp Eagle Electronics,n
+bcaf8cc5-13b1-4afa-9a52-2448db590e49,card,2025-06-02T18:33:37.571306,Benjamin Ward,Amazon,n
+3e5324af-01e9-4751-8509-58ce1f04374f,card,2025-06-02T19:57:06.357162,Benjamin Ward,Amazon,n
+0af99790-6ddc-43e4-929c-4af1d9f75ee9,card,2025-06-02T19:58:29.211691,Benjamin Ward,Amazon,n
+2b188fb6-9e4c-4d72-85d1-1f6971743355,card,2025-06-02T20:00:20.604797,Benjamin Ward,Pcbway,n
+04b001a2-2618-44ed-a2fa-89a57aa25f7f,card,2025-06-02T20:02:21.481050,Benjamin Ward,Amazon,n
+128df924-73a5-4f88-abba-64bdc858070d,reimbursement,2025-06-02T20:14:45+00:00,Benjamin Ward,,n
+43ea7b71-9df3-49a0-a81e-c5868016f101,reimbursement,2025-06-02T20:14:45+00:00,Benjamin Ward,,n
+8c28ae39-a15a-4ad3-b654-a7a4a4efc984,reimbursement,2025-06-02T20:19:43+00:00,Benjamin Ward,,n
+71822421-5d65-4d2c-80bf-2835b19d7882,reimbursement,2025-06-02T20:19:43+00:00,Benjamin Ward,,n
+4f49f7a4-3ac0-4353-94e0-a4b859f63c2e,card,2025-06-02T21:06:23.145898,Benjamin Ward,Sp Infinite Cables Us,n
+d83f22dc-14da-4673-97ae-c43c687f90a7,card,2025-06-02T21:09:10.688694,Benjamin Ward,Amazon,n
+dc735589-55bf-438c-bb14-9b09c7bd4dda,card,2025-06-03T21:44:16.118909,Benjamin Ward,Amazon,n
+0153992a-434f-4221-bd4a-809bacada4a3,card,2025-06-03T21:44:16.162523,Benjamin Ward,Amazon,n
+b88a6fb8-44ef-440b-a1ee-99289310fac8,card,2025-06-04T19:34:09.558620,Benjamin Ward,Bytechs,n
+3e837cdc-0697-4465-8f8d-d057029ae4d9,card,2025-06-04T19:34:11.182846,Benjamin Ward,Bytechs,n
+87d2c5cf-cc8b-46c5-84ff-fb2ff262b2d2,card,2025-06-05T15:09:06.686400,Benjamin Ward,Amazon,n
+0d01f539-05ed-4f7f-bfa6-aec8f0ade628,card,2025-06-05T16:08:07.246817,Benjamin Ward,Amazon,n
+06787a77-24c0-49f7-a47b-440257496a5d,card,2025-06-07T22:29:16.270628,Benjamin Ward,ULINE,n
+ca2196c7-9886-438e-a57f-4eefd1454b26,card,2025-06-09T06:18:11.053207,Benjamin Ward,ULINE,n
+8f2c316a-9f0c-473e-b568-a6e3995111b8,card,2025-06-09T14:26:15.585342,Benjamin Ward,Pirate Ship,n
+df9e9116-ad47-43dd-8917-6e30759d0b7a,card,2025-06-09T14:26:16.765124,Benjamin Ward,Mouser Electronics,n
+0306898e-0050-4240-9acc-5b25d00c59f3,card,2025-06-09T16:34:16.793835,Benjamin Ward,Digi-Key,n
+11cc69ab-2b35-491f-a8ae-d41cadd9f607,card,2025-06-09T17:20:11.991196,Benjamin Ward,Digi-Key,n
+e768c10f-b711-434d-a788-0135333e1aa5,card,2025-06-09T20:11:05.247689,Benjamin Ward,ULINE,n
+75b3ce48-10c7-4406-b24e-99e19aed9fa1,card,2025-06-09T21:04:24.596312,Benjamin Ward,Mouser Electronics,n
+26cd647d-b0bc-45b5-9ad6-ad31d4606ae9,card,2025-06-09T21:48:52.686341,Benjamin Ward,Amazon,n
+d2fc79af-f2bf-4888-a11f-fc083397f891,card,2025-06-09T22:14:14.594291,Benjamin Ward,Digi-Key,n
+b4db9b9a-171e-48ca-b628-65ae541185c4,card,2025-06-10T00:57:18.548394,Benjamin Ward,Amazon,n
+971801a6-4156-4143-9c16-299906484f1c,card,2025-06-10T04:54:13.082852,Benjamin Ward,Amazon,n
+0cb37804-e485-41a1-9c37-0f0c63a9f82c,card,2025-06-10T05:28:48.359299,Benjamin Ward,Pirate Ship,n
+34db87c4-030e-4a14-8d41-0f80d98a2195,card,2025-06-11T16:50:46.957195,Benjamin Ward,Pirate Ship,n
+c393e30b-44f9-4ed1-9627-05ba4cba344c,card,2025-06-11T18:32:50.198921,Benjamin Ward,Lehr Labs,n
+8f2b5be9-867a-4cb5-9dd8-708f28d01506,card,2025-06-11T19:57:33.260789,Benjamin Ward,Lehr Labs,n
+90fbfb6f-af4a-45d2-918a-355e99eb6131,card,2025-06-11T20:54:25.066421,Benjamin Ward,Digi-Key,n
+020ebfb2-53e0-4f3e-a589-6a88ac618411,card,2025-06-11T20:54:25.478520,Benjamin Ward,Mouser Electronics,n
+02c350a7-e1e2-4071-9363-2191cbd383df,card,2025-06-11T22:44:43.372387,Benjamin Ward,Digi-Key,n
+b89d23ba-de37-4f1b-a947-72b4b6124678,card,2025-06-12T00:28:20.787664,Benjamin Ward,Digi-Key,n
+7ca7a60b-1530-4d1a-8c1b-141a6f12e56d,card,2025-06-12T09:40:24.942170,Benjamin Ward,McMaster-Carr,n
+f54efada-8bfd-4e1d-b047-49aecb2136de,card,2025-06-12T13:38:51.199876,Benjamin Ward,Pirate Ship,n
+84d354f8-53bd-422d-ba85-6844fc7b4ed1,card,2025-06-12T18:52:53.039266,Benjamin Ward,Mouser Electronics,n
+035f4ad3-88a0-4fad-abc9-861056a8f5c2,card,2025-06-14T18:02:12.887409,Benjamin Ward,Amazon,n
+251515d6-8ba9-46c4-b23b-451d8372f775,card,2025-06-16T15:40:31.117203,Benjamin Ward,DHL Express,y
+52d9679e-e76f-4c44-bf3c-75425702b6a3,card,2025-06-17T13:23:04.269913,Benjamin Ward,Pirate Ship,n
+c420a483-d6b8-4724-9493-b35d85ff00d1,card,2025-06-17T13:23:04.353372,Benjamin Ward,Pirate Ship,n
+4e1846fa-22ab-4dd4-9c49-69e335d1f70f,card,2025-06-17T15:27:42.287069,Benjamin Ward,Mouser Electronics,n
+9baebfd9-e35b-44aa-9fb5-5a74e2b9e1a4,card,2025-06-17T15:49:19.846851,Benjamin Ward,Amazon,n
+2a05366b-d9f1-4f2b-8230-4da2b208cb81,card,2025-06-17T17:20:53.062326,Bryan Monti,Amazon,n
+acf1db5c-8bf4-467e-845e-cb2317dd3fdc,card,2025-06-17T17:20:53.460476,Bryan Monti,Amazon,n
+01a83580-c0f2-4161-9312-5424291ddc12,card,2025-06-17T17:20:53.698533,Bryan Monti,Amazon,n
+a5a33df5-235d-48f8-8f8a-891d9d7c7724,card,2025-06-17T17:25:18.269452,Benjamin Ward,Digi-Key,n
+f45750a2-25c6-4de1-a3ec-9fad0b8ebd56,card,2025-06-17T18:31:17.413463,Benjamin Ward,Digi-Key,n
+f48ed6c5-8cbe-4dc5-af57-70232ed6ed48,card,2025-06-17T20:06:45.778732,Bryan Monti,Amazon,n
+5be4fd12-432a-4bf4-b562-794e2c97ceed,card,2025-06-17T22:49:54.137684,Bryan Monti,Amazon,n
+9db36ec2-83c6-46ef-a7c5-a089bcc9e6d4,card,2025-06-18T00:15:32.001240,Benjamin Ward,Digi-Key,n
+200ba482-27c2-4df4-889b-2dbfe1cc1a04,card,2025-06-18T18:59:20.549062,Benjamin Ward,Pirate Ship,n
+424f3181-4f9f-4ebe-b44c-a82246206176,card,2025-06-18T19:10:36.168543,Benjamin Ward,Pirate Ship,n
+6f8813e7-f2e3-481f-92a4-763ea3295854,card,2025-06-19T13:26:04.486195,Benjamin Ward,Extra Space Storage,n
+24919430-d4b3-453c-ba2c-4164c70d596c,card,2025-06-19T16:13:17.248293,Benjamin Ward,Digi-Key,n
+4de697e8-19ec-4d9c-9211-a19af00c90c9,card,2025-06-19T16:41:35.931723,Benjamin Ward,Digi-Key,n
+266f410a-22c0-47d3-a45b-050d9dbe9237,card,2025-06-19T17:26:10.387235,Benjamin Ward,Digi-Key,n
+3d34e02a-387e-4ce1-966f-0b7597c19fa3,card,2025-06-20T15:45:27.038653,Benjamin Ward,Pirate Ship,n
+6c21477c-245c-4c1a-b501-725ebfa34532,card,2025-06-20T16:04:42.794889,Benjamin Ward,Pirate Ship,n
+4fa3404c-c2cc-4aa1-8eca-7afbb7cdccc5,card,2025-06-21T09:44:07.795773,Benjamin Ward,McMaster-Carr,n
+6910caa8-724f-4f18-8a2b-953d89b4f515,card,2025-06-23T11:14:11.525314,Benjamin Ward,Mouser Electronics,n
+f892851c-9fd5-4d06-a507-310d9050e395,card,2025-06-23T19:03:10.258345,Benjamin Ward,Amazon,n
+8d866c18-13c7-47d7-82cc-10d33e4ec3fb,card,2025-06-24T20:34:18.094578,Bryan Monti,Amazon,n
+9582c7b7-7032-44a0-b432-d300b5848fdc,card,2025-06-24T21:03:21.430870,Benjamin Ward,Amazon,n
+3cfe6b43-8ddd-4e8d-b8b2-f1b2343335ac,card,2025-06-24T21:22:08.829695,Benjamin Ward,Pirate Ship,n
+f62d483b-02f3-4a02-ad2f-4c1edc36285e,card,2025-06-24T21:41:18.281554,Benjamin Ward,Pirate Ship,n
+5fd52e49-d819-4973-9bc4-f9f07c010f6e,card,2025-06-25T01:28:28.856427,Benjamin Ward,Amazon,n
+4d35baab-e762-44dc-b109-a81419696d2a,card,2025-06-27T16:02:52.644298,Benjamin Ward,Amazon,n
+a88ab506-5932-436f-92e8-acd7ef41f738,card,2025-06-27T18:07:42.217211,Bryan Monti,Amazon,n
+64daba5c-3dbc-451e-961e-f0fad1b300ec,card,2025-06-27T18:43:34.843125,Benjamin Ward,Bytechs,n
+82b6b944-e15b-4298-b786-fc3fd048a1e1,card,2025-06-28T02:11:17.912322,Benjamin Ward,Mouser Electronics,n
+220c8ba4-0c3a-4783-b768-d7e37fd303b1,card,2025-06-28T02:11:18.399186,Benjamin Ward,Bytechs,n
+7d1badfe-ee84-43dd-b364-4b211c880f8a,card,2025-06-28T02:11:18.461466,Benjamin Ward,Mouser Electronics,n
+98f43311-170b-445b-82f0-12dd2dc1c598,card,2025-06-28T10:26:25.220539,Benjamin Ward,Pirate Ship,n
+1c4ab509-64d8-4541-a1ed-306ba8cde47d,card,2025-06-30T15:00:47.409872,Benjamin Ward,Mouser Electronics,n
+2e0ea568-0bbb-4ef1-b133-d0c7097da034,card,2025-06-30T16:43:42.542831,Benjamin Ward,Mouser Electronics,n
+e5900ac4-8073-463e-a3e1-badc4fe70d9b,card,2025-07-01T11:40:46.127842,Benjamin Ward,Pirate Ship,n
+d1d6920c-e573-4f3a-8bc2-9fd40291bddf,card,2025-07-01T18:07:57.255234,Bryan Monti,Amazon,n
+a3ab9cc5-7d94-40dd-a66b-06e40e9b8c8d,card,2025-07-01T21:28:20.929611,Bryan Monti,Amazon,n
+30d03f5a-6947-4518-999a-f8a69be870fe,card,2025-07-08T17:25:20.066058,Benjamin Ward,Digi-Key,n
+2bc89477-64cd-4c83-b541-b1c5323f2929,card,2025-07-08T22:11:04.533567,Benjamin Ward,Digi-Key,n
+7f0144ca-e35d-4325-b693-831e8a96a488,card,2025-07-08T22:50:22.420481,Benjamin Ward,Digi-Key,n
+4b15f74b-76b0-4f4f-8fc2-78f75ef85cf0,card,2025-07-09T01:37:37.366989,Benjamin Ward,Amazon,n
+3a836a2a-1c40-4e5c-b4f9-da91041f945f,card,2025-07-09T21:47:00.536645,Benjamin Ward,Amazon,n
+0b9bb82c-a764-4568-b9e5-0b5df7344d66,card,2025-07-10T17:08:07.385148,Bryan Monti,Amazon,n
+a49faa4d-7afb-4f3f-be43-719ad2c0f657,card,2025-07-10T23:43:11.652275,Benjamin Ward,The Home Depot,y
+1adc1a6f-46d6-408c-9504-e76e07d16a3f,card,2025-07-11T17:13:31.132038,Benjamin Ward,ULINE,n
+05814114-c25e-43e0-a371-3fcaa083aec9,card,2025-07-11T23:05:47.846229,Benjamin Ward,ULINE,n
+23ea5874-873f-4e6f-ad42-a381de0bb29a,card,2025-07-12T03:11:34.920502,Benjamin Ward,Pirate Ship,n
+f760701c-84b5-4f3f-9cb9-64003f13b949,card,2025-07-12T03:55:23.341799,Benjamin Ward,Pirate Ship,n
+c4cf52b4-4535-4a78-aee8-43ed82b87a88,card,2025-07-12T03:57:04.882773,Benjamin Ward,Pirate Ship,n
+174ebb70-f9d3-4a91-ab48-c92a3adb3a3c,card,2025-07-14T20:26:23.359553,Benjamin Ward,Pirate Ship,n
+88d041d2-1e3f-4ea2-aabd-0386488d5b75,card,2025-07-14T20:27:26.797913,Benjamin Ward,Pirate Ship,n
+8280f869-ee00-4369-ae30-8233519ddb35,card,2025-07-14T20:40:57.440771,Benjamin Ward,Pirate Ship,n
+ab65fa68-c15a-4018-b2f2-727b9c3b3303,card,2025-07-16T18:41:15.914973,Benjamin Ward,Amazon,n
+a7352430-32ca-46eb-ae18-cc1b441f5e6a,card,2025-07-16T18:49:46.663143,Benjamin Ward,Amazon,n
+b3a56d4d-edcc-4ce9-9473-5975e42a865e,card,2025-07-16T18:49:46.899141,Benjamin Ward,Amazon,n
+b8926bc1-84cf-4d2d-8273-51e3fafa030b,card,2025-07-16T21:35:13.069053,Bryan Monti,Amazon,n
+6541543b-a64b-4d31-a087-e45b22c30ca2,card,2025-07-16T23:12:30.424062,Bryan Monti,Amazon,n
+61e99415-17df-4e0b-abec-16125e5eb2bc,card,2025-07-17T03:39:29.203033,Benjamin Ward,Pirate Ship,n
+c4bd6fab-be0d-4a36-94c9-e01c4de94d06,card,2025-07-17T18:53:37.775539,Benjamin Ward,Bytechs,y
+b2abe32e-f798-4907-9055-0932ad5180f7,card,2025-07-17T18:53:40.023773,Benjamin Ward,Bytechs,n
+ac1fbfe9-51fd-4c7a-9467-2419d4abc46c,card,2025-07-18T03:49:03.087975,Benjamin Ward,Pirate Ship,n
+d040f331-9332-4f6f-bdad-73eed9a5286b,card,2025-07-18T03:49:36.844503,Benjamin Ward,Pirate Ship,n
+647fde0d-cc27-4de3-9072-b72ece2101ba,card,2025-07-18T11:01:24.405091,Benjamin Ward,Pirate Ship,n
+d32cfc84-899f-4dc3-b327-99c16ec4d3e9,card,2025-07-18T11:09:10.509739,Benjamin Ward,Pirate Ship,n
+64b0b9ea-7800-471c-9d9e-489ab77e6b30,card,2025-07-18T20:29:28.969530,Benjamin Ward,Pirate Ship,n
+1e2158f7-052f-411d-bdb8-5e45125260f4,card,2025-07-22T03:53:33.518965,Benjamin Ward,Pirate Ship,n
+0c2cbd31-663f-4c69-aec5-1d2e6d8768f8,card,2025-07-22T03:55:04.027803,Benjamin Ward,Pirate Ship,n
+80ccb482-cf08-4681-a189-5b95c0a6855f,card,2025-07-22T11:32:19.293528,Benjamin Ward,Pirate Ship,n
+0a700053-0bf2-4db4-9d0c-d3fb9f04baf1,card,2025-07-28T21:48:39.122621,Benjamin Ward,Amazon,n
+916bdfa5-922c-40a0-84f1-d0bea1116fe2,card,2025-07-30T15:09:33.691454,Benjamin Ward,Amazon,n
+b3a2ca7a-8a25-4767-b411-4d7768664f79,card,2025-07-30T16:04:25.696066,Bryan Monti,Amz Carbide Processors,n
+5f6091d8-0868-4ecf-9cf5-2166627fa8eb,card,2025-07-30T20:04:06.680580,Benjamin Ward,Amazon,n
+a84f97e1-5460-46f9-92b5-d9bd925d6345,card,2025-07-31T03:24:59.011353,Benjamin Ward,Pirate Ship,n
+b8f6c145-0295-4a18-ac56-dbf1fe747676,card,2025-07-31T03:54:04.366876,Benjamin Ward,Pirate Ship,n
+6afc508f-6c41-4273-a82f-7fef5750b839,card,2025-07-31T18:13:01.534951,Bryan Monti,Amazon,n
+f2d65312-d7e5-4aa3-b9fd-2f2251657eaa,card,2025-07-31T22:21:00.514151,Bryan Monti,Amazon,n
+9c5a6ca7-9fb8-4a13-98c8-ea90e88c158d,card,2025-08-01T14:13:51.304607,Bryan Monti,Amazon,n
+e33a03d7-5e20-4bba-81ed-edbe47d6443a,card,2025-08-01T19:45:48.752165,Benjamin Ward,Arrow Electronics,y
+e5fbd489-91c7-4f41-a1f4-26f60eeacced,card,2025-08-01T19:59:34.392542,Benjamin Ward,Mouser Electronics,n
+a0431c0c-c1aa-4748-a9c6-72f3152f7308,card,2025-08-01T19:59:34.940841,Benjamin Ward,Digi-Key,n
+35297ae0-70ae-4002-9343-9213d0963fa1,card,2025-08-01T20:33:49.197361,Benjamin Ward,Digi-Key,n
+3a19ed64-7696-438a-b35c-5a938afd1dcf,card,2025-08-01T22:28:10.115126,Benjamin Ward,Digi-Key,n
+f65b6f97-b951-4d14-b399-eed1e5910dd9,card,2025-08-05T14:15:35.313544,Benjamin Ward,Amazon,n
+b9dbf9e1-92e5-4ae7-a96a-d269e3f3f6f7,card,2025-08-05T17:34:20.302072,Bryan Monti,Amazon,n
+17089cef-1ce3-4a05-9b74-b50f8718454d,card,2025-08-06T12:02:36.769503,Benjamin Ward,DHL Express,n
+253b3e9d-6048-4214-9b6c-7c971abae000,card,2025-08-06T18:23:51.760555,Benjamin Ward,Digi-Key,n
+eeffc92b-9b2f-49ac-955f-5b4109a25f41,card,2025-08-06T19:47:15.061312,Benjamin Ward,Digi-Key,n
+733f39da-02c7-48a8-ba1f-d1abafe3238f,card,2025-08-07T15:22:31.027394,Benjamin Ward,Bytechs,n
+17ef6eff-19cb-4259-bcc9-f0da152aeee6,card,2025-08-07T15:39:24.449753,Benjamin Ward,Bytechs,n
+0655bb37-4c98-4cb9-9479-fe355f577aee,card,2025-08-11T03:58:00.708068,Benjamin Ward,Pirate Ship,n
+67e7d347-8948-46a5-97ce-078e2138c4c4,card,2025-08-11T04:09:05.250264,Benjamin Ward,Pirate Ship,n
+896936d3-6cf5-4308-8ffc-0200d5e1091d,card,2025-08-11T04:14:49.290772,Benjamin Ward,Pirate Ship,n
+77d9acd4-30fa-4109-8577-17c58736934e,card,2025-08-11T15:19:42.400039,Benjamin Ward,Digi-Key,n
+c937fea3-5723-446a-bd59-ea558ad53194,card,2025-08-11T15:52:15.235988,Benjamin Ward,Amazon,n
+5b8ef25b-50db-406c-9fcb-3adea90c3e42,card,2025-08-12T15:37:10.042835,Benjamin Ward,SupplyHouse.com,n
+86de3932-bde2-404d-aa2c-ebc743157049,card,2025-08-13T03:31:32.544961,Benjamin Ward,Pirate Ship,n
+2d62c4d3-ecdb-4b53-9524-1279f29dd0a1,card,2025-08-13T14:34:26.102865,Benjamin Ward,ULINE,n
+cb9fdfc8-6c64-472c-aa13-9e2cb76222be,card,2025-08-13T16:12:16.410943,Bryan Monti,Amazon,n
+121e6860-d671-4da9-8ead-73960c24cf63,card,2025-08-13T18:30:28.090134,Benjamin Ward,Bytechs,n
+a7554b58-2bd4-4a50-8fa3-a5c6ee2312d2,card,2025-08-13T18:30:28.281033,Benjamin Ward,Bytechs,n
+60fc180d-b8d1-4b3f-b37a-a42ddd237bf9,card,2025-08-13T19:18:58.448304,Benjamin Ward,Bytechs,n
+f2475f2b-87e0-4037-bf17-d8137f46a22b,card,2025-08-13T19:22:38.246651,Benjamin Ward,ULINE,n
+f7491f2a-275a-4385-b54a-eb2ceac17a87,card,2025-08-15T15:01:08.211190,Bryan Monti,Amazon,n
+28b63ab8-ca75-48c3-b5d7-39d0bbe84d28,card,2025-08-15T22:47:19.820865,Benjamin Ward,Pirate Ship,n
+5a673cbc-af55-49cc-bbff-cc6f2e003f88,card,2025-08-15T22:53:41.539798,Benjamin Ward,Pirate Ship,n
+fd546572-fb97-44dd-a77d-503c07912711,card,2025-08-17T11:42:26.073878,Benjamin Ward,Pirate Ship,n
+293695ce-e511-40f1-844c-526eaf3c043d,card,2025-08-17T11:45:22.595037,Benjamin Ward,Pirate Ship,n
+39888929-aeb2-4f7f-a6c0-42fd647927f5,card,2025-08-18T18:17:49.504049,Bryan Monti,Amazon,n
+3a5a3d64-fd5b-4edd-8589-d2b0dafa4169,card,2025-08-19T18:33:17.273868,Benjamin Ward,Digi-Key,n
+6e0b5235-c670-4d22-b02c-438ba2ed0a4e,card,2025-08-19T19:41:40.928011,Benjamin Ward,Digi-Key,n
+5b6b6367-180f-401b-8998-80a002ac4ec6,card,2025-08-21T14:46:19.384015,Benjamin Ward,Amazon,n
+557c3d53-0bbd-4e3c-a605-f9fe644e5569,reimbursement,2025-08-22T16:10:35+00:00,Benjamin Ward,,n
+29ad5e6e-4149-4b0d-8793-8c0aad9ca199,reimbursement,2025-08-22T16:14:12+00:00,Benjamin Ward,,n
+4c731eba-39e6-4751-93bf-d88287290546,card,2025-08-22T23:36:30.873277,Benjamin Ward,Amazon,n
+12011be5-c4be-417f-a17d-cfd001c51e98,card,2025-08-23T03:18:29.180828,Benjamin Ward,Oshpark.Com,y
+76a24127-dc70-46df-bdd9-4824d6ef5f21,card,2025-08-25T17:27:53.591645,Benjamin Ward,Digi-Key,n
+f634e785-b129-4fe7-8e41-81b2f88983ac,card,2025-08-25T19:16:20.915498,Benjamin Ward,Digi-Key,n
+dc7d8ecc-3f67-47f2-be8f-a4f27b8b8280,card,2025-08-25T20:05:54.181333,Benjamin Ward,Digi-Key,n
+8270682d-093b-4b7c-ac94-3c6b36220b70,card,2025-08-26T01:58:17.737994,Benjamin Ward,Amazon,n
+feb2d043-4312-41db-9eb7-a2614c6109c7,card,2025-08-26T02:05:26.569757,Benjamin Ward,Amazon,n
+bed323c4-e6f8-44aa-bca1-9ae8bb321369,card,2025-08-26T20:31:37.930013,Benjamin Ward,Amazon,n
+abb78950-e676-4cd3-9824-8a54508e977e,card,2025-08-26T20:58:56.247282,Bryan Monti,Amazon,n
+49566392-6d81-47fb-b758-8379665b9005,card,2025-08-27T03:34:33.972792,Benjamin Ward,Pirate Ship,n
+0209f965-4a1c-4ff8-a37d-962aa63263d6,card,2025-08-27T03:45:51.276217,Benjamin Ward,Pirate Ship,n
+09925104-7a57-465a-9136-a676070b7c43,card,2025-08-27T07:42:04.063158,Benjamin Ward,McMaster-Carr,n
+b40fc0d7-4f47-42d2-8da4-ecbaacefa816,card,2025-08-27T15:55:45.529886,Bryan Monti,Amazon,n
+40e26d03-5d4d-4dcd-bbb1-4c5fc1930a21,reimbursement,2025-08-27T18:22:32+00:00,Benjamin Ward,,n
+42cce147-18b6-4788-8ace-c589a4ddce97,reimbursement,2025-08-27T18:22:32+00:00,Benjamin Ward,,n
+080a6fdd-5bff-4224-a36c-251e81e2eb41,reimbursement,2025-08-27T18:22:32+00:00,Benjamin Ward,,n
+53ce6d80-df18-4905-8960-dba4732a188b,reimbursement,2025-08-27T18:23:40+00:00,Benjamin Ward,,n
+663e4d9d-8c60-4532-9cde-d0d675dad076,card,2025-08-27T19:59:00.866395,Benjamin Ward,Amazon,n
+5888430d-5cab-4079-acad-3b41eff56336,card,2025-08-27T20:00:58.790789,Benjamin Ward,Ubiquiti,n
+89df6510-13a8-43b2-94d5-461d4d794dcd,card,2025-08-28T05:49:50.418721,Benjamin Ward,Pirate Ship,n
+c192e36a-fa75-45b9-9694-9e942038d4fd,card,2025-08-28T18:40:42.449956,Benjamin Ward,Amazon,n
+4fd34d8c-6c4c-433a-bfb8-bdfa0ac2f489,card,2025-08-28T19:05:11.687390,Benjamin Ward,Amazon,n
+4b405d1a-e209-4643-ba95-52e17c6beeed,card,2025-08-28T21:32:25.633531,Benjamin Ward,Amazon,n
+ec1b1460-be50-4a87-a7d0-a0810666926c,card,2025-08-28T21:39:43.652815,Benjamin Ward,Amazon,n
+9c042e01-0357-413d-8b89-75886b7ca2bb,card,2025-08-29T20:07:36.117179,Bryan Monti,Amazon,n
+5f2a4325-e6a3-4e9e-9c85-eea9bd4f5f2c,reimbursement,2025-08-31T16:24:42+00:00,Benjamin Ward,,n
+00de7fd2-f143-4465-8cfb-04050d0dd809,reimbursement,2025-08-31T16:24:42+00:00,Benjamin Ward,,n
+582df214-f429-4e1c-bb3d-3b14da5fed72,reimbursement,2025-08-31T16:24:42+00:00,Benjamin Ward,,n
+fa4e1591-ab48-46da-92cb-9b9389d95292,reimbursement,2025-08-31T16:24:42+00:00,Benjamin Ward,,n
+bacaf39d-220d-46a7-abd1-1f3a8ecbcd5d,reimbursement,2025-08-31T16:24:43+00:00,Benjamin Ward,,n
+739a30e4-4fef-4552-880d-d68b7b218c41,reimbursement,2025-08-31T16:31:16+00:00,Benjamin Ward,,n
+be660729-cbb2-448c-8903-d20624aeaeed,reimbursement,2025-08-31T16:31:17+00:00,Benjamin Ward,,n
+813f51ea-2033-4318-8cd6-49a299458b9c,reimbursement,2025-08-31T16:31:17+00:00,Benjamin Ward,,n
+40ce1df3-c80e-43de-b45d-df68b6a9120c,reimbursement,2025-08-31T16:31:18+00:00,Benjamin Ward,,n
+0b0aea7e-244e-40ed-8112-8167ac4d8bbb,reimbursement,2025-08-31T16:31:18+00:00,Benjamin Ward,,n
+3752cb35-d289-46db-a556-cc338b2ad109,reimbursement,2025-08-31T16:31:18+00:00,Benjamin Ward,,n
+0d29692f-cb85-4996-a137-7fa1339e4b11,reimbursement,2025-08-31T16:31:18+00:00,Benjamin Ward,,n
+e27ef59e-19a5-4999-8749-bad1a8936554,reimbursement,2025-08-31T16:49:58+00:00,Benjamin Ward,,n
+0b0cd4d1-2892-4f15-ab43-a0e70ab2b399,reimbursement,2025-08-31T16:49:58+00:00,Benjamin Ward,,n
+eb2f04be-440b-499f-bf82-c4a55353303f,reimbursement,2025-08-31T17:06:26+00:00,Benjamin Ward,,n
+204c2869-1b9f-4fb6-b406-b35893bf1830,reimbursement,2025-08-31T17:06:26+00:00,Benjamin Ward,,n
+63d2ec8a-7cb3-4f84-b8b6-5a7dcd409280,reimbursement,2025-08-31T17:06:26+00:00,Benjamin Ward,,n
+b1ea0d07-9e86-4cf3-beb8-78db22ce1c9a,reimbursement,2025-08-31T17:06:26+00:00,Benjamin Ward,,n
+05133e18-904d-44ee-8d38-6f8db1eb7214,reimbursement,2025-08-31T17:06:27+00:00,Benjamin Ward,,n
+28ccf173-f9a7-435f-b1bd-6dcdbe1d384c,reimbursement,2025-08-31T17:06:27+00:00,Benjamin Ward,,n
+f07f7b55-fb35-46a5-8e07-6bb00732dade,reimbursement,2025-08-31T17:06:27+00:00,Benjamin Ward,,n
+5320c24f-f4bb-468b-95e2-f1a273f3ab56,reimbursement,2025-08-31T17:12:19+00:00,Benjamin Ward,,n
+22698613-787a-4303-95a5-3f9a879bf4f9,card,2025-09-02T10:45:14.185632,Benjamin Ward,Pirate Ship,y
+59c220ba-aaa2-40ae-82f4-b86d0781d9a1,card,2025-09-02T10:45:56.599220,Benjamin Ward,Pirate Ship,n
+40c3847a-4b04-4a57-8295-cd8bb3b60610,card,2025-09-02T10:46:37.323299,Benjamin Ward,Pirate Ship,n
+c03bd065-8d27-4ded-ae29-aa020132503f,card,2025-09-03T17:25:42.516331,Benjamin Ward,Amazon,n
+2627da21-8441-4f24-a863-33d6cd8fa01c,reimbursement,2025-09-03T21:32:14+00:00,Bryan Monti,,n
+6044c705-416a-4fa0-8c3a-2fb07fc386c1,card,2025-09-08T00:01:24.748231,Benjamin Ward,Amazon,n
+22a55632-08bf-4475-911c-4a6db26d0e94,card,2025-09-08T20:28:00.350532,Bryan Monti,Amazon,n
+74c24927-e1c9-4daf-9e73-57342d210acb,card,2025-09-09T17:46:21.615635,Bryan Monti,Amazon,n
+7265af20-6b49-4165-8dbc-4359fd43dd5a,reimbursement,2025-09-09T22:20:00+00:00,Benjamin Ward,,n
+12c8d8e7-01b2-4447-8f0c-cbf15ec3f58a,card,2025-09-10T18:26:21.315765,Benjamin Ward,Amazon,n
+b9a8f1c8-f8a5-4be9-8055-58d529c92a38,card,2025-09-10T20:17:03.925312,Benjamin Ward,Amazon,n
+411752cd-1d77-400f-aae9-2b8847961f60,card,2025-09-12T03:06:18.396330,Bryan Monti,Amazon,n
+4459aea5-90be-4eaa-b83b-a01a8ad54179,card,2025-09-15T02:26:15.105748,Benjamin Ward,Amazon,n
+d2e976a1-9036-437e-941e-45554cf33e55,card,2025-09-15T10:01:03.503936,Benjamin Ward,Pirate Ship,n
+b2229a62-0ae2-45d6-b363-166b51ea3bac,card,2025-09-15T10:47:03.521354,Benjamin Ward,Pirate Ship,n
+9eb0a851-82db-49c6-b0ab-d337db08c77e,card,2025-09-15T20:52:38.239150,Bryan Monti,Amazon,n
+fb945b2c-b285-4c8b-9eb0-6a9bfc928696,card,2025-09-16T00:32:11.661025,Bryan Monti,Amazon,n
+d8752400-513e-4cf6-a2a1-f21646768172,card,2025-09-16T00:53:30.943873,Bryan Monti,Amazon,n
+1268460d-a6b6-4ef7-8a9a-4e4691881684,card,2025-09-16T18:26:34.074940,Benjamin Ward,Digi-Key,n
+b3bcc591-dbe9-495e-9608-c24364baf51f,card,2025-09-16T18:35:22.263837,Benjamin Ward,Mouser Electronics,y
+bc48b720-a6c1-4077-8452-1aea2df598b6,card,2025-09-16T19:03:05.092967,Benjamin Ward,Digi-Key,n
+69f8cf2e-e27b-4bd6-99d4-55215adf128b,card,2025-09-16T20:52:05.395839,Benjamin Ward,Mouser Electronics,n
+099efb9e-7bdb-481d-94b2-bdfadf900f38,card,2025-09-16T21:20:28.072676,Benjamin Ward,Digi-Key,n
+d4ca7c2a-693b-42ee-8988-8bc4e2a3fc29,reimbursement,2025-09-17T01:21:49+00:00,Benjamin Ward,,n
+3e0b5d62-f9be-46d4-8567-99805a49c0e4,reimbursement,2025-09-17T01:21:49+00:00,Benjamin Ward,,n
+e3a24a3b-aed2-4786-9185-a182effc6dd5,reimbursement,2025-09-17T01:26:53+00:00,Benjamin Ward,,n
+c62de3ef-ed4b-4bb3-b1e1-0a40e7bd8d8d,card,2025-09-17T03:33:19.447587,Bryan Monti,Amazon,n
+c50dc7f6-fb85-4634-a5dc-9337ef43aa98,card,2025-09-17T04:29:40.612810,Benjamin Ward,Pirate Ship,n
+e44c22ad-8e51-428e-a00b-80e6eefdd044,card,2025-09-17T20:44:21.720013,Bryan Monti,Amazon,n
+faff5086-fa21-47ca-bdef-fc28279b10a0,card,2025-09-18T02:28:31.439433,Bryan Monti,SendCutSend,n
+65dcb3ab-0325-4b12-8757-27d2ebfb8237,card,2025-09-18T03:56:56.087009,Benjamin Ward,Pirate Ship,n
+7a52ea5f-d2a7-4465-8385-ce7ecc4bf104,card,2025-09-18T05:30:24.114673,Benjamin Ward,Pirate Ship,n
+1625fef0-f1bf-4471-ab2f-e5964689e764,card,2025-09-18T05:49:11.230566,Bryan Monti,Pirate Ship,n
+cde631bc-0f44-47f3-9008-04f330ca3dfb,card,2025-09-18T17:28:37.951987,Bryan Monti,Amazon,n
+cc8d8b39-4993-4096-bc98-595e4eaebbeb,card,2025-09-18T18:28:50.594490,Bryan Monti,SendCutSend,n
+ff291a3a-75e4-42ec-99b4-f91b5b1ee193,card,2025-09-18T18:36:20.673762,Bryan Monti,SendCutSend,n
+6590f0cc-54f2-4f4c-bc5d-c996cb8ef098,card,2025-09-18T23:37:27.235124,Benjamin Ward,Digi-Key,n
+772e8608-04d5-43bb-9237-7d7b8893a19f,card,2025-09-19T00:02:09.149382,Benjamin Ward,Digi-Key,n
+8ead39c6-db1e-4d56-a55e-bcdcfb29130e,card,2025-09-19T00:34:42.483056,Bryan Monti,Amazon,n
+78d1ee39-9bd0-49e4-a463-9cf0b74b17fd,card,2025-09-19T00:34:48.601304,Bryan Monti,Amazon,n
+c7e8480e-6927-4964-81f3-c0cef57c25d3,card,2025-09-19T01:16:25.628390,Benjamin Ward,Digi-Key,n
+fe82b5fe-0ccb-447a-960c-1a17359c1729,card,2025-09-22T18:36:31.019251,Benjamin Ward,Amazon,n
+9d9f935b-a825-43f3-8272-817d5bb23b9f,reimbursement,2025-09-25T17:19:52+00:00,Benjamin Ward,,n
+297c28ae-bfac-4f4f-82cb-e3acf28b4439,card,2025-09-27T04:00:59.778948,Benjamin Ward,Pirate Ship,n
+51b6c1f8-af61-4083-ab23-ffcbb94520dd,card,2025-09-27T04:19:28.659940,Benjamin Ward,Pirate Ship,n
+b7b3dd76-31b2-402b-8ee2-aa374e132b62,card,2025-09-27T18:04:17.667467,Bryan Monti,Hologram,n
+54ab53be-c9c2-475f-b1a5-69200e6766ae,card,2025-09-29T20:07:21.658120,Benjamin Ward,Amazon,n
+d5f8f48b-abde-4e19-bfe3-2324bba73f38,card,2025-09-29T20:07:22.208912,Benjamin Ward,Amazon,n
+6f573687-e733-4e5f-a9b0-3422a34ea573,card,2025-09-30T02:58:04.465002,Benjamin Ward,Ubiquiti,n
+4cc96322-c576-4260-ae3a-5b38cd2f23cb,card,2025-10-01T11:03:06.048761,Benjamin Ward,Pirate Ship,n
+78badfc9-1a0e-4a52-8405-b91edeba08aa,card,2025-10-01T15:09:40.941160,Benjamin Ward,Amazon,n
+0a51ac67-4a05-4ac2-845f-aaeef2095492,card,2025-10-02T03:35:22.800060,Benjamin Ward,Pirate Ship,n
+2360ea3a-aa15-45c8-93a3-fa121ad8f009,card,2025-10-02T20:02:53.241459,Bryan Monti,Amazon,n
+5b6a7217-648a-4e07-81a4-09586707f8bf,card,2025-10-03T03:23:51.061896,Benjamin Ward,Pirate Ship,n
+b5099ae1-fe1f-493e-98a1-41e1ba69ff14,card,2025-10-03T03:25:24.038749,Benjamin Ward,Pirate Ship,n
+4dd5ac99-2eea-466a-87f4-5809d33dc9af,card,2025-10-05T15:21:30.095374,Benjamin Ward,Amazon,n
+01e4c491-a476-42bc-a643-237016c63f92,card,2025-10-05T15:21:31.349386,Benjamin Ward,Mouser Electronics,n
+66e2dec3-4de2-4568-8c2b-22a06d2b53c6,card,2025-10-05T15:21:32.825604,Benjamin Ward,Digi-Key,n
+998e4a09-5973-4870-b100-a1826a41f076,card,2025-10-05T21:31:33.189289,Benjamin Ward,Digi-Key,n
+b7afbe12-018d-4244-aa57-0982dca6e834,card,2025-10-06T07:00:15.807536,Benjamin Ward,Digi-Key,n
+57752be7-09f2-4e17-a0fa-2aa5115da9fa,card,2025-10-06T12:56:01.263058,Benjamin Ward,Mouser Electronics,n
+a839cf12-2c12-4915-ad61-e5b38e0d81e8,card,2025-10-06T16:12:45.756621,Bryan Monti,Amazon,n
+d07bd5cb-bf80-42c6-bf1e-4fa240dfc341,card,2025-10-07T03:49:14.449224,Benjamin Ward,Pirate Ship,n
+62138070-cb8e-4cdd-8398-a900f414b659,card,2025-10-08T16:05:38.138792,Bryan Monti,Hologram,y
+9617b8b5-9498-40ba-bffb-4fef4c081841,card,2025-10-11T08:19:40.052364,Bryan Monti,Ubiquiti,n
+ab6fa923-1cae-406c-aea2-d90ce577cfc5,card,2025-10-11T10:19:17.625532,Bryan Monti,Ubiquiti,n
+8050ed2c-31ba-4ed3-9e00-1ee7650fa79d,card,2025-10-12T00:17:06.062588,Bryan Monti,Ubiquiti,n
+3711bd6a-384c-4183-9928-30dfc938016c,card,2025-10-14T19:15:57.857753,Bryan Monti,Amazon,n
+a7f82d95-8e5d-4df5-b983-fbffabf7ad09,card,2025-10-15T18:31:05.144369,Bryan Monti,Amazon,n
+5d3207b0-db7c-40a8-b83e-6fbddb47add7,card,2025-10-16T03:28:36.292787,Benjamin Ward,Pirate Ship,n
+e393e795-214d-49f9-8fe8-ace893c1c44b,card,2025-10-16T03:33:35.336276,Benjamin Ward,Pirate Ship,n
+b6e12593-c645-4aaf-ad80-65f60b5059ce,card,2025-10-16T03:41:51.984889,Benjamin Ward,Pirate Ship,n
+9999b10b-2ea6-400b-85de-83ceb790e99f,card,2025-10-16T17:35:44.400947,Bryan Monti,Amazon,n
+9b8ef704-b600-4a90-982e-da31530f09d0,card,2025-10-16T20:31:17.552175,Benjamin Ward,Pirate Ship,n
+e4cca6d8-3e22-458f-8071-95e87fb0aa98,card,2025-10-16T20:57:41.665390,Benjamin Ward,Pirate Ship,n
+7550659f-8aea-4be6-8c58-f52aa7dbaca3,card,2025-10-17T18:29:32.872778,Bryan Monti,Amazon,n
+94ff45ae-c688-4629-b17f-6c02d5fdb755,card,2025-10-17T21:09:19.307254,Bryan Monti,Hologram,n
+91377614-0d39-4556-ae38-590aa0cdd779,card,2025-10-20T11:40:16.470334,Benjamin Ward,Pirate Ship,n
+ad0eac5c-d156-453d-b61a-4fde783d2922,card,2025-10-20T19:05:11.238314,Benjamin Ward,Amazon,n
+8c59380b-41f4-422f-bb48-cd489643ecac,card,2025-10-20T19:22:08.909369,Bryan Monti,Adobe,n
+666f32b6-4cee-4bd2-b234-c2ea425d5bc6,card,2025-10-20T21:18:48.290319,Bryan Monti,Adobe,n
+e24a8b2e-c503-4d64-81ad-be20b5c5d885,card,2025-10-21T05:16:14.756543,Bryan Monti,SendCutSend,n
+5662dd94-86b3-4c76-abef-75149258c550,card,2025-10-21T15:44:45.615035,Benjamin Ward,Mouser Electronics,n
+ef696d94-c2c8-4aea-a6a3-2b18d1ed1c0c,card,2025-10-21T21:08:43.519195,Bryan Monti,Amazon,n
+1b25a6e0-5e47-4b02-ba0b-4a52afa4e8b4,card,2025-10-21T22:38:47.958265,Benjamin Ward,Mouser Electronics,n
+67618927-3aab-4e9c-8e8e-be23705dd9c2,card,2025-10-22T04:14:42.237501,Bryan Monti,Amazon,n
+cfc5cf49-9727-4820-a0c5-2e114dbdd463,card,2025-10-22T04:42:23.038126,Bryan Monti,Amazon,n
+d43a04cf-950f-4ee4-87c2-9f5d2a81b784,card,2025-10-22T04:49:10.704760,Bryan Monti,Amazon,n
+6bd03028-34d2-4c36-814d-598e533288e4,card,2025-10-22T11:37:03.181333,Benjamin Ward,Pirate Ship,n
+ce30285f-7e50-455a-bb4d-f5814d6b7792,card,2025-10-22T15:55:21.017650,Bryan Monti,Amazon,n
+af06c874-33da-4854-b980-ead9e73db938,card,2025-10-22T17:47:36.757778,Bryan Monti,Amazon,n
+1d0011c8-5cc6-4a1a-ab62-1335dd47263e,card,2025-10-23T16:31:16.406044,Benjamin Ward,Amazon,n
+ee71c9e8-8002-4206-b50c-8f7f53001b86,card,2025-10-23T18:23:18.514844,Bryan Monti,Amazon,n
+3b00e30f-49fc-4e83-9d8b-b1077b084422,card,2025-10-23T18:42:14.311055,Bryan Monti,Hologram,n
+24316d48-890d-4cc5-b8c5-f02acca0a369,card,2025-10-23T20:52:11.593730,Benjamin Ward,Pirate Ship,n
+8e36bf85-f195-434c-95d8-7bac11ecc43b,card,2025-10-23T21:02:40.446635,Benjamin Ward,Amazon,n
+ebf89e19-1aff-4f9b-b7cc-3f828422fb7f,card,2025-10-23T21:02:46.535697,Benjamin Ward,Amazon,n
+1fd81708-fb33-401f-a8e9-e6c7558438b4,card,2025-10-24T04:03:00.872566,Benjamin Ward,Pirate Ship,n
+e4ff3263-4d84-4024-a43c-39a4058d2473,card,2025-10-24T05:24:51.388249,Benjamin Ward,Binho,n
+1a76e2f7-7e32-408c-88d9-8bb94a3e7b58,card,2025-10-24T15:32:31.366585,Benjamin Ward,Shopify,n
+bb598a20-5af7-463c-b56a-a4307a2c3f59,card,2025-10-24T18:46:26.697503,Benjamin Ward,Shopify,n
+ce793b2e-34ad-4d8d-8c4f-b9f95553802d,card,2025-10-24T19:36:30.371899,Bryan Monti,Amazon,n
+fd1ad6b6-c726-484d-874d-b07e35d159d0,card,2025-10-24T19:49:22.562572,Bryan Monti,Amazon,n
+656c563f-48f2-42ba-b130-a0dab29e63f8,card,2025-10-25T01:19:56.805455,Benjamin Ward,Amazon,n
+a2d273f5-2764-4316-8bcb-395fc2bb895a,card,2025-10-25T04:56:20.477048,Benjamin Ward,Pirate Ship,n
+806bf8e0-d4f3-4cfb-9d6b-522c51ec149f,card,2025-10-25T05:00:43.266455,Benjamin Ward,Pirate Ship,n
+2d63b6c0-4d15-49cb-beb7-3fd53e1e9870,card,2025-10-27T19:24:38.322221,Bryan Monti,Amazon,n
+e19ca068-04aa-477c-8bdf-2e23a880a837,card,2025-10-27T19:27:58.006797,Bryan Monti,Amazon,n
+bd20ce6d-2310-471d-91cf-f611d4ab8662,card,2025-10-28T00:44:09.663521,Benjamin Ward,Amazon,n
+ed727245-9f6d-4cac-9273-f258d02e6922,card,2025-10-28T11:17:14.124920,Benjamin Ward,Pirate Ship,n
+4945fbd7-b7cc-41cf-b567-14287f614ff0,card,2025-10-28T15:03:14.071815,Bryan Monti,Amazon,n
+b2f18756-0862-4a52-91af-4f7f364d4e89,card,2025-10-28T15:20:47.322468,Bryan Monti,Amazon,n
+a26cea91-f414-4c34-b228-edba65b078fc,card,2025-10-28T19:54:55.503094,Bryan Monti,Amazon,n
+c203af10-83a1-4ce9-ba78-72a4c5472983,card,2025-10-29T20:36:36.155634,Benjamin Ward,Pirate Ship,n
+95996bad-dbec-4006-817e-1ec6adc2d5e0,card,2025-10-30T19:18:52.158256,Benjamin Ward,Digi-Key,n
+45d11dcc-a83e-4199-a377-88ebe2a68803,card,2025-10-30T20:44:24.288768,Benjamin Ward,Digi-Key,n
+249287a3-68d9-4f32-a1fc-a1c11702c2fa,card,2025-10-30T21:33:13.891847,Benjamin Ward,Digi-Key,n

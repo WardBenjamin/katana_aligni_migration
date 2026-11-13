@@ -1,0 +1,65 @@
+{
+ "call": {
+  "id": 6,
+  "received_after": "2026-04-15T12:04:05Z",
+  "received_before": "2026-04-15T14:04:05Z",
+  "keywords": [
+   "Amazon",
+   "Digi",
+   "Key"
+  ]
+ },
+ "pulled_at": "2026-11-13T04:59:44.690Z",
+ "dropped_other_owners": 0,
+ "next_offset": null,
+ "receipts": [
+  {
+   "receipt_uuid": "0960012e-fc1a-4257-bdf7-58ccbcfc18f7",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "ee4c957c-1c20-4aa8-b0b2-c70dc80e80fb",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-15T13:05:09.342248Z",
+   "merchant": "Amazon",
+   "receipt_date": "2026-04-10",
+   "total_amount": "66.32",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Amazon",
+    "merchant_address": null,
+    "transaction_date": "2026-04-10",
+    "total_amount": 66.32,
+    "subtotal": 61.4,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 4.92
+     }
+    ],
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "BOX USA Shipping Boxes Large 24\"L x 16\"W x 12\"H 10-Pack - Corrugated Cardboard Box for Moving, Mailing, P acking, Packaging and Storage , Aviditi",
+      "item_quantity": 1.0,
+      "item_unit_price": 30.7,
+      "item_total_price": 30.7
+     },
+     {
+      "item_date": null,
+      "item_name": "BOX USA Shipping Boxes Large 24\"L x 16\"W x 12\"H 10-Pack - Corrugated Cardboard Box for Moving, Mailing, P acking, Packaging and Storage , Aviditi",
+      "item_quantity": 1.0,
+      "item_unit_price": 30.7,
+      "item_total_price": 30.7
+     }
+    ]
+   },
+   "ocr_excerpt": "amazon.com\nFinal Details for Order #113-3404870-4273841\nOrder Placed: April 10, 2026 Amazon.com order number: 113-3404870-4273841 Order Total: $66.32\nShipped on April 13, 2026\nItems Ordered\n1 of: BOX USA Shipping Boxes Large 24\"L x 16\"W x 12\"H 10-Pack - Corrugated Cardboard Box for Moving, Mailing, P acking, Packaging and Storage , Aviditi Sold by and invoiced on behalf of: Amazon (seller profile) Business Price Condition: New\nPrice $30.70\n| Shipping Address: | Item(s) Subtotal: | $30.70 |\n| Chris Williamson | Shipping & Handling: | $0.00 |\n| 185 Stag Dr | | |\n| WILLISTON, SC 29853 | | |\n| United States | Total before tax: | $30.70 |\n| | Sales Tax: | $2.46 |\n| Shipping Speed: | | |\n| FREE Prime Delivery | Total for This Shipment: | $33.16 |\n| | | |\nShipped on April 13, 2026\nItems Ordered\n1 of: BOX USA Shipping Boxes Large 24\"L x 16\"W x 12\"H 10-Pack - Corrugated Cardboard Box for Moving, Mailing, P acking, Packaging and Storage , Aviditi Sold by and invoiced on behalf of: Amazon (seller profile) Business Price Condition: New\nPrice $30.70\n| Shipping Address: | Item(s) Subtotal: | $30.70 |\n| Chris Williamson | Shipping & Handling: | $0.00 |\n| 185 Stag Dr | | |\n| WILLISTON, SC 29853 | | |\n| United States | Total before tax: | $30.70 |\n| | Sales Tax: | $2.46 |\n| Shipping Speed: | | |\n| FREE Prime Delivery | Total for This Shipment: | $33.16 |\n| | | |\nPayment information\n| Payment Method: | Item(s) Subtotal: | $61.40 |\n| Visa | Last digits: 2311 | Shipping & Handling: | $0.00 |\n| Billing address | | |\n| Chris Williamson | Total before tax: | $61.40 |\n| 2261 MARKET ST # 4027 | Estimated Tax: | $4.92 |\nSAN FRANCISCO, CA 94114-1612 United States\nGrand Total: $66.32\nCredit Card transactions\nVisa ending in 2311: April 13, 2026: $66.32\nTo view the status of your order, return to Order Summary .\nConditions of Use | Privacy Notice @ 1996-2020, Amazon.com, Inc."
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-04-17T19:29:53Z",
+   "2025-04-17T21:29:53Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}

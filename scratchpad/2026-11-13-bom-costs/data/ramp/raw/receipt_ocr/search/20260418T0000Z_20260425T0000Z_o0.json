@@ -1,0 +1,177 @@
+{
+ "query": {
+  "window": [
+   "2026-04-18T00:00:00Z",
+   "2026-04-25T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:12Z",
+ "returned": 3,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "1e3369b6-7809-4463-a199-80e7ba80e4e4",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "4ccd7ff7-a967-4893-a641-53f9d58bdb0a",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-23T18:10:18.733750Z",
+   "merchant": "MatterHackers",
+   "receipt_date": "2026-04-06",
+   "total_amount": "193.47",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "MatterHackers",
+    "merchant_address": "20321 Valencia Cir, Lake Forest, CA 92630",
+    "transaction_date": "2026-04-06",
+    "total_amount": 193.47,
+    "subtotal": 118.14,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 14.33
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 61.0
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-06",
+      "item_name": "NinjaTek Chinchilla Midnight Black TPE Filament - 1.75mm (1kg)",
+      "item_quantity": 1.0,
+      "item_unit_price": 118.14,
+      "item_total_price": 118.14
+     }
+    ]
+   },
+   "ocr_excerpt": "---------- Forwarded message ---------\nFrom:\nMatterHackers Support\n<\nsupport@matterhackers.com\n>\nDate: Mon, Apr 6, 2026 at 11:44 AM\nSubject: Your MatterHackers.com Order #101-0000385-5087025\nTo:  <\nmonti@airgarage.com\n>\nOrder Date:\nApr 6, 2026\nOrder #:\n101-0000385-5087025\nPaid via:\nVISA    1571\nThank you for your order!\nShipping Address:\nChris Williamson\n185 Stag Drive\nWilliston SC, 29853\nQty.\nItem\nItem Price\nTotal\n1\nNinjaTek Chinchilla Midnight Black TPE Filament - 1.75mm (1kg)\n- Product No. M-0TE-YN50\nUSD\n118.14\nUSD\n118.14\nPayment received. Thank you!\nSubtotal\n118.14\nTax\n14.33\nShipping\n61.00\nTotal Paid\nUSD\n193.47\nThanks again for shopping with us.\nIf you have any questions concerning your order, please send us an e-mail or give us a call.\nView Order Status\nCancel Order\n20321 Valencia Cir, Lake Forest, CA 92630\n+1 (800) 613-4290 |\nsupport@matterhackers.com\n"
+  },
+  {
+   "receipt_uuid": "fa904051-ac4e-4c8a-9ea1-b9fad8faa603",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "1437e33f-964c-478b-85f7-7dbbd6d31c5f",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-21T23:54:45.951119Z",
+   "merchant": "Mouser Electronics",
+   "receipt_date": "2026-04-21",
+   "total_amount": "491.42",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics",
+    "merchant_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "transaction_date": "2026-04-21",
+    "total_amount": 491.42,
+    "subtotal": 339.99,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "TAX",
+      "tax_rate": null,
+      "tax_amount": 39.54
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Freight",
+      "fee_amount": 16.69
+     },
+     {
+      "fee_name": "Tariff",
+      "fee_amount": 95.2
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-21",
+      "item_name": "DFRobot HPS-3D160-U Area Arr / Distance Sensor Modules - Enclosed",
+      "item_quantity": 1.0,
+      "item_unit_price": 339.99,
+      "item_total_price": 339.99
+     }
+    ]
+   },
+   "ocr_excerpt": "M MOUSER ELECTRONICS\n1000 North Main Street, Mansfield, TX 76063, USA Customer Service Rep: Internet Customer Service Customer Service: 800-346-6873 Credit: 800-333-9924 Federal ID# 61-1520598\nInvoice - Credit Card Receipt\nInvoice No.\nInvoice Date\nPage No.\n89956968\n21-APR-26\n1 of 1\nPurchase Order No.\nMaster Tracker No.\n38961875\n1Z7759450219863695\nContact Name\nShip Via\nCustomer Number\nTerms\nOrder Date\nBRYAN MONTI\nUPS 2nd DAY AIR\n61CCD08\nVI 1571\n21-APR-26\nBill To\nAIRGARAGE, INC. ATTN: BRYAN MONTI 2261 MARKET STREET #4027 SAN FRANCISCO, CALIFORNIA 94114 UNITED STATES\nShip To\nBRYAN MONTI 32 PROVINCE DR S SETAUKET, NEW YORK 11720 UNITED STATES\nLine No.\nMouser Part Number Customer/MFG Part No. Description\nQuantity Ordered\nQuantity Shipped\nQuantity Pending\nUnit Price(USD)\nExtended Price(USD)\n1\n426-DFR0728 MFG Part No: DFR0728 DFRobot HPS-3D160-U Area Arr / Distance Sensor Modules - Enclosed US HTS:9015802000 ECCN:EAR99 COO:CN ACO :-- COD :--\n1\n1\n0\n339.990\n339.99\nTariff\n95.20\nMerchandise\nHandling\nFreight\nTAX\nTariff\n339.99\n0.00\n16.69\n39.54\n95.20\nPaid by credit card\nUSD $491.42\nShipping Information\nShip Date: Apr 21, 2026\nTracking Number(s) and Billed Weights\n1Z7759450219863695 4.00 lb\nThis order is subject to all terms and conditions displayed at: https://www.mouser.com/saleterms\nINCOTERMS: FCA Shipping Point"
+  },
+  {
+   "receipt_uuid": "be9473b8-f717-4765-8eb3-d1967c6a2ac4",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": null,
+   "reimbursement_uuid": "84310b20-8a6c-4280-a017-3d1f1bc09c69",
+   "received_at": "2026-04-20T20:56:03.870090Z",
+   "merchant": "BurgerFi",
+   "receipt_date": "2026-03-06",
+   "total_amount": "27.49",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "BurgerFi",
+    "merchant_address": "Street, Gate 100, Fort Lauderdale, Florida, 33316, U",
+    "transaction_date": "2026-03-06",
+    "total_amount": 27.49,
+    "subtotal": 24.99,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": 7.0,
+      "tax_amount": 1.8
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "CC Surcharge",
+      "fee_amount": 0.7
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Rodeo Burger",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.65,
+      "item_total_price": 17.65
+     },
+     {
+      "item_date": null,
+      "item_name": "Fries Rg",
+      "item_quantity": 1.0,
+      "item_unit_price": 7.34,
+      "item_total_price": 7.34
+     }
+    ]
+   },
+   "ocr_excerpt": "*** Customer Copy ***\nFLL - BurgerFi Street, Gate 100, Fort Lauderdale, Florida, 33316, U\nChk #: 427\nDevice: THSFLLXPRFCE-9 Date: 03/06/2026 19:51:41 Name: BEN\nTAKE AWAY\nQTY ORDERED ITEMS TOTAL\n$17.65\n1 Rodeo Burger\nAdd a Sauce:Cajun Ranch\nTop Off Your Fries and\nRings:Urban Style Bun Options: Potato Bun Extra Cheese:Extra Peppar\nJack Cheese\nCheese Options:Pepper Jack Chaese\n1\nFries Rg\n$7.34\nAdd a Sauce: Cajun Ranch\nTop Off Your Fries and Rings. Urban Style\nSub Total: $24.99\n$0.70\nCC Surcharge\n$1.80\nTax(7.0%)\n$27.49\nTotal:\nOrder#: 792730 Invoice #: 128186\nPAID BY CARD -\nPURCHASE APPROVED\nTotal: $27.49\nCard Type: VISA\nCard Entry Contactless\nAcct #: ************ 2345\nApproval Code: 04551D\nEMV PURCHASE *************\nApp Label: VISA CREDIT Mode: Issuer\nAID: A0000000031010\nTVR: 0000000000\nIAD: 06011203A00000 TSI:\nARC: 00\nAC: 560486B91A1APFC5 CVM 1F0301"
+  }
+ ]
+}

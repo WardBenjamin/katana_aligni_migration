@@ -1,0 +1,84 @@
+{
+ "query": {
+  "window": [
+   "2026-09-21T00:00:00Z",
+   "2026-09-28T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:43.946Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "bd65157f-bee3-40fb-a97c-f9016b1c90ce",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "f5fa8143-56f2-42a0-8738-60a43985eecd",
+   "reimbursement_uuid": null,
+   "received_at": "2026-09-24T00:13:17.413987Z",
+   "merchant": "amazon.com",
+   "receipt_date": "2026-09-23",
+   "total_amount": "149.51",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "amazon.com",
+    "merchant_address": "548 Market Street PMB 90375 San Francisco, California 94104 United States",
+    "transaction_date": "2026-09-23",
+    "total_amount": 149.51,
+    "subtotal": 146.78,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 7.53
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping & Handling",
+      "fee_amount": 0.0
+     }
+    ],
+    "discounts": [
+     {
+      "discount_name": "Amazon Discount",
+      "discount_rate": null,
+      "discount_amount": 4.8
+     }
+    ],
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Sterilite 6 Qt ClearView Latch Storage Box Stackable Bin with Latching Lid, Plastic Container to Organize Shoes in Close t, Clear (24 Pack)",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 77.79
+     },
+     {
+      "item_date": null,
+      "item_name": "Sterilite ClearView Latch Boxes, Storage Bins with Lids, 15 Quart, 12-Pack",
+      "item_quantity": 1.0,
+      "item_unit_price": null,
+      "item_total_price": 68.99
+     }
+    ]
+   },
+   "ocr_excerpt": "        Details for Order #112-5532183-7025838\n    Order Placed: September 23, 2026\n    Amazon.com order number: 112-5532183-7025838\n    Order Total: USD 149.51\n\n        Not Yet Shipped\n\n    Items Ordered                                                                                                                              Price\n    1 of: Sterilite 6 Qt ClearView Latch Storage Box Stackable Bin with Latching Lid, Plastic Container to Organize Shoes in Close            $77.79\n    t, Clear (24 Pack)\n    Sold by and invoiced on behalf of: Spreetail (seller profile)\n    Seller Credentials: 889 Certification\n    Condition: New\n\n    1 of: Sterilite ClearView Latch Boxes, Storage Bins with Lids, 15 Quart, 12-Pack                                                          $68.99\n    Sold by and invoiced on behalf of: Spreetail (seller profile)\n    Seller Credentials: 889 Certification\n    Condition: New\n\n    Shipping Address:                                                                                                      Item(s) Subtotal: $146.78\n    Ben Ward                                                                                                          Shipping & Handling:     $0.00\n    611 MOLLYS WAY                                                                                                        Amazon Discount:    -$4.80\n    SALUDA, VA 23149-2578\n    United States                                                                                                                              -----\n                                                                                                                           Total before tax: $141.98\n    Shipping Speed:                                                                                                             Sales Tax:     $7.53\n    Two-Day Shipping                                                                                                                           -----\n                  "
+  }
+ ]
+}

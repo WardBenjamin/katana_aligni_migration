@@ -1,0 +1,81 @@
+{
+ "query": {
+  "window": [
+   "2026-04-04T00:00:00Z",
+   "2026-04-11T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:52:58Z",
+ "returned": 1,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "b666404a-e410-4d1b-9edf-5a9966320bba",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "e8898c74-bfc9-4931-964b-9d8051f48638",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-10T21:30:34.196331Z",
+   "merchant": "MISUMI USA",
+   "receipt_date": "2026-04-10",
+   "total_amount": "3794.33",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "MISUMI USA",
+    "merchant_address": "1475 E Woodfield Rd, Ste. 1300 SCHAUMBURG, IL 60173",
+    "transaction_date": "2026-04-10",
+    "total_amount": 3794.33,
+    "subtotal": 3376.5,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Tax",
+      "tax_rate": null,
+      "tax_amount": 281.06
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Freight",
+      "fee_amount": 136.77
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-23",
+      "item_name": "HFSB5-2020-455-TPW Aluminum Extrusion",
+      "item_quantity": 150.0,
+      "item_unit_price": 12.42,
+      "item_total_price": 1863.0
+     },
+     {
+      "item_date": "2026-04-16",
+      "item_name": "HFSB5-2020-270-TPW Aluminum Extrusion",
+      "item_quantity": 150.0,
+      "item_unit_price": 10.09,
+      "item_total_price": 1513.5
+     }
+    ]
+   },
+   "ocr_excerpt": "MİSUMİ\nSales Order\nPage: 1/ 1\nCustomer Code:001H2C AirGarage Inc 185 Stag Drive Williston, SC 29853 USA\nAttention: Chris Williamson\nPO Reference:AirGarage-150x\nShip To Code:001H2C AirGarage Inc 185 Stag Drive Williston, SC 29853 USA Attention: Chris Williamson Ship Mode: UPS Ground Prepaid\nPayment: Credit Card\nTrade term:\n| Line status | by color: Black (In Progress) | Red (Cancelled) Sales | Order No .: NB1141FGA6 | Estimated Total Weight:54,450 g | Date: Apr 10 2026 |\n| No | Customer Item Reference | Quantity | Unit Price(USD) | Amount(USD) | Ship Date |\n| Product Code Product Description (Brand Name) | Express Item Remarks | Discount Rate | Tax | Weight | Origin HS Code |\n| 1 000003 | | 150EA | 12.42 | 1,863.00 | Apr 23 2026 |\n| HFSB5-2020-455-TPW | | | 149.04 | 34,200g | USA |\n| Aluminum Extrusion(MISUMI) | | | | | |\n| 2 000004 | | 150EA | 10.09 | 1,513.50 | Apr 16 2026 |\n| HFSB5-2020-270-TPW | | | 121.08 | 20,250g | USA |\n| Aluminum Extrusion(MISUMI) | | | | | |\nRemarks by MISUMI:\n| Item Total | 3,376.50 |\n| Freight | 136.77 |\n| Tax | 281.06 |\n| Total | 3,794.33 |\nMISUMI USA, INC. 1475 E Woodfield Rd, Ste. 1300 SCHAUMBURG, IL 60173 inquire@misumiusa.com www.misumiusa.com Phone:800-681-7475\nInformation: NOTICE: Subject to our Terms and Conditions: https://us.misumi-ec.com/contents/terms/use.html Invoice may also include duty, tax and/or handling charges. North America Trade Terms FOB Origin Leadtimes are based on After Receipt of Order."
+  }
+ ]
+}

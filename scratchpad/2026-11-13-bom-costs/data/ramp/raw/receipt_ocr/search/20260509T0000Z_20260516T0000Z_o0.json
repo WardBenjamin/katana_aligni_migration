@@ -1,0 +1,196 @@
+{
+ "query": {
+  "window": [
+   "2026-05-09T00:00:00Z",
+   "2026-05-16T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:53:29Z",
+ "returned": 3,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "95c30855-cfa9-4889-b08c-5de16bd015d9",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "4826dc6b-daee-412e-9c05-0261ac0d744e",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-11T00:49:34.132118Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-05-10",
+   "total_amount": "348.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-05-10",
+    "total_amount": 348.0,
+    "subtotal": 348.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-10",
+      "item_name": "Trial period for Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 50.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 150.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "MRP Basic",
+      "item_quantity": 1.0,
+      "item_unit_price": 148.0,
+      "item_total_price": 148.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Hi Benjamin,\nFrom what we can tell on our end, everything looks to be in order.   Can you please check again?\nCheers,\nAligni Support\n--\nTicket:\nhttps://aligni.freshdesk.com/helpdesk/tickets/8448\nAligni Online Documentation\nOn\nSun, 10 May at  3:51 PM\n,  Benjamin Ward <ben@airgarage.com>  wrote:\nHello,\nThis invoice is still listed as unpaid in Aligni, can you help me out with this?\nRegards,\nBen\nBenjamin Ward\nTech Lead / Manager - Hardware Engineering, AirGarage\nairgarage.com\nOn Sun, May 10, 2026 at 6:49 PM Aligni Incorporated <\ninvoice+statements+acct_1HAU2nAbTiHlVaDR@stripe.com\n> wrote:\nYour receipt from Aligni Incorporated #2651-2963\nAligni Incorporated\nReceipt from Aligni Incorporated\n$348.00\nPaid May 10, 2026\nDownload invoice\nDownload receipt\nReceipt number\n2651-2963\nInvoice number\n3QVWWHHB-0002\nPayment method\n- 3514\nReceipt #2651-2963\nApr 10May 10, 2026\nTrial period for Quality Control Records\nQty 0\n$0.00\nMay 10Jun 10, 2026\nViewer Seats\nQty 1\n$50.00\nCollaborator Seats\nQty 3\n$150.00\n$50.00 each\nMRP Basic\nQty 1\n$148.00\nTotal\n$348.00\nAmount paid\n$348.00\nQuestions? Visit our\nsupport site\nor contact us at\nsales@aligni.com\n.\nPowered by\n|\nLearn more about Stripe Billing\n8448:184870\n"
+  },
+  {
+   "receipt_uuid": "57a1497c-40a8-4afc-b3c4-ddc5d4fef7a0",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "4826dc6b-daee-412e-9c05-0261ac0d744e",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-10T22:57:05.069533Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-05-10",
+   "total_amount": "348.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-05-10",
+    "total_amount": 348.0,
+    "subtotal": 348.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-10",
+      "item_name": "Trial period for Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 50.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 150.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "MRP Basic",
+      "item_quantity": 1.0,
+      "item_unit_price": 148.0,
+      "item_total_price": 148.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Receipt\n@aligni\nInvoice number 3QVWWHHB-0002 Receipt number 2651-2963 Date paid May 10, 2026\nAligni Incorporated sales@aligni.com\nBill to AirGarage, Inc. ben@airgarage.com\n$348.00 paid on May 10, 2026\nDescription\nQty\nUnit price\nAmount\nTrial period for Quality Control Records\n0\n$0.00\n$0.00\nApr 10-May 10, 2026\nViewer Seats\n1 $50.00\n$50.00\nMay 10-Jun 10, 2026\nCollaborator Seats\n3\n$50.00\n$150.00\nMay 10-Jun 10, 2026\nMRP Basic\n1 $148.00\n$148.00\nMay 10-Jun 10, 2026\nSubtotal\n$348.00\nTotal\n$348.00\nAmount paid\n$348.00\nPayment history\nPayment method\nDate\nAmount paid\nReceipt number\nVisa - 3514\nMay 10, 2026\n$348.00\n2651-2963\nYour free trial with Aligni Incorporated started on April 10, 2026 and ended on May 10, 2026. Your card (Visa .... 3514) will be charged $348.00 or more every month, depending on usage. Visit https://www.aligni.com/terms-of-use/ to update or cancel your subscription.\nPage 1 of 1"
+  },
+  {
+   "receipt_uuid": "8c217a5c-1212-404f-81cb-1ae823642539",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "4826dc6b-daee-412e-9c05-0261ac0d744e",
+   "reimbursement_uuid": null,
+   "received_at": "2026-05-10T22:57:04.907130Z",
+   "merchant": "Aligni",
+   "receipt_date": "2026-05-10",
+   "total_amount": "348.0",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Aligni",
+    "merchant_address": null,
+    "transaction_date": "2026-05-10",
+    "total_amount": 348.0,
+    "subtotal": 348.0,
+    "tip": null,
+    "taxes": null,
+    "fees": null,
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-04-10",
+      "item_name": "Trial period for Quality Control Records",
+      "item_quantity": 0.0,
+      "item_unit_price": 0.0,
+      "item_total_price": 0.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Viewer Seats",
+      "item_quantity": 1.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 50.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "Collaborator Seats",
+      "item_quantity": 3.0,
+      "item_unit_price": 50.0,
+      "item_total_price": 150.0
+     },
+     {
+      "item_date": "2026-05-10",
+      "item_name": "MRP Basic",
+      "item_quantity": 1.0,
+      "item_unit_price": 148.0,
+      "item_total_price": 148.0
+     }
+    ]
+   },
+   "ocr_excerpt": "Invoice\n@aligni\nInvoice number 3QVWWHHB-0002\nDate of issue\nMay 10, 2026\nDate due\nMay 10, 2026\nAligni Incorporated sales@aligni.com\nBill to AirGarage, Inc. ben@airgarage.com\n$348.00 USD due May 10, 2026\nPay_online\nDescription\nQty\nUnit price\nAmount\nTrial period for Quality Control Records\n0\n$0.00\n$0.00\nApr 10-May 10, 2026\nViewer Seats\n1 $50.00\n$50.00\nMay 10-Jun 10, 2026\nCollaborator Seats\n3 $50.00\n$150.00\nMay 10-Jun 10, 2026\n1 $148.00\n$148.00\nMRP Basic May 10-Jun 10, 2026\nSubtotal\n$348.00\nTotal\n$348.00\nAmount due\n$348.00 USD\nPage 1 of 1"
+  }
+ ]
+}

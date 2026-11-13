@@ -1,0 +1,210 @@
+{
+ "query": {
+  "window": [
+   "2026-06-26T15:25:00Z",
+   "2026-06-26T17:25:00Z"
+  ],
+  "keywords": [
+   "Digi-Key",
+   "DigiKey",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:54:48.632Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "d5c18e7a-7c44-4ecd-96bb-b7d2f4bc16e0",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "c7a4844b-b476-48f3-870d-f21a263012a4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-26T16:25:29.217471Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-06-26",
+   "total_amount": "140.58",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "transaction_date": "2026-06-26",
+    "total_amount": 140.58,
+    "subtotal": 80.84,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales Tax",
+      "tax_rate": null,
+      "tax_amount": 5.57
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping charges applied",
+      "fee_amount": 29.99
+     },
+     {
+      "fee_name": "Estimated Tariff Amount",
+      "fee_amount": 24.18
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "PART: Q1183-ND MFG : QUALTEK / QFWB-36-12-US01 DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 1.0,
+      "item_unit_price": 13.43,
+      "item_total_price": 13.43
+     },
+     {
+      "item_date": null,
+      "item_name": "TARIFF",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 2.91
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 1866-1993-ND MFG : MEAN WELL USA INC / GSM36U12-P1J DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 1.0,
+      "item_unit_price": 16.5,
+      "item_total_price": 16.5
+     },
+     {
+      "item_date": null,
+      "item_name": "TARIFF",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 4.16
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 839-16-00216-ND MFG : TENSILITY INTERNATIONAL CORP / 16-00216 DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 1.0,
+      "item_unit_price": 14.17,
+      "item_total_price": 14.17
+     },
+     {
+      "item_date": null,
+      "item_name": "TARIFF",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 2.83
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 1939-1464-ND MFG : GLOBTEK, INC / WR9HE3000CCP-F(R6B) DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.45,
+      "item_total_price": 17.45
+     },
+     {
+      "item_date": null,
+      "item_name": "TARIFF",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 4.89
+     },
+     {
+      "item_date": null,
+      "item_name": "PART: 1470-3644-ND MFG : XP POWER / VEL36US120-US-JA DESC: AC/DC WALL MOUNT ADAPTER 12V 36W",
+      "item_quantity": 1.0,
+      "item_unit_price": 19.29,
+      "item_total_price": 19.29
+     },
+     {
+      "item_date": null,
+      "item_name": "TARIFF",
+      "item_quantity": null,
+      "item_unit_price": null,
+      "item_total_price": 9.39
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 100060326 USD $\nBill To:\nBENJAMIN WARD AIRGARAGE 2261 MARKET STREET #4027 SAN FRANCISCO CA 94114-0000 USA\nShip To:\nBENJAMIN WARD AIRGARAGE, INC. 611 MOLLYS WAY SALUDA VA 23149-2578 USA\nCustomer:\n17021708 Visa\nOrder Source: Order Date: Estimated Release Date:\n26 - JUN-2026/AUTO\nBuyer:\nBENJAMIN WARD AirGarage 611 Mollys Way Saluda VA 23149 USA\nShip From:\nDIGI-KEY ELECTRONICS 701 BROOKS AVE. SOUTH P.O. BOX 677 THIEF RIVER FALLS MN 56701-0677\nItem Number/ Description\nUnit Price USD $\nAmount USD $\n1\n1\n1\n0\nPART: Q1183-ND MFG : QUALTEK / QFWB-36-12-US01 ECCN: EAR99 HTSUS: 8504.40.9510\nDESC: AC/DC WALL MOUNT ADAPTER 12V 36W\n13.43000\n13.43\nROHS3 COMP REACH UNAFFECTED 08-JUL -2021\nTARIFF\n2.91\n2\n1\n1\n0\nPART: 1866-1993-ND MFG : MEAN WELL USA INC / GSM36U12-P1J ECCN: EAR99 HTSUS: 8504.40.9510 ROHS3 COMP REACH UNAFFECTED 17-JAN-2023\nDESC: AC/DC WALL MOUNT ADAPTER 12V 36W\n16.50000\n16.50\nTARIFF\n4.16\n3\n1\n1\n0\nPART: 839-16-00216-ND\nDESC: AC/DC WALL MOUNT ADAPTER 12V 36W\n14.17000\n14.17\nMFG : TENSILITY INTERNATIONAL CORP / 16-00216 ECCN: EAR99 HTSUS: 8504.40.9510 ROHS3 COMP REACH UNAFFECTED 19-JAN-2021\nTARIFF\n2.83\n4\n1\n1\n0\nPART: 1939-1464-ND MFG : GLOBTEK, INC / WR9HE3000CCP-F(R6B) ECCN: EAR99 HTSUS: 8504.40.9510 ROHS3 COMP REACH UNAFFECTED 14-JUN-2023\nDESC: AC/DC WALL MOUNT ADAPTER 12V 36W\n17.45000\n17.45\nTARIFF\n4.89\nAll transactions with DigiKey, including its affiliates, are subject to DigiKey's Terms of Use and Conditions of Order.\nPage 1 of 2\nLine Item\nOrdered\nAvailable Qty\nBackordered Qty\nPayment Terms: Shipping Method: UPS 1 Day INTERNET 26- JUN-2026\nDigiKey\n701 Brooks Ave South, PO Box 677 Thief River Falls, MN 56701-0677 USA\nwww.digikey.com Global Customer Support 1-800-344-4539 or 218-681-6674\nPO Acknowledgement 100060326 USD $\nLine Item\nOrdered\nAvailable Qty\nBackordered Qty\nItem Number/ Description\nUnit Price USD "
+  },
+  {
+   "receipt_uuid": "c6508701-297c-483d-8f85-200a58324e82",
+   "owner_uuid": "01954cee-c726-7b10-b069-c9c9b450ee6c",
+   "owner_name": "Benjamin Ward",
+   "transaction_uuid": "c7a4844b-b476-48f3-870d-f21a263012a4",
+   "reimbursement_uuid": null,
+   "received_at": "2026-06-26T16:25:27.451123Z",
+   "merchant": "Digi-Key",
+   "receipt_date": "2026-06-26",
+   "total_amount": "140.58",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Digi-Key",
+    "merchant_address": "701 Brooks Avenue South Thief River Falls, MN 56701",
+    "transaction_date": "2026-06-26",
+    "total_amount": 140.58,
+    "subtotal": 80.84,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Sales tax",
+      "tax_rate": null,
+      "tax_amount": 5.57
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 29.99
+     },
+     {
+      "fee_name": "Tariff",
+      "fee_amount": 24.18
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "AC/DC WALL MOUNT ADAPTER 12V 36W (QFWB-36-12-US01)",
+      "item_quantity": 1.0,
+      "item_unit_price": 13.43,
+      "item_total_price": 13.43
+     },
+     {
+      "item_date": null,
+      "item_name": "AC/DC WALL MOUNT ADAPTER 12V 36W (GSM36U12-P1J)",
+      "item_quantity": 1.0,
+      "item_unit_price": 16.5,
+      "item_total_price": 16.5
+     },
+     {
+      "item_date": null,
+      "item_name": "AC/DC WALL MOUNT ADAPTER 12V 36W (16-00216)",
+      "item_quantity": 1.0,
+      "item_unit_price": 14.17,
+      "item_total_price": 14.17
+     },
+     {
+      "item_date": null,
+      "item_name": "AC/DC WALL MOUNT ADAPTER 12V 36W (WR9HE3000CCP-F(R6B))",
+      "item_quantity": 1.0,
+      "item_unit_price": 17.45,
+      "item_total_price": 17.45
+     },
+     {
+      "item_date": null,
+      "item_name": "AC/DC WALL MOUNT ADAPTER 12V 36W (VEL36US120-US-JA)",
+      "item_quantity": 1.0,
+      "item_unit_price": 19.29,
+      "item_total_price": 19.29
+     }
+    ]
+   },
+   "ocr_excerpt": "DigiKey\nYou are one step closer to your next great design!\nThank you for placing your order with DigiKey!\nYour order is being processed. You will receive an email confirmation when your order ships.\nOrder details\nYour salesorder number is 100060326.\n5 of 5 parts displayed.\nView order history\non your myDigiKey account.\nAC/DC WALL MOUNT ADAPTER 12V 36W\nDigiKey part number\nQ1183-ND\nManufacturer part number\nQFWB-36-12-US01\nQuantity\n1\nBackorder\n0\nUnit price\n13.43000\nExtended price\n$13.43\nAC/DC WALL MOUNT ADAPTER 12V 36W\nDigiKey part number\n1866-1993-ND\nManufacturer part number\nGSM36U12-P1J\nQuantity\n1\nBackorder\n0\nUnit price\n16.50000\nExtended price\n$16.50\nAC/DC WALL MOUNT ADAPTER 12V 36W\nDigiKey part number\n839-16-00216-ND\nManufacturer part number\n16-00216\nQuantity\n1\nBackorder\n0\nUnit price\n14.17000\nExtended price\n$14.17\nAC/DC WALL MOUNT ADAPTER 12V 36W\nDigiKey part number\n1939-1464-ND\nManufacturer part number\nWR9HE3000CCP-F(R6B)\nQuantity\n1\nBackorder\n0\nUnit price\n17.45000\nExtended price\n$17.45\nAC/DC WALL MOUNT ADAPTER 12V 36W\nDigiKey part number\n1470-3644-ND\nManufacturer part number\nVEL36US120-US-JA\nQuantity\n1\nBackorder\n0\nUnit price\n19.29000\nExtended price\n$19.29\nOrder summary\nItems in order:\n5\nSubtotal:\n$80.84\nShipping:\n$29.99\nSales tax:\n$5.57\nTariff:\n$24.18\nTotal:\n$140.58\nView order status\nShipping address\nBenjamin Ward\nAirGarage, Inc.\n611 MOLLYS WAY\nSALUDA, VA\n23149\nUSA\nBilling address\nBenjamin Ward\nAirGarage\n2261 Market Street\n#4027\nSan Francisco, CA\n94114\nUSA\n2026 DigiKey\n701 Brooks Avenue South\nThief River Falls, MN 56701\nThis email has been sent to you as a result of your purchase or quote request from DigiKey.\nPrivacy notice\n"
+  }
+ ]
+}

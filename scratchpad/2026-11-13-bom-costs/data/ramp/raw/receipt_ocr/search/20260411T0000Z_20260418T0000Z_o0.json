@@ -1,0 +1,92 @@
+{
+ "query": {
+  "window": [
+   "2026-04-11T00:00:00Z",
+   "2026-04-18T00:00:00Z"
+  ],
+  "keywords": [
+   "total",
+   "order",
+   "subtotal",
+   "invoice",
+   "receipt",
+   "qty",
+   "amount",
+   "USD",
+   "paid",
+   "tax"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:52:58Z",
+ "returned": 1,
+ "next_offset": null,
+ "retrieval_mode": "lexical_fallback",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "56de3802-cfa4-425f-9773-c3e31d07482e",
+   "owner_uuid": "019c9064-3541-72df-bab0-c9322d9fe100",
+   "owner_name": "Chris Williamson",
+   "transaction_uuid": "9079d4fd-09f9-4d84-ade7-cd186a13f4be",
+   "reimbursement_uuid": null,
+   "received_at": "2026-04-15T13:08:44.064386Z",
+   "merchant": "Mouser Electronics",
+   "receipt_date": "2026-04-13",
+   "total_amount": "461.7",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics",
+    "merchant_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "transaction_date": "2026-04-13",
+    "total_amount": 461.7,
+    "subtotal": 390.89,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "TAX",
+      "tax_rate": null,
+      "tax_amount": 33.37
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Freight",
+      "fee_amount": 11.19
+     },
+     {
+      "fee_name": "Tariff",
+      "fee_amount": 26.25
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": null,
+      "item_name": "Phoenix Contact LPT 2,5/ 3-5,0 / Fixed Terminal Blocks",
+      "item_quantity": 200.0,
+      "item_unit_price": 1.31,
+      "item_total_price": 262.0
+     },
+     {
+      "item_date": null,
+      "item_name": "Littelfuse 200W 24V 5% Uni-dire / ESD Protection Diodes / TV$",
+      "item_quantity": 625.0,
+      "item_unit_price": 0.094,
+      "item_total_price": 58.75
+     },
+     {
+      "item_date": null,
+      "item_name": "Nexperia SCHOTTKY DIODE / Schottky Diodes & Rectifiers",
+      "item_quantity": 420.0,
+      "item_unit_price": 0.167,
+      "item_total_price": 70.14
+     }
+    ]
+   },
+   "ocr_excerpt": "00 North Main Street, Mansfield, TX 76063, USA Customer Service Rep: Internet Customer Service Customer Service: 800-346-6873 Credit: 800-333-9924 Federal ID# 61-1520598\nINCOTERMS: FCA Shipping Point\nInvoice - Credit Card Receipt\n| Invoice No. | Invoice Date | Page No. |\n| 89781438 | 13-APR-26 | 1 of 1 |\n| Purchase Order No. | Master Tracker No. |\n| 38857122 | 1Z7759450319395387 |\n| Contact Name | Ship Via | Customer Number | Terms | Order Date |\n| CHRISTOPHER WILLIAMSON | UPS GROUND SERVICE | 6220B14 | VI 2311 | 11-APR-26 |\nBill To\nAIRGARAGE INC\nATTN: CHRIS WILLIAMSON\n564 MARKET STREET\nSAN FRANCISCO, CALIFORNIA 94104\nUNITED STATES\nShip To\nBYTECHS LLC ATTN: CHRIS WILLIAMSON 185 STAG DR WILLISTON, SOUTH CAROLINA 29853 UNITED STATES\n| Line No. | Mouser Part Number Customer/MFG Part No. Description | Quantity Ordered | Quantity Shipped | Quantity Pending | Unit Price(USD) | Extended Price(USD) |\n| 1 | 651-1190298 SENS_A, SENS_B / 1190298 Phoenix Contact LPT 2,5/ 3-5,0 / Fixed Terminal Blocks US HTS:8536694040 ECCN:EAR99 COO:SK ACO :-- COD :-- | 200 | 200 | 0 | 1.310 | 262.00 |\n| 2 | 576-SMF24A D1, D2, D3 / SMF24A | 625 | 625 | 0 | 0.094 | 58.75 |\n| | Littelfuse 200W 24V 5% Uni-dire / ESD Protection Diodes / TV$; US HTS:8541100080 ECCN:EAR99 COO:CN ACO :-- COD :-- | Diodes | | | Tariff | 26.25 |\n| 3 | 771-PMEG3010BER115 D5, D6 / PMEG3010BER,115 Nexperia SCHOTTKY DIODE / Schottky Diodes & Rectifiers US HTS:8541100080 ECCN:EAR99 COO:MY ACO :-- COD :-- | 420 | 420 | 0 | 0.167 | 70.14 |\n| | | | | | | |\n| | | | | | | |\n| | | | | | | |\n| Merchandise | Handling | Freight | TAX | Tariff |\n| 390.89 | 0.00 | 11.19 | 33.37 | 26.25 |\nPaid by credit card\nUSD $461.70\nShipping Information\nShip Date: Apr 13, 2026\n| | Tracking Number(s) and Billed Weights |\n| 1Z7759450319395387 3.00 lb | |\n| | |\nThis order is subject to all terms and conditions displayed at: https://www.mouser.com/saleterms"
+  }
+ ]
+}

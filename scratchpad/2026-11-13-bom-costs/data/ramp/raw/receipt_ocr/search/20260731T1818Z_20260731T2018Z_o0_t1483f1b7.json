@@ -1,0 +1,68 @@
+{
+ "query": {
+  "window": [
+   "2026-07-31T18:18:00Z",
+   "2026-07-31T20:18:00Z"
+  ],
+  "keywords": [
+   "Mouser",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:55:07.910Z",
+ "dropped_other_owners": 0,
+ "receipts": [
+  {
+   "receipt_uuid": "1483f1b7-9173-4cd6-8637-45158f9dba67",
+   "owner_uuid": "01954cee-c717-707b-a6d2-fd8f365f01ac",
+   "owner_name": "Bryan Monti",
+   "transaction_uuid": "84314dda-2185-49ff-beb2-1888f29a9e39",
+   "reimbursement_uuid": null,
+   "received_at": "2026-07-31T19:18:41.006823Z",
+   "merchant": "Mouser Electronics, Inc.",
+   "receipt_date": "2026-07-31",
+   "total_amount": "285.6",
+   "currency_code": "USD",
+   "structured_data": {
+    "merchant_name": "Mouser Electronics, Inc.",
+    "merchant_address": null,
+    "transaction_date": "2026-07-31",
+    "total_amount": 285.6,
+    "subtotal": 183.51,
+    "tip": null,
+    "taxes": [
+     {
+      "tax_name": "Estimated Tax",
+      "tax_rate": null,
+      "tax_amount": 22.98
+     }
+    ],
+    "fees": [
+     {
+      "fee_name": "Shipping",
+      "fee_amount": 9.39
+     },
+     {
+      "fee_name": "Estimated Tariff",
+      "fee_amount": 69.72
+     }
+    ],
+    "discounts": null,
+    "currency_code": "USD",
+    "is_itemized": true,
+    "line_items": [
+     {
+      "item_date": "2026-07-31",
+      "item_name": "M12 Circular Metric",
+      "item_quantity": 3.0,
+      "item_unit_price": 61.17,
+      "item_total_price": 183.51
+     }
+    ]
+   },
+   "ocr_excerpt": "Mouser Electronics, Inc. - Order Confirmation\nOrder Confirmation\nPurchase Order Number :\n40008041\nWeb Order Number :\n40008041\nContact Name :\nBRYAN MONTI\nOrder Date :\nJUL 31, 2026\nCustomer Number :\n61CCD08\nBryan Monti,\nThank you for your order.\nAs soon as your order is shipped, you will receive a Shipment Notification email.\nThe estimated tariff surcharges that apply to your order are shown below.\nPlease view this link\nhttps://www.mouser.com/tariff-updates/\nfor the latest tariff information.\nMeanwhile, use the link below to view the real-time status of your order.\nORDER STATUS\nWeb Order Number\n40008041\nOrder Date\nJUL 31, 2026\nPlease rate your experience with Mouser\nReview\nCurrent Status:\nReal-Time Order Status\nClick now\nfor status or questions about your order.\nA summary of your order is included below.\nThank you for your business.\nCustomer Service\nCustomer Service Representative\nShipping Method\nTerms\nInternet Customer Service\nUPS Ground Service\nCredit Card\nBill To\nAIRGARAGE, INC.\nAttn: BRYAN MONTI\n2261 MARKET STREET\n#4027\nSAN FRANCISCO, CALIFORNIA 94114\nUNITED STATES\nShip To\nBRYAN MONTI\n32 PROVINCE DR\nS SETAUKET, NEW YORK 11720\nUNITED STATES\nLine Number\nMouser Part Number\nCustomer Part Number\nManufacturer Part Number\nDescription\nRequested\nDelivery\nDate(s)\nEstimated\nShipment\nDate(s)\nQuantity\nUnit Price\n(USD)\nExtended Price\n(USD)\n1\n1\n523-AS17MLSASFLSB001\nMSAS17ML-SASFL-SB001\nM12 Circular Metric\nEstimated Tariff\nJUL 31, 2026\nJUL 31, 2026\n3\n61.170\n183.51\n69.72\n1\nRoHS: Compliant\nShipping Notes\nMerchandise Total\n(USD)\n$183.51\nFinal tariff amount will be calculated at the time of shipment.\nShipping\n$9.39\nEstimated Tax\n$22.98\nEstimated Tariff\n$69.72\nThis order is subject to all terms and conditions displayed at:\nhttps://www.mouser.com/saleterms\n"
+  }
+ ]
+}

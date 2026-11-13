@@ -1,0 +1,18 @@
+{
+ "query": {
+  "window": [
+   "2025-07-17T17:53:37Z",
+   "2025-07-17T19:53:37Z"
+  ],
+  "keywords": [
+   "Bytechs",
+   "ByTechs",
+   "total",
+   "receipt"
+  ],
+  "offset": 0
+ },
+ "pulled_at": "2026-11-13T04:56:24Z",
+ "dropped_other_owners": 0,
+ "receipts": []
+}
