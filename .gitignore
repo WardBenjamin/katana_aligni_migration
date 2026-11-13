@@ -1,0 +1,17 @@
+# credentials
+.env
+.env.*
+*.key.json
+
+# environments and caches
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
+.claude/settings.local.json
+
+# product code changes live in their own repos
+worktrees/
+
+# plain copy with no git history; make it a submodule once it has a remote
+repos/aligni-mcp-server/

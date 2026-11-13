@@ -1,0 +1,6 @@
+[project]
+name = "katana-aligni-migration"
+version = "0.0.0"
+description = "Workspace for migrating MRP/ERP from Aligni to Katana"
+requires-python = ">=3.15.2"
+dependencies = []
