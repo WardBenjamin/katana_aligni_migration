@@ -12,12 +12,12 @@ AG-Dual46-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 4mm + 6mm,A,Katana,2,0,A
 AG-Dual68-RoundBollard-Kit,vπ Round Bollard Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-RoundBollard-Kit.csv,Aligni,
 AG-Dual68-SquareBollard-Kit,vπ Square Bollard Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-SquareBollard-Kit.csv,Aligni,
 AG-Dual68-WallMount-Kit,vπ Wall Mount Dual Cam Kit — 6mm + 8mm,A,Katana,2,0,AG-Dual68-WallMount-Kit.csv,Aligni,
-AG-IP-001-000,Install Pack Base Set,A,Katana,12,2,AG-IP-001-000.csv,"ByTechs install-pack sheet, column 'BASE SET TO PACK SKU RRWMIPDC RRWM Quantity'",
-AG-IP-002-000,Install Pack Add-on: RR Bollard Mount,A,Katana,2,1,AG-IP-002-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDC RRBM Quantity'",
+AG-IP-001-000,Install Pack Base Set,A,Katana,12,1,AG-IP-001-000.csv,"ByTechs install-pack sheet, column 'BASE SET TO PACK SKU RRWMIPDC RRWM Quantity'",
+AG-IP-002-000,Install Pack Add-on: RR Bollard Mount,A,Katana,2,0,AG-IP-002-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDC RRBM Quantity'",
 AG-IP-003-000,Install Pack Add-on: Through Beam,A,Katana,5,1,AG-IP-003-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU TBIPDC TB Quantity'",
-AG-IP-004-000,"Install Pack Add-on: RR Bollard Mount, Reverse Camera",A,Katana,5,2,AG-IP-004-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDCR RRBM Quantity'",
-AG-IP-005-000,"Install Pack Add-on: RR Wall Mount, Reverse Camera",A,Katana,5,2,AG-IP-005-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRWMIPDCR RRWM Quantity'",
-AG-IP-006-000,"Install Pack Add-on: Through Beam, Reverse Camera",A,Katana,7,2,AG-IP-006-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU TBIPDCR TB Quantity'",
+AG-IP-004-000,"Install Pack Add-on: RR Bollard Mount, Reverse Camera",A,Katana,5,1,AG-IP-004-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRBMIPDCR RRBM Quantity'",
+AG-IP-005-000,"Install Pack Add-on: RR Wall Mount, Reverse Camera",A,Katana,5,1,AG-IP-005-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU RRWMIPDCR RRWM Quantity'",
+AG-IP-006-000,"Install Pack Add-on: Through Beam, Reverse Camera",A,Katana,7,1,AG-IP-006-000.csv,"ByTechs install-pack sheet, column 'ADD ON KIT SKU TBIPDCR TB Quantity'",
 AG-IP-RRBM-DC-Kit,Install Pack: Retro Reflective - Bollard Mount - Dual Camera,A,Katana,2,0,AG-IP-RRBM-DC-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
 AG-IP-RRBM-DCR-Kit,Install Pack: Retro Reflective - Bollard Mount - Dual Camera - Reverse Camera,A,Katana,2,0,AG-IP-RRBM-DCR-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
 AG-IP-RRWM-DC-Kit,Install Pack: Retro Reflective - Wall Mount - Dual Camera,A,Katana,1,0,AG-IP-RRWM-DC-Kit.csv,ByTechs install-pack sheet,Full pack = base set + add-on (Ben 2026-11-13).
@@ -28,14 +28,14 @@ AG-IP-V4BM-DC-Kit,Install Pack: v4 - Bollard Mount - Dual Camera,A,Katana,1,0,AG
 AG-IP-V4WM-DCR-Kit,Install Pack: v4 - Wall Mount - Dual Camera - Reverse Camera,A,Katana,1,0,AG-IP-V4WM-DCR-Kit.csv,Ben 2026-11-13,One vπ pack as a part (AG-IP-RRWM-DCR-Kit); V4 sensor hardware ships in the V4 box. Confirm the mapping.
 AG-OBL-001-000,Obelisk (draft),draft,Draft (not migrated),16,12,obelisk/AG-OBL-001-000.csv,"Slack #pt-obelisk, #airgarage-bytechs-tripleb-v4-hardware; tripwire-ecad PR #28",Design in flux (Ben 2026-11-13). Skeleton of known modules and parts with sources; not a buildable BOM.
 AG-OBL-002-000_CSInterface,Compute Stack Bollard Interface PCBA,X1,Draft (not migrated),9,0,obelisk/AG-OBL-002-000_CSInterface.csv,tripwire-ecad PR #28 (HW-975) @ 88d20a6,Open PR; product assignment assumed (Obelisk). Confirm.
-AG-PIC-001-000_Dual46,vπ Dual Camera Module — 4mm + 6mm,A,Katana,10,0,AG-PIC-001-000_Dual46.csv,Aligni,
-AG-PIC-001-000_Dual68,vπ Dual Camera Module — 6mm + 8mm,A,Katana,10,0,AG-PIC-001-000_Dual68.csv,Aligni,
-AG-PIC-002-000_Single4,vπ Single Camera Module — 4mm,A,Katana,9,0,AG-PIC-002-000_Single4.csv,Aligni,
-AG-PIC-002-000_Single6,vπ Single Camera Module — 6mm,A,Katana,9,0,AG-PIC-002-000_Single6.csv,Aligni,
-AG-PIC-002-000_Single8,vπ Single Camera Module — 8mm,A,Katana,9,0,AG-PIC-002-000_Single8.csv,Aligni,
-AG-PIC-003-000,vπ Round Bollard Mount,A,Katana,4,0,AG-PIC-003-000.csv,Aligni,
-AG-PIC-004-000,vπ Square Bollard Mount,A,Katana,4,0,AG-PIC-004-000.csv,Aligni,
-AG-PIC-005-000,vπ Wall Mount,A,Katana,7,0,AG-PIC-005-000.csv,Aligni,
+AG-PIC-001-000_Dual46,vπ Dual Camera Module — 4mm + 6mm,A,Katana,10,0,AG-PIC-001-000_Dual46.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-001-000_Dual68,vπ Dual Camera Module — 6mm + 8mm,A,Katana,10,0,AG-PIC-001-000_Dual68.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-002-000_Single4,vπ Single Camera Module — 4mm,A,Katana,9,0,AG-PIC-002-000_Single4.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-002-000_Single6,vπ Single Camera Module — 6mm,A,Katana,9,0,AG-PIC-002-000_Single6.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-002-000_Single8,vπ Single Camera Module — 8mm,A,Katana,9,0,AG-PIC-002-000_Single8.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-003-000,vπ Round Bollard Mount,A,Katana,4,0,AG-PIC-003-000.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-004-000,vπ Square Bollard Mount,A,Katana,4,0,AG-PIC-004-000.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
+AG-PIC-005-000,vπ Wall Mount,A,Katana,7,0,AG-PIC-005-000.csv,Aligni,"M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13)."
 AG-SEN2-001-000,vπ Sensor Bar,A,Katana,14,0,AG-SEN2-001-000.csv,Aligni,
 AG-SEN2-002-000,vπ Sensor Retroreflector,D,Katana,2,0,AG-SEN2-002-000.csv,Aligni,"2x E39-R1S per retroreflector, so 4 per RR kit (Ben 2026-11-13). Was 4x E39-R1."
 AG-SEN2-003-000,vπ Sensor Enclosure X5,A,Katana,2,0,AG-SEN2-003-000.csv,Aligni,

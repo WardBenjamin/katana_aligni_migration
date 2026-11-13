@@ -63,6 +63,7 @@ Aligni part numbers are the standard: `AG-<family>-<assembly>-<item>_<suffix>` f
 4. V4 install packs are real SKUs, either containing one vπ install pack or a copy of its base set plus add-on.
 5. Part numbers: proposed in [part-numbers.md](part-numbers.md), awaiting confirmation.
 6. Scope: V3.1 is not migrated but its BOMs are cleaned up; V4 sensors are migrated; Obelisk is in flux and not migrated, with its BOM brought into shape as far as the sources allow.
+7. Corrections found while pricing (same day): the M3 x 30 mm thread-forming screw is McMaster 95893A198, not 95893A197; the install-pack 3 in anchor is the Strong-Tie Titen HD 1/2 x 3 in (`EXT-THD50300H`), not a Tapcon 5/8 x 3 in; the install-pack wipes quantity is single wipes. Evidence: [../assembly-price/research/partial-rollup.md](../assembly-price/research/partial-rollup.md).
 
 All six are applied in the corrected BOM set, `boms/` (built by `scratchpad/2026-11-13-bom-reconciliation/build_boms.py`; the untouched Aligni export is in `boms/aligni-20261113T0325Z/`). `boms/index.csv` lists each BOM with its scope, source, change and count of open lines.
 

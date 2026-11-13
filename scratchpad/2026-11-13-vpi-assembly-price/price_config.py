@@ -35,6 +35,20 @@ FIELDS = ["Config Line", "Kind", "Part Number", "Part Name", "Extended Quantity"
           "Flag", "Source"]
 
 
+def invoice_lines():
+    """Lines typed from invoices outside the Ramp pull, landed pro rata by line total like the cost record."""
+    typed = read(HERE / "invoice_lines.csv")
+    goods = defaultdict(float)
+    for r in typed:
+        goods[r["source_file"], r["invoice_goods_total"]] += float(r["line_total"])
+    for (source, total), summed in goods.items():
+        assert abs(summed - float(total)) < 0.005, f"lines do not add up to the goods total: {source}"
+    return [{"date_utc": r["date_utc"], "vendor": r["vendor"], "vendor_pn": "", "mpn": "", "item_code": "",
+             "item_name": r["item_name"], "item_name_full": "", "quantity": r["quantity"], "unit_price": r["unit_price"],
+             "landed_unit_cost": float(r["line_total"]) * float(r["invoice_total"]) / float(r["invoice_goods_total"]) / float(r["quantity"]),
+             "needs_review": "False", "link": f"{r['source_file']} ({r['invoice_no']})"} for r in typed]
+
+
 def tokens(part, item):
     raw = {part.removeprefix("EXT-").removeprefix("AG-"), item.get("Part Number - Mfg", ""),
            item.get("Supplier Part Number", "")}
@@ -111,7 +125,7 @@ def main():
         rules[r["Part Number"]].append(r)
     for m in read(HERE / "manual_prices.csv"):
         manual[m["Part Number"]].append(m)
-    cost_lines = read(COST_LINES)
+    cost_lines = read(COST_LINES) + invoice_lines()
     for c in cost_lines:
         c["_text"] = " ".join(c[k] for k in ("vendor_pn", "mpn", "item_code", "item_name", "item_name_full")).lower()
 

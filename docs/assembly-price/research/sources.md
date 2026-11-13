@@ -10,3 +10,5 @@
 - Shopify Admin GraphQL (read-only) for six product variants' price and unit cost: HTTP 500 twice, no data — 2026-11-13
 - Uline product page for H-2118F, fetched with the web-fetch agent (HTTP 200): price, weight, shipping method https://www.uline.com/Product/Detail/H-2118F/Safety-Guards-Barriers/Standard-Safety-Bollard-45-x-36-Fixed — read 2026-11-13
 - `scratchpad/2026-11-13-bom-reconciliation/build_boms.py` (item definitions and how `boms/items.csv` is written) — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/bytechs/pdf/`: 25 Bytechs LLC invoices issued through Deel (text of all 25 for task lines and totals; the last five and INV-2025-1, -3, -4, -5, -6, -7 and INV-nd68x8z-2026-1 in full) and one of 9 Deel fee invoices — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/pcb/invoice-5.pdf`, `invoice-6.pdf`, `invoice-7.pdf`: JLCPCB invoices, read by eye (no text layer) — read 2026-11-13

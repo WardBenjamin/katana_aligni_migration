@@ -117,6 +117,8 @@ item("AG-CS3-001-008_GPIOSpacer", "GPIO Spacer (3D printed)", "Mechanical", "ByT
      "Slack 2026-04-02", "One per unit.")
 item("AG-CS3-001-009_SWDWire", "Party HAT to Watchdog HAT Wire", "Cable", "", "", "ByTechs LLC", "", "", "Slack 2026-04-02",
      "Construction not documented; confirm with ByTechs.")
+item("EXT-95893A198", "M3x30mm Thread Forming Screw", "Mechanical", "McMaster-Carr", "95893A198", "McMaster-Carr", "95893A198", "",
+     "McMaster purchases 2026-03-20 and 2026-04-10; Ben 2026-11-13", "Aligni listed 95893A197. Sold in packs of 25.")
 item("EXT-H-2118F", "Uline Standard Safety Bollard, 4.5 x 36in, fixed", "Mechanical", "Uline", "H-2118F", "Uline", "H-2118F", "",
      "Notion PIC-003 BoM (listed at quantity 0); Ben 2026-11-13", "In no BOM. One per round-bollard-mount unit.")
 
@@ -201,7 +203,7 @@ IP_ITEMS = {  # sheet part name -> part number (vendor IDs from data/sheets/inst
     "3/4\" one hole straps - flat": ("EXT-B000W38PHU", "3/4in One-Hole Conduit Strap", "", "B000W38PHU", "Amazon", "B000W38PHU"),
     "1/2\" one hole straps - flat": ("EXT-26151", "1/2in One-Hole EMT Strap", "Halex", "26151", "Home Depot", "100172548"),
     "Tapcon 1/4” x 1.25”": ("EXT-TBD-TAPCON-025X125-SS", "Tapcon 1/4 x 1-1/4in, 410 stainless, hex", "", "", "Fasteners Plus", ""),
-    "Tapcon 5/8” x 3”": ("EXT-TBD-TAPCON-LDT-0625X3", "Tapcon LDT 5/8 x 3in, zinc", "", "", "Fasteners Plus", ""),
+    "Tapcon 5/8” x 3”": ("EXT-THD50300H", "Strong-Tie Titen HD Screw Anchor 1/2 x 3in, zinc", "Simpson Strong-Tie", "THD50300H", "Fasteners Plus", ""),
     "Topaz 3/4” Rain Tight Connector": ("EXT-652SRT", "Topaz 3/4in Raintight Compression Connector", "Topaz", "652SRT", "Gordon Electric Supply", "6162894"),
     "Topaz 1/2” Rain Tight Connector": ("EXT-651SRT", "Topaz 1/2in Raintight Compression Connector", "Topaz", "651SRT", "Gordon Electric Supply", "6162893"),
     "Washers": ("AG-IP-001-001_Washer", "Bollard Washer (custom)", "SendCutSend", "IP-001-001_Washer", "SendCutSend", ""),
@@ -212,6 +214,10 @@ for pn, name, mfr, mpn, sup, spn in IP_ITEMS.values():
     item(pn, name, "Mechanical", mfr, mpn, sup, spn, "", "ByTechs install-pack sheet",
          "Vendor page has no maker part number." if pn.startswith("EXT-TBD") else
          ("CAD: tripwire-mcad Installer Kits/Bollard Washers." if pn.startswith("AG-") else ""))
+
+items["EXT-THD50300H"]["Notes"] = ("The sheet calls this Tapcon 5/8 x 3in; the anchor bought and packed is the Titen HD "
+                                   "1/2 x 3in, sold in packs of 25 (Ben 2026-11-13).")
+items["EXT-GOJ902712"]["Notes"] = "Quantity is single wipes, from a box of 120 (Ben 2026-11-13)."
 
 sheet = list(csv.reader(open(SHEETS / "bytechs-install-packs_SKUs.csv")))
 hdr, body = sheet[0], [r for r in sheet[1:] if r[1] and r[1] != "Totals" and not r[1].startswith("Nylocks")]
@@ -357,6 +363,18 @@ bom("AG-OBL-001-000", "Obelisk (draft)", "draft", "draft",
      line("AG-CS3-001-000", 1, "Assumed; Obelisk compute is not defined.")] + [line(pn, q, src) for pn, _, src, q in OBL],
     "Slack #pt-obelisk, #airgarage-bytechs-tripleb-v4-hardware; tripwire-ecad PR #28",
     "Design in flux (Ben 2026-11-13). Skeleton of known modules and parts with sources; not a buildable BOM.")
+
+# ---------------------------------------------------------------- part-number corrections (Ben 2026-11-13)
+CORRECT = {"EXT-95893A197": ("EXT-95893A198", "M3 x 30 mm screw is McMaster 95893A198, not 95893A197 (Ben 2026-11-13).")}
+for b in boms.values():
+    for x in b["lines"]:
+        if x["Part Number"] in CORRECT:
+            new, why = CORRECT[x["Part Number"]]
+            x.update(line(new, x["Quantity Per Unit"], x.get("Notes", "")))
+            if why not in b["change"]:
+                b["change"] = f"{b['change']} {why}".strip()
+for old in CORRECT:
+    del items[old]
 
 # ---------------------------------------------------------------- write
 for d in ("", "legacy-v3.1", "obelisk"):

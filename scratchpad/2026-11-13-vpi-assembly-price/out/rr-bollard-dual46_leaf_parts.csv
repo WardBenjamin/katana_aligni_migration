@@ -55,7 +55,7 @@ EXT-92095A181,M3x8mm Button Head Screw,Mechanical,McMaster-Carr,92095A181,McMast
 EXT-92095A210,M5x12mm Button Head Screw,Mechanical,McMaster-Carr,92095A210,McMaster-Carr,,1,AG-SEN2-001-000,Y,0.22,0,,,,
 EXT-952-3964-ND,M2.5 14mm F-F Standoff,Mechanical,Harwin,952-3964-ND,DigiKey,952-3964-ND,4,AG-CS3-001-000,Y,,1,2026-06-02,Digi-Key,0.42818,False
 EXT-95893A189,M3x8mm Thread Forming Screw,Mechanical,McMaster-Carr,95893A189,McMaster-Carr,95893A189,8,AG-CS3-001-000; AG-PIC-001-000_Dual46,Y,,2,2026-04-10,McMaster-Carr,13.046946,False
-EXT-95893A197,M3x30mm Thread Forming Screw,Mechanical,McMaster-Carr,95893A197,McMaster-Carr,95893A197,12,AG-PIC-001-000_Dual46; AG-PIC-003-000,Y,,0,,,,
+EXT-95893A198,M3x30mm Thread Forming Screw,Mechanical,McMaster-Carr,95893A198,McMaster-Carr,95893A198,12,AG-PIC-001-000_Dual46; AG-PIC-003-000,Y,,2,2026-04-10,McMaster-Carr,9.494958,False
 EXT-ACS37041KLHBLT-010B3,"ACS37041 ±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, CB-5 PFF (Allegro_LH_SOT-23W-5)",Electronic,Allegro,ACS37041KLHBLT-010B3,DigiKey,620-ACS37041KLHBLT-010B3TR-ND,4,AG-CS3-002-000_PartyHAT,Y,,0,,,,
 EXT-ADS1015IDGSR,"ADS1015IDGS Ultra-Small, Low-Power, I2C-Compatible, 3.3-kSPS, 12-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10 (TSSOP-10_3x3mm_P0.5mm)",Electronic,TI,ADS1015IDGSR,DigiKey,296-41185-1-ND,2,AG-CS3-002-000_PartyHAT,Y,,1,2026-10-12,Digi-Key,2.859577,True
 EXT-B000W38PHU,3/4in One-Hole Conduit Strap,Mechanical,,B000W38PHU,Amazon,B000W38PHU,10,AG-IP-001-000,Y,,0,,,,
@@ -111,12 +111,12 @@ EXT-SSM-120-L-DV-BE-LC,"Pi GPIO Generic connector, double row, 02x20, odd/even p
 EXT-SixFabLTEHAT,Sixfab 3G–4G/LTE Base HAT for Raspberry Pi,Module,Sixfab,raspberry-pi-base-hat-3g-4g-lte-minipcie-cards,Sixfab,raspberry-pi-base-hat-3g-4g-lte-minipcie-cards,1,AG-CS3-001-000,Y,,0,,,,
 EXT-TBD-RJ12-15FT,RJ-12 Cable (15ft),Cable,,,,,1,AG-SEN2-RR-Kit,Y,,0,,,,
 EXT-TBD-TAPCON-025X125-SS,"Tapcon 1/4 x 1-1/4in, 410 stainless, hex",Mechanical,,,Fasteners Plus,,20,AG-IP-001-000,Y,,0,,,,
-EXT-TBD-TAPCON-LDT-0625X3,"Tapcon LDT 5/8 x 3in, zinc",Mechanical,,,Fasteners Plus,,12,AG-IP-001-000; AG-IP-002-000,Y,,0,,,,
 EXT-TBD-hat-usb-bridge-J2,"Conn_01x12_MountingPin Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/) (GCT_FFC2B28-12-G)",Electronic,,,,,1,AG-CS3-003-000_USBBridge,Y,,0,,,,
 EXT-TBD-modem-bridge-P5,USB_B_Micro USB Micro Type B connector (USB_Micro-B_GCT_USB3150-30-130-A_GCC),Electronic,,,,,1,AG-CS3-004-000_ModemBridge,Y,,0,,,,
 EXT-TBD-modem-bridge-P6,USB_C_Plug_USB2.0 USB 2.0-only Type-C Plug connector (USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical),Electronic,,,,,1,AG-CS3-004-000_ModemBridge,Y,,0,,,,
 EXT-TBD-sensor-bar-io-breakout-J1,"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25 (RJ12_Amphenol_54601-x06_Horizontal)",Electronic,,,,,1,AG-SEN2-004-000_Breakout,Y,,0,,,,
 EXT-TCMT4106,"TCMT4100 Quad Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS), SOP-16 (SOP-16_4.4x10.4mm_P1.27mm)",Electronic,Vishay,TCMT4106,DigiKey,TCMT4106TR-ND,1,AG-CS3-002-000_PartyHAT,Y,,1,2026-10-12,Digi-Key,1.300196,True
+EXT-THD50300H,"Strong-Tie Titen HD Screw Anchor 1/2 x 3in, zinc",Mechanical,Simpson Strong-Tie,THD50300H,Fasteners Plus,,12,AG-IP-001-000; AG-IP-002-000,Y,,2,2026-07-16,Fasteners Plus,57.618,False
 EXT-TPS54202HDDCR,"TPS54202HDDCR 2A, 4.5 to 28V Input, integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6 (SOT-23-6)",Electronic,TI,TPS54202HDDCR,DigiKey,296-44396-2-ND,1,AG-CS3-002-000_PartyHAT,Y,,0,,,,
 EXT-USB-3.0AM-01-D,USB3_A USB 3.0 A connector (USB3_A_Plug_XiamenJinbelli_USB-3.0AM-01-D_Vertical),Electronic,Xiamen Jinbelli (JBL-EC),USB-3.0AM-01-D,DigiKey,N/A,3,AG-CS3-003-000_USBBridge,Y,,0,,,,
 EXT-USB1035-GF-P-0-B-B,"USB_CAMs USB Type A connector, stacked (USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked)",Electronic,GCT,USB1035-GF-P-0-B-B,DigiKey,2073-USB1035-GF-P-0-B-B-ND,1,AG-CS3-002-000_PartyHAT,Y,,1,2026-10-12,Digi-Key,0.530857,True

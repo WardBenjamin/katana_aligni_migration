@@ -85,6 +85,9 @@ Stock held under the old numbers moves to the new ones at the Katana import. Non
 
 - The enclosure cap is `EXT-OLKOS75-100` (OHLECTRIC 3/4in snap-in knockout seal, zinc-plated steel, 100-pack; Amazon B0GNN6HDVH), not `EXT-B0GNN6HDVH`: the maker number takes priority over the ASIN under the rules above.
 
+- The M3 x 30 mm thread-forming screw is `EXT-95893A198`; Aligni's `EXT-95893A197` is dropped (Ben 2026-11-13). The vπ camera, mount and V4 sensor BOMs now share the one item.
+- The 3 in install-pack anchor is `EXT-THD50300H` (Strong-Tie Titen HD 1/2 x 3 in, zinc), replacing the placeholder `EXT-TBD-TAPCON-LDT-0625X3` (Ben 2026-11-13).
+
 ## Placeholders to fill (`EXT-TBD-*`)
 
-RJ-12 15 ft and RJ-45 15 ft cables; both Tapcons (vendor pages give no maker number); V4 kit T27 self-drilling screw, T27 impact bit, 7/32in drill bit, 1/2in Tapcon and washer; V4 sensor T27 1/4-20 screw and thermal pad; connectors without an MPN in KiCad (USB bridge J2, modem bridge P5 and P6, sensor breakout J1); the Obelisk parts. `grep EXT-TBD boms/items.csv` lists them.
+RJ-12 15 ft and RJ-45 15 ft cables; the 1/4 x 1-1/4 in Tapcon (vendor page gives no maker number); V4 kit T27 self-drilling screw, T27 impact bit, 7/32in drill bit, 1/2in Tapcon and washer; V4 sensor T27 1/4-20 screw and thermal pad; connectors without an MPN in KiCad (USB bridge J2, modem bridge P5 and P6, sensor breakout J1); the Obelisk parts. `grep EXT-TBD boms/items.csv` lists them.

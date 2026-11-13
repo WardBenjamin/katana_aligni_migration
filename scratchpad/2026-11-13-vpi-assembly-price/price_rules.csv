@@ -13,7 +13,6 @@ EXT-SRFL029,^Mouser,antenova 100mm cable,1,,
 EXT-ACS37041KLHBLT-010B3,^Mouser,acs37041,1,,The Digi-Key line of the same date has no landed cost
 EXT-BSS138PS-115,^Mouser,bss138ps,1,,
 EXT-RMCF0603FT100K,^Digi-Key$,res 100k ohm 1% 1/10w 0603,1,matched by description,
-EXT-95893A197,^McMaster-Carr$,95893a198,,BOM lists 95893A197; the M3 x 30 mm screw bought is 95893A198,
 AG-IP-001-001_Washer,^SendCutSend$,"stainless steel.{0,3}316 series.*1\.496",1,,2026 item names start Uline_Bollard_Drill_Jig; same size and material as Bollard_Washer.step
 EXT-B07H18YDYB,^Amazon$,(?=.*fullerkreg)(?=.*m5-0\.8 x 8 mm button head),100,ASIN not on the receipt,
 EXT-B0BZKG6DBZ,^Amazon$,100pcs 2020 series sliding t-nuts,100,ASIN not on the receipt; BOM name says with ball spring,
@@ -23,10 +22,15 @@ EXT-OLKOS75-100,^Amazon$,ohlectric 3/4-inch snap-in knockout seals \(100 pack\),
 EXT-B000W38PHU,^Amazon$,halex 3/4 in\. electrical metallic conduit strap,100,ASIN not on the receipt,
 EXT-B00IQCHZS4,^Amazon$,"lexel, 5 ounce squeeze tube, clear \(pack of 12\)",12,ASIN not on the receipt; assumes one 5 oz tube per pack,
 EXT-6132-BA-10,^Amazon$,super 33\+ vinyl electrical tape.*10-pack,10,assumes one roll per install pack,
-EXT-GOJ902712,^Amazon$,"purell.*sanitizing wipes, 120ct",120,"assumes 2 single wipes per install pack, not 2 boxes of 120; confirm with ByTechs",
+EXT-GOJ902712,^Amazon$,"purell.*sanitizing wipes, 120ct",120,,Quantity is single wipes (Ben 2026-11-13)
 EXT-B0FSRN2719,^Amazon$,"microfiber cleaning cloth, 150 pack",150,ASIN not on the receipt,
 EXT-TBD-TAPCON-025X125-SS,^Fasteners Plus$,"tapcon 1/4.{0,2} x 1-1/4|1/4.{0,2} x 1-1/4.{0,2} tapcon",100,,
-EXT-TBD-TAPCON-LDT-0625X3,^Fasteners Plus$,titen|thd50|th hd screw anchor,25,BOM says Tapcon LDT 5/8 x 3in; the anchors bought are Strong-Tie Titen HD 1/2 x 3in,
+EXT-THD50300H,^Fasteners Plus$,titen|thd50|th hd screw anchor,25,,Some receipts cut the part number short
 EXT-TBD-RJ12-15FT,^Amazon$,rj12 cable 15ft,2,,
 AG-CS3-002-000_PartyHAT,^Bytechs$,pcb assembly services - party hat,1,,Labour
 AG-SEN2-004-000_Breakout,^Bytechs$,pcb assembly services - sensor bar io breakout,1,,Labour
+AG-CS3-002-001_PCB,^JLCPCB$,party-hat-x5c_gerbers,1,,
+AG-CS3-003-001_PCB,^JLCPCB$,usb-bridge-x3_gerbers,1,,
+AG-CS3-004-001_PCB,^JLCPCB$,modem-bridge_x3out,1,,
+AG-SEN2-004-001_PCB,^JLCPCB$,printed circuit board sensor-bar-io-breakout-x2_gerbers,1,,The stencil on the same invoice is tooling
+AG-SEN2-001-000,^Bytechs$,sensor bar assemblies for inventory,1,Deel task line with no itemized invoice,Labour
