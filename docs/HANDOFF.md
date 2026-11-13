@@ -16,11 +16,11 @@ Order of work:
 
 - `boms/`: 30 active Aligni BOMs (one CSV per assembly, named by part number), 5 older or draft revisions in `boms/revisions/`, and `boms/index.csv`. Columns follow the Notion BoM databases plus the Aligni fields Katana needs. Scripts and the raw snapshot (2026-11-13T03:25Z): `scratchpad/2026-11-13-aligni-bom-export/`.
 - Reconciliation: [boms/reconciliation.md](boms/reconciliation.md). Every source, with where and how it was read: [boms/data-sources.md](boms/data-sources.md). Plan: [boms/plan.md](boms/plan.md).
-- Headline findings: Aligni and Notion agree on 140 of 154 lines. The compute stack BOM in both lacks the Party HAT, both bridges and several smaller parts. PCBAs, all V4 hardware and the install packs have no Aligni BOM. Six decisions are listed at the end of `reconciliation.md`.
+- Headline findings: Aligni and Notion agree on 140 of 154 lines. The compute stack BOM in both lacks the Party HAT, both bridges and several smaller parts. PCBAs, all V4 hardware and the install packs have no Aligni BOM. The authoritative install-pack BOM is ByTechs' sheet (`1zJsQbjP5G1RWWix71tEEHoSLD9x1BxvTSdU-K7LZTec`), not Anthony's earlier one. Six decisions are listed at the end of `reconciliation.md`.
 
 ## Next
 
-1. Get answers to the decisions in `reconciliation.md` (reflector part and count, compute-stack antennas, enclosure pins and seals, V4 install packs, part numbers for PCBAs, install packs and V4, scope for V3.1 and Obelisk).
+1. Get answers to the decisions in `reconciliation.md` (reflector part and count, compute-stack antennas, install-pack base plus add-on structure, V4 install packs, part numbers for PCBAs, install packs and V4, scope for V3.1 and Obelisk).
 2. Apply the fixes to a corrected BOM set in the workspace (not to Aligni), adding BOMs for the missing items from KiCad, Notion and the install-pack sheet.
 3. Convert to Katana's BOM import template and plan the import.
 
