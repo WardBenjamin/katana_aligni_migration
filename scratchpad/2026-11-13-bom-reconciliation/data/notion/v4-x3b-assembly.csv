@@ -1,0 +1,16 @@
+Part Name,Part Number - Internal,Part Number,Quantity Per Unit,Supplier,Links,Cost,Min Quantity Per Purchase,Cost Per Unit,Notes,Part Number - Mfg,Notion URL
+M3x10mm Thread-Forming Screws for Plastic,,96817A322,12,McMaster,https://www.mcmaster.com/96817A322/,11.83,100,,Mounting sensor interposer X1 to plastic PCB housing and attaching LiDAR mounting bracket to housing.,,https://app.notion.com/p/3c2dcb3d06b280398bbef65de79d74a9
+M3x8mm Socket Head Machine Screws,,91292A112,7,McMaster,https://www.mcmaster.com/91292A112/,7.11,100,,For mounting plastic PCB housing to the bollard coupler and LiDAR mounting bracket to LiDAR,,https://app.notion.com/p/3c2dcb3d06b280cdbf6de137b75344c1
+#10 3/4” Tamper-Resistant Torx Flat Head Drilling Screws,,94625A423,18,,https://www.mcmaster.com/94625A423/,15.52,50,,For mounting all tube sections of the bollard stack,,https://app.notion.com/p/3c2dcb3d06b2807cae85c305126304d9
+Seyond D1R LiDAR,,,1,,,800,1,,,,https://app.notion.com/p/3c3dcb3d06b280ce85a4f55284e2cce0
+Bollard Coupler,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Bollard%20Base%20Coupler.step,,,,,,https://app.notion.com/p/3c3dcb3d06b280e99c21d9d073404930
+Bollard Extension Tube,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Bollard%20Extension%20Pipe.step,,,,,,https://app.notion.com/p/3c3dcb3d06b280bf8e5dc8a021155271
+LiDAR Housing Mounting Tube,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/LiDAR%20Housing%20Mounting%20Tube.step,,,,,,https://app.notion.com/p/3c3dcb3d06b280a1888ee8601e12f6e0
+RJ12 Cable (8ft),Existing part - put reference here,,1,,,,,,,,https://app.notion.com/p/3c3dcb3d06b2808aa911c3a96945da9b
+RJ45 Cable (8ft),,,1,,,,,,,,https://app.notion.com/p/3c3dcb3d06b28009985fc837004703dd
+M12 17P M-F Cable (1m),,MSAS17ML-SASFL-SB001,1,,https://www.mouser.com/en/ProductDetail/523-AS17MLSASFLSB001,61.17,1,,,,https://app.notion.com/p/3c3dcb3d06b280b1900bebb58044538a
+LiDAR Housing,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Hummingbird%20Enclosure%20X3B%20-%20Main%20Housing%20Mount.step,,1,,,,https://app.notion.com/p/3c3dcb3d06b280beae71e53209cb405a
+LiDAR Mounting Bracket,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Hummingbird%20Enclosure%20X3B%20-%20D1R%20Mount%20w-%20Heatsink%20Clamp.step,,1,,,,https://app.notion.com/p/3c3dcb3d06b28092b727c3659617d12f
+LiDAR Housing Top Hood,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Hummingbird%20Enclosure%20X3B%20-%20Top%20Hood.3mf,,1,,,,https://app.notion.com/p/3c3dcb3d06b280538b1ae5d2c5bd919e
+LiDAR Gasket,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Hummingbird%20Enclosure%20X3B%20-%20Lens%20Gasket.step,,1,,,,https://app.notion.com/p/3c3dcb3d06b280519232ee7974bbf2ae
+Coupler PCB Mounting Bracket,,,1,,https://github.com/airgarage/tripwire-mcad/blob/main/V4-release/X3B-release/CAD%20Files/Coupler%20PCB%20Mount%20and%20Cable%20Shield.step,,,,,,https://app.notion.com/p/3c3dcb3d06b280afb348c98f877c36de

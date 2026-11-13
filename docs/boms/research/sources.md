@@ -1,0 +1,115 @@
+# Sources
+
+- Tripwire Home — https://app.notion.com/p/0afdeb167ec24c0a82661e860449cfa0 — read 2026-11-13
+- vπ Compute Stack — https://app.notion.com/p/2a2dcb3d06b28056be62fa9b1aa03f2d — read 2026-11-13
+- vπ Camera — https://app.notion.com/p/2f5dcb3d06b2803ca07fd4033314b01d — read 2026-11-13
+- vπ Sensor Bar — https://app.notion.com/p/33ddcb3d06b280e08303dd10b52f4ac2 — read 2026-11-13
+- vπ Sensor Enclosure — https://app.notion.com/p/36edcb3d06b28090be34e1045b392cde — read 2026-11-13
+- Wall Mount Dual Camera — https://app.notion.com/p/3b3dcb3d06b2805e91beda3c2a1d95b7 — read 2026-11-13
+- Bollard Mount Dual Camera Manufacturing Package — https://app.notion.com/p/30ddcb3d06b2804e89f5d2cc690a7bae — read 2026-11-13
+- SOP: Tripwire vπ Assembly — https://app.notion.com/p/2cddcb3d06b28015933cf371470c13fa — read 2026-11-13
+- View of vπ Compute Stack (CS3-001-000) BoM (linked view on SOP page) — https://app.notion.com/p/2cddcb3d06b28059bd91ddd9bcef0cf5 — read 2026-11-13
+- Tripwire V3.1 BoM — https://app.notion.com/p/299dcb3d06b28079a42fe3b0cd846ddc — read 2026-11-13
+- View of BoM (V3.1 Camera Assembly BoM, linked view) — https://app.notion.com/p/299dcb3d06b280a28836e86935f844ce — read 2026-11-13
+- View of BoM (V3.1 Sensor Bar Assembly BoM, linked view) — https://app.notion.com/p/299dcb3d06b28012bde3e8073126c8f7 — read 2026-11-13
+- View of Compute Stack BoM (V3.1, linked view) — https://app.notion.com/p/29bdcb3d06b280e78ff5eb5d511756ec — read 2026-11-13
+- vπ Compute Stack (CS3-001-000) BoM rows — collection://2a8dcb3d-06b2-8175-a573-000bb4a5faf4 — read 2026-11-13
+- 0.91” OLED Display (row page, CS3-001-000) — https://app.notion.com/p/2b5dcb3d06b28058bd45e4be15e693e3 — read 2026-11-13
+- vπ Compute Stack Kit BoM — https://app.notion.com/p/33ddcb3d06b2802db1dec699ade71125 (collection://33ddcb3d-06b2-810d-8668-000b3a50727d) — read 2026-11-13
+- vπ Dual Camera Module (PIC-001-000) BoM — https://app.notion.com/p/2f5dcb3d06b280f3a3a1d4431b4bcecb (collection://2f5dcb3d-06b2-8145-a714-000b9fbad53f) — read 2026-11-13
+- vπ Single Camera Module (PIC-002-000) BoM — https://app.notion.com/p/33ddcb3d06b280c08c6ee3ef3f335672 (collection://33ddcb3d-06b2-81f1-8f5d-000be7a351d6) — read 2026-11-13
+- vπ Round Bollard Mount (PIC-003-000) BoM — https://app.notion.com/p/33ddcb3d06b280398c37f9686f20d5b1 (collection://33ddcb3d-06b2-815b-b84c-000b74bc8f76) — read 2026-11-13
+- vπ Square Bollard Mount (PIC-004-000) BoM — https://app.notion.com/p/33ddcb3d06b2805bb8d7c8edd8c5df6e (collection://33ddcb3d-06b2-81ac-978c-000b56c6848b) — read 2026-11-13
+- vπ Wall Mount (PIC-005-000) BoM — https://app.notion.com/p/33ddcb3d06b280309cace4e2098b5f8f (collection://33ddcb3d-06b2-8158-a88f-000b2c5a40fe) — read 2026-11-13
+- vπ Round Bollard Dual Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b280ab908cd9e7254a2734 (collection://33ddcb3d-06b2-81d9-9750-000baeb951a6) — read 2026-11-13
+- vπ Square Bollard Dual Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b280e09cc2d8ac806afe0c (collection://33ddcb3d-06b2-8138-8e78-000b11b7d673) — read 2026-11-13
+- vπ Wall Mount Dual Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b2803ab234e03547fc0bef (collection://33ddcb3d-06b2-812c-866b-000b44aa76de) — read 2026-11-13
+- vπ Round Bollard Single Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b2808aad68c8871c68c7bf (collection://33ddcb3d-06b2-8183-b3e6-000b430ae5d4) — read 2026-11-13
+- vπ Square Bollard Single Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b280e493d0fec6d0255fea (collection://33ddcb3d-06b2-8100-9f45-000ba8541fca) — read 2026-11-13
+- vπ Wall Mount Single Cam Kit BoM — https://app.notion.com/p/33ddcb3d06b28015b4cbc9f1dec1321a (collection://33ddcb3d-06b2-8116-86d8-000b5ad12bdd) — read 2026-11-13
+- vπ Sensor Bar (SEN2-001-000) BoM — https://app.notion.com/p/33ddcb3d06b281988bc2f872cd740ee8 (collection://33ddcb3d-06b2-817e-8e0f-000b828bc44f) — read 2026-11-13
+- vπ Sensor Retroreflector (SEN2-002-000) BoM — https://app.notion.com/p/33ddcb3d06b280989ef9edf9c57b4d98 (collection://33ddcb3d-06b2-811e-a6fc-000ba3c42e5f) — read 2026-11-13
+- vπ Sensor Retroreflector (SEN2-002-000) BoM (1) — https://app.notion.com/p/36edcb3d06b28053aed3cb8307958cf0 (collection://36edcb3d-06b2-80e5-882f-000b1d171610) — read 2026-11-13
+- vπ Sensor Enclosure (SEN2-003-000) BoM — https://app.notion.com/p/38edcb3d06b280cb9fcef3cdc80fc7ff (collection://f19dcb3d-06b2-8239-9c0b-874d2f27ac16) — read 2026-11-13
+- vπ TB Sensor Bar Kit (SEN2-TB-Kit) BoM — https://app.notion.com/p/33ddcb3d06b280489a18d0d12ab1b564 (collection://33ddcb3d-06b2-8109-bac3-000b87b32a89) — read 2026-11-13
+- vπ RR Sensor Bar Kit (SEN2-RR-Kit) BoM — https://app.notion.com/p/33ddcb3d06b28007ac1be87bdedf11ce (collection://33ddcb3d-06b2-8190-b816-000b360d7f41) — read 2026-11-13
+- repos/tripwire-ecad/README.md@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/README.md@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat/party-hat.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat/party-hat.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat/party-hat.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-bar-io-breakout/sensor-bar-io-breakout.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-bar-io-breakout/sensor-bar-io-breakout.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-bar-io-breakout/sensor-bar-io-breakout.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/bollard-interposer-board/bollard-interposer-board.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/bollard-interposer-board/bollard-interposer-board.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/bollard-interposer-board/bollard-interposer-board.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/bollard-interposer-board/bollard-interposer-board.kicad_pcb@a9e4165 — read 2026-11-13
+- repos/tripwire-ecad/bollard-interposer-board/bollard-interposer-board_BOM.xlsx@beebfee — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/party-hat-usb-bridges.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/party-hat-usb-bridges.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/party-hat-usb-bridges.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/hat-usb-bridge.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/hat-usb-bridge.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/hat-usb-bridge.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/modem-bridge.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat-usb-bridges/modem-bridge.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev1/src/tripwire-v3.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev1/src/tripwire-v3.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev1/src/tripwire-v3.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev1/outputs/tripwire-BOM.csv@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/outputs/tripwire-BOM.csv@7ccb6ac — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/src/tripwire-v3.kicad_sch@7ccb6ac — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev2/src/combined-sensor-board.kicad_pro@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev2/src/combined-sensor-board.kicad_sch@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev2/src/combined-sensor-board.kicad_pcb@81160fe — read 2026-11-13
+- repos/tripwire-ecad/sensor-board/rev2/outputs/tripwire-rev2-bom.csv@81160fe — read 2026-11-13
+- repos/tripwire-ecad/party-hat/party-hat.kicad_sch@a6baf8a (origin/monti/hw-892-add-side-mount-led-to-the-sensor-interposer-pcb) — read 2026-11-13
+- repos/tripwire-ecad/compute-stack-bollard-interface/compute-stack-bollard-interface.kicad_sch@88d20a6 — read 2026-11-13
+- repos/tripwire-ecad: git log --all --name-status (every path and commit, all branches; file lists of every committed .zip) — read 2026-11-13
+- BoM (V3.1 camera; source of the "Camera Assembly BoM" view) — https://app.notion.com/p/1bcdcb3d06b28040bc4cf6e2bf9d344b (collection://1bcdcb3d-06b2-80a3-8f40-000be4417ee4) — read 2026-11-13
+- BoM (V3.1 sensor bar; source of the "Sensor Bar Assembly BoM" view) — https://app.notion.com/p/1ebdcb3d06b280c38593d858644168c3 (collection://1ebdcb3d-06b2-809a-a0ca-000b125aa95e) — read 2026-11-13
+- Compute Stack BoM (V3.1; source of the "Compute Stack BoM" view) — https://app.notion.com/p/299dcb3d06b28075bea3f483a029cff8 (collection://299dcb3d-06b2-81aa-9fae-000bb92c9964) — read 2026-11-13
+- Rear Housing Gasket (row page, V3.1 camera BoM) — https://app.notion.com/p/216dcb3d06b280b89913ccc4c49b2734 — read 2026-11-13
+- 22AWG Ferrules (row page, V3.1 sensor bar BoM) — https://app.notion.com/p/33bdcb3d06b280dc81b8d6ef4ba12edd — read 2026-11-13
+- Party HAT X2B (row page, V3.1 compute stack BoM) — https://app.notion.com/p/299dcb3d06b28047b8f3d445a1495ccc — read 2026-11-13
+- V4 X3B BoM — https://app.notion.com/p/3c0dcb3d06b2804ea759f49224c82a4f — read 2026-11-13
+- V4 X3B Manufacturing BoM — https://app.notion.com/p/3c2dcb3d06b28020a123e1894ff89373 (collection://342dcb3d-06b2-8244-9c93-07762aae2bf3) — read 2026-11-13
+- V4 X3B Powder Coating BoM — https://app.notion.com/p/3c2dcb3d06b280f48b11ccbec158cb24 (collection://9d2dcb3d-06b2-8347-9cc0-87152c8a7e46) — read 2026-11-13
+- V4 X3B Assembly BoM — https://app.notion.com/p/3c2dcb3d06b2803f82b8eb5f938b877e (collection://450dcb3d-06b2-8209-a793-0795ab94075b) — read 2026-11-13
+- V4 Sensor Install Kit BoM — https://app.notion.com/p/3f0dcb3d06b28127ac28ce13354bea62 — read 2026-11-13
+- V4 Sensor Kit BoM — https://app.notion.com/p/001212f48c6e41508dec256b6a975aab (collection://a3f53fcc-7a37-4b05-845b-389f8f115d4e) — read 2026-11-13
+- V4 X4B Assembly SOP and BoM — https://app.notion.com/p/3cedcb3d06b2800c86ebfb6ea25181f6 — read 2026-11-13
+- V4A Machining BoM — https://app.notion.com/p/3d6dcb3d06b28069acd4c0f081f20561 (collection://988dcb3d-06b2-82b2-ba2e-870c16c8e70d) — read 2026-11-13
+- V4A LiDAR Assembly BoM — https://app.notion.com/p/3d6dcb3d06b28031987cf6652a8a789a (collection://263dcb3d-06b2-83f0-9669-875032b7b548) — read 2026-11-13
+- X4A Sensor Interposer PCB — https://app.notion.com/p/3d6dcb3d06b280b09443e0027220c098 (collection://fcfdcb3d-06b2-824c-8916-8716c9d898d0) — read 2026-11-13
+- Standard Deployment Kit — https://app.notion.com/p/1c0dcb3d06b280e58948d1f539d06b11 — read 2026-11-13
+- Hardware Stock — https://app.notion.com/p/26fdcb3d06b280099819fe5f327750dc — read 2026-11-13
+- Engineering Change Notices — https://app.notion.com/p/31edcb3d06b280b1b6b9f074d6c84b0d — read 2026-11-13
+- Purchasing Documentation — https://app.notion.com/p/33cdcb3d06b28099b2cbff18af5d7ad9 — read 2026-11-13
+- Notion search "BoM" (25 results) — Notion MCP search — read 2026-11-13
+- Notion search "bill of materials" (25 results) — Notion MCP search — read 2026-11-13
+- Notion search "kit BoM" (20 results) — Notion MCP search — read 2026-11-13
+- Notion search "assembly BoM" (20 results) — Notion MCP search — read 2026-11-13
+- V4 LiDAR X1/X2 Documentation — https://app.notion.com/p/3a4dcb3d06b280e49706cafb071e3410 — read 2026-11-13
+- X1 BoM — https://app.notion.com/p/3a4dcb3d06b28007b1c2db40fd33782d (collection://974dcb3d-06b2-822b-b603-078eaaa72c46) — read 2026-11-13
+- X2 BoM — https://app.notion.com/p/3a4dcb3d06b2801a8963d8d7683d1669 (collection://4aedcb3d-06b2-83e4-879d-8709a7a1aa0a) — read 2026-11-13
+- SixFab LTE Kit BOM — https://app.notion.com/p/233dcb3d06b28044b798e5c47ec86680 (collection://233dcb3d-06b2-80b1-907d-000b4870bf52) — read 2026-11-13
+- Materials Inventory (OLD, v2) — https://app.notion.com/p/b191225853dd4b05845b207fa9ae5b43 (collection://91655b71-cc5f-46a0-846c-eed4ae4d8ad2) — read 2026-11-13
+- Meta: Menlo Park Installation Notes (search within page) — https://app.notion.com/p/203dcb3d06b280d39bb1f82db1d7e594 — read 2026-11-13
+- BoM Table (Meta Menlo Park) — https://app.notion.com/p/206dcb3d06b2803e9e6afd66efe81c5b (collection://206dcb3d-06b2-8005-a1a1-000bc7e2a7d7) — read 2026-11-13
+- Tripwire vπ Assembly SoP (older copy, no parent) — https://app.notion.com/p/2cddcb3d06b2800686a9ee2f259aec49 — read 2026-11-13
+- View of vπ Compute Stack (CS3-001-000) BoM (on the older SoP copy) — https://app.notion.com/p/2cddcb3d06b28064bcd4de87394bd4a1 — read 2026-11-13
+- V4 X3B Assembly SOP — https://app.notion.com/p/3c0dcb3d06b280a58518e29d3ee6aac6 — read 2026-11-13
+- Procurement Handoff (meeting notes, 2026-04-07) — https://app.notion.com/p/33bdcb3d06b280a68278f9e9aaf5ede1 — read 2026-11-13
+- Inventory Check-In (weekly), 2026-05-06 (search within page) — https://app.notion.com/p/358dcb3d06b2801098bee1938ab38e4c — read 2026-11-13
+- Ben / Britney, 2026-10-27 (search within page) — https://app.notion.com/p/406dcb3d06b2816da8fed8d0b74e4fb0 — read 2026-11-13
+- AirGarage / ByTechs / Aligni, 2026-04-10 (search within page) — https://app.notion.com/p/33edcb3d06b2800c86e3fe9ab37e509e — read 2026-11-13
+- Benjamin / Britney, 2026-03-09 (search within page) — https://app.notion.com/p/31edcb3d06b280288145e96ba5b82b90 — read 2026-11-13
+- Hardware Ops - Team Syncs (search within page) — https://app.notion.com/p/2abdcb3d06b280248c64c69baccbb7c2 — read 2026-11-13
+- Notion search for vπ BoM database timestamps — Notion MCP search — read 2026-11-13
+- Contract Manufacturing (ByTechs LLC) (search within page) — https://app.notion.com/p/29adcb3d06b2807cbdeded7bdc00f050 — read 2026-11-13
+- X3 Documentation (search within page, no hits) — https://app.notion.com/p/3aedcb3d06b280598941d53dd0653fab — read 2026-11-13
+- Tripwire Manufacturing Batch Info (search within page, no hits) — https://app.notion.com/p/1f8dcb3d06b280bf9a81dd390a82ff68 — read 2026-11-13
+- SQL checksums (COUNT, SUM of quantities/costs, SUM of text lengths) on CS3-001-000, X4A Sensor Interposer PCB, Materials Inventory (OLD, v2), V3.1 camera "BoM" — Notion MCP query-data-sources, sql mode — read 2026-11-13
+- Sensor Interface PCB v2.1 (row page, Materials Inventory (OLD, v2); checked ancestor path) — https://app.notion.com/p/092e46d00dec476b8293ca9497df1c35 — read 2026-11-13

@@ -1,0 +1,8 @@
+Name,Part Number,SixFab Link,SixFab Cost,Alt Vendor Link,"Alt Vendor Cost @ min(100, MOQ)",Unit Cost Delta,Notion URL
+Main LTE/GNSS Antenna,Pulse W3906B0100,,8.5,https://www.mouser.com/ProductDetail/Pulse-Electronics/W3906B0100?qs=pfd5qewlna5HIl%2F39ymRrw%3D%3D,4.09,,https://app.notion.com/p/233dcb3d06b2806d9c55c11161ff4c49
+Diversity LTE Antenna,Antenova SRFL029-100,https://sixfab.com/product/lte-full-band-pcb-antenna-u-fl-plug-100mm/,7.9,www.mouser.com/ProductDetail/Antenova/SRFL029-100?qs=3XDNXcEWTLhuhx67X%252BZ1Mw%3D%3D,2.86,,https://app.notion.com/p/233dcb3d06b2801f907ef44b37dca16a
+SixFab HAT,SixFab,https://sixfab.com/product/raspberry-pi-base-hat-3g-4g-lte-minipcie-cards/,45,Not Applicable,45,,https://app.notion.com/p/233dcb3d06b280dc83d6d180b5945908
+LTE Modem,Quectel EG25-G/EG25-GL,https://sixfab.com/product/quectel-ec25-mini-pcie-4g-lte-module/,65,Eagle Electronics I425-GL,30,,https://app.notion.com/p/233dcb3d06b280b0bad2ecdd6d6fd783
+SIM Card,SixFab/Other Carrier SIM,https://sixfab.com/product/connect-sim-card-for-iot-projects/,3,Hologram/Onomondo SIM,3,,https://app.notion.com/p/233dcb3d06b280f8ade6e465cb08bda9
+40-pin Stacking Header,,,,,,,https://app.notion.com/p/233dcb3d06b280a3bc18f15ac79f6d09
+LTE Discount Code,Code included in SixFab LTE Kit Only,https://sixfab.com/product/raspberry-pi-4g-lte-modem-kit/,-25,,,,https://app.notion.com/p/233dcb3d06b280f592cadda0de3dc086

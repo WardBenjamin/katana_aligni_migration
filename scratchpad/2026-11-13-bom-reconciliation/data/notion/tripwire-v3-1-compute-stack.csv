@@ -1,0 +1,19 @@
+Part Name,Part Number - Mfg,Part Number,Quantity Per Unit,Supplier,Links,Cost,Min Quantity Per Purchase,Cost Per Unit,Notes,Notion URL
+M2.5 14mm F-F Standoff,952-3964-ND,,4,Digikey (Harwin Inc.),https://www.digikey.com/en/products/detail/harwin-inc/R25-1001402/3924434,0.6,1,,,https://app.notion.com/p/299dcb3d06b280749da4e519641b3c97
+M2.5 5mm+5mm F-M Standoff,952-3456-ND,,4,Digikey (Harwin Inc.),https://www.digikey.com/en/products/detail/harwin-inc/R25-3000502/3924440,0.92,1,,,https://app.notion.com/p/299dcb3d06b2801ca9dbcb6b6c8a0456
+M2.5 12mm+5mm F-M Standoff,732-12925-ND,,2,Digikey (Wurth Elektronik),https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/971120154/9488629,0.85,1,,,https://app.notion.com/p/299dcb3d06b2802fb45cec40827e33c6
+M2.5 15mm+5mm F-M Standoff,AE10792-ND,,4,Digikey (Assmann WSW),https://www.digikey.com/en/products/detail/assmann-wsw-components/V6622E/3511510,0.45,1,,,https://app.notion.com/p/299dcb3d06b28045ad21c2e05da61a22
+M2.5 20mm+5mm F-M Standoff,952-R25-3002002-ND,,3,Digikey (Harwin Inc.),https://www.digikey.com/en/products/detail/harwin-inc/R25-3002002/16511019,1.27,1,,,https://app.notion.com/p/299dcb3d06b280488d9bf1af8a5612b3
+M2.5 10mm+5mm F-M Standoff,732-12917-ND,,2,Digikey (Wurth Elektronik),https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/971100154/9488621,0.57,1,,,https://app.notion.com/p/299dcb3d06b280ba91abe6276458980c
+M2.5 5mm Flathead Screw,91263A421,,7,McMaster,https://www.mcmaster.com/catalog/131/3485/91263A421,7.86,50,,,https://app.notion.com/p/299dcb3d06b280169df7dcb835f6fb3e
+Antenna Wing Plastic,N/A,COM4-001-011_AntBracket,1,In house,,0,1,,,https://app.notion.com/p/299dcb3d06b2807d806df10e63386ef4
+Upper Housing Plastic,N/A,COM4-001-010_HousingA,1,In house,,0,1,,,https://app.notion.com/p/299dcb3d06b280d6ab9dfb160272c994
+Lower Housing Plastic,N/A,COM4-001-009_HousingB,1,In house,,0,1,,,https://app.notion.com/p/299dcb3d06b280a2b276dc32be6c9d64
+Raspberry Pi 5 (16GB),SC1113,COM4-001-008_RPI516GB,1,MakerBright,https://makerbright.com/products/raspberry-pi-5-16gb?variant=45087729877170,118.5,1,,,https://app.notion.com/p/299dcb3d06b280629673de56fb320db8
+Raspberry Pi 5 Active Cooler,SC1148,COM4-001-002_RPiCooler,1,MakerBright,https://makerbright.com/products/raspberry-pi-5-active-cooler?variant=44696849219762,,,,,https://app.notion.com/p/299dcb3d06b28098a2d4cba3693cd686
+Sixfab 4G LTE HAT Kit,B54,COM4-001-007_Sixfab4G,1,Sixfab,https://sixfab.com/product/raspberry-pi-4g-lte-modem-kit/,125,1,,,https://app.notion.com/p/299dcb3d06b280599b80f67686a7174e
+Super Watchdog V9,SUPER-WATCHDOG-V9,COM4-001-006_SWDv9,1,SequentMicrosystems,https://sequentmicrosystems.com/products/super-watchdog-hat-with-battery-backup-for-raspberry-pi?srsltid=AfmBOorR9dnLJ0PUNBOQnZlkpnBrL7xmpw2PVhJDjunX8AWGut8EsmCJ,45,1,,,https://app.notion.com/p/299dcb3d06b280419351d6d34779122f
+Party HAT X2B,N/A,COM4-001-005_PartyX2B,,ByTechs LLC (Chris Williamson),,31,1,,,https://app.notion.com/p/299dcb3d06b28047b8f3d445a1495ccc
+Molicel P30B Battery (18650),INR-18650-P30B,COM4-001-004_BattP30B,2,18650BatteryStore,https://www.18650batterystore.com/products/molicel-p30b-18650-3000mah-36a-battery?srsltid=AfmBOooYpB171Epicb_WCncEuDdGoOQ3YUlgf-2yLG20t17TFaZzzN6y,4.49,1,,,https://app.notion.com/p/299dcb3d06b280d5953df842d45b6bfe
+Samsung 256GB SD Card,MB-MJ256KA,COM4-001-003_SAM256G,1,Amazon,http://amazon.com/dp/B0B1J75QW2?ref=fed_asin_title,59.99,1,,,https://app.notion.com/p/299dcb3d06b280a7af87ec0526b0dd6a
+Hologram SIM Card,G3 (Global-3),COM4-001-001_HoloSIM,1,Hologram,https://hologram.io,2,1,,,https://app.notion.com/p/299dcb3d06b28073b001d969240ce820

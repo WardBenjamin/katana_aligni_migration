@@ -1,0 +1,31 @@
+Part Name,Manufacturer Part Number,Quantity Per Unit,Supplier,Links,Alternate Link,Cost,Min Quantity Per Purchase,Cost Per Unit,Notes,Part Number - Mfg,Internal Part Number,Notion URL
+M3x8mm Thread Forming Screw,95893A189,2,McMaster,https://www.mcmaster.com/95893A189/,,,,,,,EXT-95893A189,https://app.notion.com/p/33bdcb3d06b280c68dd9cc3b24ef5cb5
+M2 Hex Nut,90593A024,1,McMaster,https://www.mcmaster.com/90593A024/,,,,,,,EXT-90593A024,https://app.notion.com/p/36ddcb3d06b2800a9e86fa0cd84b14b6
+M2x20mm Socket Head Screw,91290A049,1,,https://www.mcmaster.com/91290A049/,,,,,,,EXT-91290A049,https://app.notion.com/p/36ddcb3d06b280e0a9c1ec076eee8dbe
+M2.5 40mm Socket Head Screw,91292A837,2,McMaster,https://www.mcmaster.com/91292A837/,,,,,,,EXT-91292A837,https://app.notion.com/p/33bdcb3d06b280f48be8c944072cd7c1
+M2.5 5mm Socket Head Screw,91292A009,6,McMaster,https://www.mcmaster.com/91292A009/,,,,,,,EXT-91292A009,https://app.notion.com/p/2a8dcb3d06b280bf9ad6c5b6f145a938
+M2.5 16mm M-F Standoff,732-10422-ND,2,Digikey (Wurth),https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/971160151/6174641,,,,,,,EXT-732-10422-ND,https://app.notion.com/p/2aedcb3d06b280b8969fdc72367ed988
+M2.5 10mm M-F Standoff,732-12917-ND,2,Digikey,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/971100154/9488621,,,,,,,EXT-732-12917-ND,https://app.notion.com/p/2aedcb3d06b280cc9cb6fef798ce3c06
+M2.5 14mm F-F Standoff,952-3964-ND,4,Digikey,https://www.digikey.com/en/products/detail/harwin-inc/R25-1001402/3924434,,,,,,,EXT-952-3964-ND,https://app.notion.com/p/2aedcb3d06b28082916cc6780cd53a86
+Thermal Pad,1168-TG-A1250-15-15-1.0-ND,1,Digikey,https://www.digikey.com/en/products/detail/t-global-technology/TG-A1250-15-15-1-0/11616896,,,,,For the vπ USB port header - prevents SWDv9 button short,,EXT-1168-TG-A1250-15-15-1.0-ND,https://app.notion.com/p/2aedcb3d06b2801e8d03ff77ce3ec24b
+vπ Display Bracket,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-006_PDisp,https://app.notion.com/p/33bdcb3d06b2805d84abc5acafd3fb2f
+vπ Antenna Wing - Left,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-004_WingLeft,https://app.notion.com/p/2c6dcb3d06b280209a2ff658e9626dfd
+vπ Antenna Wing - Right,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-005_WingRight,https://app.notion.com/p/33bdcb3d06b2807a8044fc302362582d
+vπ Antenna Wing - Base,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-003_WingBase,https://app.notion.com/p/33bdcb3d06b280caa952ce9d5f1f81a1
+vπ Case Body,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-001_CaseBody,https://app.notion.com/p/2c7dcb3d06b280e9917de07d892915ab
+vπ Case Faceplate,,1,AirGarage/ByTechs LLC,,,,,,,,CS3-001-002_Faceplate,https://app.notion.com/p/2cddcb3d06b2807d9e04dd3b4e1e8e6c
+SIM Card,G3-F,1,Hologram,Buy from our AE via email (not https://store.hologram.io/),,,,,,,EXT-G3-F,https://app.notion.com/p/2cddcb3d06b2809591cef86d5d868645
+Super Watchdog HAT v9,SM-I-003,1,Sequent Microsystems,https://sequentmicrosystems.com/products/super-watchdog-hat-with-battery-backup-for-raspberry-pi,,,,,,,EXT-SM-I-003,https://app.notion.com/p/2cddcb3d06b280efa2feea597fd48328
+LTE Modem,"I425-GL
+EG25-G",1,"Eagle Wireless (2026)
+Digikey (Quectel) (2025)",Eagle Wireless,https://www.digikey.com/en/products/detail/quectel/EG25GGB-MINIPCIE/13278349,,,,,,"EXT-I425-GL
+EXT-EG25-G",https://app.notion.com/p/2cddcb3d06b280c8b4bae73aa613553d
+Modem HAT,Sixfab 3G – 4G/LTE Base HAT for Raspberry Pi,1,SixFab,https://sixfab.com/product/raspberry-pi-base-hat-3g-4g-lte-minipcie-cards/?aelia_cs_currency=USD&utm_term=&utm_campaign=Performance+Max+%7C+US&utm_source=adwords&utm_medium=ppc&hsa_acc=6308888758&hsa_cam=15788293172&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1,,,,,,,EXT-SixFabLTEHAT,https://app.notion.com/p/2cddcb3d06b2806b8029cdc7d7a5b1e8
+Raspberry Pi 5 16GB,SC1113 / 9036-Pi5-16GB,1,MakerBright,,,,,,,,EXT-SC1113,https://app.notion.com/p/2cddcb3d06b280db86fccfd1aa94d326
+microSD Card,MB-MJ256KA/AM,1,Samsung,https://www.samsung.com/us/computing/memory-storage/memory-cards/pro-endurance-adapter-microsdxc-256gb-mb-mj256ka-am/,https://www.amazon.com/SAMSUNG-Endurance-MicroSDXC-Adapter-security/dp/B09WB3D5GQ,,,,,,EXT-MB-MJ256KA/AM,https://app.notion.com/p/2cddcb3d06b2804ebe74ed46d74e9e4f
+2x JST-XA to Ferrule cable,,,ByTechs,,,,,,,,CS3-001-007_PowerCab,https://app.notion.com/p/2cddcb3d06b280ed81edfe169e50c6d8
+0.91” OLED Display,14657,1,Waveshare,https://www.waveshare.com/0.91inch-oled-module.htm,,6.99,,,Find alternative supplier,,EXT-14657,https://app.notion.com/p/2b5dcb3d06b28058bd45e4be15e693e3
+JST-PH 4-Pin Cable,5623,1,Pololu,https://www.pololu.com/product/5623,https://www.amazon.com/Adafruit-Stemma-Cable-JST-PH-Cable-Female/dp/B07MSP563N/ref=sr_1_4?crid=EISL6W0WBVRU&dib=eyJ2IjoiMSJ9.K8_pgk3Ls6KkTBLTqehkWMxH218sgZVKa7f4KtnFgMo0T7BSk1J3gbVMzmglJnGvymYC0aKnqCiIOYy3tzN8ZF2I-F7irh2qkevApKEnvh3yZpAr7Fl-A_S05-kn_f5O-NN1mxKQglya3if9bR-jAa8NjPebX2o2TKVRaqsHaXOpplSdaOmOnHodgZP-SVpujUeBLQiGp9LJ8FeA8sHb1gKTv7lnJyn21pKeClV8UCs.TT78ilOLeZgQgf9hUnpGDP1cj6D1brvCBaDTNF-9kYM&dib_tag=se&keywords=jst-ph+stemma+cable&qid=1773417511&sprefix=jst-ph+stemma+cable+%2Caps%2C114&sr=8-4,2.33,1,,For OLED to PartyHAT Connection,,EXT-5623,https://app.notion.com/p/322dcb3d06b280a7aea0f20c4a977fa6
+12pos 0.5mm 1.18” FFC,2073-05-12-A-0030-A-4-06-4-T-ND,1,DigiKey (GCT),https://www.digikey.com/en/products/detail/gct/05-12-A-0030-A-4-06-4-T/21266355,,,,,,,EXT-2073-05-12-A-0030-A-4-06-4-T-ND,https://app.notion.com/p/2aedcb3d06b280c9929efff36d20a5ed
+Pulse Electronics LTE + GPS Antenna,W3906B0100,1,Mouser (Pulse Electronics),https://www.mouser.com/ProductDetail/673-W3906B0100,,,,,,,EXT-W3906XXXX,https://app.notion.com/p/33bdcb3d06b2801a8d5be467ced07eb7
+Antenova LTE + Cellular Antenna,SRFL029-100,1,Mouser (Antenova),https://www.mouser.com/ProductDetail/237-SRFL029-100,,,,,,,EXT-SRFL029,https://app.notion.com/p/33bdcb3d06b280b69ce8e2c8fdc7195d

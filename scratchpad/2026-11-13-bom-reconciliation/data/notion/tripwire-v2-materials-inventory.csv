@@ -1,0 +1,43 @@
+Part Name,Brand,Brand Sensitive,Quantity Req. per Unit,Itemized Cost ($),Cost per Unit,Est. Lead Time (days),Purchase Link,Quantity Available (SF),Quantity Available (DC),Buildable Units (SF),Buildable Units (DC),Date,Tags,Notes,Notion URL
+E3Z-T61 3-wire Sensor,Omron,Yes,2,11,,16,https://www.ebay.com/itm/385665981136,10,18,,,,,,https://app.notion.com/p/075a5d5b9fcd4025805d083ee7423e28
+E3Z-T61 2-wire Sensor,Omron,Yes,2,11,,16,https://www.ebay.com/itm/385665981136,10,18,,,,,,https://app.notion.com/p/2288a7dad5e14bd389a39b958925f0f2
+Solo Bar v9,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1rbhibcPAHVIiCmQZtqDU-tYySsKi1UnC/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/36e47302d8d24699b59e0852487bd80e
+Primary Bar v5,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1hRJ8Pdwn9KieSAzqmnELlWuWLSLQV-Ri/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/09548b705d7e4faeb1e2da0e8da8c05a
+Hood Left v7,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1S8eNBHn2BwtQDW8zptDjOXRxTx39oYVv/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/710b1c4067904f119a93887451ebaf74
+Hood Right v7,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1yWWqmwc2VXYeGtbiNa7j7_wpz7LodYRS/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/80883522505d4322b96de2d131949363
+Rotation Arm Mount A v2,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1vd54uQ7VWUscRq191vI1lD9KYT2rwfc_/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/1c659dc74c814ef3a9d9094b6701ecdf
+Rotation Arm Mount B v3,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1T3-rmaWlQSn7L_tnEYjg45erbe5YWgqV/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/8877e0f32fca43319687f8da87a25e6e
+Mount Backplate v3,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1TxJzUIIxcOp2URz07kkoQbozWXkrvf42/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/48e0528650c24329a9709f69c301854d
+Cradle Mount v5,3D Printed,No,2,1,,1,https://drive.google.com/file/d/1YOEhMNw5gFkSEVBEMKxBxVhPAIf-UELV/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/d54d4c2d77594ad28a94a37a3ca5834c
+Bucket v7,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1JOBeTtukjCa-qqDrEbpb8bUJx__yOyyy/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/a10818433c76498dab08b99cb2b0e0f1
+Bucket Placement Board v3,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1u5cqADLaKMeLFkng0XqgS46hz-oc-p4G/view?usp=drive_link,0,3,,,,,,https://app.notion.com/p/5ffb8023c5c246c2b7907433b961f1ba
+Bucket Lid v5,3D Printed,No,1,1,,1,https://drive.google.com/file/d/13-oo_lh3IuPEN9mSCRh_-c_A1JwUMNJV/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/35331923c2d346189103dd15bc1afe09
+ELP Camera Mount v4,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1hYq9htHjtKFp3-zr_Icl6e3fugMqZfWA/view?usp=drive_link,0,0,,,,,,https://app.notion.com/p/8bd7f11d01164382903a36344ddd9545
+Hinge Grip Surface v1,3D Printed,No,1,1,,1,https://drive.google.com/file/d/1CMl0p91SHcJPZVtBDRsnOwPLuC6ySNLG/view?usp=drive_link,0,10,,,,,,https://app.notion.com/p/947d9b5e12b8464ab609625a2f73474e
+Locking Hinge,Antrader,Yes,1,5,,3,https://www.amazon.com/dp/B07GX8LQCX?psc=1&ref=ppx_yo2ov_dt_b_product_details,2,2,,,,,,https://app.notion.com/p/9dcd2585dae9426d9c93ecc4c322fa42
+Weatherproof Electrical Case,Migro,No,1,23,,3,https://www.amazon.com/dp/B08M46JVXJ?psc=1&ref=ppx_yo2ov_dt_b_product_details,1,2,,,,,,https://app.notion.com/p/619fce598ff8410b8c5968f7466339e9
+Sixfab LTE Hat,Sixfab,Yes,1,135,,3,https://www.amazon.com/dp/B089X8N2TY?psc=1&ref=ppx_yo2ov_dt_b_product_details,1,0,,,,,,https://app.notion.com/p/84d2cebe11fd4526aad9839d8e1469ba
+Raspberry Pi 3B+,Raspberry Pi,Yes,1,60,,2,https://www.amazon.com/dp/B07BDR5PDW?psc=1&ref=ppx_yo2ov_dt_b_product_details,2,1,,,,,,https://app.notion.com/p/dc5c88f6ccc14198b6548b92787ebfd3
+32GB MicroSD,MicroCenter,No,1,5,,3,https://www.amazon.com/dp/B07K7Z8FJ1?psc=1&ref=ppx_yo2ov_dt_b_product_details,2,9,,,,,,https://app.notion.com/p/3245316709ca4672a21bb69ad7ed0f26
+12V to 5V Buck Converter,UCTRONICS,Yes,1,8,,3,https://www.amazon.com/dp/B07XXWQ49N?psc=1&ref=ppx_yo2ov_dt_b_product_details,3,7,,,,,,https://app.notion.com/p/14f939d949a1455498019c677be77034
+Solar Panel Battery,Winghome,Yes,1,60,,3,https://www.amazon.com/dp/B087QFT9DW?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,8,,,,,,https://app.notion.com/p/cc12585d84414becb2b568ebe1dfb273
+9V 2A DC Power Supply,Winghome,No,1,0,,3,https://www.amazon.com/gp/aw/d/B09JMTF95B?psc=1&ref=ppx_pop_mob_b_asin_title,0,2,,,,,Purchase link needs update,https://app.notion.com/p/d1f0c9ce63284f8e8c193f4a6937e881
+1000 Ohm Resistor,EDGELEC,No,0,0,,2,https://www.amazon.com/dp/B07WHQMDTV?psc=1&ref=ppx_yo2ov_dt_b_product_details,100,0,,,,,Discontinued,https://app.notion.com/p/005ba34c45f748a3a7f1f9e9d06514b3
+M4 x 14mm Hex Bolt,Monster Bolts,No,14,0,,8,https://www.amazon.com/dp/B09TPZ4BRC?ref=ppx_yo2ov_dt_b_product_details&th=1,0,50,,,,,,https://app.notion.com/p/9f6b15c426174bab8085be1a2eef6f22
+M4 x 10mm Hex Bolt,Monster Bolts,No,4,0,,8,https://www.amazon.com/dp/B079R7C9SL?ref=ppx_yo2ov_dt_b_product_details&th=1,0,100,,,,,,https://app.notion.com/p/ba95b8071d994fceb057fc92c78cf02f
+M3 x 20mm Hex Bolt,Monster Bolts,No,8,0,,8,https://www.amazon.com/dp/B00W97KM4G?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,50,,,,,,https://app.notion.com/p/63665b5879b34492b5b80d2f8fe81779
+DC Pigtail Cable Male,MILAPEAK,No,1,1,,2,https://www.amazon.com/dp/B072BXB2Y8?psc=1&ref=ppx_yo2ov_dt_b_product_details,3,36,,,,,,https://app.notion.com/p/10c4e7cb92dd4ebab2e5e243eca234ca
+DC Pigtail Cable Female,MILAPEAK,No,2,1,,2,https://www.amazon.com/dp/B072BXB2Y8?psc=1&ref=ppx_yo2ov_dt_b_product_details,3,11,,,,,,https://app.notion.com/p/bc536bc86c394a6e9fd3160534cc5a2b
+4.0x1.7mm F to 5.5x2.1mm M Power Adaptor,MEIRIYFA,No,1,2,,2,https://www.amazon.com/dp/B09PQB97RG?psc=1&ref=ppx_yo2ov_dt_b_product_details,8,25,,,,,,https://app.notion.com/p/e712c3f567564dd09ae9d59ca5544a53
+USB to MicroUSB 6-inch Cable,ULIFTUS,No,1,2,,3,https://www.amazon.com/SUNGUY-Braided-Charging-Samsung-Android/dp/B0BHNVLW1Z/ref=sr_1_3?crid=P0F8B9K4LQR5&keywords=usb%2Bmicro%2Bto%2Ba%2Bcable%2B6%2Binch&qid=1701215450&s=electronics&sprefix=usb%2Bmicro%2Bto%2Ba%2Bcable%2B6%2Binch%2Celectronics%2C209&sr=1-3&th=1,3,15,,,,,,https://app.notion.com/p/1e1cebb09dab4e24a7385d85c50ddb98
+Female Jumper Cable 20cm,ELEGOO,No,3,0,,2,https://www.amazon.com/dp/B01EV70C78?psc=1&ref=ppx_yo2ov_dt_b_product_details,20,0,,,,,,https://app.notion.com/p/ba7d339ef4664fdf8b530a97e61a11ed
+Electrical Twist Cap Connectors ~#20,Mamfous,No,10,0,,2,https://www.amazon.com/dp/B08ZYK8HJS?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,36,,,,,,https://app.notion.com/p/342f6d3fa14748aebe54d42f98d927e7
+USB 2.0 Male to Female extender 3ft,Amazon Basics,No,1,5,,2,https://www.amazon.com/dp/B014RWAMWC?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,4,,,,,,https://app.notion.com/p/df09ee6572924795a9832d744482bc10
+1080p IR USB Camera,Arducam,Yes,0,35,,3,https://www.amazon.com/dp/B0829HZ3Q7?psc=1&ref=ppx_yo2ov_dt_b_product_details,2,10,,,,,Discontinued,https://app.notion.com/p/bbd9fc75431a4286bc6883ca66586cc2
+Clear Mounting Tape,StarlandLed,Yes,1,0,,2,https://www.amazon.com/dp/B074J3X2SJ?ref=ppx_yo2ov_dt_b_product_details&th=1,0,0,,,,,,https://app.notion.com/p/195a0186b4c54579960f53305f54d399
+USB 2.0 Right-Angle Adapter,Oxsubor,No,2,4,,2,https://www.amazon.com/dp/B0793P8XJK?psc=1&ref=ppx_yo2ov_dt_b_product_details,4,14,,,,,,https://app.notion.com/p/a721dd47569b4f7d8d4356741f46223b
+USB 2.0 Left-Angle Adapter,Oxsubor,No,2,4,,2,https://www.amazon.com/dp/B0793P8XJK?psc=1&ref=ppx_yo2ov_dt_b_product_details,4,21,,,,,,https://app.notion.com/p/955ad8dc58424f6fb6f609551a59ebc1
+MicroUSB Right-Angle Adapter,Posdou,No,1,3,,2,https://www.amazon.com/dp/B01C6031MA?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,12,,,,,,https://app.notion.com/p/3909281cc37c481da20332eef74c5946
+MicroUSB Left-Angle Adapter,Posdou,No,1,3,,2,https://www.amazon.com/dp/B01C6031MA?psc=1&ref=ppx_yo2ov_dt_b_product_details,0,12,,,,,,https://app.notion.com/p/12d893a1006f4f0982ef69ddc8525b30
+ELP Global Shutter Camera,ELP,Yes,1,75,,15,https://www.notion.so/airgarage/How-to-Order-ELP-Cameras-7197ec2b164943d8a4b32f4775b6c5cc?pvs=4,12,,,,,,,https://app.notion.com/p/b9948c2a3f8c46c383dd93200d06d799
+Sensor Interface PCB v2.1,PCBWay,Yes,1,3,,15,https://github.com/airgarage/tripwire-kicad-projects/blob/main/README.md,50,40,,,,,,https://app.notion.com/p/092e46d00dec476b8293ca9497df1c35

@@ -1,0 +1,15 @@
+Part Name,Part Number - Internal,Part Number,Quantity Per Unit,Links,Supplier,Cost,Min Quantity Per Purchase,Cost Per Unit,Notes,Notion URL
+Epoxy - MaxiBond MB-835,,,1,,N/A,,1,,Epoxy for gluing the 4” OD aluminum tube into the plastic LiDAR housing,https://app.notion.com/p/3d6dcb3d06b280698ffcedd3d6c70af9
+Conformal Coating,,,0,https://www.amazon.com/dp/B0FH22F8SB,Amazon,13,1,,To coat any electronics (PCBA’s) inside of LiDAR assembly,https://app.notion.com/p/3d6dcb3d06b2804aa721f07492e86e6c
+M3x8mm Machine Screws,91292A112,91292A112,7,https://www.mcmaster.com/91292a112/,McMaster,,1,,For Mounting LiDAR heatsink to LiDAR and mounting PCB bracket to coupler,https://app.notion.com/p/3d6dcb3d06b2800788a9f4eefa1807c6
+T10x10mm Thread-Forming Screws for Plastic,96817A322,96817A322,8,https://www.mcmaster.com/96817A322/,McMaster,,,,"For attaching LiDAR heatsink to the LiDAR housing plastics, LiDAR top cover, and mounting PCB to coupler plastics.",https://app.notion.com/p/3d6dcb3d06b280079b35e50ae7a47a74
+T27 Security Torx Self Tapping Screw,94625A131,94625A131,6,https://www.mcmaster.com/94625A131/,McMaster,,1,,,https://app.notion.com/p/3d6dcb3d06b28021ae0bf6e63186189a
+LiDAR Heatsink X2,,,1,,SendCutSend,14.5,1,,,https://app.notion.com/p/3d6dcb3d06b280578ac1e4ba3f62d1bb
+LiDAR Housing Plastic,,,1,,,,,,,https://app.notion.com/p/3d6dcb3d06b280a0afb6c9324b9fc72d
+LiDAR Top Cover Plastic,,,1,,,,,,,https://app.notion.com/p/3d6dcb3d06b2807aa20ff54d5540f87d
+Coupler PCB Mount Plastic,,,1,,,,,,,https://app.notion.com/p/3d6dcb3d06b28010b50ed39f3a62248f
+Sensor Interposer PCB - X4B,,,1,,OSHPark,,,,,https://app.notion.com/p/3d6dcb3d06b280d6b1ffc4f030b36133
+1m M12 M17P M-F Cable,,,1,https://www.mouser.com/en/ProductDetail/523-2A17ML12AFLSD001,Mouser,,,,Need to find replacement part due to availability and Chris’ request for a 2.5ft cable (vs current 1m length).,https://app.notion.com/p/3dddcb3d06b28035a39aedb87a4b0f68
+"T27 Security Torx 1/4""-20 Thread Size, 1/2"" Long",,,3,https://www.mcmaster.com/products/91870a240/,,,,,,https://app.notion.com/p/401dcb3d06b280f589e5e6404bfc4f49
+Thermal Pad,,,1,https://www.amazon.com/85x45x2-5mm-Conductive-Resistance-Temperature-Silicone/dp/B0BYYN8YBV/ref=sxin_10_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f97776bc-458f-4c8b-b734-d80b5430252e%3Aamzn1.sym.f97776bc-458f-4c8b-b734-d80b5430252e&crid=31STLU4ZZA3WD&cv_ct_cx=2.5mm+thick+thermal+pad&keywords=2.5mm+thick+thermal+pad&pd_rd_i=B0BYYN8YBV&pd_rd_r=09d2b0bf-0f6e-47bf-b364-0c97cba047ec&pd_rd_w=19kkA&pd_rd_wg=mWBNY&pf_rd_p=f97776bc-458f-4c8b-b734-d80b5430252e&pf_rd_r=NGM6M65B8RTW9FJDGTTM&qid=1793202528&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=2.5mm+thick+thermal+pa%2Caps%2C138&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&aref=DIOeg6xYkO&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1,,,,,,https://app.notion.com/p/407dcb3d06b2805391c9f0693cf696dd
+Plastic Threading Screws 30mm,,,,https://www.mcmaster.com/95893A198/,,,,,For reinforcing the housing,https://app.notion.com/p/407dcb3d06b280f28542dadd5dae8f24

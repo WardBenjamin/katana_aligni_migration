@@ -1,0 +1,17 @@
+Name,Part Number - Mfg,Part Number - Internal,Quantity Per Unit,Supplier,Links,Notes,Cost,Quantity Per Purchase,Cost Per Unit,Notion URL
+Acrylic Lens Window (Outer + Inner),OP3-Clear-ACR,CAM4-001-006_LensWindow,1,TAP Plastics,[Link](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/acrylic_sheets_op3_uv_filtering/512),18” x 18” x 1/8” plate. One plate makes 48 inner and outer lens windows. Cost does not include laser cut cost. Currently a friend is doing this for free!,51.08,48,,https://app.notion.com/p/1bcdcb3d06b28082a678dfe22c0cecdc
+Camera Lens Gasket,ORSIL031,CAM4-001-007_LensGasket,2,Sur-Seal,[Link](https://sur-sealinc.com/o-ring-orange-vinyl-methyl-silicone-size-031-id-nominal-1-3-4-od-nominal-1-16-cs-nominal-1-7-8-durometer-70-part-number-orsil031-qty-1/),Orange vinyl methyl silicone. Min Qty 45.,20.45,45,,https://app.notion.com/p/1bcdcb3d06b2808ca514d2c27394e033
+Cable Grommet,9600K45,CAM4-001-008_Grommet,1,McMaster,[Link](https://www.mcmaster.com/catalog/131/4386/9600K45),(100-pack),22.65,100,,https://app.notion.com/p/1bcdcb3d06b280e28681c0f0a372202e
+M2.5 Heat-Set Insert,94180A321,CAM4-001-009_M25Insert,12,McMaster,[Link](https://www.mcmaster.com/94180A321/),M2.5x3.4mm Brass (100-pack),17.56,100,,https://app.notion.com/p/1bcdcb3d06b280bda493eb402088789a
+M2.5x5mm Flat Head Screw,91263A421,CAM4-001-010_FrontScrew,4,McMaster,[Link](https://www.mcmaster.com/91263A421/),M2.5x5mm (50-pack),7.86,50,,https://app.notion.com/p/1bcdcb3d06b280f3910de7adb8af9b38
+M2.5x8mm Flat Head Screw,91263A423,CAM4-001-011_RearScrew,8,McMaster,[Link](https://www.mcmaster.com/91263A423/),M2.5x8mm (50-pack),8.43,50,,https://app.notion.com/p/1bcdcb3d06b2806dbc8ff8fb1db7c0d9
+M8 Hex Head Bolt,90447A130,CAM4-001-012_HingeBolt,1,McMaster,[Link](https://www.mcmaster.com/90447A130/),M8x22mm,9.71,25,,https://app.notion.com/p/1bcdcb3d06b280a2808ec9cac6896197
+M2x4mm Socket Head Screw,91292A004,CAM4-001-013_CamAnchor,2,McMaster,[Link](https://www.mcmaster.com/91292A004/),M2x5mm,14.26,100,,https://app.notion.com/p/1bcdcb3d06b2807a9c34c529b154558b
+Camera Housing,N/A,CAM4-001-001_Housing,1,Protolabs Hubs,Github Release,SLS 3D Printed,1501.2,40,,https://app.notion.com/p/1bcdcb3d06b280fa902cd8fec02b3e2e
+Camera Front Lens Clamp,N/A,CAM4-001-003_LensClamp,1,Protolabs Hubs,Github Release,SLS 3D Printed,100.4,40,,https://app.notion.com/p/1bcdcb3d06b280e4b850e376914e28c9
+Camera Rear Cap,N/A,CAM4-001-002_RearCap,1,Protolabs Hubs,Github Release,SLS 3D Printed,440.4,40,,https://app.notion.com/p/1bcdcb3d06b280ab859fe73c7d604dc6
+ELP Camera Module 4/6/8mm,N/A,"ELP-USBGS5MP01-KV100IR
+ELP-USBGS5MP01-KV60IR
+ELP-USBGS5MP01-KV80IR",1,ELP - Cecilia (),N/A,Camera,128,1,,https://app.notion.com/p/1bcdcb3d06b2802b9093c1c33b3ed584
+Lens Window Gasket (Center),N/A,CAM4-001-005_LensGasket,1,Bryan Monti,Github Release,3D Printed TPE,0.25,1,,https://app.notion.com/p/1c2dcb3d06b280f7a00ce98c10166081
+Rear Housing Gasket,N/A,CAM4-001-004_RearGasket,1,Bryan Monti,Github Release,3D Printed TPE,0.2,1,,https://app.notion.com/p/216dcb3d06b280b89913ccc4c49b2734
