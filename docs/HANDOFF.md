@@ -13,6 +13,7 @@ Workspace scaffolded. No migration work started and no topics yet (see [README.m
 ## Open items
 
 - `repos/aligni-mcp-server` is a plain copy with no git history, so it is gitignored instead of being a submodule. It needs a remote to become one.
+- `airgarage/tripwire-mcad` and `airgarage/tripwire-ecad` are to be added as submodules under `repos/`. Not done yet: together they need about 413 MiB (296 MiB checked out plus 117 MiB of history, no LFS) and the disk had 475 MiB free on 2026-11-13 (UTC).
 - `boms/` at the root is empty and outside the layout in `CLAUDE.md`. BOM exports would normally go in a scratchpad task's `data/`.
 - The `aligni` MCP server connects and reads live data (checked 2026-11-13T03:18Z). It is registered at local scope in `~/.claude.json` and runs `repos/aligni-mcp-server/dist/index.js` with the workspace `.env` (`ALIGNI_ORG`, `ALIGNI_API_TOKEN`).
 - `mcp__aligni__run_graphql` can run mutations against live Aligni and has no `ask` rule in `.claude/settings.json`.
