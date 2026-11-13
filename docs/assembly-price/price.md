@@ -1,6 +1,6 @@
 # vπ full assembly price
 
-As of 2026-11-13 (UTC). Status: nearly complete, with assumptions to confirm. Plan and method: [plan.md](plan.md).
+As of 2026-11-13 (UTC). Status: nearly complete. Plan and method: [plan.md](plan.md).
 
 Configuration: compute stack kit, RR sensor bar kit, enclosure base and top, dual camera kit (4 mm + 6 mm, round bollard mount), install pack RR bollard mount dual camera, Uline H-2118F bollard. One of each.
 
@@ -8,7 +8,7 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 
 ## Where it stands
 
-**$2,118.56 is priced.** What is still missing is small: filament and print material, 33 low-value parts, most packaging materials, and freight on the bollard and enclosure.
+**The total so far is $2,118.56.** Left out on purpose: filament, and the sensor bar printed parts (see "Flagged and left out"). Still missing: 28 low-value parts, most packaging materials, and freight on the bollard and enclosure.
 
 | Configuration line | Priced |
 |---|---|
@@ -32,10 +32,10 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 | Purchases and ByTechs invoices inside six months | 61 | 1,041.26 |
 | List prices and a quote dated 2026-11-13 | 3 | 204.66 |
 | Purchases, invoices and the duty estimate older than six months | 26 | 872.64 |
-| Carried at $0 because another line covers them | 23 | 0.00 |
-| Unpriced part rows | 34 | |
+| Carried at $0: covered by another line, or flagged and left out | 28 | 0.00 |
+| Unpriced part rows | 29 | |
 
-$1,245.92 rests on prices inside six months and $872.64 on older ones. Of 124 leaf parts, 74 have a price, 17 are carried at $0 and 33 are unpriced. All 15 labour rows are priced.
+$1,245.92 rests on prices inside six months and $872.64 on older ones. Of 124 leaf parts, 74 have a price, 22 are carried at $0 and 28 are unpriced. All 15 labour rows are priced.
 
 Largest rows:
 
@@ -79,21 +79,27 @@ From ByTechs' itemized invoices ([research/bytechs-itemized-samtec.md](research/
 | Enclosure packing | $10.00 | 1217, 2026-09-30 | enclosure base |
 | Sensor bar box, 3.5 x 3.5 x 20 in | $3.19, stale | 1174, 2026-02-18 | `AG-SEN2-RR-Kit` |
 
-## Assumptions to confirm
+## Confirmed by Ben, 2026-11-13
 
-1. **Camera print charge.** The roll-up uses $25.00 per camera kit ("3D Printing Camera Housings and Parts", June). The September invoice instead bills "3D Print Dual Camera Mounts" at $6.00. Which applies to one dual bollard kit?
-2. **Printing inside build rates.** The seven printed compute stack parts and eight printed or cut camera kit parts are carried at $0 on the reading that ByTechs' rates cover the print labour. Filament and window material are not priced.
-3. **Sub-assembly labour.** ByTechs bills one line per kit, so the sensor bar assembly, camera module, bollard mount, compute stack kit and the two install pack sets are carried at $0 under the kit's rate.
-4. **4 mm camera.** The KV100IR ("V100 lens") is taken as the 4 mm camera.
-5. **Samtec header freight.** The $8.95 between the acknowledgement ($298.20) and the Ramp charge of 2025-08-06 ($307.15) is taken as freight.
+- **Camera print charge.** $25.00 is correct. The roll-up applies it once per camera kit.
+- **Print labour.** ByTechs' rates cover it. The seven printed compute stack parts, eight printed or cut camera kit parts and the rain cover are carried at $0.
+
+## Flagged and left out
+
+- **Filament.** AirGarage supplies it: Polymaker ASA. Left out of the price for now on Ben's instruction. The Ramp cost record has three Polymaker records, $3,585.60, from 2026-05-04 to 2026-10-30; grams per part are not known.
+- **Sensor bar printed parts**, 5 (`AG-SEN2-001-003` to `-007`). ByTechs billed $30.60 a set for 100 sets on invoice 1169 (2026-01-18) and has billed no sensor bar printing since, though about 240 bars were built afterwards. Ben is not sure whether that is correct or a billing error. Carried at $0 and ignored for now. If the $30.60 still applies, the total rises by that amount.
+
+## Assumptions still open
+
+1. **Sub-assembly labour.** ByTechs bills one line per kit, so the sensor bar assembly, camera module, bollard mount, compute stack kit and the two install pack sets are carried at $0 under the kit's rate.
+2. **4 mm camera.** The KV100IR ("V100 lens") is taken as the 4 mm camera.
+3. **Samtec header freight.** The $8.95 between the acknowledgement ($298.20) and the Ramp charge of 2025-08-06 ($307.15) is taken as freight.
 
 ## Still unpriced
 
-- **Sensor bar printed parts**, 5: no ByTechs print line has covered them since January 2026 ($30.60 per set then, including reflector housings).
 - **Two cable assemblies and the ferrules** made by ByTechs.
 - **19 Digi-Key parts with no visible purchase**: resistors, capacitors, LEDs and diodes on the PCBAs, the JST XA header, the USB 3.0 plugs and one standoff. ByTechs billed $7,935.64 on 2026-01-21 as "Cost for Parts for 250x Compute Stack Vπ units" ($31.74 a stack) with no breakdown; some of these parts may be in it.
 - **Four `EXT-TBD` PCB connectors**, the padlocks (3) and the trash bag.
-- **Filament and print material** for every printed part.
 - **Packaging materials** other than the sensor bar box: boxes for the compute stack, camera kit, enclosure and install pack. Uline boxes were $3.06 to $5.71 landed each on 2026-06-22.
 - **Freight and tax on the bollard; freight on the enclosures.**
 

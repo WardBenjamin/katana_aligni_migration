@@ -2,7 +2,7 @@
 
 Goal: the current landed cost of one complete vπ unit, per configuration. Plan: `docs/assembly-price/plan.md`.
 
-Status: partial roll-up, 2026-11-13. $2,118.56 priced for the first configuration; filament, 33 low-value parts and most packaging materials are unpriced. Current result: `docs/assembly-price/price.md`. Nothing promoted.
+Status: partial roll-up, 2026-11-13. $2,118.56 priced for the first configuration; 28 low-value parts and most packaging materials are unpriced; filament and the sensor bar printed parts are flagged and left out. Current result: `docs/assembly-price/price.md`. Nothing promoted.
 
 ## Contents
 

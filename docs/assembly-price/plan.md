@@ -1,6 +1,6 @@
 # vπ full assembly price: plan
 
-As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $2,118.56 priced, including ByTechs labour from its itemized invoices. Left: filament, 33 low-value parts, most packaging materials and some freight, plus the assumptions listed there. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
+As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $2,118.56 priced, including ByTechs labour from its itemized invoices. Left: 28 low-value parts, most packaging materials and some freight. Filament and the sensor bar printed parts are flagged and left out. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
 
 ## Goal
 
@@ -28,6 +28,7 @@ First configuration (`scratchpad/2026-11-13-vpi-assembly-price/configs/rr-bollar
 5. **Browser access.** Agreed in principle; on hold until Ben says go. No Chrome use before then.
 6. **BOM corrections.** The M3 x 30 mm screw is McMaster 95893A198. The 3 in anchor is the Strong-Tie Titen HD 1/2 x 3 in (`EXT-THD50300H`). The wipes quantity is single wipes. All three are in `boms/`.
 7. **Prices given.** McMaster 92095A210 is $10.91 per pack of 50. Raspberry Pi 5 16GB is $385.00 (MakerBright invoice 1381). Omron E39-R1S is $26.11 each at Digi-Key; use it over Powermatic's $20.94 because it is the most recent source.
+8. **ByTechs readings.** The $25.00 camera print charge is correct. ByTechs' rates cover print labour. AirGarage supplies the filament (Polymaker ASA); leave it out for now and flag it. Flag and ignore the sensor bar printed parts: it is not clear whether ByTechs' billing there is correct.
 
 ## What the first pass shows
 
@@ -105,7 +106,7 @@ Steps 1 to 3 and a partial roll-up with gaps marked can start on the data alread
 
 ## Open decisions
 
-1. **ByTechs readings to confirm.** The itemized invoices arrived on 2026-11-13 and are in the roll-up ([research/bytechs-itemized-samtec.md](research/bytechs-itemized-samtec.md)). Open: which camera print charge applies ($25.00 a set or $6.00 a mount), and whether the build rates cover printing of compute stack and sensor bar parts.
+1. **Sensor bar print billing.** ByTechs billed $30.60 a set in January 2026 and nothing since ([research/bytechs-itemized-samtec.md](research/bytechs-itemized-samtec.md)). Ben to find out whether printing is now inside the $30.00 build rate or was not billed.
 2. **Stale lines.** The E3Z-R61 sensors were last bought 2026-01-16. Get a quote, or accept that price?
 
 Ben supplied camera, wall-bracket and Raspberry Pi documents on 2026-11-13 ([research/elp-haig-makerbright.md](research/elp-haig-makerbright.md)) and is getting pricing for more of the missing items.
