@@ -1,0 +1,46 @@
+{
+  "id": "0e46bef4-515c-4a14-897d-eaa7e3231e99",
+  "invoice_number": "3675147",
+  "vendor_name": "Powermatic",
+  "vendor_id": "9abe2fde-a743-49c7-bfc3-a7170525529e",
+  "amount": 29871.34,
+  "currency": "USD",
+  "invoice_date": "Tue, 18 Nov 2025 00:00:00 GMT",
+  "due_date": "Thu, 18 Dec 2025 00:00:00 GMT",
+  "payment_date": null,
+  "payment_status": "PAID",
+  "payment_method": null,
+  "approval_status": "APPROVED",
+  "created_date": "2025-12-16T22:55:26+00:00",
+  "memo": "Purchase of Omron sensors and related freight charges",
+  "description": null,
+  "automatic_mapping_reason": null,
+  "accrual_display_status": null,
+  "accrual_display_reason": null,
+  "sync_status": "Bill and payment synced to the ERP",
+  "sync_status_code": "FULLY_SYNCED",
+  "accounting_field_codings": [
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 1: E3Z-R61 OMRON SENSOR",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 2: E39-R1S Omron Sensor",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 3: Shipping & handling",
+      "source": "MANUAL"
+    }
+  ],
+  "line_items": [],
+  "line_items_status": "omitted",
+  "summary": "Bill details for Powermatic Line-item details were omitted from this response; line_items=[] does not mean the bill has no line items. Accounting field codings do not supply line-item amounts. This is a submitted bill; do not attempt draft-bill retrieval to recover the omitted line items.",
+  "bill_url": "https://app.ramp.com/s/bill-pay/bills/0e46bef4-515c-4a14-897d-eaa7e3231e99"
+}

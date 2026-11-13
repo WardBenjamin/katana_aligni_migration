@@ -1,0 +1,1383 @@
+[image: AirGarage] <https://airgarage.com>
+*Benjamin Ward*
+Tech Lead / Manager - Hardware Engineering, AirGarage
+airgarage.com
+
+
+
+---------- Forwarded message ---------
+From: Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+Date: Tue, Jun 16, 2026 at 7:38 AM
+Subject: RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+To: Benjamin Ward <ben@airgarage.com>
+Cc: Mohammad Mahmood <mohammad.mahmood@quectel.com>, Matt Vegdahl <
+matt.vegdahl@quectel.com>, Molly Kaster <molly.kaster@quectel.com>, Po Li <
+po.li@quectel.com>, Mike Zhou <mikechong.zhou@quectel.com>, Brandon Oakes <
+brandon.oakes@quectel.com>, Peter Fowler <peter.fowler@quectel.com>,
+Christian Rizzo <christian.rizzo@quectel.com>, Neil Morrison <
+neil.morrison@quectel.com>
+
+
+Hi Benjamin,
+
+
+
+I hope you are doing well!
+
+PO-QUECTEL-001 will be completed production on June 27, could you please
+arrange the payment soon?
+
+Additionally, please provide your carrier account & number
+(eg.DHL/UPS/FedEx) for shipping.
+
+Invoice
+
+PO.
+
+Module
+
+Ordering Code
+
+FW Version
+
+Qty
+
+Unit Price
+
+Amount USD
+
+Confirmed Date
+
+D265070387
+
+PO-QUECTEL-001
+
+RG255C-GL MINIPCIE
+
+RG255CGL00AB-4M2-MN0AA
+
+RG255CGLABR01A05M4G_A0.300.A0.300
+
+250
+
+74.6100
+
+18,652.5000
+
+2026/6/27
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Carrie Yi(易艳梅)
+*Sent:* Friday, May 22, 2026 2:15 PM
+*To:* Benjamin Ward <ben@airgarage.com>
+*Cc:* Mohammad Mahmood <mohammad.mahmood@QUECTEL.COM>; Matt Vegdahl <
+matt.vegdahl@QUECTEL.COM>; Molly Kaster <molly.kaster@QUECTEL.COM>; Po Li <
+po.li@QUECTEL.COM>; Mike Zhou <mikechong.zhou@QUECTEL.COM>; Brandon Oakes <
+brandon.oakes@QUECTEL.COM>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@QUECTEL.COM>; Neil Morrison <
+Neil.Morrison@QUECTEL.COM>
+*Subject:* RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Benjamin,
+
+
+
+Received the new PO with many thanks.
+
+Please find and check attached invoice with order details, the latest FW
+version is EG25GLGDR07A03M1G_A0.302.A0.302.
+
+Due to the global memory shortage supply, it needs to be allocated. We will
+advise the delivery after receive the allocation.
+
+Invoice
+
+PO.
+
+Module
+
+Ordering Code
+
+FW Version
+
+Qty
+
+Unit Price
+
+Amount USD
+
+D265220359
+
+PO-QUECTEL-002
+
+EG25-GL MINIPCIE
+
+EG25GLGD-MINIPCIE
+
+EG25GLGDR07A03M1G_A0.302.A0.302
+
+250
+
+26.5800
+
+6,645.0000
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Benjamin Ward <ben@airgarage.com>
+*Sent:* Thursday, May 21, 2026 9:24 PM
+*To:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Cc:* Mohammad Mahmood <mohammad.mahmood@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Molly Kaster <molly.kaster@quectel.com>; Po Li <
+po.li@quectel.com>; Mike Zhou <mikechong.zhou@quectel.com>; Brandon Oakes <
+brandon.oakes@quectel.com>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@quectel.com>; Neil Morrison <
+neil.morrison@quectel.com>
+*Subject:* Re: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi all,
+
+
+
+Thank you, I've recorded the FW version on our end.
+
+
+
+I've also attached a PO for EG25-GL according to the quote you previously
+provided. Please specify the latest firmware for these as well.
+
+
+
+Cheers,
+
+Ben
+
+[image: AirGarage] <https://airgarage.com/>
+
+*Benjamin Ward*
+
+Tech Lead / Manager - Hardware Engineering, AirGarage
+
+*airgarage.com* <https://airgarage.com>
+
+
+
+
+
+
+
+On Thu, May 21, 2026 at 2:23 AM Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+wrote:
+
+Hi Benjamin,
+
+
+
+Please note that the latest FW version is
+RG255CGLABR01A05M4G_A0.300.A0.300. This FW version will be used for this
+order.
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Mohammad Mahmood <mohammad.mahmood@quectel.com>
+*Sent:* Thursday, May 21, 2026 1:41 AM
+*To:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Brandon Oakes <
+brandon.oakes@quectel.com>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@quectel.com>; Neil Morrison <
+neil.morrison@quectel.com>
+*Subject:* Re: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Carrie,
+
+
+
+Please use latest FW available for this order.
+------------------------------
+
+*From:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Sent:* Wednesday, May 20, 2026 3:24:10 AM
+*To:* Matt Vegdahl <matt.vegdahl@quectel.com>; Mohammad Mahmood <
+mohammad.mahmood@quectel.com>; Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Brandon Oakes <
+brandon.oakes@quectel.com>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@quectel.com>; Neil Morrison <
+neil.morrison@quectel.com>
+*Subject:* RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Benjamin,
+
+
+
+Sorry for pushing, this order still pending the firmware version info,
+could you please advise what FW version this order require?
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Carrie Yi(易艳梅)
+*Sent:* Monday, May 18, 2026 7:10 PM
+*To:* Matt Vegdahl <matt.vegdahl@QUECTEL.COM>; Mohammad Mahmood <
+mohammad.mahmood@QUECTEL.COM>; Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@QUECTEL.COM>; Po Li <po.li@QUECTEL.COM>;
+Mike Zhou <mikechong.zhou@QUECTEL.COM>; Brandon Oakes <
+brandon.oakes@QUECTEL.COM>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@QUECTEL.COM>; Neil Morrison <
+Neil.Morrison@QUECTEL.COM>
+*Subject:* RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Benjamin,
+
+
+
+PO-QUECTEL-001 is still pending firmware version info, could you please
+advise the firmware version info? Then we can check the best delivery date
+for the order.
+
+
+
+Invoice
+
+PO.
+
+Account
+
+Product Type
+
+Module
+
+Ordering Code
+
+FW Version
+
+Qty
+
+Unit Price
+
+Amount USD
+
+D265070387
+
+PO-QUECTEL-001
+
+AirGarage, Inc.
+
+5G
+
+RG255C-GL MINIPCIE
+
+RG255CGL00AB-4M2-MN0AA
+
+250.0000
+
+74.6100
+
+18,652.5000
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Matt Vegdahl <matt.vegdahl@quectel.com>
+*Sent:* Friday, May 8, 2026 5:57 AM
+*To:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>; Mohammad Mahmood <
+mohammad.mahmood@quectel.com>; Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Brandon Oakes <
+brandon.oakes@quectel.com>; Peter Fowler <peter.fowler@quectel.com>;
+Christian Rizzo <christian.rizzo@quectel.com>; Neil Morrison <
+neil.morrison@quectel.com>
+*Subject:* RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Benjamin,
+
+
+
+Aside from the i.MX93 based SOM that we have shared, we have also kicked
+off development of our i.MX95 based SOM.  I wanted to keep you in the loop,
+if you wanted to jump on a call to discuss further, let me know!
+
+
+
+*Regards,*
+
+*Matt Vegdahl*
+
+
+
+*Matt Vegdahl** | SOM Sales Manager | Quectel Wireless Solutions Co., Ltd.
+/ Ikotek USA Inc.*
+
+
+
+*Email :* matt.vegdahl@quectel.com | *Phone: +1 (952) 210-8340 *| *Website:*
+ *https://www.quectel.com <https://www.quectel.com/>*
+
+
+
+
+
+
+
+<https://www.quectel.com/masterclass-events/design-edge-systems-nxp-imx9-application-processors-soms/>
+
+
+
+*From:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Sent:* Thursday, May 7, 2026 1:48 AM
+*To:* Mohammad Mahmood <mohammad.mahmood@quectel.com>; Benjamin Ward <
+ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Brandon Oakes <brandon.oakes@quectel.com>; Peter
+Fowler <peter.fowler@quectel.com>; Christian Rizzo <
+christian.rizzo@quectel.com>; Neil Morrison <neil.morrison@quectel.com>
+*Subject:* RE: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Benjamin,
+
+
+
+Please find attached official quote for EG25GLGD-MINIPCIE.
+
+And kindly check attached invoice of RG255CGL00AB-4M2-MN0AA, please advise
+the firmware version info, then we can check the best delivery date for the
+order.
+
+We quoted as FCA Changzhou incoterm, you are responsibility of import
+duties and freight cost. Could you please share your carrier account & No.
+for shipment.
+
+Additionally, your account payment term is TT in advance, that need to
+arrange payment before shipment.
+
+Invoice
+
+PO.
+
+Account
+
+Product Type
+
+Module
+
+Ordering Code
+
+FW Version
+
+Qty
+
+Unit Price
+
+Amount USD
+
+D265070387
+
+PO-QUECTEL-001
+
+AirGarage, Inc.
+
+5G
+
+RG255C-GL MINIPCIE
+
+RG255CGL00AB-4M2-MN0AA
+
+250.0000
+
+74.6100
+
+18,652.5000
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Mohammad Mahmood <mohammad.mahmood@quectel.com>
+*Sent:* Thursday, May 7, 2026 3:09 AM
+*To:* Benjamin Ward <ben@airgarage.com>; Carrie Yi(易艳梅) <
+carrie.yi@quectel.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Brandon Oakes <brandon.oakes@quectel.com>; Peter
+Fowler <peter.fowler@quectel.com>; Christian Rizzo <
+christian.rizzo@quectel.com>; Neil Morrison <neil.morrison@quectel.com>
+*Subject:* Re: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Benjamin,
+
+
+
+Here is the quote for the EG25-GL MINIPCIE, good for 5k units.
+
+
+
+@Carrie Yi(易艳梅) <carrie.yi@quectel.com> please send official quote.
+
+Module
+
+OC
+
+Price
+
+EG25-GL MINIPCIE
+
+EG25GLGD-MINIPCIE
+
+$26.58
+
+
+
+Thanks & Best Regards,
+
+
+
+*Mohammad Mahmood | Regional Sales Representative, San Francisco | Quectel
+Wireless Solutions Co., Ltd. *
+
+
+
+*Mobile:* +1 (408) 507-1654 | *Email:* Mohammad.mahmood@quectel.com
+
+*Website:* www.quectel.com | *Wechat: *msattarm
+
+
+------------------------------
+
+*From:* Benjamin Ward <ben@airgarage.com>
+*Sent:* Wednesday, May 6, 2026 10:48 AM
+*To:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Cc:* Mohammad Mahmood <mohammad.mahmood@quectel.com>; Molly Kaster <
+molly.kaster@quectel.com>; Po Li <po.li@quectel.com>; Mike Zhou <
+mikechong.zhou@quectel.com>; Matt Vegdahl <matt.vegdahl@quectel.com>;
+Brandon Oakes <brandon.oakes@quectel.com>; Peter Fowler <
+peter.fowler@quectel.com>; Christian Rizzo <christian.rizzo@quectel.com>;
+Neil Morrison <neil.morrison@quectel.com>
+*Subject:* Re: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi all,
+
+
+
+PO #001 for 250x RG255CGL00AB-4M2-MN0AA attached. Could I please also get
+an official quote for 250x EG25GLGA-MINIPCIE @Carrie Yi(易艳梅)
+<carrie.yi@quectel.com>? Once I have that I can issue a second PO for those
+modules.
+
+
+
+Cheers,
+
+Ben
+
+
+
+[image: AirGarage] <https://airgarage.com/>
+
+*Benjamin Ward*
+
+Tech Lead / Manager - Hardware Engineering, AirGarage
+
+*airgarage.com* <https://airgarage.com>
+
+
+
+
+
+
+
+On Fri, May 1, 2026 at 11:27 PM Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+wrote:
+
+Hi Ben,
+
+
+
+Could you please send us an official order soon? Due to the memory crisis,
+the modules need to be allocated, if there is a formal order, it will be
+more helpful for us to obtain the allocated quantity. At the same time, we
+will also do our best to prioritize the quantity of the samples.
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Benjamin Ward <ben@airgarage.com>
+*Sent:* Friday, May 1, 2026 10:22 PM
+*To:* Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Cc:* Mohammad Mahmood <mohammad.mahmood@quectel.com>; Molly Kaster <
+molly.kaster@quectel.com>; Po Li <po.li@quectel.com>; Mike Zhou <
+mikechong.zhou@quectel.com>; Matt Vegdahl <matt.vegdahl@quectel.com>;
+Brandon Oakes <brandon.oakes@quectel.com>; Peter Fowler <
+peter.fowler@quectel.com>; Christian Rizzo <christian.rizzo@quectel.com>;
+Neil Morrison <neil.morrison@quectel.com>
+*Subject:* Re: [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call
+(Oakland, CA)
+
+
+
+Hi Carrie,
+
+
+
+Do you have any existing stock of either the EG25-G/GL, EC25-AFDX/AFDL,
+or RG255C even in sample quantities (as miniPCIe module)? I need 250 pieces
+by end of year, but 100 pieces, or even 25, would be very helpful. My main
+goal here is to not halt hardware production, and we have <50pc Eagle I425
+left.
+
+
+
+Regards,
+
+Ben
+
+[image: AirGarage] <https://airgarage.com/>
+
+*Benjamin Ward*
+
+Tech Lead / Manager - Hardware Engineering, AirGarage
+
+*airgarage.com* <https://airgarage.com>
+
+
+
+
+
+
+
+On Wed, Apr 29, 2026 at 11:43 PM Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+wrote:
+
+Hi Ben,
+
+
+
+Please find attached official quote.
+
+Due to the tight supply of memory, it needs to be allocated for
+EG25GLGA-MINIPCIE. And there is no stock for RG255CGL00AB-4M2-MN0AA. If you
+have demand for both of them, please share the forecast of this year and
+provide the official order to us asap, then we can plan ahead and try our
+best to arrange shipment to you asap.
+
+
+
+*Thanks & Best regards*
+
+*Carrie Yi|* *Commercial **Specialist**, North America*| *Quectel Wireless
+Solutions Co., Ltd.*
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tel:+86-773-585 <+86-773-585> 6236*15354|Mobile: +86-18202156578 | Email:
+Carrie.Yi@quectel.com
+
+Website: www.quectel.com | WeChat: Call_me911
+
+HQ Address: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai
+201601, China
+
+Guilin R&D Center：Floor 4, Building 9, Guilin Electric Valley, Chaoyang
+Road, Qixing District, Guilin, Guangxi 541004, China
+
+North America office: 12500 Horseshoe Way Unit 130, Richmond, BC V7A5K2,
+Canada
+
+[image: 6857b0ea042d04a447fdac6d7fa12cd2]
+
+
+
+*From:* Mohammad Mahmood <mohammad.mahmood@quectel.com>
+*Sent:* Thursday, April 30, 2026 11:02 AM
+*To:* Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Brandon Oakes <brandon.oakes@quectel.com>; Peter
+Fowler <peter.fowler@quectel.com>; Christian Rizzo <
+christian.rizzo@quectel.com>; Neil Morrison <neil.morrison@quectel.com>;
+Carrie Yi(易艳梅) <carrie.yi@quectel.com>
+*Subject:* [AirGarage] & Quectel Meeting Summary - 4/29/26 - Call (Oakland,
+CA)
+
+
+
+
+
+Hi Ben,
+
+
+
+Appreciate the time today! Following up on the quote here, this is good for
+up to 5k units. Let me know if you have any questions.
+
+
+
+@Carrie Yi(易艳梅) <carrie.yi@quectel.com> can you please send official quote
+as well as give insight on current available stock of the
+RG255CGL00AB-4M2-MN0AA and EG25GLGA-MINIPCIE?
+
+
+
+
+
+Module
+
+OC
+
+Price
+
+RG255C-GL MINIPCIE
+
+RG255CGL00AB-4M2-MN0AA
+
+$74.61
+
+
+
+*[AirGarage] & Quectel Meeting Summary - 4/29/26 - Call (Oakland, CA)*
+
+
+
+*Opportunity Overview *
+
+Quectel to provide quotes and supply information on RG255C adn EG25-GL
+
+
+
+*Meeting Attendees*
+
+*AirGarage*
+
+· Benjamin Ward - Tech Lead/Manager - Hardware (Greater Richmond Region)
+
+
+
+*Quectel*
+
+· Mohammad Mahmood - Regional Sales Representative (San Francisco, CA)
+
+· Mike Zhou – Senior Product Manager, 5G, NA (Detroit, MI)
+
+
+
+*Eagle Wireless*
+
+· Jake Blair, Director of Sales & Application Engineering (Salt Lake City,
+UT)
+
+· Brayden Sundstrand - Field Application Engineer (Salt Lake City, UT)
+
+
+
+*Products in Definition*
+
+*Next Next Gen Tripwire & Other programs *
+
+   - Smart Modules, Halow, Cat 1 Bis, RedCap all of interest
+
+
+
+*Products in Development*
+
+*Next Gen Tripwire*
+
+   - Application/Description- parking lot monitoring
+   - Cellular Module- EG/EC25
+   - GNSS Module- none
+   - Short Range Module- Wi-Fi 5
+   - Antenna- open to Quectel performance comparisons
+   - Microprocessor- raspberry pi
+   - Schedule/MP Date- 3 months for this board spin
+   - Regions- NA
+   - Carriers-
+   - Certifications-
+   - Volume- 500 units
+   - Design & Development Locations- SF
+   - CM/ODM/JDM- mix of in house and ODM in South Carolina
+   - Other Details-
+
+*Shipping Programs *
+
+Tripwire - using SixFab LTE boards with Quectel & Telit
+
+Other Programs - WiFi 5
+
+
+
+
+
+*Key Discussion Items*
+
+· Supply chain crunch impacting availability of LTE modules (Eagle I425)
+
+· MINIPCIE current form gfactor
+
+· Have physical sim, but do not use
+
+· Quectel 5G redcap has both physical SIM end eSIM
+
+· Use Hologram MVNO
+
+· May not need to switch antenna if current antenna supports bands needed
+
+· Ben shared antenna spec
+
+
+
+*Action Items*
+
+· Mohammad to share quote on RG255C MINIPCIE
+
+· Mohammad to share stock on RG255C and EG25-GL
+
+· @Christian Rizzo <christian.rizzo@quectel.com> to check if current
+antenna (https://www.mouser.com/datasheet/3/203/1/W3906B0100.pdf) would
+support RG255C
+
+
+
+
+
+Thanks & Best Regards,
+
+
+
+*Mohammad Mahmood | Regional Sales Representative, San Francisco | Quectel
+Wireless Solutions Co., Ltd. *
+
+
+
+*Mobile:* +1 (408) 507-1654 | *Email:* Mohammad.mahmood@quectel.com
+
+*Website:* www.quectel.com | *Wechat: *msattarm
+
+
+
+
+------------------------------
+
+*From:* Mohammad Mahmood <mohammad.mahmood@quectel.com>
+*Sent:* Thursday, January 15, 2026 5:27 PM
+*To:* Benjamin Ward <ben@airgarage.com>
+*Cc:* Molly Kaster <molly.kaster@quectel.com>; Po Li <po.li@quectel.com>;
+Mike Zhou <mikechong.zhou@quectel.com>; Matt Vegdahl <
+matt.vegdahl@quectel.com>; Brandon Oakes <brandon.oakes@quectel.com>; Peter
+Fowler <peter.fowler@quectel.com>
+*Subject:* [AirGarage] & Quectel Meeting Summary - 1/15/26 - Call (Oakland,
+CA)
+
+
+
+Hi Benjamin,
+
+
+Was great to speak to you! Let us know any feeback on the documents and
+information we'll send over shortly, and let me know if you need any
+additional quotes, samples, or devkits. Always here to support and talk
+soon!
+
+
+
+*[AirGarage] & Quectel Meeting Summary - 1/15/26 - Call (Oakland, CA)*
+
+
+
+*Opportunity Overview *
+
+Quectel to support on 5G and iMX evaluations
+
+
+
+*Meeting Attendees*
+
+*AirGarage*
+
+· Benjamin Ward - Tech Lead/Manager - Hardware (Greater Richmond Region)
+
+
+
+*Quectel*
+
+· Mohammad Mahmood - Regional Sales Representative (San Francisco, CA)
+
+· Molly Kaster - Senior Sales Manager, NorCal - North (Menlo Park, CA)
+
+· June Zhu - Assistant LPWA/LTE/NTN product manager (Fullerton, CA)
+
+
+
+*Products in Definition*
+
+*Next Next Gen Tripwire & Other programs *
+
+   - Smart Modules, Halow, Cat 1 Bis, RedCap all of interest
+
+
+
+*Products in Development*
+
+*Next Gen Tripwire*
+
+   - Application/Description- parking lot monitoring
+   - Cellular Module- EG/EC25
+   - GNSS Module- none
+   - Short Range Module- Wi-Fi 5
+   - Antenna- open to Quectel performance comparisons
+   - Microprocessor- raspberry pi
+   - Schedule/MP Date- 3 months for this board spin
+   - Regions- NA
+   - Carriers-
+   - Certifications-
+   - Volume- 500 units
+   - Design & Development Locations- SF
+   - CM/ODM/JDM- mix of in house and ODM in South Carolina
+   - Other Details-
+
+*Shipping Programs *
+
+Tripwire - using SixFab LTE boards with Quectel & Telit
+
+Other Programs - WiFi 5
+
+
+
+
+
+*Key Discussion Items*
+
+· Looking forward to future projects
+
+· Have started looking into 5G
+
+· Cat 1 around 10 megabits download, 5 megabits upload
+
+· Cat 1 bis is cost down, same data speed, just one antenna for lte
+functions, share antenna for WiFi scan functions
+
+· Only NA region for now
+
+· Don’t need GNSS
+
+· Haven’t done any carrier certification right now, something easy to
+certify across carriers
+
+· Using Hologram MVNO right now for cell carriers
+
+· GNSS function would add additional antenna
+
+· EG915X series could be a good fit
+
+· 2g/3g fallback not important
+
+· BG95 could be interesting too, not concurrent GNSS LTE function
+
+· Eagle refresh for prior hardware platform, next gen tripwire still in
+development
+
+· Imx93 interest
+
+· 1200-2000 next year, 500 this year
+
+· I.MX 8 NP in current products
+
+· Next gen tripwire for iMX
+
+· 1-10 large 5g modems
+
+· Concerned about notification when systems fall offline
+
+· Low cost, one antenna module
+
+· Were looking at 5G
+
+· 1-5 units per site, 1-300 sites
+
+· Can send datasheets and presentation and quote on iMX, don’t need WiFi
+integrated but interested in hearing more
+
+· Low data rate cellular modem
+
+· No preference on chipset
+
+
+
+*Action Items*
+
+· @Po Li <po.li@quectel.com> to send datasheets on EG915 and BG95
+
+· @Mike Zhou <mikechong.zhou@quectel.com> to send 5G overview
+
+· @Mike Zhou <mikechong.zhou@quectel.com> to send information on 5G
+endpoint gateways
+
+· @Matt Vegdahl <matt.vegdahl@quectel.com> to send presentation and
+datasheets on iMX products
+
+· @Matt Vegdahl <matt.vegdahl@quectel.com> to send quotes on iMX products
+
+· @Mohammad Mahmood <mohammad.mahmood@quectel.com> to follow up on feedback
+
+
+
+
+
+Thanks & Best Regards,
+
+
+
+*Mohammad Mahmood | Regional Sales Representative, San Francisco | Quectel
+Wireless Solutions Co., Ltd. *
+
+
+
+*Mobile:* +1 (408) 507-1654 | *Email:* Mohammad.mahmood@quectel.com
+
+*Website:* www.quectel.com | *Wechat: *msattarm
+
+
+
+
+
+
+
+*From: *Molly Kaster <molly.kaster@quectel.com>
+*Date: *Friday, June 13, 2025 at 3:38 PM
+*To: *Benjamin Ward <ben@airgarage.com>, Natasha Barrios <
+natasha.barrios@quectel.com>, Da Shen <da.shen@quectel.com>, Molly Kaster <
+molly.kaster@quectel.com>, Christian Rizzo <christian.rizzo@quectel.com>,
+Po Li <po.li@quectel.com>, Linda Huo(霍琳) <linda.huo@quectel.com>
+*Cc: *Peter Fowler <peter.fowler@quectel.com>, Brandon Oakes <
+brandon.oakes@quectel.com>, Jane Zhao <jane.zhao@quectel.com>, Edward
+Cheney <edward.cheney@quectel.com>, Neil Morrison <neil.morrison@quectel.com>,
+Guillaume Ravanas <guillaume.ravanas@quectel.com>, David Howard <
+david.howard@quectel.com>
+*Subject: *[AirGarage] & Quectel Meeting Summary - 6/13/2025 - SF/Call
+
+Hi Ben,
+
+
+
+Great to meet you today! Please find our notes and action items below, I've
+also included links to a deck for each product line. We'll send official
+datasheets and a quote over as well as follow up on the antennas.
+
+
+
+NDA is attached, let me know if you have any questions.
+
+
+
+We can also get you dev kits/samples - let me know what you need!
+
+
+
+*[AirGarage] & Quectel Meeting Summary - 6/13/2025 - SF/Call*
+
+
+
+*Opportunity Overview*
+
+Would like to directly integrate an LTE module & antennas for this board
+spin. Opportunity for Smart Modules, Wi-Fi, RedCap and/or Cat 1 Bis on
+other next gen programs.
+
+
+
+*Meeting Attendees*
+
+*Airgarage*
+
+   - Ben Ward - Hardware Engineer (SF)
+
+*Quectel*
+
+   - Molly Kaster - Regional Sales Manager, NorCal North (Menlo Park)
+
+*Products in Definition*
+
+*Next Next Gen Tripwire & Other programs *
+
+   - Smart Modules, Halow, Cat 1 Bis, RedCap all of interest
+
+
+
+*Products in Development*
+
+*Next Gen Tripwire*
+
+   - Application/Description- parking lot monitoring
+   - Cellular Module- EG/EC25
+   - GNSS Module- none
+   - Short Range Module- Wi-Fi 5
+   - Antenna- open to Quectel performance comparisons
+   - Microprocessor- raspberry pi
+   - Schedule/MP Date- 3 months for this board spin
+   - Regions- NA
+   - Carriers-
+   - Certifications-
+   - Volume- 500 units
+   - Design & Development Locations- SF
+   - CM/ODM/JDM- mix of in house and ODM in South Carolina
+   - Other Details-
+
+*Shipping Programs *
+
+Tripwire - using SixFab LTE boards with Quectel & Telit
+
+Other Programs - WiFi 5
+
+
+
+*Key Discussion Items*
+
+· Property and asset management for commercial real estate, parking lots,
+etc
+
+· Products are for access control, occupancy detection
+
+· Cellular with cameras, sensors, etc, reading plates in the parking lots
+
+· Have a suite of HW they install at sites
+
+· Main data transmission is over cellular
+
+   - Deploying at a rate is 500 pcs/year on the Tripware program
+
+
+   - Other system deploys at larger volumes, buying off the shelf for this
+   but could bring in house for future
+
+
+   - Worked with Bluebank in China before, end to end project cost was 500K
+
+
+   - Now that the HW system is proven they want to optimize the
+   architecture & bring module development on board
+
+
+   - Currently buying six fab LTE kits with EG25-G, MiniPcie
+
+
+   - Also using some -G, -GL, some Telit
+
+
+   - CM - combo in house and with US ODM in South Carolina
+
+
+   - Other connectivity - no BLE, use Wi-Fi 5, 2.4ghz, and interested in
+   Halow
+
+
+   - Processing - raspberry Pi based currently
+
+
+   - Timeline - 3 months to refresh current product with EG25
+
+
+   - Regions - Currently only in NA, talking about expanding in Mexico and
+   other regions
+
+· Smart Modules - not sure about full hw roadmap but these are interesting
+for future programs
+
+· Interested in Wi-Fi Halow and cat 1 bis for lower data rate programs
+
+· Quectel Wi-Fi has all types of Wi-Fi + sub 1 GHz options (Halow, Lora)
+
+   - Reviewed LTE - EG25-G vs GL, EC25 and regional variants
+
+· Operate with ECM mode with Ethernet connectivity - is that supported? Yes
+
+· Will stick with this interface for this build over USB connection
+
+· No special bands needed
+
+   - Reviewed Wi-Fi & Smart Modules
+
+
+   - Antennas - would like help with antenna optimization and placement.
+   Quectel can run these reports and compare to our antennas for free
+
+
+   - Interest in MM8 series - 8108 is a new MM chipset. Said they will be
+   out late Q2, need to confirm Quectel roadmap plan for this
+
+
+
+
+
+Module
+
+Note
+
+Ordering Code
+
+Price up to 5K
+
+EG25-GL
+
+Global, cost optimized
+
+EG25GLGD-128-SGNS
+
+$18.80
+
+EG25-G
+
+Global
+
+EG25GGD-256-SGNS
+
+$25.63
+
+EC25-AFXD
+
+NA only & data only
+
+EC25AFXDGA-128-SGAS
+
+$18.88
+
+EC25-AFDL
+
+NA & data only, supports QuecOpen and 3G fallback
+
+EC25AFDLGR-512-SGAS
+
+$22.11
+
+
+
+
+
+*Action Items*
+
+@Da Shen <da.shen@quectel.com> will we be producing any Halow modules with
+the new MM8108 series chipset?
+
+@Molly Kaster <molly.kaster@quectel.com> pricing & NDA
+
+@Christian Rizzo <christian.rizzo@quectel.com> Antenna follow up - offer
+performance eval/optimizations and compare to their current antenna
+
+@Po Li <po.li@quectel.com> please send datasheets on EG25-GL/G,
+EC25-AFDX/AFDL
+
+@Linda <linda.huo@quectel.com> please send official quote
+
+
+
+
+
+*Molly Kaster*
+
+*Territory Sales Manager, Northern California *
+
+*Quectel Wireless Solutions Co., Ltd. *
+
+*Mobile: *+1 (408) 202-9903* | *Menlo Park, CA
+
+*Email :* molly.kaster@quectel.com *| Wechat: *MollyKaster
+
+<https://www.quectel.com/masterclass-events/new-cybersecurity-regulations-how-to-prepare-red-da/>

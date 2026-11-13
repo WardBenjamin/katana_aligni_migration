@@ -1,0 +1,40 @@
+{
+  "id": "5137dc8e-08f4-4c6d-b7cd-d4d5e22796a1",
+  "invoice_number": "INV00036107",
+  "vendor_name": "PTC Inc.",
+  "vendor_id": "bafb1699-553a-47e7-bcb7-655680a5e4dc",
+  "amount": 3750,
+  "currency": "USD",
+  "invoice_date": "Tue, 26 Aug 2025 00:00:00 GMT",
+  "due_date": "Fri, 05 Sep 2025 00:00:00 GMT",
+  "payment_date": null,
+  "payment_status": "PAID",
+  "payment_method": null,
+  "approval_status": "APPROVED",
+  "created_date": "2025-08-27T15:19:05+00:00",
+  "memo": "Onshape Professional License with proration credit and discount",
+  "description": null,
+  "automatic_mapping_reason": null,
+  "accrual_display_status": null,
+  "accrual_display_reason": null,
+  "sync_status": "Bill and payment synced to the ERP",
+  "sync_status_code": "FULLY_SYNCED",
+  "accounting_field_codings": [
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67400 - Software Subscription",
+      "line_item_description": "Line item 1: Onshape Professional License",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67400 - Software Subscription",
+      "line_item_description": "Line item 2: Onshape Professional % Discount",
+      "source": "MANUAL"
+    }
+  ],
+  "line_items": [],
+  "line_items_status": "omitted",
+  "summary": "Bill details for PTC Inc. Line-item details were omitted from this response; line_items=[] does not mean the bill has no line items. Accounting field codings do not supply line-item amounts. This is a submitted bill; do not attempt draft-bill retrieval to recover the omitted line items.",
+  "bill_url": "https://app.ramp.com/s/bill-pay/bills/5137dc8e-08f4-4c6d-b7cd-d4d5e22796a1"
+}

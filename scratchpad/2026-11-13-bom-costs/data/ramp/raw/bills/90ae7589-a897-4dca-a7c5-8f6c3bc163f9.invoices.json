@@ -1,0 +1,18 @@
+{
+  "bill_id": "90ae7589-a897-4dca-a7c5-8f6c3bc163f9",
+  "invoices": [
+    {
+      "id": "63fe297d-28ad-4dfa-b768-dd9f80949cf1",
+      "original_filename": "Inv3661292.pdf",
+      "type": "INVOICE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2025_07_10_422d2e68-afbc-4bbd-b9fb-4c1e2bf04b21.pdf?Expires=1794802301&Signature=MEYCIQDNBJbDW1Cm~GsfuOPpNucrNbDoyLu3B3cGbTWJVHBnDwIhAJ6ibbK1xlPd~Iw86JxrjQUwtAUAp9U7X7nm3l9WTTSZ&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    },
+    {
+      "id": "358bc351-e7f6-4ce9-a569-57d94eb123f7",
+      "original_filename": "email.txt",
+      "type": "EMAIL",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2025_07_10_c926e33c-32e7-4cfa-8231-913f13ad5a05.txt?Expires=1794802301&Signature=MEYCIQCRS0mL-pGTKkoHSP4Ic3kuRdMiICkz0ZG-G2Pvf9BeXgIhANudnIJYI6trzitqUnfBhVocR0UkKxU4r41dlohBRh6h&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    }
+  ],
+  "total_count": 2
+}

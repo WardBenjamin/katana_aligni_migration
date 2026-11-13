@@ -124,3 +124,11 @@
 - Slack DM Ben/Monti (D08EQLEPAKX) — search hit 2026-04-30 thread only — read 2026-11-13
 - Slack DM Ben/Chris (D09P9DCN5M2) — 2026-10-12T14:40Z to 15:12Z and 2026-10-29T17:42Z (Party HAT parts) — read 2026-11-13
 - Slack workspace searches (after 2025-09-30): BOM, Aligni, Katana, RG255C, E39, ECN, SKU, "wall mount" dual, partyhat, YFCO002AA, ELP-USBGS5MP01, L6R06H, 12V emitter, power supply — read 2026-11-13
+- Ramp `ramp_get_org_chart` (Ben) — read 2026-11-13
+- Ramp `ramp_get_transactions` team scope, 8 pages, 1,439 card transactions — read 2026-11-13
+- Ramp `ramp_reporting_query` dataset `spend`, detail rows for Ben, Monti, Chris, 1,573 rows — read 2026-11-13
+- Ramp `ramp_get_receipt_details` for 1,346 card receipts — read 2026-11-13
+- Ramp `ramp_get_reimbursements` for Ben, Monti, Chris (160) and `ramp_get_reimbursement_receipts` per reimbursement — read 2026-11-13
+- Ramp `ramp_search_bills` (6 payees), `ramp_get_bill_details` and `ramp_get_bill_invoices` for 14 bills — read 2026-11-13
+- Ramp `ramp_search_purchase_orders`, `ramp_search_unified_requests`, `ramp_list_unmatched_receipts` — read 2026-11-13
+- Ramp `ramp_get_full_transaction_metadata` 3ce938db and `ramp_search_receipts` "Digi-Key" (shape checks only) — read 2026-11-13

@@ -1,0 +1,36 @@
+{
+  "bill_id": "89d333b3-9fdb-4ae3-a0d9-da6430d1d397",
+  "invoices": [
+    {
+      "id": "1689cf2e-8245-43d0-8405-8206ebfbb936",
+      "original_filename": "INV_2026_00065.pdf",
+      "type": "INVOICE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_06_22_e0261f42-1a1c-4d23-a5c3-87b3a88f5bd5.pdf?Expires=1794802379&Signature=MEUCIEPiMfGGGfZX~LvYt~MJIFt4aEVU8raFFznDGzAZQLZqAiEAlwuFN793RD4bwxvtgIWQut8hXJi17TED~mAkQuRPp8s_&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    },
+    {
+      "id": "42d2df5e-0e41-4408-ae55-1156b8075d8a",
+      "original_filename": "email.txt",
+      "type": "EMAIL",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_06_22_22855ec7-e518-464a-8055-640f6628972a.txt?Expires=1794802379&Signature=MEUCIAetrjwWSSSWrSZZIQDGY~SE0w9tbhBdLGYUfyR0spbkAiEAoHmLNi7TOJTmu7KrQIb9K2CprTroO7uBrMBNBUxRUew_&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    },
+    {
+      "id": "a3518cfe-98ea-4d16-99ae-6e38c9b117da",
+      "original_filename": "Order - S00701.pdf",
+      "type": "FILE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_06_22_0f1fbbc4-dd37-4dc4-86f0-82dd79153738.pdf?Expires=1794802379&Signature=MEUCIQCxLl8pIQI49jS86~6H6dtqARtcon4gPlx28VEpcI63vwIgWlgyA8ydDz-SGfc5jW76WcPT1jxRewUQg2~eGAuzCBo_&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    },
+    {
+      "id": "27856d59-22f2-4ae9-843a-0ceb9e643718",
+      "original_filename": "PO_AirGarage_FixturFab_001-1.pdf",
+      "type": "FILE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_06_22_d1120e8f-71bd-4ae3-964c-a0751def27e6.pdf?Expires=1794802379&Signature=MEUCIA44JaBXR1OkmAr514u58ddpUGH1SWsCzsLW18LNXTE6AiEAnUxebeln1KvrN9cWnpVnkSQdCzDypTJ34xQo-hlLBWc_&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    },
+    {
+      "id": "c88a7abc-1939-45f6-875d-63b5a030355e",
+      "original_filename": "MidFirstBank Wire Instructions - FixturFab - checking primary 2623.pdf",
+      "type": "FILE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_06_22_5a875ee5-937c-4add-8608-431a775d9d1b.pdf?Expires=1794802379&Signature=MEYCIQCB5Z6C5kGj4T-SU834WZP-327MOg0TwpRwb5dgq~9IFgIhANNfXfoJ5rOI0ekfHL71wx8KBnUvBq8nvwWOLw9LZua7&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    }
+  ],
+  "total_count": 5
+}

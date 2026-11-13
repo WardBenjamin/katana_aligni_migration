@@ -1,0 +1,40 @@
+{
+  "id": "90ae7589-a897-4dca-a7c5-8f6c3bc163f9",
+  "invoice_number": "3661292",
+  "vendor_name": "Powermatic",
+  "vendor_id": "9abe2fde-a743-49c7-bfc3-a7170525529e",
+  "amount": 24.34,
+  "currency": "USD",
+  "invoice_date": "Wed, 09 Jul 2025 00:00:00 GMT",
+  "due_date": "Wed, 09 Jul 2025 00:00:00 GMT",
+  "payment_date": null,
+  "payment_status": "PAID",
+  "payment_method": null,
+  "approval_status": "APPROVED",
+  "created_date": "2025-07-10T19:27:42+00:00",
+  "memo": "Invoice for Omron sensors and shipping charges.",
+  "description": null,
+  "automatic_mapping_reason": null,
+  "accrual_display_status": null,
+  "accrual_display_reason": null,
+  "sync_status": "Bill and payment synced to the ERP",
+  "sync_status_code": "FULLY_SYNCED",
+  "accounting_field_codings": [
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 1: Total",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 2: Previous balance",
+      "source": "MANUAL"
+    }
+  ],
+  "line_items": [],
+  "line_items_status": "omitted",
+  "summary": "Bill details for Powermatic Line-item details were omitted from this response; line_items=[] does not mean the bill has no line items. Accounting field codings do not supply line-item amounts. This is a submitted bill; do not attempt draft-bill retrieval to recover the omitted line items.",
+  "bill_url": "https://app.ramp.com/s/bill-pay/bills/90ae7589-a897-4dca-a7c5-8f6c3bc163f9"
+}

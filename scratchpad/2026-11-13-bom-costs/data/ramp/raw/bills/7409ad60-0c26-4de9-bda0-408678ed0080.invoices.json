@@ -1,0 +1,12 @@
+{
+  "bill_id": "7409ad60-0c26-4de9-bda0-408678ed0080",
+  "invoices": [
+    {
+      "id": "dd2089c2-1c0f-4a53-8c24-00c069f71f0c",
+      "original_filename": "Inv3680202.pdf",
+      "type": "INVOICE",
+      "invoice_url": "https://receipts.ramp.com/invoices/airgarage-inc/2026_01_14_7c012f27-47c9-4e43-8305-f45428ff0a7e.pdf?Expires=1794802301&Signature=MEQCIH4dGcUTw9yfbCNb5rm~UYUgg0wcP0q2eyIHINvEtCKFAiBLHGBVemtib5T-Op-H4umD6UR7h4zdjt9XiR~JNvpyTA__&Key-Pair-Id=KQ8I2YFTUUF8X&Hash-Algorithm=SHA256"
+    }
+  ],
+  "total_count": 1
+}

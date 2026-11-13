@@ -1,0 +1,46 @@
+{
+  "id": "8c7bc553-1ca3-40bc-855f-0f38622fda78",
+  "invoice_number": "INV1103",
+  "vendor_name": "Eagle Wireless Holdings, Inc.",
+  "vendor_id": "a496e25e-9696-40e5-9f1a-4a805048acb6",
+  "amount": 1750,
+  "currency": "USD",
+  "invoice_date": "Tue, 31 Mar 2026 00:00:00 GMT",
+  "due_date": "Thu, 30 Apr 2026 00:00:00 GMT",
+  "payment_date": null,
+  "payment_status": "PAID",
+  "payment_method": null,
+  "approval_status": "APPROVED",
+  "created_date": "2026-09-23T19:25:23+00:00",
+  "memo": "IoT LTE Cat 4 MiniPCIE hardware components",
+  "description": "INV1103",
+  "automatic_mapping_reason": null,
+  "accrual_display_status": null,
+  "accrual_display_reason": null,
+  "sync_status": "Bill and payment synced to the ERP",
+  "sync_status_code": "FULLY_SYNCED",
+  "accounting_field_codings": [
+    {
+      "category_name": "QuickBooks Payment Term",
+      "option_name": "Net 30",
+      "line_item_description": null,
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "67300 - Equipment < $2,500",
+      "line_item_description": "Line item 1: IoT LTE Cat 4 MiniPCIE",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Class",
+      "option_name": "Engineering",
+      "line_item_description": "Line item 1: IoT LTE Cat 4 MiniPCIE",
+      "source": "MANUAL"
+    }
+  ],
+  "line_items": [],
+  "line_items_status": "omitted",
+  "summary": "Bill details for Eagle Wireless Holdings, Inc. Line-item details were omitted from this response; line_items=[] does not mean the bill has no line items. Accounting field codings do not supply line-item amounts. This is a submitted bill; do not attempt draft-bill retrieval to recover the omitted line items.",
+  "bill_url": "https://app.ramp.com/s/bill-pay/bills/8c7bc553-1ca3-40bc-855f-0f38622fda78"
+}

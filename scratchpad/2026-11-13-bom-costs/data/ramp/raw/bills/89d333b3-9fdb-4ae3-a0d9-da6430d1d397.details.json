@@ -1,0 +1,40 @@
+{
+  "id": "89d333b3-9fdb-4ae3-a0d9-da6430d1d397",
+  "invoice_number": "INV/2026/00065",
+  "vendor_name": "FixturFab, Inc.",
+  "vendor_id": "a726d9be-a4fc-4e97-8b79-facc3977d869",
+  "amount": 2919.35,
+  "currency": "USD",
+  "invoice_date": "Thu, 30 Apr 2026 00:00:00 GMT",
+  "due_date": "Thu, 30 Apr 2026 00:00:00 GMT",
+  "payment_date": null,
+  "payment_status": "PAID",
+  "payment_method": null,
+  "approval_status": "APPROVED",
+  "created_date": "2026-06-22T14:31:36+00:00",
+  "memo": "Design and assembly of hardware testing fixtures and materials",
+  "description": "INV/2026/00065",
+  "automatic_mapping_reason": null,
+  "accrual_display_status": null,
+  "accrual_display_reason": null,
+  "sync_status": "Bill and payment synced to the ERP",
+  "sync_status_code": "FULLY_SYNCED",
+  "accounting_field_codings": [
+    {
+      "category_name": "QuickBooks Category",
+      "option_name": "15200 - Fixed Asset - Equipment",
+      "line_item_description": "Line item 1: Design and assembly of hardware testing fixtures and materials",
+      "source": "MANUAL"
+    },
+    {
+      "category_name": "QuickBooks Class",
+      "option_name": "Engineering",
+      "line_item_description": "Line item 1: Design and assembly of hardware testing fixtures and materials",
+      "source": "MANUAL"
+    }
+  ],
+  "line_items": [],
+  "line_items_status": "omitted",
+  "summary": "Bill details for FixturFab, Inc. Line-item details were omitted from this response; line_items=[] does not mean the bill has no line items. Accounting field codings do not supply line-item amounts. This is a submitted bill; do not attempt draft-bill retrieval to recover the omitted line items.",
+  "bill_url": "https://app.ramp.com/s/bill-pay/bills/89d333b3-9fdb-4ae3-a0d9-da6430d1d397"
+}
