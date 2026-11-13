@@ -2,7 +2,7 @@
 
 Goal: the current landed cost of one complete vπ unit, per configuration. Plan: `docs/assembly-price/plan.md`.
 
-Status: partial roll-up, 2026-11-13. $1,706.57 priced for the first configuration; the enclosure, ByTechs-made parts, most labour and packaging are unpriced. Current result: `docs/assembly-price/price.md`. Nothing promoted.
+Status: partial roll-up, 2026-11-13. $1,793.95 priced for the first configuration; the enclosure, ByTechs-made parts, most labour and packaging are unpriced. Current result: `docs/assembly-price/price.md`. Nothing promoted.
 
 ## Contents
 
@@ -10,6 +10,8 @@ Status: partial roll-up, 2026-11-13. $1,706.57 priced for the first configuratio
 - `price_config.py`: prices one unit of a config (`uv run --python 3.15 price_config.py configs/rr-bollard-dual46.csv --as-of 2026-11-13`). Writes `out/<config>_price_lines.csv`, one row per leaf part and one labour row per assembly, with status, date and source. The rules for picking a price are in its docstring.
 - `price_rules.csv`: reviewed patterns that tie a part (or an assembly's labour) to purchase lines that carry no part number, with units per pack. Quote any pattern that contains a comma.
 - `manual_prices.csv`: prices read by hand, each with date, basis and source (list prices, quotes, record memos).
+- `price_adders.csv`: per-part costs that are on no invoice line, each with date, basis and source. Holds the estimated camera import duty.
+- `camera_duty_estimate.py`: the duty arithmetic for the 600-camera ELP order (`uv run --python 3.15 camera_duty_estimate.py`). `data/tariffs/`: the tariff schedule extracts, proclamation, Federal Register notices and CBP rulings behind it; the 14 MB chapter 99 PDF is gitignored. Notes: `docs/assembly-price/research/camera-tariffs.md`.
 - `invoice_lines.csv`: lines typed from invoices that are not in the Ramp pull, with the invoice's goods total and grand total so the script can land each line. `flag` text is carried into the output.
 - `data/invoices/bytechs/`: the archive Ben supplied (25 Bytechs LLC invoices issued through Deel, 9 Deel fee invoices) and its extracted PDFs. `data/invoices/pcb/`: three JLCPCB invoices. Notes: `docs/assembly-price/research/invoices.md`.
 - `data/invoices/powermatic/OrdAck1426189.pdf`: Powermatic order acknowledgement of 2025-10-14 for 200 E3Z-R61 and 200 E39-R1S. Notes: `docs/assembly-price/research/powermatic-ordack.md`.

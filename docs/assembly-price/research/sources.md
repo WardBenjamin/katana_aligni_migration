@@ -18,3 +18,23 @@
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/haig/Inv.98995.pdf`: Haig Precision invoice 98995 — read 2026-11-13
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/makerbright/Invoice_1381.pdf`: MakerBright invoice 1381 — read 2026-11-13
 - `boms/AG-PIC-005-000.csv` and the ELP rows of `boms/items.csv` — read 2026-11-13
+
+## camera-tariffs (read 2026-11-13)
+- https://airgarage.slack.com/archives/C09FF4GLH9R/p1775837057811809 (#airgarage-bytechs, 2026-04-10T16:04Z, cameras shipped, UPS tracking; thread ts 1775836387.012279 read in full, 2026-04-15 to 2026-04-23 replies)
+- https://airgarage.slack.com/archives/C08EUD1T2US/p1771615984347319 (group DM, 2026-02-20T19:33Z, ELP order tariffs not yet paid; surrounding messages read)
+- https://airgarage.slack.com/archives/C08EUD1T2US/p1776295590373499 (group DM, 2026-04-15T23:26Z, "last tariff bill on the cameras like $35K")
+- Slack search results (concise) for "tariff", "ELP", "duties", "customs", "UPS" Jan-Jul 2026; DM Ben Ward / Chris Williamson 2026-06-05T15:43Z (57.5% cable tariff)
+- Ramp connector: ramp_search_vendors (Ailipu, ELP, DHL Express, FedEx, UPS), ramp_search_bills ("Ailipu"), ramp_get_transactions (duty text; UPS 2026-03-25..06-01; amount > $20,000 2026-01-20..04-15). No match.
+- scratchpad/2026-11-13-bom-costs/out/cost_records_20250101.csv (filtered Jan-Aug 2026: DHL duties $176.59 on 2026-03-31 and 2026-06-11 only)
+- https://hts.usitc.gov/reststop/search?keyword=8525.89 , keyword=9903.03 , keyword=9903.88.03 (saved data/tariffs/hts_*.json)
+- https://hts.usitc.gov/reststop/file?release=currentRelease&filename=Chapter%2099 (HTS Revision 23 (2026) ch. 99, saved data/tariffs/hts_ch99.pdf, ch99.txt)
+- https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/ (saved data/tariffs/s122_proclamation.html)
+- https://www.federalregister.gov/documents/2026/02/25/2026-03824/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems (data/tariffs/fr_2026-03824.xml; annex tables not in the XML)
+- https://www.federalregister.gov/documents/2026/02/25/2026-03832/ending-certain-tariff-actions (EO 14389; data/tariffs/fr_2026-03832.xml)
+- https://rulings.cbp.gov/ruling/H332743 and /H331315 (via rulings.cbp.gov/api/ruling/<id>, data/tariffs/r_*.json)
+- https://www.federalregister.gov/documents/2025/07/23/2025-13869/customs-user-fees-to-be-adjusted-for-inflation-in-fiscal-year-2026-cbp-dec-25-10 (MPF FY2026, from search snippet only, not opened)
+- Web searches (pointers only, not cited as authority): flexport, wiley, bakerdonelson, freshfields Section 122 summaries; customsmobile NY N018295
+
+## camera-tariffs-review (read 2026-11-13)
+- `data/tariffs/hts_8525.89.json`, `hts_9903.88.03.json`, `hts_9903.03.json`, `ch99.txt`, `s122_proclamation.txt` under `scratchpad/2026-11-13-vpi-assembly-price/` (the agent's saved copies)
+- Slack thread C09FF4GLH9R, parent ts 1775836387.012279, via `slack_read_thread`

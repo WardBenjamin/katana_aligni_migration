@@ -6,6 +6,8 @@
     uv run price_config.py configs/rr-bollard-dual46.csv [--as-of 2026-11-13]
 
 Each leaf part gets one row per configuration line; each assembly gets a labour row.
+A part listed in price_adders.csv also gets an adder row for a cost that is on no invoice line
+(import duty, for example).
 A price comes from, in order of preference: the latest purchase at production quantity
 (enough for MIN_BUILDS units), a price in manual_prices.csv, the latest small-lot purchase.
 Anything dated within STALE_DAYS of the as-of date beats anything older; older prices are
@@ -125,6 +127,9 @@ def main():
         rules[r["Part Number"]].append(r)
     for m in read(HERE / "manual_prices.csv"):
         manual[m["Part Number"]].append(m)
+    adders = defaultdict(list)
+    for a in read(HERE / "price_adders.csv"):
+        adders[a["Part Number"]].append(a)
     cost_lines = read(COST_LINES) + invoice_lines()
     for c in cost_lines:
         c["_text"] = " ".join(c[k] for k in ("vendor_pn", "mpn", "item_code", "item_name", "item_name_full")).lower()
@@ -155,6 +160,15 @@ def main():
             "Purchased Quantity": pick.get("qty", ""), "Units Per Pack": pick.get("pack", ""),
             "Purchase Lines": lines, "Flag": pick.get("flag", ""), "Source": pick.get("source", ""),
         })
+        for a in () if is_assembly else adders.get(part, ()):
+            rows.append({
+                "Config Line": root, "Kind": "adder", "Part Number": part, "Part Name": a["Description"],
+                "Extended Quantity": f"{q:g}", "Each Cost": f"{float(a['Each Cost']):.4f}",
+                "Extended Cost": f"{float(a['Each Cost']) * q:.2f}",
+                "Status": ("" if a["Date UTC"] >= cutoff else "stale ") + a["Basis"], "Price Date UTC": a["Date UTC"],
+                "Vendor": "", "Purchased Quantity": "", "Units Per Pack": "", "Purchase Lines": "",
+                "Flag": a["Note"], "Source": a["Source"],
+            })
 
     out = HERE / "out" / f"{Path(args.config).stem}_price_lines.csv"
     with open(out, "w", newline="", encoding="utf-8") as f:
@@ -167,7 +181,7 @@ def main():
         return len(sel), sum(float(r["Extended Cost"] or 0) for r in sel)
 
     print(f"as of {args.as_of}; prices dated before {cutoff} are stale")
-    for kind in ("part", "labour"):
+    for kind in ("part", "labour", "adder"):
         print(f"\n{kind} rows")
         for status in sorted({r["Status"] for r in rows if r["Kind"] == kind}):
             n, cost = total(lambda r: r["Kind"] == kind and r["Status"] == status)

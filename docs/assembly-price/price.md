@@ -8,7 +8,7 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 
 ## Where it stands
 
-**$1,706.57 is priced. This is not yet the assembly price**: the enclosure, every ByTechs-made part, most labour and all packaging are missing.
+**$1,793.95 is priced. This is not yet the assembly price**: the enclosure, every ByTechs-made part, most labour and all packaging are missing.
 
 | Basis | Rows | $ |
 |---|---|---|
@@ -17,11 +17,12 @@ Scope (Ben, 2026-11-13): parts, ByTechs labour and packaging. Not freight to sit
 | List prices dated 2026-11-13 (reflectors, bollard) | 2 | 204.44 |
 | Stale purchases and proforma invoices (older than six months) | 20 | 647.17 |
 | Stale ByTechs labour | 3 | 51.95 |
-| **Priced** | **76** | **1,706.57** |
+| Estimated import duty on the two cameras (entered about 2026-04-17) | 2 | 87.38 |
+| **Priced** | **78** | **1,793.95** |
 | Unpriced part rows | 54 | |
 | Unpriced labour rows | 12 | |
 
-$1,007.45 rests on prices inside six months and $699.12 on older ones. 71 of 124 leaf parts are priced.
+$1,007.45 rests on prices inside six months and $786.50 on older ones. 71 of 124 leaf parts are priced.
 
 By configuration line:
 
@@ -29,7 +30,7 @@ By configuration line:
 |---|---|---|---|
 | `AG-CS3-Kit` | 711.88 | 39.47 | 35 |
 | `AG-SEN2-RR-Kit` | 116.59 | 321.14 | 13 |
-| `AG-Dual46-RoundBollard-Kit` | 0.00 | 259.58 | 11 |
+| `AG-Dual46-RoundBollard-Kit` | 0.00 | 346.96 | 11 |
 | `AG-IP-RRBM-DC-Kit` | 78.98 | 78.93 | 5 |
 | Enclosure base and top | 0.00 | 0.00 | 2 |
 | `EXT-H-2118F` bollard | 100.00 | 0.00 | 0 |
@@ -42,6 +43,7 @@ Largest rows:
 | Omron E3Z-R61 | 2 | 256.77 | stale purchase, 200 units | 2026-01-16 |
 | ELP camera, 4 mm (KV100IR) | 1 | 127.12 | stale proforma invoice, 50 units | 2026-01-27 |
 | ELP camera, 6 mm (KL60IR) | 1 | 127.12 | stale proforma invoice, 400 units | 2026-01-27 |
+| Import duty on the two cameras | 2 | 87.38 | stale estimate, 35% plus processing fee | 2026-04-17 |
 | Samsung PRO Endurance 256GB | 1 | 114.36 | small-lot purchase, 2 units | 2026-06-21 |
 | Omron E39-R1S | 4 | 104.44 | Digi-Key list price, chosen by Ben | 2026-11-13 |
 | Uline H-2118F bollard | 1 | 100.00 | list price, no freight or tax | 2026-11-13 |
@@ -54,7 +56,7 @@ Largest rows:
 | Modem bridge bare PCB | 1 | 21.36 | small-lot purchase, 5 units | 2026-10-08 |
 | Bollard washer | 12 | 20.73 | purchase, 500 units | 2026-07-16 |
 
-The camera price includes its 5 m USB cable, so the two cable rows are priced at $0.00. The Raspberry Pi cooler is $6.50 on the same MakerBright invoice.
+The camera price includes its 5 m USB cable, so the two cable rows are priced at $0.00. With the estimated duty, one camera lands at about $170.81. The Raspberry Pi cooler is $6.50 on the same MakerBright invoice.
 
 Every row, with its source: `scratchpad/2026-11-13-vpi-assembly-price/out/rr-bollard-dual46_price_lines.csv`. Rebuild: `uv run --python 3.15 price_config.py configs/rr-bollard-dual46.csv --as-of 2026-11-13`.
 
@@ -73,9 +75,21 @@ The ByTechs archive does not fill the ByTechs gaps: its last five invoices say o
 ## Stale lines that need a quote or a confirmation under the six-month rule
 
 - E3Z-R61 sensors, $256.77: invoice paid 2026-01-16. The order acknowledgement Ben supplied shows the same $128.20 unit price from 2025-10-14 ([research/powermatic-ordack.md](research/powermatic-ordack.md)).
-- ELP cameras, $254.25: proforma invoice dated 2026-01-27.
+- ELP cameras, $254.25, and their estimated duty, $87.38: proforma invoice dated 2026-01-27, entered the US about 2026-04-17.
 - Junction box, $68.04; the two Misumi bars, $25.30; compression connectors, $10.89; P30B batteries, $9.27; and smaller lines.
 - All ByTechs labour figures: the newest is from 2025-12.
+
+## Camera import duty
+
+Estimate for the 600-camera order that entered the US about 2026-04-17 ([research/camera-tariffs.md](research/camera-tariffs.md), checked in [research/camera-tariffs-review.md](research/camera-tariffs-review.md)). No duty bill was found.
+
+| Case | Rate on $74,160 | Order | Per camera |
+|---|---|---|---|
+| Low: classified as a digital still image video camera | 17.5% | $12,978 | $21.63 |
+| Likely: Section 301 at 25% plus Section 122 at 10% | 35% | $25,956 | $43.26 |
+| High: same rates with freight in the customs value | 35% | $26,689 | $44.48 |
+
+The roll-up uses the likely case plus a $0.43 processing fee, $43.69 per camera. The UPS entry summary or duty invoice for that shipment would replace the estimate. Section 122 expired at the close of 2026-07-23, so the next order will face a different rate; that was not researched.
 
 ## Priced for other configurations
 
@@ -88,4 +102,5 @@ The ByTechs archive does not fill the ByTechs gaps: its last five invoices say o
 - ByTechs and JLCPCB invoices: [research/invoices.md](research/invoices.md).
 - Powermatic order acknowledgement: [research/powermatic-ordack.md](research/powermatic-ordack.md).
 - ELP, Haig and MakerBright documents: [research/elp-haig-makerbright.md](research/elp-haig-makerbright.md).
+- Camera import duty: [research/camera-tariffs.md](research/camera-tariffs.md), [research/camera-tariffs-review.md](research/camera-tariffs-review.md).
 - E39-R1S at $26.11 (https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204) was given by Ben on 2026-11-13 as the most recent source; the page was not opened.

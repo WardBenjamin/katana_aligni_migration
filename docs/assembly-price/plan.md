@@ -1,6 +1,6 @@
 # vπ full assembly price: plan
 
-As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $1,706.57 priced, with the enclosure, ByTechs-made parts, most labour and packaging still missing. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
+As of 2026-11-13 (UTC). Status: in progress. Steps 1 and 3 are done as a first pass and step 7's script exists. The current result is in [price.md](price.md): $1,793.95 priced, with the enclosure, ByTechs-made parts, most labour and packaging still missing. The facts behind the plan are in [research/first-pass.md](research/first-pass.md).
 
 ## Goal
 
