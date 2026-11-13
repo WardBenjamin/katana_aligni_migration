@@ -113,3 +113,14 @@
 - Tripwire Manufacturing Batch Info (search within page, no hits) — https://app.notion.com/p/1f8dcb3d06b280bf9a81dd390a82ff68 — read 2026-11-13
 - SQL checksums (COUNT, SUM of quantities/costs, SUM of text lengths) on CS3-001-000, X4A Sensor Interposer PCB, Materials Inventory (OLD, v2), V3.1 camera "BoM" — Notion MCP query-data-sources, sql mode — read 2026-11-13
 - Sensor Interface PCB v2.1 (row page, Materials Inventory (OLD, v2); checked ancestor path) — https://app.notion.com/p/092e46d00dec476b8293ca9497df1c35 — read 2026-11-13
+- Slack #airgarage-bytechs-hardware-chat (C0C1WC7D468) — whole channel 2026-09-14 to 2026-11-12, plus threads — read 2026-11-13
+- Slack #temp-katana-onboarding (C0CGR5LKQ95) — whole channel (created 2026-11-12) — read 2026-11-13
+- Slack #airgarage-bytechs-tripleb-v4-hardware (C0C1C27RFP1) — whole channel 2026-09-14 to 2026-11-12 — read 2026-11-13
+- Slack #pt-obelisk (C0C7J22K5PT) — whole channel 2026-10-07 to 2026-11-12 — read 2026-11-13
+- Slack #pt-tripwire (C04PDLL3GAF) — full history 2026-07-06 to 2026-11-11; keyword searches 2025-10-01 to 2026-07-06 with threads — read 2026-11-13
+- Slack #pt-v4-sensors (C0ARYAA2FNF) — whole channel 2026-04-10 to 2026-11-11 — read 2026-11-13
+- Slack #airgarage-bytechs (C09FF4GLH9R) — top-level 2025-10-01 to 2026-02-20 and 2026-08-15 to 2026-11-12; keyword searches over 2025-10-01 to 2026-11-12 with about 30 threads — read 2026-11-13
+- Slack #tripwire-leadership (C0AA64RJ6BV) — search hits only (Aligni, Katana, E39, wall mount), 2026-04-09 to 2026-11-10 — read 2026-11-13
+- Slack DM Ben/Monti (D08EQLEPAKX) — search hit 2026-04-30 thread only — read 2026-11-13
+- Slack DM Ben/Chris (D09P9DCN5M2) — 2026-10-12T14:40Z to 15:12Z and 2026-10-29T17:42Z (Party HAT parts) — read 2026-11-13
+- Slack workspace searches (after 2025-09-30): BOM, Aligni, Katana, RG255C, E39, ECN, SKU, "wall mount" dual, partyhat, YFCO002AA, ELP-USBGS5MP01, L6R06H, 12V emitter, power supply — read 2026-11-13
