@@ -1,0 +1,10 @@
+Designators,Quantity,Value,Footprint,MPN,Manufacturer,DPN,DNP,InBOM,OnBoard,Datasheet,Description
+"C1,C2,C3,C4,C5,C6",6,100n,Capacitor_SMD:C_0603_1608Metric,,,,DNP,no,no,~,"Unpolarized capacitor, small symbol"
+J1,1,USB_C_Receptacle,AirGarage:USB_C_Receptacle_Amphenol_GSB3CA11310DSHR,,,,DNP,no,no,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB Full-Featured Type-C Receptacle connector
+J2,1,Conn_01x12_MountingPin,AirGarage:GCT_FFC2B28-12-G,,,,,yes,yes,~,"Generic connectable mounting pin connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"P1,P2",2,USB3_A,AirGarage:USB3_A_Plug_Amphenol_GSB316441CEU_Vertical,Amphenol GSB316441CEU,,GSB316441CEUTR-ND,,yes,yes,~,USB 3.0 A connector
+P3,1,USB2_A,AirGarage:USB3_A_Plug_Amphenol_GSB316441CEU_Vertical,Amphenol GSB316441CEU,,GSB316441CEUTR-ND,,yes,yes,~,USB 3.0 A connector
+P5,1,USB_B_Micro,AirGarage:USB_Micro-B_GCT_USB3150-30-130-A_GCC,,,,,yes,yes,~,USB Micro Type B connector
+P6,1,USB_C_Plug_USB2.0,AirGarage:USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical,,,,,yes,yes,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB 2.0-only Type-C Plug connector
+P7,1,USB_C_Plug,AirGarage:USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical,,,,DNP,no,no,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB Type-C Plug connector
+"R1,R2,R3,R4,R5,R6",6,1M,Resistor_SMD:R_0603_1608Metric,,,,DNP,no,no,~,"Resistor, small US symbol"

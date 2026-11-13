@@ -1,0 +1,3 @@
+Designators,Quantity,Value,Footprint,MPN,Manufacturer,DNP,InBOM,OnBoard,Datasheet,Description
+P5,1,USB_B_Micro,AirGarage:USB_Micro-B_GCT_USB3150-30-130-A_GCC,,,,yes,yes,~,USB Micro Type B connector
+P6,1,USB_C_Plug_USB2.0,AirGarage:USB3_C_Plug_Amphenol_GSB3CN1130DSHR_Vertical,,,,yes,yes,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB 2.0-only Type-C Plug connector

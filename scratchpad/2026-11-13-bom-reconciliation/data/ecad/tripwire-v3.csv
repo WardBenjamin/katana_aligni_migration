@@ -1,0 +1,5 @@
+Designators,Quantity,Value,Footprint,MPN,Manufacturer,DNP,InBOM,OnBoard,Datasheet
+"H1,H2,H3,H4",4,MountingHole,MountingHole:MountingHole_2.2mm_M2,,,,yes,yes,~
+J1,1,Screw_Terminal_01x04,footprints:PHOENIX_1984989,,,,yes,yes,~
+"R1,R3",2,1000,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,yes,yes,~
+R2,1,3000,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,yes,yes,~

@@ -1,0 +1,10 @@
+Designators,Quantity,Value,Footprint,MPN,Manufacturer,DPN,DNP,InBOM,OnBoard,Datasheet,Description,Sim.Pins
+"D1,D2,D3",3,SMF24A,Diode_SMD:D_SOD-123F,Littelfuse SMF24A,,F5823TR-ND,,yes,yes,~,Zener diode,
+D4,1,SMAJ12A,Diode_SMD:D_SMA,Littelfuse SMF24A,,F5823TR-ND,DNP,no,no,~,Zener diode,
+"D5,D6",2,PMEG3010ER,Diode_SMD:D_SOD-123F,"Nexperia PMEG3010ER,115",,1727-5201-2-ND,,yes,yes,~,Schottky diode,
+"D7,D8",2,GN,Diode_SMD:D_0603_1608Metric,Lite-on LTST-C190GKT,,160-1183-1-ND,DNP,no,no,~,Light emitting diode,1=K 2=A
+J1,1,6P6C,Connector_RJ:RJ12_Amphenol_54601-x06_Horizontal,,,,,yes,yes,~,"RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25",
+J2,1,SENS_A,Connector_Phoenix_SPT:PhoenixContact_SPT_2.5_3-H-5.0_1x03_P5.0mm_Horizontal,Phoenix Contact LPT 1190298,,277-1190298-ND,,yes,yes,~,"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J3,1,SENS_B,Connector_Phoenix_SPT:PhoenixContact_SPT_2.5_3-H-5.0_1x03_P5.0mm_Horizontal,Phoenix Contact LPT 1190298,,277-1190298-ND,,yes,yes,~,"Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",
+J4,1,PJ-063AH,Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal,Same Sky/CUI PJ-063AH,,CP-063AH-ND,,yes,yes,~,DC Barrel Jack with a mounting pin,
+"R1,R2",2,5.1k,Resistor_SMD:R_0603_1608Metric,Stackpole RMCF0603FT5K10,,RMCF0603FT5K10CT-ND,DNP,no,no,~,"Resistor, US symbol",

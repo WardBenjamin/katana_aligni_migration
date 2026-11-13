@@ -1,0 +1,11 @@
+bollard-interposer-board — Bill of Materials,,,,,,
+"As of the current design state (J2/J3/J4 connectors, power LED, mounting hardware)",,,,,,
+Ref Des,Qty,Description,Manufacturer,MPN,Package / Footprint,Notes
+J2,1,"M12 A-coded, 17-position + shield pin, male-pin panel-mount receptacle",Amphenol LTW,M12A-17PMMP-SF8001,"M12, panel mount (custom KiCad footprint, cross-checked vs. datasheet + STEP model)",Mates with LiDAR M12 cable (Compute_RJ12 net: GND/VCC12/ETH pairs)
+J3,1,RJ12/RJ11/RJ14/RJ25 6P6C vertical unshielded modular jack,MH Connectors,MHRJJ66NFV,"THT vertical (custom KiCad footprint, cross-checked vs. Farnell dims)","Compute_RJ12 power breakout: pin1=GND, pin6=VCC12"
+J4,1,"RJ45 8P8C modular jack, no integrated magnetics, no LEDs",Amphenol (ICC/FCI),54602-908LF,"THT horizontal, 16.31 x 18.74mm (standard KiCad footprint)","Compute_RJ45 Ethernet breakout: straight pass-through, pins 1/2/3/6 used"
+R1,1,"Resistor, 2.0kΩ, 1%, 1/10W",Yageo,RC0603FR-072KL,0603 (1608 metric),"LED current-limit resistor, sized for 12V rail (~5mA through D1)"
+D1,1,"LED, Red / Hyper Red, clear lens",Kingbright,APT1608SURCK,0603 (1608 metric),"12V power-present indicator; Vf=1.95V typ @20mA, run at ~5mA (~10mW)"
+MH1–MH4,4,"M3 mounting hole, non-plated through hole","— (mechanical, generic)",—,MountingHole_3.2mm (3.2mm drill),"Board corner mounting; M3 screws/standoffs not included, source separately"
+Total qty,9,,,,,
+Notes: All MPNs verified against real manufacturer/distributor datasheets during design (see project history). Board is 50x50mm; DRC/ERC clean as of this BOM. Copper routing not yet done.,,,,,,

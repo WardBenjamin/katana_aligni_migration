@@ -13,3 +13,4 @@
   - Sensor bar: CAD has `Tuning Fork Mount` and two rain-cover variants (`Mounting Holes`, `Round & Flat`); Aligni has `RollMnt` and the Round & Flat cover only.
   - Sensor enclosure: CAD has base, front hood and rear hood (V5); Aligni has base and "ENCLOSURE ASSY V5" top, bought from Haig Precision.
 - V4 / Obelisk (X1 to X5) and V3.1 have CAD here and no parts in Aligni.
+- 2026-11-13T04:30Z: after disk space was freed, `git -C repos/tripwire-mcad status` reports a clean working tree at 033bdfb; the checkout is complete.

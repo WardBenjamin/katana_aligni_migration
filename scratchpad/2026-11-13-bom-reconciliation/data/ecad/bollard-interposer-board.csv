@@ -1,0 +1,15 @@
+Designators,Quantity,Value,Footprint,MPN,Manufacturer,Digikey PN,DNP,InBOM,OnBoard,Datasheet,Description
+C1,1,C,Capacitor_SMD:C_0603_1608Metric,,,,,yes,yes,~,Unpolarized capacitor
+"C2,C5",2,100nF,Capacitor_SMD:C_0603_1608Metric,CL10B104KB8NNNC,,,,yes,yes,~,Unpolarized capacitor
+C3,1,10uF,Capacitor_SMD:C_1206_3216Metric,CL31B106KBHNNNE,,,,yes,yes,~,Unpolarized capacitor
+C4,1,10nF,Capacitor_SMD:C_0603_1608Metric,CL10B103KB8NNNC,,,,yes,yes,~,
+D1,1,APA1606SURCK,LED_SMD:LED_Kingbright_APA1606_1.6x0.6mm_Horizontal,APA1606SURCK,,,,yes,yes,,Light emitting diode
+D2,1,SMAJ15A,Diode_SMD:D_SMA,SMAJ15A,,,,yes,yes,https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet,"400W unidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)"
+J2,1,M12A-17PMMP-SF8001,bollard-interposer-board:M12A-17PMMP-SF8001,M12A-17PMMP-SF8001,,,,yes,yes,,"Generic connector, single row, 01x17, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J3,1,MHRJJ66NFV,bollard-interposer-board:MHRJJ66NFV,MH Connectors MHRJJ66NFV,,,,yes,yes,,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J4,1,RJHSE3085,bollard-interposer-board:RJHSE3085,,,,,yes,yes,~,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1,R3",2,2.0k,Resistor_SMD:R_0603_1608Metric,RC0603FR-072KL,,,,yes,yes,,Resistor
+R4,1,100k,Resistor_SMD:R_0603_1608Metric,RC0603FR-07100KL,,,,yes,yes,~,
+R5,1,6.34k,Resistor_SMD:R_0603_1608Metric,RC0603FR-076K34L,,,,yes,yes,~,
+U1,1,TPD4E1B06DCKR,Package_TO_SOT_SMD:SOT-363_SC-70-6,TPD4E1B06DCKR,,,,yes,yes,https://www.ti.com/lit/ds/symlink/tpd4e1b06.pdf,"4-channel bidirectional ESD protection array, 0.7 pF, SC70-6 (DCK)"
+U2,1,TPS26600PWP,Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,TPS26600PWPR,,,,yes,yes,https://www.ti.com/lit/ds/symlink/tps2660.pdf,"60V 2A industrial eFuse, auto-retry, integrated reverse polarity protection"
