@@ -14,3 +14,7 @@
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/pcb/invoice-5.pdf`, `invoice-6.pdf`, `invoice-7.pdf`: JLCPCB invoices, read by eye (no text layer) — read 2026-11-13
 - `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/powermatic/OrdAck1426189.pdf`: Powermatic order acknowledgement 1426189, 1 page — read 2026-11-13
 - `scratchpad/2026-11-13-bom-costs/data/ramp/manual_lines.csv` (Powermatic rows) and the Powermatic rows of `cost_records_20250101.csv` and `cost_lines_20250101.csv` — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/elp/Ailipu PI NO.ELPFP2026012704C-1.pdf` and `Ailipu PI NO.ELPFP2026011501C-1.pdf`: Shenzhen Ailipu proforma invoices — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/haig/Inv.98995.pdf`: Haig Precision invoice 98995 — read 2026-11-13
+- `scratchpad/2026-11-13-vpi-assembly-price/data/invoices/makerbright/Invoice_1381.pdf`: MakerBright invoice 1381 — read 2026-11-13
+- `boms/AG-PIC-005-000.csv` and the ELP rows of `boms/items.csv` — read 2026-11-13

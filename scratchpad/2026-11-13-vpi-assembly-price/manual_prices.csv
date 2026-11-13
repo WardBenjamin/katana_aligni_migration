@@ -1,5 +1,5 @@
 Part Number,Each Cost,Date UTC,Basis,Source,Note
 EXT-G3-F,2.11,2026-04-25,purchase record,https://app.ramp.com/business-overview/transactions/e0673127-67b6-4f61-b05d-838bc16c0b42,100 SIM cards for $211.00 per the record memo; receipt not itemized
 EXT-H-2118F,100.00,2026-11-13,list price,https://www.uline.com/Product/Detail/H-2118F/Safety-Guards-Barriers/Standard-Safety-Bollard-45-x-36-Fixed,"Quantity 1; $95 at 4 or more. Excludes freight and tax. Ships UPS, 22 lb"
-EXT-SC1113,385.00,2026-11-13,quote,"Ben, 2026-11-13",Current price given by Ben; no source document
-EXT-E39-R1S,26.11,2026-11-13,list price,https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204,Price and link given by Ben 2026-11-13; page not opened. Excludes tax and freight
+EXT-E39-R1S,26.11,2026-11-13,list price,https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204,Price and link given by Ben 2026-11-13 as the most recent source; page not opened. Excludes tax and freight
+AG-PIC-001-006_ELPCamUSB,0.00,2026-01-27,included with camera,data/invoices/elp/Ailipu PI NO.ELPFP2026012704C-1.pdf (ELPFP2026012704C),Each camera line reads "with ... IR LED & 5m usb cable"

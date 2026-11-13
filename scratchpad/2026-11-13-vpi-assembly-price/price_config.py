@@ -46,7 +46,7 @@ def invoice_lines():
     return [{"date_utc": r["date_utc"], "vendor": r["vendor"], "vendor_pn": "", "mpn": "", "item_code": "",
              "item_name": r["item_name"], "item_name_full": "", "quantity": r["quantity"], "unit_price": r["unit_price"],
              "landed_unit_cost": float(r["line_total"]) * float(r["invoice_total"]) / float(r["invoice_goods_total"]) / float(r["quantity"]),
-             "needs_review": "False", "link": f"{r['source_file']} ({r['invoice_no']})"} for r in typed]
+             "needs_review": "False", "link": f"{r['source_file']} ({r['invoice_no']})", "flag": r["flag"]} for r in typed]
 
 
 def tokens(part, item):
@@ -71,7 +71,7 @@ def observations(part, item, need, rules, manual, cost_lines):
         if pack is None:
             m = PACK.search(c["_text"])
             pack = float(m.group(1)) if m else 1.0
-        flags = [rule["Flag"]] if rule and rule["Flag"] else []
+        flags = [f for f in (rule and rule["Flag"], c.get("flag")) if f]
         # A record under review has a landed cost spread by estimate, so its receipt unit price is used.
         review = c["needs_review"] == "True"
         if review:

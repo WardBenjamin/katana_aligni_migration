@@ -60,8 +60,8 @@ AG-CS3-Kit,part,EXT-RMCF0603FT510K,"510k Resistor, small US symbol (R_0603_1608M
 AG-CS3-Kit,part,EXT-RMCF0603FT5K10,"5.1k Resistor, US symbol (R_0603_1608Metric)",1,,,none,,,,,0,,
 AG-CS3-Kit,part,EXT-RMCF0603FT680R,"680 Resistor, US symbol (R_0603_1608Metric)",2,,,none,,,,,0,,
 AG-CS3-Kit,part,EXT-S02B-XASS-1,"PWR_OUT Generic connector, single row, 01x02, script generated (JST_XA_S02B-XASK-1_1x02_P2.50mm_Horizontal)",1,,,none,,,,,0,,
-AG-CS3-Kit,part,EXT-SC1113,Raspberry Pi 5 16GB,1,385.0000,385.00,quote,2026-11-13,,,,3,Current price given by Ben; no source document,"Ben, 2026-11-13"
-AG-CS3-Kit,part,EXT-SC1148,Raspberry Pi 5 Active Cooler,1,5.6219,5.62,stale purchase,2025-04-23,Digi-Key,80.0,1.0,2,,https://app.ramp.com/business-overview/transactions/2952d729-5570-463b-af69-250c7f3e34a6
+AG-CS3-Kit,part,EXT-SC1113,Raspberry Pi 5 16GB,1,385.0000,385.00,purchase,2026-11-06,MakerBright,150.0,1.0,4,,data/invoices/makerbright/Invoice_1381.pdf (1381)
+AG-CS3-Kit,part,EXT-SC1148,Raspberry Pi 5 Active Cooler,1,6.5000,6.50,purchase,2026-11-06,MakerBright,150.0,1.0,3,,data/invoices/makerbright/Invoice_1381.pdf (1381)
 AG-CS3-Kit,part,EXT-SM-I-003,Super Watchdog HAT v9 with Battery Backup for Raspberry Pi,1,45.2026,45.20,purchase,2026-06-22,Sequent Microsystems,50.0,1.0,3,,https://app.ramp.com/business-overview/transactions/25d1ce03-1179-4eb2-a775-9fbc3853eb5f
 AG-CS3-Kit,part,EXT-SMF24A,SMF24A Zener diode (D_SOD-123F),5,,,none,,,,,0,,
 AG-CS3-Kit,part,EXT-SRFL029,Antenova LTE + Cellular Antenna,1,3.7620,3.76,stale purchase,2026-01-02,Mouser Electronics,125.0,1.0,1,,https://app.ramp.com/business-overview/transactions/a73562d7-513a-4e5f-bb53-8125a8d7de3c
@@ -84,9 +84,9 @@ AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-002_InnerWindow,Inner Lens Window,2,,
 AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-003_DualWindow,Dual Lens Window,1,,,none,,,,,0,,
 AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-004_LensGrom,Lens Grommet,2,,,none,,,,,0,,
 AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-005_DualWinMount,Dual Lens Window Mount,1,,,none,,,,,0,,
-AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-006_ELPCamUSB,ELP Camera USB Cable (5m),2,,,none,,,,,0,,
-AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-007_ELPCam4,ELP Camera — 4mm focal length,1,,,none,,,,,0,,
-AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-008_ELPCam6,ELP Camera — 6mm focal length,1,,,none,,,,,0,,
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-006_ELPCamUSB,ELP Camera USB Cable (5m),2,0.0000,0.00,stale included with camera,2026-01-27,,,,0,"Each camera line reads ""with ... IR LED & 5m usb cable""",data/invoices/elp/Ailipu PI NO.ELPFP2026012704C-1.pdf (ELPFP2026012704C)
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-007_ELPCam4,ELP Camera — 4mm focal length,1,127.1250,127.12,stale purchase,2026-01-27,Shenzhen Ailipu Technology (ELP),50.0,1.0,1,V100 lens taken as the 4 mm camera; proforma invoice,data/invoices/elp/Ailipu PI NO.ELPFP2026012704C-1.pdf (ELPFP2026012704C)
+AG-Dual46-RoundBollard-Kit,part,AG-PIC-001-008_ELPCam6,ELP Camera — 6mm focal length,1,127.1250,127.12,stale purchase,2026-01-27,Shenzhen Ailipu Technology (ELP),400.0,1.0,1,proforma invoice,data/invoices/elp/Ailipu PI NO.ELPFP2026012704C-1.pdf (ELPFP2026012704C)
 AG-Dual46-RoundBollard-Kit,labour,AG-PIC-003-000,Labour: vπ Round Bollard Mount,1,,,none,,,,,0,,
 AG-Dual46-RoundBollard-Kit,part,AG-PIC-003-001_RoundBase,Round Bollard Base Mount,1,,,none,,,,,0,,
 AG-Dual46-RoundBollard-Kit,part,AG-PIC-003-002_PivotMount,Base Pivot Mount,1,,,none,,,,,0,,
@@ -130,7 +130,7 @@ AG-SEN2-RR-Kit,part,EXT-B07H18YDYB,M5x8mm Button Head Screw,12,0.0878,1.05,purch
 AG-SEN2-RR-Kit,part,EXT-B0BZKG6DBZ,M5 T-nut w/ Ball Spring,4,0.0696,0.28,stale purchase,2026-04-11,Amazon,12.0,100.0,2,ASIN not on the receipt; BOM name says with ball spring,https://app.ramp.com/business-overview/transactions/2d59ed8e-6906-48a4-a7f1-50b40ee6807c
 AG-SEN2-RR-Kit,part,EXT-B0C52TVDGW,"M6 x 1.0 Nylock, stainless",2,0.0788,0.16,purchase,2026-07-17,Amazon,2.0,100.0,3,"ASIN not on the receipt; record under review: receipt unit price, no tax or freight",https://app.ramp.com/business-overview/transactions/678d3b6e-4a8d-4ca4-bc8d-90e93c16c9d6
 AG-SEN2-RR-Kit,part,EXT-B0CTCQN775,M5x4mm Heat set insert,5,0.1402,0.70,stale purchase,2026-05-02,Amazon,20.0,50.0,1,ASIN not on the receipt,https://app.ramp.com/business-overview/transactions/b74dc29d-5433-4366-a7fa-23c98a8ff2b4
-AG-SEN2-RR-Kit,part,EXT-E39-R1S,Omron E39-R1S Retroreflector,4,26.1100,104.44,list price,2026-11-13,,,,2,Price and link given by Ben 2026-11-13; page not opened. Excludes tax and freight,https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204
+AG-SEN2-RR-Kit,part,EXT-E39-R1S,Omron E39-R1S Retroreflector,4,26.1100,104.44,list price,2026-11-13,,,,2,Price and link given by Ben 2026-11-13 as the most recent source; page not opened. Excludes tax and freight,https://www.digikey.com/en/products/detail/omron-automation-and-safety/E39-R1S/761204
 AG-SEN2-RR-Kit,part,EXT-E3Z-R61,E3Z-R61,2,128.3863,256.77,stale purchase,2026-01-16,Powermatic,200.0,1.0,2,,https://app.ramp.com/s/bill-pay/bills/0e46bef4-515c-4a14-897d-eaa7e3231e99
 AG-SEN2-RR-Kit,part,EXT-HFSB5-2020-270-TPW,2020 Sensor Mount Bar,1,11.3386,11.34,stale purchase,2026-04-10,MISUMI USA,150.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e8898c74-bfc9-4931-964b-9d8051f48638
 AG-SEN2-RR-Kit,part,EXT-HFSB5-2020-455-TPW,"2020 Sensor Mount Bar Configuration as follows: Anodized black, M5 tapped ends, cut to length spec’d (455mm here)",1,13.9569,13.96,stale purchase,2026-04-10,MISUMI USA,150.0,1.0,1,,https://app.ramp.com/business-overview/transactions/e8898c74-bfc9-4931-964b-9d8051f48638

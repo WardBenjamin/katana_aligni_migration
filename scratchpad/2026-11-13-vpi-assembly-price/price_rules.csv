@@ -34,3 +34,7 @@ AG-CS3-003-001_PCB,^JLCPCB$,usb-bridge-x3_gerbers,1,,
 AG-CS3-004-001_PCB,^JLCPCB$,modem-bridge_x3out,1,,
 AG-SEN2-004-001_PCB,^JLCPCB$,printed circuit board sensor-bar-io-breakout-x2_gerbers,1,,The stencil on the same invoice is tooling
 AG-SEN2-001-000,^Bytechs$,sensor bar assemblies for inventory,1,Deel task line with no itemized invoice,Labour
+AG-PIC-001-007_ELPCam4,^Shenzhen Ailipu,elp-usbgs5mp01-kv100ir,1,V100 lens taken as the 4 mm camera,
+AG-PIC-001-008_ELPCam6,^Shenzhen Ailipu,elp-usbgs5mp01-kl60ir,1,,
+AG-PIC-001-009_ELPCam8,^Shenzhen Ailipu,elp-usbgs5mp01-kl80ir,1,,
+AG-PIC-005-001_WallBracket,^Haig Precision,wall mount dual camera,1,,
