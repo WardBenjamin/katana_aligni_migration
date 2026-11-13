@@ -1,0 +1,8 @@
+Part Number,Quantity,Note
+AG-CS3-Kit,1,vπ Compute Stack Kit
+AG-SEN2-RR-Kit,1,Retroreflective sensor bar kit
+AG-SEN2-003-001_EnclosureBase,1,Sensor enclosure base (V5)
+AG-SEN2-003-002_EnclosureTop,1,Sensor enclosure top (V5)
+AG-Dual46-RoundBollard-Kit,1,"Dual camera kit. Assumed: 4mm + 6mm lenses, round bollard mount"
+AG-IP-RRBM-DC-Kit,1,"Install pack: retro reflective, bollard mount, dual camera"
+EXT-H-2118F,1,"36in Uline bollard. Not in boms/items.csv; model taken from the Notion PIC-003 BoM (round). Confirm"

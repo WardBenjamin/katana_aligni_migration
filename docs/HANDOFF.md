@@ -20,6 +20,7 @@ Order of work:
 - Docs: [boms/reconciliation.md](boms/reconciliation.md) (findings and Ben's decisions), [boms/part-numbers.md](boms/part-numbers.md) (confirmed numbers, renumbering, placeholders), [boms/review-later.md](boms/review-later.md) (deferred items), [boms/data-sources.md](boms/data-sources.md) (every source), [boms/plan.md](boms/plan.md).
 - Decisions (Ben, 2026-11-13): 4x E39-R1S per RR kit; PCBAs as sub-assemblies; production keeps the I425-GL modem and both current antennas; install packs are base set plus add-on; V4 install packs are real SKUs; V3.1 not migrated but cleaned; V4 sensors migrated; Obelisk not migrated. The authoritative install-pack BOM is ByTechs' sheet (`1zJsQbjP5G1RWWix71tEEHoSLD9x1BxvTSdU-K7LZTec`).
 - BOM costs (separate workstream, paused 2026-11-13 by Ben): line-item as-purchased cost record from Ramp for Ben, Monti and Chris, all history (1,608 records, $600,200.04, 2,979 line rows) and last six months. Not matched to BOMs. Method: [boms/cost-record.md](boms/cost-record.md). Remaining scope and open decisions: [bom-costs/plan.md](bom-costs/plan.md). Data and scripts: `scratchpad/2026-11-13-bom-costs/`.
+- vπ full assembly price (proposed 2026-11-13, not started): plan in [assembly-price/plan.md](assembly-price/plan.md) for the current landed cost of one complete unit, first configuration RR sensor bar, bollard mount, dual camera. First pass: 124 leaf parts, 29 matched to Ramp by part number; no ELP camera, Haig enclosure or post-2025-08 ByTechs purchases in the Ramp pull. Scripts: `scratchpad/2026-11-13-vpi-assembly-price/`.
 
 ## Next
 
@@ -27,6 +28,7 @@ Order of work:
 2. Fill the 39 open lines (`EXT-TBD-*` and blank quantities): ByTechs for cables, Tapcons and connectors; Monti for the V4 X5 BoM and the V4 install kit.
 3. Convert `boms/` and `boms/items.csv` to Katana's item and BOM import templates; plan opening stock (renamed parts carry stock from their Aligni numbers).
 4. BOM costs: get Ben's answers to the open decisions in `bom-costs/plan.md` (browser access to Ramp receipt images and vendor order histories, cost basis, window), then work its steps in order.
+5. Assembly price: get Ben's answers to the six open decisions in `assembly-price/plan.md` (what "price" covers, bollard model, lens pair, cost basis, where ByTechs and Haig invoices are, browser access), then work its steps in order.
 
 ## Open items
 

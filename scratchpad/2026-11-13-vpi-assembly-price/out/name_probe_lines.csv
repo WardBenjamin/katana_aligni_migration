@@ -1,0 +1,80 @@
+probe,date_utc,vendor,quantity,unit_price,landed_unit_cost,needs_review,line_source,item_name,item_name_full,record_id,line_no
+Uline bollard,2026-08-14T17:37:27+00:00,ULINE,1.0,145.0,208.63,True,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,8cc5cd17-17f3-4c01-8075-0d9c45d27c9f,1
+Uline bollard,2026-07-24T17:08:18+00:00,ULINE,1.0,145.0,197.07,True,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,1eda7509-f69e-419b-8465-56e9c83c0437,1
+Uline bollard,2026-07-23T22:16:28+00:00,ULINE,1.0,145.0,208.97,True,receipt_extraction,"H-6290F STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,347185ab-b356-4efc-ab55-f5b5aa1b0d50,1
+Uline bollard,2026-07-14T15:55:47+00:00,ULINE,2.0,145.0,210.965,False,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,21d0890c-02d0-4fd6-b2ff-44662948bf9d,1
+Uline bollard,2026-07-14T15:54:17+00:00,ULINE,2.0,145.0,195.91,False,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,fd78ca91-cc1e-44fc-9c0a-79bad356eb49,1
+Uline bollard,2026-06-09T17:26:17+00:00,ULINE,5.0,140.0,184.446,False,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 60"", FIXED",,1eeda804-6f8b-4b03-affd-67fa1de89f33,1
+Uline bollard,2026-03-09T18:34:51+00:00,ULINE,1.0,160.0,229.01,False,receipt_extraction,"HEAVY DUTY SAFETY BOLLARD - 6.5 X 42"", FIXED",,ff7a9ff1-47bc-4c62-a362-e61d8a838fa9,1
+Uline bollard,2026-01-23T16:51:40+00:00,ULINE,1.0,115.0,158.92,False,receipt_extraction,"STANDARD SAFETY BOLLARD - 4.5 X 42"", FIXED",,497d4001-de27-4463-9321-3d371f7a018f,1
+Uline bollard,2026-01-22T20:02:00+00:00,ULINE,1.0,130.0,182.49,False,receipt_extraction,"HEAVY DUTY SAFETY BOLLARD - 5.5 X 42"", FIXED",,8a161604-f598-4b90-8555-c0a161ff2c29,1
+Uline bollard,2025-08-13T14:22:51+00:00,ULINE,10.0,115.0,141.169,False,receipt_extraction,"SQUARE SAFETY BOLLARD - 4.5 X 42""",,433a671d-68a6-4cd2-b6af-4861925291e0,1
+Uline bollard,2025-07-11T17:08:20+00:00,ULINE,1.0,120.0,173.46,False,receipt_extraction,"SQUARE SAFETY BOLLARD - 4.5 X 42""",,d6821013-753c-41fb-a42d-04b58c71e610,1
+Uline bollard,2025-06-09T19:59:55+00:00,ULINE,10.0,115.0,141.393,False,receipt_extraction,"SQUARE SAFETY BOLLARD - 4.5 X 42""",,55864df7-e0d3-4e00-aa31-17b799cc7f2c,1
+Uline bollard,2025-05-13T21:43:36+00:00,ULINE,1.0,120.0,163.61,False,receipt_extraction,"SQUARE SAFETY BOLLARD - 4.5 X 42""",,93345957-5445-4360-aa48-940a2d246b1a,1
+Uline boxes,2026-06-22T18:32:00+00:00,ULINE,50.0,1.72,3.058008,False,receipt_extraction,"14 x 14 x 14"" Corrugated Boxes",,38d6581c-4f07-4b55-935e-a3b3a46c1bc4,1
+Uline boxes,2026-06-22T18:32:00+00:00,ULINE,20.0,3.07,5.458189,False,receipt_extraction,"24 x 14 x 10"" Corrugated Boxes",,38d6581c-4f07-4b55-935e-a3b3a46c1bc4,2
+Uline boxes,2026-06-22T18:32:00+00:00,ULINE,60.0,3.21,5.707097,False,receipt_extraction,"24 x 14 x 12"" Corrugated Boxes",,38d6581c-4f07-4b55-935e-a3b3a46c1bc4,3
+Uline boxes,2026-04-03T13:28:08+00:00,ULINE,20.0,3.21,5.281,False,receipt_extraction,"24 X 14 X 12"" CORRUGATED BOXES",,225bffc3-222a-4f19-9f86-1eb21d8406a3,1
+Bollard washer,2026-07-16T19:26:10+00:00,SendCutSend,500.0,1.59,1.72714,False,receipt_extraction,"Stainless Steel 316 series .125"" 1.496"" x 1.496"" Uline_Bollard_Drill_Jig___Bollard_ Washer.step",,d69ed70d-ae1a-4ad6-9cbf-0c19ee6bfa40,1
+Bollard washer,2026-06-05T19:52:40+00:00,SendCutSend,500.0,1.56,1.6848,False,receipt_extraction,"Stainless Steel 316 series .125"" 1.496"" x 1.496"" Uline_Bollard_Drill_Jig_Bollard Washer.step",,fa1200ef-bba6-4675-a33e-bb812b505607,1
+Bollard washer,2025-09-18T18:26:01+00:00,SendCutSend,14.0,2.31,2.509286,False,receipt_extraction,"Stainless Steel (316 series) (.125"") 1.496 × 1.496 in Bollard_Washer.step",,469d207d-db9e-434c-9dc6-f0b88045a7dc,1
+Bollard washer,2025-09-18T02:16:47+00:00,SendCutSend,2.0,25.135,27.33321,False,receipt_extraction,"6061 T6 Aluminum (.125"") 8.071 × 8.071 in Bollard_Drill_template.step",,9f8afb52-7e8b-415f-bf66-a24459537411,1
+Bollard washer,2025-09-18T02:16:47+00:00,SendCutSend,24.0,1.3499999999999999,1.468066,False,receipt_extraction,"6061 T6 Aluminum (.125"") 1.496 × 1.496 in Bollard_Washer.step",,9f8afb52-7e8b-415f-bf66-a24459537411,2
+Raspberry Pi 5 16GB,2025-07-28T21:48:13+00:00,Amazon,5.0,132.0,138.93952,False,receipt_extraction,Raspberry Pi 5 (16GB),,fd69254b-9b51-41d9-a2f7-172c5e8cb464,2
+Raspberry Pi 5 16GB,2025-07-17T12:02:30+00:00,Amazon,1.0,132.0,143.548764,False,receipt_extraction,Raspberry Pi 5 (16GB),,d4e2370f-c5fc-43c5-a3cc-81b49ee40f8c,2
+Raspberry Pi 5 16GB,2025-04-22T13:26:22+00:00,MakerBright,40.0,120.0,120.55225,False,receipt_extraction,Raspberry Pi 5 (16GB),,9be87e89-4262-46e4-b0cd-84e9fc79600d,1
+Watchdog HAT,2026-06-22T20:16:43+00:00,Sequent Microsystems,50.0,45.0,45.2026,False,receipt_extraction,Super Watchdog HAT with UPS Battery Backup for Raspberry Pi,,25d1ce03-1179-4eb2-a775-9fbc3853eb5f,1
+Watchdog HAT,2026-01-28T19:27:58+00:00,Sequent Microsystems,61.0,45.0,40.575738,False,receipt_extraction,Super Watchdog HAT with UPS Battery Backup for Raspberry Pi,,59263936-4b46-4a77-9aa9-9ab16797d802,1
+Watchdog HAT,2025-04-22T13:41:44+00:00,Sequent Microsystems,1.0,1800.0,1833.92,False,receipt_extraction,Super Watchdog HAT with UPS Battery Backup for Raspberry Pi x 40 Li-Ion,,02df9dc8-1793-446a-96d2-1e7446581b6b,1
+Sixfab base HAT,2026-06-11T20:39:12+00:00,Sixfab,84.0,45.0,45.202381,False,receipt_extraction,Sixfab 3G - 4G/LTE Base HAT for Raspberry Pi,,05bd7303-8e54-4072-a7cf-b10d18639092,1
+Sixfab base HAT,2026-04-02T21:39:00+00:00,Sixfab,110.0,45.0,45.154545,False,receipt_extraction,Sixfab 3G - 4G/LTE Base HAT for Raspberry Pi,,75db0690-51c8-4842-b528-da666ff87707,1
+Sixfab base HAT,2026-02-27T15:32:34+00:00,Sixfab,50.0,45.0,45.665,False,receipt_extraction,Sixfab 3G - 4G/LTE Base HAT for Raspberry Pi,,531e616f-ce66-4ebd-89c4-45745b82b20c,1
+I425-GL modem,2026-11-06T15:04:05.334000+00:00,"Eagle Wireless Holdings, Inc.",100.0,35.0,35.0,False,manual:receipts/bills/01218014-6950-4aec-93eb-cc6ba5243e3d/INV2621.pdf p1,IoT LTE Cat 4 MiniPCIE (FW I425GLGDR07A01M1G_A0.002.A0.002),,01218014-6950-4aec-93eb-cc6ba5243e3d,1
+I425-GL modem,2026-09-28T14:04:39.384000+00:00,"Eagle Wireless Holdings, Inc.",50.0,35.0,35.0,False,manual:receipts/bills/8c7bc553-1ca3-40bc-855f-0f38622fda78/Invoice_INV1103_1775051364817.pdf p1,IoT LTE Cat 4 MiniPCIE,,8c7bc553-1ca3-40bc-855f-0f38622fda78,1
+I425-GL modem,2026-09-28T14:04:39.144000+00:00,"Eagle Wireless Holdings, Inc.",100.0,35.0,35.0,False,manual:receipts/bills/099f3e58-e583-45db-9c93-185c8553356e/Invoice_INV1104_1775051471876.pdf p1,IoT LTE Cat 4 MiniPCIE,,099f3e58-e583-45db-9c93-185c8553356e,1
+I425-GL modem,2026-09-25T14:02:50.694000+00:00,"Eagle Wireless Holdings, Inc.",150.0,35.0,35.0,False,manual:receipts/bills/fd508687-fd41-4de3-8aec-259a5fff80c8/INV2209.pdf p1,IoT LTE Cat 4 MiniPCIE (FW I425GLGDR07A01M1G_A0.002.A0.002),,fd508687-fd41-4de3-8aec-259a5fff80c8,1
+I425-GL modem,2025-06-02T17:52:01+00:00,Sp Eagle Electronics,4.0,30.0,30.0,False,receipt_extraction,I425GLGD-128-SGNS,,6f71d9de-50e1-4493-84b0-faf7b32ca3ad,1
+Samsung PRO Endurance 256GB,2026-06-21T02:32:39+00:00,Amazon,2.0,105.89,114.36,False,receipt_extraction,Samsung PRO Endurance 256GB Micro...,,096ea8fe-3ada-4296-a50a-050d9681ed52,1
+Samsung PRO Endurance 256GB,2026-03-30T14:19:26+00:00,Amazon,1.0,81.99,87.42,False,receipt_extraction,Samsung PRO Endurance 256GB MicroSDX...,,0a178c65-3206-45ec-a2c4-13c53b890e7d,1
+Samsung PRO Endurance 256GB,2025-11-22T05:42:31+00:00,Amazon,5.0,29.99,31.578292,False,receipt_extraction,Samsung PRO Endurance 256GB MicroSDX...,,17c8e8f8-56a0-453f-be27-23c6174b31d5,2
+Samsung PRO Endurance 256GB,2025-11-17T02:04:35+00:00,Amazon,100.0,27.58,0.666192,True,receipt_extraction,"Samsung PRO Endurance 256GB MicroSDXC Memory Card with Adapter for Dash Cam, Body Cam, and Security Camera, Class 10, U3",,672d86bd-8c73-4abb-9e78-9e307ab938f9,1
+Samsung PRO Endurance 256GB,2025-11-17T02:04:35+00:00,Amazon,43.0,27.58,66.450715,True,receipt_extraction,"Samsung PRO Endurance 256GB MicroSDXC Memory Card with Adapter for Dash Cam, Body Cam, and Security Camera, Class 10, U3",,672d86bd-8c73-4abb-9e78-9e307ab938f9,2
+Samsung PRO Endurance 256GB,2025-10-25T01:40:53+00:00,Amazon,29.0,55.45,58.39,False,receipt_extraction,Samsung PRO Endurance 256GB microSDX,,c28dca42-ae16-4379-b2ef-437c7ef3829c,1
+Samsung PRO Endurance 256GB,2025-10-23T16:25:37+00:00,Amazon,26.0,55.5,61.893846,True,receipt_extraction,Samsung PRO Endurance 256GB microSDX,,632209d3-cd00-4a6c-b409-ccc016d7eaca,1
+Samsung PRO Endurance 256GB,2025-07-30T19:58:58+00:00,Amazon,1.0,29.99,31.857705,False,receipt_extraction,Samsung PRO Endurance 256GB MicroSDX...,,441380b7-d1ed-415d-bc6a-3193ff4d8fef,1
+Samsung PRO Endurance 256GB,2025-07-28T21:48:13+00:00,Amazon,5.0,29.99,31.566638,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX...,,fd69254b-9b51-41d9-a2f7-172c5e8cb464,3
+Samsung PRO Endurance 256GB,2025-07-16T23:13:12+00:00,Amazon,1.0,29.99,32.61,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,47cf81eb-177e-415e-b838-5bbd3216eb5c,1
+Samsung PRO Endurance 256GB,2025-07-16T22:24:18+00:00,Amazon,7.0,29.99,31.79,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,3fdb75e5-2ca0-49e0-99fb-408de38af7bc,1
+Samsung PRO Endurance 256GB,2025-07-16T19:08:42+00:00,Amazon,2.0,29.99,31.79,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,5d087ce9-dfa5-46b7-9ded-deccdc0584b9,1
+Samsung PRO Endurance 256GB,2025-07-16T18:45:18+00:00,Amazon,1.0,29.99,31.79,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX...,,c482a0df-a039-42b4-88ed-d498ecc2de48,1
+Samsung PRO Endurance 256GB,2025-06-10T04:55:02+00:00,Amazon,2.0,29.99,31.58,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,1ab57dba-2dbd-4106-9bd7-ff6c37cda236,1
+Samsung PRO Endurance 256GB,2025-06-10T01:42:48+00:00,Amazon,50.0,29.99,31.58,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,ae467f2d-0241-48f7-97a0-18361aa21dd6,1
+Samsung PRO Endurance 256GB,2025-04-22T21:23:50+00:00,Amazon,40.0,28.99,31.34433,False,receipt_extraction,SAMSUNG PRO Endurance 256GB MicroSDX,,dd5c6f20-14e8-4555-8d7e-8ea0ae921a07,1
+Molicel P30B,2025-09-17T15:48:57+00:00,18650 Battery Store,20.0,3.9,4.6345,False,receipt_extraction,Molicel P30B 18650 3000mAh 30A Battery,,1cd1f7c5-6e13-4c79-893c-c2f6a604916f,1
+ByTechs,2025-08-13T19:10:59+00:00,Bytechs,1.0,38.25,38.25,False,receipt_extraction,Shipping Costs,,e1700683-fcee-4e3d-865b-566b4065274d,1
+ByTechs,2025-08-07T15:31:50+00:00,Bytechs,,,,False,record_only,Bytechs,,0be3bec8-c8c4-4d77-a532-d4aa175ca079,1
+ByTechs,2025-07-29T14:41:18+00:00,Bytechs,,,,False,record_only,Tripwire Production - PCB assembly fees,,5d0cc4cd-da01-47ad-9ac4-199f7558c8fa,1
+ByTechs,2025-07-17T18:49:45+00:00,Bytechs,10.0,100.0,100.0,False,receipt_extraction,Packaging Design and Consultation,,4e249da7-7894-4586-9e0c-e7c958474c04,1
+ByTechs,2025-06-28T02:06:52+00:00,Bytechs,,,,False,record_only,Tripwire Build Materials - Shipping for manufactured PCB assemblies (Party HAT/Sensor Bar I/O Breakout),,1e794cf1-1e0a-427f-8836-c5ca68b5624d,1
+ByTechs,2025-06-04T19:29:12+00:00,Bytechs,50.0,17.19,17.19,False,receipt_extraction,PCB Assembly Services - Party Hat VX2B,,e233e3d5-b994-43ac-8cb7-f3a53a615ea7,1
+ByTechs,2025-06-04T19:29:12+00:00,Bytechs,80.0,7.76,7.76,False,receipt_extraction,PCB Assembly Services - Sensor Bar IO Breakout,,e233e3d5-b994-43ac-8cb7-f3a53a615ea7,2
+ByTechs,2025-06-04T19:29:12+00:00,Bytechs,50.0,3.5,3.5,False,receipt_extraction,"Cable Harness Assembly 20ga Zip Wire provided by AirGarage Cut to 3"" length. 2 ferrules on each end Installed into Screw Terminal Block",,e233e3d5-b994-43ac-8cb7-f3a53a615ea7,3
+ByTechs,2025-06-04T19:29:12+00:00,Bytechs,1.0,49.75,49.75,False,receipt_extraction,3% Credit Card Processing Fee,,e233e3d5-b994-43ac-8cb7-f3a53a615ea7,4
+Concrete anchors,2026-07-16T19:41:09+00:00,Fasteners Plus,20.0,53.35,57.618,False,receipt_extraction,"1/2“ x 3” Strong-Tie THD50300H Titen HD Screw Anchor, Zinc, Pkg 25",,ddcdbe61-521f-42b3-be4b-f64caf81b533,1
+Concrete anchors,2026-07-16T19:41:09+00:00,Fasteners Plus,10.0,73.6,79.488,False,receipt_extraction,"Tapcon 1/4“ x 1-1/4” Concrete Screw, Hex Head - 410 Stainless Steel | Qty. 100",,ddcdbe61-521f-42b3-be4b-f64caf81b533,2
+Concrete anchors,2026-06-30T19:48:33+00:00,Fasteners Plus,2.0,79.99,86.390226,False,receipt_extraction,TAPCON 1/4 X 1-1/4 CONCR,,da7e07d0-008a-490f-8f8e-3f3e27e7fd1c,1
+Concrete anchors,2026-06-30T19:48:33+00:00,Fasteners Plus,8.0,57.99,62.629944,False,receipt_extraction,1/2 X 3 STRONG-TIE THD50,,da7e07d0-008a-490f-8f8e-3f3e27e7fd1c,2
+Concrete anchors,2026-06-05T19:49:33+00:00,Fasteners Plus,2.0,57.99,62.628018,False,receipt_extraction,"1/2"" x 3"" Strong-Tie THD50300H Titen HD Screw Anchor, Zinc, Pkg 25",,76eba5d9-1e55-4beb-9df4-e0b6e8a371c1,1
+Concrete anchors,2026-06-05T19:49:33+00:00,Fasteners Plus,5.0,78.88,85.188793,False,receipt_extraction,"Tapcon 1/4"" x 1-1/4"" Concrete Screw, Hex Head - 410 Stainless Steel",,76eba5d9-1e55-4beb-9df4-e0b6e8a371c1,2
+Concrete anchors,2026-03-27T17:08:59+00:00,Fasteners Plus,2.0,79.0,85.319691,False,receipt_extraction,"1/4"" x 1-1/4"" Tapcon 4 Concrete Screw, Hex Stainless Steel Head, Pkg 100",,a703dfe9-b68d-4d59-a5d5-858c6a4398b9,1
+Concrete anchors,2026-03-27T17:08:59+00:00,Fasteners Plus,8.0,56.91,61.462577,False,receipt_extraction,"1/2"" x 3"" Strong-Tie TH HD Screw Anchor, Zinc ID50300H Titen, Pkg 25",,a703dfe9-b68d-4d59-a5d5-858c6a4398b9,2
+JLCPCB bare PCB,2026-04-30T19:40:02+00:00,JLCPCB,50.0,1.55,3.2152,False,receipt_extraction,4-layer Bare Rigid Printed circuit board,,9d38b205-7108-493b-83a3-fabbe357c5eb,1
+JLCPCB bare PCB,2026-03-17T02:42:19+00:00,JLCPCB,30.0,7.29,16.067407,False,receipt_extraction,4-layer Bare Rigid Printed circuit board,,c47659f0-142a-4a71-8973-6da2fb4a52e7,2
+JLCPCB bare PCB,2025-12-24T02:27:28+00:00,JLCPCB,20.0,3.92,8.668144,False,receipt_extraction,4-layer Bare Rigid Printed circuit board,,ac10291e-be07-417e-84fe-3a8820b7026e,4
+JLCPCB bare PCB,2025-12-24T02:27:28+00:00,JLCPCB,5.0,19.84,43.897063,False,receipt_extraction,4-layer Bare Rigid Printed circuit board,,ac10291e-be07-417e-84fe-3a8820b7026e,5
+JLCPCB bare PCB,2025-12-24T02:27:28+00:00,JLCPCB,10.0,9.14,20.212027,False,receipt_extraction,4-layer Bare Rigid Printed circuit board,,ac10291e-be07-417e-84fe-3a8820b7026e,6
+JLCPCB bare PCB,2025-04-21T20:48:31+00:00,JLCPCB,50.0,0.88,1.444607,False,receipt_extraction,2-layer Bare Rigid Printed circuit board,,35297a4e-18e3-42de-8c62-2bb25a4a123d,3
+JLCPCB bare PCB,2025-04-21T20:48:31+00:00,JLCPCB,50.0,0.64,1.051516,False,receipt_extraction,2-layer Bare Rigid Printed circuit board,,35297a4e-18e3-42de-8c62-2bb25a4a123d,4
+JLCPCB bare PCB,2025-04-03T02:46:28+00:00,JLCPCB,5.0,5.5,9.980047,False,receipt_extraction,2-layer Bare Rigid Printed circuit board,,c89cec37-491d-45c8-ba12-c1402a74a3cd,2
+JLCPCB bare PCB,2025-03-11T13:17:15+00:00,JLCPCB,5.0,3.66,8.291982,False,receipt_extraction,2-layer Bare Rigid Printed circuit board,,11321d42-d599-4bde-8357-a04d1072fa06,2
