@@ -1,0 +1,123 @@
+                                                                                                         FixturFab, Inc.
+                                                                                        3410 Woodland Park Ave N Ste C
+                                                                                               Seattle WA 98103-8926
+                                                                                                         United States
+
+                                                                                                       Tax ID: 38-4124295
+
+
+
+
+Shipping Address                                                         AirGarage
+AirGarage, Benjamin Ward                                                 2261 Market St # 4027
+2261 Market St # 4027                                                    San Francisco CA 94114-1612
+San Francisco CA 94114-1612                                              United States
+United States
+
+
+Invoice INV/2026/00065
+Invoice Date            Due Date                   Source                  Reference             Incoterm
+04/30/2026              04/30/2026                 S00701                  PO-FIXTURFAB-001      FCA
+                                                                                                 FixturFab
+
+
+ DESCRIPTION                                                QUANTITY      UNIT PRICE    DISC.%   AMOUNT
+
+ Materials                                                                                                    $ 1,404.53
+
+  AirGarage Party Hat Dev Pro Carbon Fixture w/              1.00 Unit       1,384.03     0.00   $ 1,384.03
+  G10 Cartridge & Consigned TPCB
+  - 1x Dev Pro Base, Carbon: $899.99
+  - 1x Dev Pro Cartridge, G10: $199.99
+  - 41x Centalic Receptacles: $81.59
+  - 41x Centalic Probes: $81.59
+  - 4x Generic Guide Pins: $11.96
+  - 7x Generic Pressure Pins: $34.93
+  - 1x TPCB, Consigned, development: $24
+  - 1x DUT Presence Switch, Generic: $24.99
+  - 1x Fixture Lid Switch, development: $24.99
+
+  Tariff                                                     1.00 Unit          20.50     0.00     $ 20.50
+  - Vendor-imposed tariffs passed through to the
+  customer
+
+ Design                                                                                                         $ 812.16
+
+
+
+
+sales@fixturfab.com                                                                                             Page 1 / 3
+                                                                                                                    FixturFab, Inc.
+                                                                                                   3410 Woodland Park Ave N Ste C
+                                                                                                          Seattle WA 98103-8926
+                                                                                                                    United States
+
+                                                                                                               Tax ID: 38-4124295
+
+
+
+
+ DESCRIPTION                                                      QUANTITY       UNIT PRICE        DISC.%   AMOUNT
+
+  Dev Pro Cartridge Design                                          1.00 Unit          902.40       10.00    $ 812.16
+  - 1x Dev Pro Cartridge, G10: $299.99
+  - 41x Centalic Receptacles: $87.7121785714286
+  - 41x Centalic Probes: $87.7121785714286
+  - 4x Generic Guide Pins: $17.1145714285714
+  - 7x Generic Pressure Pins: $59.901
+  - 1x TPCB, Consigned, development: $249.99
+  - 1x DUT Presence Switch, Generic: $49.99
+  - 1x Fixture Lid Switch, development: $49.99
+
+  10% NRE discount, thanks for the great studio
+  feedback!
+
+ Labor, Shipping, and Handling                                                                                           $ 583.29
+
+  Development Test Fixture Labor                                    1.00 Unit          535.03        0.00    $ 535.03
+  - 1x Dev Pro Cartridge, G10: $199.99
+  - 41x Centalic Receptacles: $81.59
+  - 41x Centalic Probes: $81.59
+  - 4x Generic Guide Pins: $7.96
+  - 7x Generic Pressure Pins: $13.93
+  - 1x TPCB, Consigned, development: $99.99
+  - 1x DUT Presence Switch, Generic: $24.99
+  - 1x Fixture Lid Switch, development: $24.99
+
+  [Delivery_006] FixturFab Shipping and Handling                    1.00 Unit              48.26     0.00     $ 48.26
+  - UPS Ground
+
+ Notes                                                                                                                      $ 0.00
+
+ This invoice is for the project kickoff milestone, and is scheduled to start on 5/4/26.
+
+Payment terms: Immediate Payment
+
+
+
+
+sales@fixturfab.com                                                                                                      Page 2 / 3
+                                                                      FixturFab, Inc.
+                                                     3410 Woodland Park Ave N Ste C
+                                                            Seattle WA 98103-8926
+                                                                      United States
+
+                                                                 Tax ID: 38-4124295
+
+
+
+Payment Communication: INV/2026/00065   Untaxed Amount                   $ 2,799.98
+on this account: 5073002623
+                                        CA SPECIAL                          $ 32.87
+
+                                        CA COUNTY                             $ 3.46
+
+                                        CA STATE                            $ 83.04
+
+                                        Total                            $ 2,919.35
+
+
+
+
+sales@fixturfab.com                                                        Page 3 / 3
+

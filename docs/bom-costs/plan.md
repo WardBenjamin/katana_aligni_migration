@@ -76,7 +76,7 @@ In the order I'd do it. Steps 1 and 2 need your go-ahead (open decisions below).
 2. For no-receipt spend: chase hardware only, above what dollar amount?
 3. Cost basis for the update: last purchase, weighted average, or by quantity break? Should landed cost include tax and freight?
 4. Window for the update: the last six months only, or everything since 2025-03?
-5. FixturFab bank wire instructions PDF: keep local (gitignored now) or delete? The committed invoice PDFs also print vendor remittance details.
+5. Answered (Ben, 2026-11-16): commit it. The FixturFab bank wire instructions PDF, the bill text and the receipt images are now in the workspace repo, which has no remote.
 
 ## Caveats
 

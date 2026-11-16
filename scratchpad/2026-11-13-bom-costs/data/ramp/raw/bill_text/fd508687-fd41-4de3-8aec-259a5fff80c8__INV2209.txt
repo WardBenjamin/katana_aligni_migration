@@ -1,0 +1,83 @@
+                                                                                                                       Invoice
+                                                                                                                  Invoice# INV2209
+                                                                                         Sales Order# Sales Order #SO1147
+                                                                                                                  PO# PO-EAGLE-004
+                                                                                                  Invoice Date: August 1,2026
+
+
+
+
+Sold By:                                                      Ship From:
+Eagle Wireless Holdings, Inc.                                 Penang Manufacturing - BCM
+7905 Cochran Road                                             Plot 21, Jalan Hi-Tech 4, Kulim Hi-Tech Park, Phase 1
+Suite 300 Solon, Ohio, 44139                                  Kulim, Kedah Darulaman, 09090
+United States                                                 MY
+
+Bill To:                                                      Ship To:
+Airgarage                                                     ByTechs LLC
+2261 Market Street                                            185 Stag Dr
+#4027                                                         Williston SC 29853
+San Francisco CA 94114                                        United States
+United States
+
+
+Delivery Date                         Payment Terms           Due Date                             Amount Due
+August 1,2026                         Net 30                  August 31,2026                       $5,250.00 USD
+
+Incoterm                                                      Country of Origin
+                                                              MY
+
+
+Item                                                          Quantity                    Unit Price                         Amount
+
+
+I425GLGD-MINIPCIE                                                150                    $35.00 USD                     $5,250.00 USD
+
+Description: IoT LTE Cat 4 MiniPCIE
+
+Customer Part #:                                Technology:                           Firmware:
+                                                                                      I425GLGDR07A01M1G_A0.002.A0.002
+
+
+
+
+                                                                                                       Subtotal        $5,250.00 USD
+                                                                                                Freight Fee                     USD
+                                                                                                Sales Taxes                     USD
+                                                                                                Credit Note               $0.00 USD
+
+                                                                                                          Total        $5,250.00 USD
+
+
+
+
+                                                                                                                           1 of 2
+
+            INV2209
+                                                                                         Invoice
+                                                                                    Invoice# INV2209
+                                                                     Sales Order# Sales Order #SO1147
+                                                                                   PO# PO-EAGLE-004
+                                                                          Invoice Date: August 1,2026
+
+
+
+
+Payment Notes:
+Payment must be in USD
+Customer pays any bank transfer related charges
+Email Remittance Information: accountsreceivable@eaglewireless.com
+Payment by Bank Transfer:
+Bank: East West Bank
+Account#: 8003312918
+Bank ABA: 322070381
+SWIFT: EWBKUS66XXX
+Beneﬁciary: Eagle Wireless Holdings, Inc.
+
+
+
+
+                                                                                             2 of 2
+
+            INV2209
+

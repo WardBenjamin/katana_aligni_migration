@@ -1,0 +1,36 @@
+                                                                                             Invoice
+Invoice #                       D265070387                        Created on                       2026-05-07
+PO #                            PO-QUECTEL-001                    Confirmed ship date
+Country of origin               China                             Invoice date
+Bill to           AirGarage, Inc.                                 Ship to            AirGarage, Inc. ℅ ByTechs, LL C
+                  2261 Market Street #4027 San Francisco,                            Attn: Benjamin Ward
+                  California United States                                           Mob/Tel: 5716994608
+                                                                                     Email: ben@airgarage.com
+                                                                                     185 Stag Dr, Williston SC United States 29853
+          Tel                    Commercial Specialist                 Incoterm Payment Terms                     Due Date
+    +86-21-51086236                   Carrie Yi                       FCA Suzhou TT in advance
+
+Item           Product                Ordering Code                 Quantity Unit Price                Net Amount
+1              RG255C-GL              RG255CGL00AB-4M2-             250         74.6100 USD            18,652.5000 USD
+               MINIPCIE               MN0AA
+               FW version             RG255CGLABR01A05M4G_A0.300.A0.300
+                                      Total quantity                250
+                                                                                Subtotal               18,652.5000 USD
+                                                                                Bank Charge            0.0000
+                                                                                Freight Fee            0.0000
+                                                                                Credit Note            0.0000
+                                                                                Total                  18,652.5000 USD
+Remarks
+
+                                                                                                Quectel Wireless Solutions CO., LTD.
+
+
+Bank                        Citibank (China)Co., Ltd., Shanghai Branch
+Bank Address                33F Citigroup Tower, No. 33 Hua Yuan Shi Qiao Road, Lu Jia Zui, Shanghai, China, 200120
+USD A/C NO                  1783971018
+SWIFT CODE                  CITICNSX or CITICNSXXXX
+Beneficiary                 Quectel Wireless Solutions CO., LTD.
+CO. address                 Quectel Global Center: No. 8 Waipojing Road, Sijing Town, Songjiang District, Shanghai 201601,
+                            China
+Note                        Customer to pay any bank transfer related charges.
+

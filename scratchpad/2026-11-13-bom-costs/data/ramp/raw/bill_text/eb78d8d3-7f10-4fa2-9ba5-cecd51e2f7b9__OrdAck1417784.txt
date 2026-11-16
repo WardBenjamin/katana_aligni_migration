@@ -1,0 +1,59 @@
+                                                                                            ORDER ACKNOWLEDGEMENT
+                                                                                                                                    Order Number
+         1264 Stealth Street
+                                                                                                                                      1417784
+         Livermore, CA 94551
+                                                                                                                         Order Date                    Page
+         US
+                                                                                                                     06/17/2025 15:16:24               1 of 1
+         925-461-7171
+
+         Bill To:                                                                            Ship To:
+         AirGarage                                                                           AirGarage, Inc. - SS, NY
+         2261 Market Street                                                                  32 Province Drive,
+         San Francisco, CA 94114                                                             South Setauket, NY 11720
+         CA                                                                                  US
+
+         (571)699-4608
+                                                                                             Ordered By: Benjamin Ward
+         Customer ID: 32492
+            Terms and Conditions:
+            • Past due balances are subject to late fees (12% annually).                                                            ORDER
+            • Credit card payments are subject to a 2.5% processing fee.
+                                                                                                                                CANCELLATIONS
+            • Orders are taxable unless appropriate tax certificate is on file with Powermatic.
+                                                                                                                               ARE SUBJECT TO A
+            • Freight charges, unless otherwise specified, are the responsibility of the purchaser.
+            • Material returns require an RMA (pre-authorization number) and may be subject to a restocking fee.                RESTOCKING FEE
+            • Please see our website at www.powermatic.net for complete terms and conditions.
+
+                                    PO Number                                     Payment Terms                                    Taker
+                        EMAIL CONFIRMATION 6/17/25                                       Net 30                              Manan Chadha
+
+                                  Quantities                                                                       Pricing
+                                                                      Item ID                                      UOM                        Unit     Extended
+                                                                                                                                             Price         Price
+                                                              Disp.
+               Ordered     Allocated            UOM                   Item Description
+                                       Remaining Unit Size                                                          Unit Size
+
+                                        Delivery Instructions: NET 30
+                  50         50            0 EA                       E3Z-T61                                      EA                      152.32       7,616.00
+            Expected Dock Date: 06/18/2025              1.0           E3Z-T61                                                1.0
+                 100          0         100 EA              B E3Z-R61                                              EA                      116.55      11,655.00
+            Expected Dock Date: 06/21/2025              1.0   OMRON SENSOR                                                   1.0
+                 100          0                100 EA         B E39-R1S                                            EA                       19.14       1,914.00
+            Expected Dock Date: 06/26/2025              1.0     Omron Sensor                                                 1.0
+
+
+                 Total Lines: 3                                                                                 SUB-TOTAL:                           21,185.00
+                                                                                                                      TAX:                                 0.00
+                                                                                                          AMOUNT TENDERED :                                 0.00
+                                                                                                              AMOUNT DUE:                            21,185.00
+                                                                                                                                                     U.S. Dollars
+
+
+
+
+12.15.1590 - 08/27/14
+

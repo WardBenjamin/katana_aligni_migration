@@ -1,0 +1,87 @@
+                                                                                                          Invoice
+                                                                                                                  Page 1 of 2
+
+
+
+
+REMIT TO:                                                                Invoice Number:                 INV00036107
+US Lockbox: PTC Inc.
+                                                                         Invoice Date:                   2025-08-26
+29896 Network Place,
+Chicago,IL 60673-1298                                                    Purchase Order Number:
+                                                                         VAT ID:
+Bank Information:                                                        Currency:                       USD
+JP Morgan Chase Bank N.A.
+                                                                         Payment Term:                   Net 10
+270 Park Avenue, New York, NY 10017
+Routing & Transit Number: 021-000-021                                    Invoice Due Date:               2025-09-05
+SWIFT #: CHASUS33
+Account#: 611711802
+Account / Beneficiary Name: PTC Inc.
+121 Seaport Blvd.
+Boston, MA 02210-2050
+
+
+Account Name:
+Air Garage
+
+Bill To:                                                          Sold To:
+Josiah Lapolla                                                    Bryan Monti
+2261 Market Street #4027                                          2261 Market Street #4027
+San Francisco, California                                         San Francisco, California
+94114 United States                                               94114 United States
+monti@airgarage.com                                               monti@airgarage.com
+
+
+Charge Details
+
+
+                                    Service Period
+            Charge Name                              Qty    Unit Price       Subtotal ($)     Tax ($)             Total ($)
+                                    MM/DD/YYYY
+
+
+  Onshape Professional License --   08/26/2025 -
+                                                     2     0.00                     0.00          0.00                0.00
+  Proration Credit                   06/25/2026
+
+
+                                    08/26/2025 -
+  Onshape Professional License                       3     2,500.00            7,500.00           0.00         7,500.00
+                                     08/25/2026
+
+
+                                    08/26/2025 -
+  Onshape Professional % Discount                    1     50.00%              -3,750.00          0.00         -3,750.00
+                                     08/25/2026
+
+
+
+Invoice Total
+
+Customer Notes:                                                                Subtotal: $7,500.00
+                                                                               Discount -$3,750.00
+                                                                                     Tax: $0.00
+                                                                                                                       Invoice
+                                                                                                                              Page 2 of 2
+
+
+
+
+                                                                                                    Total: $3,750.00
+                                                                                       Invoice Balance: $3,750.00
+
+
+Onshape accepts the following payment methods: credit cards, wire/bank transfers, checks, ACH (bank debit for US customers) and
+certain international bank debit cards. Please direct billing and payment inquiries to onshape-billing@ptc.com.
+
+
+If you are paying with a wire/bank transfer or check, please email confirmation of payment to onshape-billing@ptc.com so we can identify
+your payment upon receipt.
+
+
+Federal Tax ID: 04-2866152
+
+
+                             PTC Inc., 121 Seaport Blvd, Suite 1700, Boston, MA 02210-2050.
+

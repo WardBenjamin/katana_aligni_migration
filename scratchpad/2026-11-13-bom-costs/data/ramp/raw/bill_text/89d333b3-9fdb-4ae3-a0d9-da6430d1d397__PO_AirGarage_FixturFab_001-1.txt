@@ -1,0 +1,38 @@
+                                      AirGarage Purchase Order
+
+VENDOR                                                                                                  DATE: 04/30/2026
+FixturFab, Inc.                                                                                   PO#: PO-FIXTURFAB-001​
+3410 Woodland Park Ave N Ste C                                                                             TERMS: Net 30
+Seattle WA 98103-8926
+United States
+
+
+BILL TO                                                                                                            SHIP TO
+AirGarage, Inc.                                                                            AirGarage, Inc. ℅ ByTechs, LLC
+2261 Market Street #4027                                                                                       185 Stag Dr
+San Francisco, CA 94114                                                                                Williston, SC 29853
+United States                                                                                                 United States
+
+
+
+                                                                 ​
+
+
+ITEM                              DESCRIPTION                            QTY       UNIT PRICE            TOTAL
+
+AirGarage Party Hat Dev Pro       RE: Quotation #S00701                        1            $ 2,799.98            $ 2,799.98
+Carbon Fixture w/ G10 Cartridge   Includes materials, tariff, design,
+& Consigned TPCB                  labor, shipping, handling, delivery.
+
+
+
+                                                                                   SUBTOTAL                       $ 2,799.98
+
+                                                                                   CA SPECIAL TAX                   $ 32.87
+
+                                                                                   CA COUNTY TAX                      $ 3.46
+
+                                                                                   CA STATE TAX                     $ 83.04
+
+                                                                                   TOTAL                          $ 2,919.35
+

@@ -1,0 +1,190 @@
+                                                                                                       FixturFab, Inc.
+                                                                                      3410 Woodland Park Ave N Ste C
+                                                                                             Seattle WA 98103-8926
+                                                                                                       United States
+
+                                                                                                    Tax ID: 38-4124295
+
+
+
+
+Invoicing Address                                                     AirGarage
+AirGarage                                                             2261 Market St # 4027
+2261 Market St # 4027                                                 San Francisco CA 94114-1612
+San Francisco CA 94114-1612                                           United States
+United States
+
+Shipping Address
+AirGarage, Benjamin Ward
+2261 Market St # 4027
+San Francisco CA 94114-1612
+United States
+
+
+Order # S00701
+Your Reference                Order Date                  Incoterm                       Salesperson
+PO-FIXTURFAB-001              05/01/2026                  FCA                            Joe Selvik
+                                                          FixturFab
+
+
+ DESCRIPTION                                                           QUANTITY      UNIT PRICE   DISC.%    AMOUNT
+
+ Materials                                                                                                  $ 1,404.53
+
+ AirGarage Party Hat Dev Pro Carbon Fixture w/ G10 Cartridge &           1.00 Unit     1,384.03      0.00   $ 1,384.03
+ Consigned TPCB
+ - 1x Dev Pro Base, Carbon: $899.99
+ - 1x Dev Pro Cartridge, G10: $199.99
+ - 41x Centalic Receptacles: $81.59
+ - 41x Centalic Probes: $81.59
+ - 4x Generic Guide Pins: $11.96
+ - 7x Generic Pressure Pins: $34.93
+ - 1x TPCB, Consigned, development: $24
+ - 1x DUT Presence Switch, Generic: $24.99
+ - 1x Fixture Lid Switch, development: $24.99
+
+
+
+
+sales@fixturfab.com                                                                                          Page 1 / 4
+                                                                                        FixturFab, Inc.
+                                                                       3410 Woodland Park Ave N Ste C
+                                                                              Seattle WA 98103-8926
+                                                                                        United States
+
+                                                                                   Tax ID: 38-4124295
+
+
+
+
+ Tariff                                                    1.00 Unit      20.50      0.00     $ 20.50
+ - Vendor-imposed tariffs passed through to the customer
+
+ Design                                                                                      $ 812.16
+
+ Dev Pro Cartridge Design                                  1.00 Unit     902.40     10.00    $ 812.16
+ - 1x Dev Pro Cartridge, G10: $299.99
+ - 41x Centalic Receptacles: $87.7121785714286
+ - 41x Centalic Probes: $87.7121785714286
+ - 4x Generic Guide Pins: $17.1145714285714
+ - 7x Generic Pressure Pins: $59.901
+ - 1x TPCB, Consigned, development: $249.99
+ - 1x DUT Presence Switch, Generic: $49.99
+ - 1x Fixture Lid Switch, development: $49.99
+
+ 10% NRE discount, thanks for the great studio feedback!
+
+ Labor, Shipping, and Handling                                                               $ 583.29
+
+ Development Test Fixture Labor                            1.00 Unit     535.03      0.00    $ 535.03
+ - 1x Dev Pro Cartridge, G10: $199.99
+ - 41x Centalic Receptacles: $81.59
+ - 41x Centalic Probes: $81.59
+ - 4x Generic Guide Pins: $7.96
+ - 7x Generic Pressure Pins: $13.93
+ - 1x TPCB, Consigned, development: $99.99
+ - 1x DUT Presence Switch, Generic: $24.99
+ - 1x Fixture Lid Switch, development: $24.99
+
+ [Delivery_006] FixturFab Shipping and Handling            1.00 Unit      48.26      0.00     $ 48.26
+ - UPS Ground
+
+ Notes                                                                                          $ 0.00
+
+
+
+
+sales@fixturfab.com                                                                          Page 2 / 4
+                                                                                                                  FixturFab, Inc.
+                                                                                                 3410 Woodland Park Ave N Ste C
+                                                                                                        Seattle WA 98103-8926
+                                                                                                                  United States
+
+                                                                                                               Tax ID: 38-4124295
+
+
+
+
+ AirGarage Party Hat Dev Pro Carbon Fixture w/ G10 Cartridge & Consigned TPCB
+ - After Receipt of Order (ARO), the project will be kicked off at the beginning of the next business week.
+ - Customer TPCB design files provided 1-2 week after kickoff
+ - Shipped 1-2 week after customer's TPCB is received
+
+ Miscellaneous Sales Notes
+ - Sales tax calculated and updated on the final invoice.
+ - The replica price estimate is the sum of the Materials and Labor sections, divided by the number of fixtures/systems.
+ - Discount is available on the purchase of two or more Test Fixtures. Ask your salesperson for details.
+
+                                                                    Untaxed Amount                                         $ 2,799.98
+
+                                                                    CA SPECIAL                                               $ 32.87
+
+                                                                    CA COUNTY                                                  $ 3.46
+
+                                                                    CA STATE                                                 $ 83.04
+
+                                                                    Total                                                  $ 2,919.35
+
+Purchase Terms and Conditions of Sale
+
+ 1. Order. This order is made and entered into as of the order date, by and between FixturFab, Inc., a Delaware corpora on
+    (“FixturFab”), and customer.
+ 2. Final Customer Design Files. Unless agreed upon in wri ng, the lead me and price for the applicable FixturFab Product
+    (defined below) will increase if Customer Design Files are added or modified after the order date. In the event Customer
+    Design Files are determined to be materially incomplete or inaccurate, necessita ng redesign or rework, the customer
+    will be responsible for associated time and materials costs to rectify the deficiencies.
+ 3. Change Orders. Any customer change request(s) for any FixturFab Product, will require that the FixturFab and
+    customer execute a mutually agreed upon Change Order before any additional work commences.
+ 4. Payments. Undisputed invoices that are not paid within each invoice’s payment terms will be subject to a two percent
+    (2%) monthly interest rate.
+ 5. Delivery. All FixturFab Products shall be delivered FCA (defined below).
+ 6. Payment Dispute. If customer intends to dispute any amount due under an invoice, customer must no fy FixturFab in
+    writing within ten business days prior to the invoice’s due date.
+ 7. Limited Warranty. FixturFab warrants the FixturFab Products to be free from defects in workmanship and materials for
+    one (1) year from the Shipping Date (“Limited Warranty”). FixturFab’s obliga on and customer’s exclusive remedy under
+    this Limited Warranty is, at FixturFab’s op on, to either repair or replace the FixturFab Products, provided that
+
+sales@fixturfab.com                                                                                                         Page 3 / 4
+                                                                                                          FixturFab, Inc.
+                                                                                         3410 Woodland Park Ave N Ste C
+                                                                                                Seattle WA 98103-8926
+                                                                                                          United States
+
+                                                                                                      Tax ID: 38-4124295
+
+
+
+    customer returns the FixturFab Products to the location designated by FixturFab within the Limited Warranty period.
+ 8. Limita on of Liability. IN NO EVENT WILL FIXTURFAB BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT,
+    EXEMPLARY, SPECIAL, OR INCIDENTAL DAMAGES, EVEN IF FIXTURFAB HAS BEEN ADVISED OF THE POSSIBILITY
+    OF SUCH DAMAGES.
+ 9. Publicity. Customer agrees that FixturFab may include customer’s name and logo in a list of customers and also agrees
+    that FixturFab may verbally reference the customer as a customer.
+10. Customer Service Agreement. Customer understands and agrees that if the customer decides to purchase a Turnkey
+    Test System, customer and FixturFab shall enter into a mutually agreed upon Customer Service Agreement for such
+    Test System.
+
+Definitions
+
+    Request For Quotation - The online form submitted by the customer to receive a FixturFab quotation.
+    Customer Design Files - The technical files submitted by the customer in the Request For Quotation form.
+    Change Order - An amendment that modiﬁes the deliverables, price, or other terms in the original order. All Change
+    Orders must be in writing and executed by the parties to the original order.
+    FixturFab Products - means collectively Test Fixture, Test System, Test System Blueprint.
+    Test Fixture - A hardware product with various tiers, such as a Development Test Fixture or Production Test Fixture.
+    Test System Blueprint - A set of design files developed by FixturFab based on Customer Design Files.
+    Test System - A Test Fixture that integrates electrical products developed by FixturFab or other commercial-oﬀ-the-
+    shelf products.
+    Turnkey Test System - A Test System that also integrates software products developed by FixturFab.
+    FCA - Free Carrier is a standard trade term deﬁned in the Interna onal Commercial Terms (Incoterms) by the
+    International Chamber of Commerce.
+    Customer Service Agreement - An agreement between FixturFab and the customer specifying detailed terms for orders
+    containing more complex products, software, and recurring support.
+
+Payment terms: Immediate Payment
+
+
+
+
+sales@fixturfab.com                                                                                              Page 4 / 4
+

@@ -1,0 +1,92 @@
+                                                                                                                                                   INVOICE
+                                                                                                                                           INVOICE
+         Branch: 01               Livermore, CA                                                                                            3675147
+         1264 Stealth Street                                                                                               Invoice Date     Page
+         Livermore, CA 94551                                                                                           11/18/2025 10:27:11  1 of 2
+         US                                                                                                                      ORDER NUMBER
+                                                                                                                                           1426667
+         925-461-7171
+
+         Bill To:                                                                               Ship To:
+         AirGarage, Inc.                                                                        ByTechs, LLC
+         2261 Market Street                                                                     185 Stag Dr.
+         San Francisco, CA 94114                                                                Williston, SC 29853-4829
+         CA
+
+                                                                                                Ordered By: Benjamin Ward
+         Customer ID: 32492
+
+            Terms and Conditions:                                                                                          SEND WIRES / ACH PAYMENTS TO:
+            • Past due balances are subject to account HOLD and late fees (12% annually).                                  Wells Fargo Bank, NA
+                                                                                                                           Beneficiary Name: Commercial Funding, Inc.
+            • Credit card payments are subject to a 2.5% processing fee.
+                                                                                                                           FBO: Powermatic Associates, Inc.
+            • Orders are taxable unless appropriate tax certificate is on file with Powermatic.                            ABA (Routing) Number: 121000248
+            • Freight charges, unless otherwise specified, are the responsibility of the purchaser.                        Account Number: 4098157563
+            • Material returns require an RMA (pre-authorization number) and may be subject to a restocking fee.           SWIFT Code (International Wires): WFBIUS6S
+            • Please see our website at www.powermatic.net for complete terms and conditions.                              MAIL CHECKS TO (Via Postal Service):
+                                                                                                                           Powermatic Associates, Inc.
+                                                                                                                           PO Box 208670
+            If you have any questions, please email: AR@powermatic.net                                                     Dallas, TX 75320-8670
+
+
+                                 PO Number                               Payment Terms             Net Due Date       Disc Due Date            Discount Amount
+                        PO-POWERMATIC-003-1                                   Net 30                12/18/2025         12/18/2025                        0.00
+                 Order Date               Pick Ticket No                           Primary Salesrep Name                                        Taker
+          10/21/2025 07:27:51                2676714                                        Aziz Isah                                      Sonia McNabb
+                                    Quantities                                                                        Pricing
+                                                                         Item ID                                      UOM                         Unit          Extended
+                                                                 Disp.
+                                                    UOM                                                                                          Price              Price
+                Ordered         Shipped   Remaining
+                                                     Unit Size
+                                                                         Item Description                               Unit Size
+                                          Delivery Instructions: Ship UPS Ground.
+                              Carrier: UPS Ground Prepay & Add                    Tracking #: 1Z9675600398676321
+                        200        200             0 EA                  E3Z-R61                                      EA                    128.2000            25,640.00
+                                                           1.0           OMRON SENSOR                                   1.0000
+                                                 Order Line Notes: NC/NR
+                                                                         338pcs factory stock. (SUBJECT TO CHANGE)
+                                                                         Please allow 7-10 business days for ground
+                                                                         transportation.
+                        200        200             0 EA                  E39-R1S                                      EA                     20.9400             4,188.00
+                                                           1.0           Omron Sensor                                   1.0000
+                                                 Order Line Notes: NC/NR
+                                                                         513pcs factory stock. (SUBJECT TO CHANGE)
+                                                                         Please allow 7-10 business days for ground
+                                                                         transportation.
+
+
+
+
+        * * * REPRINT * * *
+12.16.1707 - 11/12/14
+                                                                                                                INVOICE
+                                                                                                         INVOICE
+         Branch: 01           Livermore, CA                                                              3675147
+         1264 Stealth Street                                                                 Invoice Date     Page
+         Livermore, CA 94551                                                             11/18/2025 10:27:11  2 of 2
+         US                                                                                        ORDER NUMBER
+                                                                                                         1426667
+         925-461-7171
+
+                                Quantities                                              Pricing
+                                                                     Item ID            UOM                   Unit     Extended
+                                                             Disp.
+                                                UOM                                                          Price         Price
+                Ordered     Shipped   Remaining
+                                                 Unit Size
+                                                                     Item Description    Unit Size
+
+                    Total Lines: 2                                                          SUB-TOTAL:               29,828.00
+             Total Freight In: 0.00                   Total Freight Out: 43.34          TOTAL FREIGHT:                    43.34
+                                                                                                  TAX:                     0.00
+                                                                                          AMOUNT DUE:                29,871.34
+                                                                                                     U.S. Dollars
+
+
+
+
+        * * * REPRINT * * *
+12.16.1707 - 11/12/14
+

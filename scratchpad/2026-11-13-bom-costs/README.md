@@ -19,6 +19,6 @@ Status: paused 2026-11-13. Line-item cost record built for all history and the l
 - `build_cost_record.py`: per-line cost record (`uv run --python 3.15 build_cost_record.py --since 2026-05-13`, or `--since 2025-01-01` for all history):
   - `out/cost_lines_<since>.csv`: one row per line item with landed cost (tax, shipping, fees spread pro rata so lines sum to the amount paid) and part numbers where known.
   - `out/cost_records_<since>.csv`: one row per card charge, reimbursement or bill, with reconciliation and `needs_review`.
-  - `out/*_20250301.csv` are a superseded intermediate run, not committed.
+  - `out/*_20250301.csv` are a superseded intermediate run, committed for the record (2026-11-16).
 
-Not committed: `data/ramp/receipts/reimbursements/` (236 MB of images and PDFs), the FixturFab bank wire instructions PDF under `data/ramp/receipts/bills/89d333b3-…/`, and `data/ramp/raw/bill_text/` (pdftotext output; rebuild with `pdftotext -layout`). All gitignored.
+Committed 2026-11-16 at Ben's request (previously gitignored): `data/ramp/receipts/reimbursements/` (236 MB of images and PDFs), the FixturFab bank wire instructions PDF under `data/ramp/receipts/bills/89d333b3-…/`, and `data/ramp/raw/bill_text/` (pdftotext output, includes vendor bank remittance lines). This repo has no remote and must stay local.

@@ -1,0 +1,58 @@
+                                                                                                                                              INVOICE
+                                                                                                                                      INVOICE
+         Branch: 01           Livermore, CA                                                                                           3680202
+         1264 Stealth Street                                                                                            Invoice Date     Page
+         Livermore, CA 94551                                                                                        12/31/2025 00:00:00  1 of 1
+         US                                                                                                                   ORDER NUMBER
+
+         925-461-7171
+
+         Bill To:                                                                           Ship To:
+         AirGarage, Inc.                                                                    AirGarage, Inc.
+         2261 Market Street                                                                 2261 Market Street
+         San Francisco, CA 94114                                                            San Francisco, CA 94114
+         CA                                                                                 CA
+
+
+         Customer ID: 32492
+
+            Terms and Conditions:                                                                                     SEND WIRES / ACH PAYMENTS TO:
+            • Past due balances are subject to account HOLD and late fees.                                            Wells Fargo Bank, NA
+                                                                                                                      Beneficiary Name: Commercial Funding, Inc.
+            • Credit card payments are subject to a 2.5% processing fee.
+                                                                                                                      FBO: Powermatic Associates, Inc.
+            • Orders are taxable unless appropriate tax certificate is on file with Powermatic.                       ABA (Routing) Number: 121000248
+            • Freight charges, unless otherwise specified, are the responsibility of the purchaser.                   Account Number: 4098157563
+            • Material returns require an RMA (pre-authorization number) and may be subject to a restocking fee.      SWIFT Code (International Wires): WFBIUS6S
+            • Please see our website at www.powermatic.net for complete terms and conditions.                         MAIL CHECKS TO (Via Postal Service):
+                                                                                                                      Powermatic Associates, Inc.
+                                                                                                                      PO Box 208670
+            If you have any questions, please email: AR@powermatic.net                                                Dallas, TX 75320-8670
+
+
+                             PO Number                               Payment Terms             Net Due Date        Disc Due Date          Discount Amount
+                           Finance Charge                            Due Immediately            12/31/2025          12/31/2025                      0.00
+                 Order Date           Pick Ticket No                           Primary Salesrep Name                                       Taker
+                                                                                        Aziz Isah
+                                Quantities                                                                         Pricing
+                                                                     Item ID                                       UOM                       Unit          Extended
+                                                             Disp.
+                                                UOM                                                                                         Price              Price
+                Ordered     Shipped   Remaining
+                                                 Unit Size
+                                                                     Item Description                                 Unit Size
+
+                                        Invoice Description: Finance Charge
+
+                    Total Lines: 0                                                                                       SUB-TOTAL:                            0.00
+                                                                                                                                TAX:                           0.00
+                                                                                                                      Finance Charge:                       127.67
+                                                                                                                      AMOUNT DUE:                           127.67
+                                                                                                                                  U.S. Dollars
+
+
+
+
+        ORIGINAL
+12.16.1707 - 11/12/14
+

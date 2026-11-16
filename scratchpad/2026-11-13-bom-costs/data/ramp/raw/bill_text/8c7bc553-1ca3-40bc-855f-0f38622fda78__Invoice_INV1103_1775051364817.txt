@@ -1,0 +1,57 @@
+INVOICE
+
+
+Eagle Wireless Holdings, Inc.                                                                    DATE:
+1974 E 66th St., Suite 200-B
+Cleveland OH 44103                                                                               3/31/2026
+United States
+                                                                                                 INVOICE #:
+accountsreceivable@eaglewireless.com
+                                                                                                 INV1103
+
+
+BILL TO                                                        SHIP TO
+Airgarage                                                      Benjamin Ward
+2261 Market Street                                             Airgarage
+#4027                                                          Inc. % ByTechs, LLC
+San Francisco CA 94114                                         185 Stag Dr
+United States                                                  Williston SC 29853
+                                                               United States
+
+
+
+
+       SALES REP                   PO #             SHIPPING METHOD                  DUE DATE                 TERMS
+
+        Jake Blair              PO-EAGLE-003                                         4/30/2026                Net 30
+
+
+
+
+ITEM                                  DESCRIPTION                       QTY              RATE                 AMOUNT
+
+I425GLGD-MINIPCIE                     IoT LTE Cat 4 MiniPCIE             50                      $35.00           $1,750.00
+
+
+
+
+                                                                                             SUBTOTAL             $1,750.00
+
+                                                                                                     TAX               $0.00
+
+                                                                                                  TOTAL           $1,750.00
+
+                                                                                        AMOUNT PAID                    $0.00
+
+                                                                                         AMOUNT DUE               $1,750.00
+
+Electronic Payment Information
+Account Name: Eagle Electronics, Inc.
+Bank Name: East West Bank
+Bank ABA: 3220700381
+Bank Account: 8003312918
+Email Remittance Information
+accountsreceivable@eaglewireless.com
+
+                                                                                                                   1 of 1
+

@@ -1,0 +1,55 @@
+                                                                                                                                                      INVOICE
+                                                                                                                                    NUMBER                DATE
+ Remit To                                                                                                                           10628199              26-AUG-26
+                                                                                                                                    TERMS                 DUE DATE
+ US Lockbox: PTC Inc.
+ 29896 Network Place,Chicago,IL 60673-1298                                                                                          NET 15                10-SEP-26
+ US Wires: Wire=Acct#275905708 SWIFT# CHASUS33                                                                                      CONTRACT / PROJECT NUMBER
+ WIRE/ACH ABA#021000021 CHIPS#CHASUS33                                                                                              NA
+ 270 Park Avenue, New York,NY 10017
+                                                                                                                                    PROJECT NAME
+ Please only include PTC Invoice number(s) in remittance
+ information/information for beneficiary                                                                                            PURCHASE ORDER NUMBER
+                                                                                                                                    Onshape
+                                                                                                                                    CUSTOMER NUMBER     LOCATION NUMBER
+                                                                                                                                    687799              3650705
+
+
+        Bill to                                                       Ship to
+        AIR GARAGE                                                    AIR GARAGE
+        ATTN:: Accounts Payable                                       Laurent Guerin
+        2261 MARKET ST # 4027                                         2261 MARKET ST # 4027
+        SAN FRANCISCO CA 94114-1612                                   SAN FRANCISCO CA 94114-1612
+        United States                                                 United States
+                                                                                                                                                                        PAGE
+                                                                                                                                                                         1/1
+ Item
+          Invoice Description                                                                            Ordered                Shipped           Unit Price / Rate   Extended Amount
+  No.
+
+ 1       SAS-OS002-F- Onshape Professional 2026-08-26 to 2027-08-25                                           3                     3                                           7,500.00
+
+
+
+
+SPECIAL INSTRUCTIONS
+
+
+
+
+                                                                                                                                          Subtotal                             7,500.00
+
+                                                                                                                                          TAX/VAT                                  0.00
+
+
+
+
+                                                                                                                                          Shipping / Handling                      0.00
+
+                                                                                                                                          Total
+                                                                                                                                                                               7,500.00
+                                                                                                                                          (USD)
+                                                                PTC Inc., 121 Seaport Blvd, Suite 1700, Boston, MA 02210-2050.
+                                                           For questions regarding this invoice, please contact AR-Credit@PTC.com
+                                                                              VAT No./Federal Tax ID 04-2866152
+
